@@ -196,3 +196,75 @@ footer{border-top:1px solid var(--line);padding:38px 0}.footer-inner{display:gri
     font-size:10px;
   }
 }
+
+
+/* ---------- V4.1 hotfix: sidebar overlap + KPI alignment ---------- */
+.feed-section{
+  align-items:start;
+}
+.feed-main,
+.sidebar{
+  min-width:0;
+}
+.sidebar{
+  display:flex !important;
+  flex-direction:column !important;
+  gap:24px !important;
+  align-items:stretch;
+}
+.sidebar > *{
+  flex:0 0 auto;
+}
+.sidebar-card.dark{
+  position:relative !important;
+  top:auto !important;
+  z-index:0 !important;
+  overflow:hidden;
+  margin:0;
+}
+.sources-card,
+.system-card{
+  position:relative;
+  z-index:1;
+  width:100%;
+  margin:0;
+  clear:both;
+}
+.key-figures{
+  align-items:stretch;
+}
+.key-figure{
+  align-items:center;
+  justify-content:space-between;
+  gap:14px;
+  flex-wrap:nowrap;
+}
+.key-figure small{
+  line-height:1.2;
+}
+.key-figure strong{
+  white-space:nowrap;
+  word-break:keep-all;
+  overflow-wrap:normal;
+  font-variant-numeric:tabular-nums;
+  text-align:right;
+  min-width:max-content;
+}
+@media (max-width:1100px){
+  .market-grid,
+  .feed-section{
+    grid-template-columns:1fr !important;
+  }
+  .sidebar-card.dark{
+    position:relative !important;
+  }
+}
+@media (max-width:760px){
+  .key-figure{
+    grid-template-columns:1fr auto;
+    align-items:center;
+  }
+  .key-figure strong{
+    font-size:22px;
+  }
+}
