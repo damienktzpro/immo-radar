@@ -8,53 +8,38 @@ import feedparser, requests
 from bs4 import BeautifulSoup
 
 ROOT=Path(__file__).resolve().parents[1]
-FEED=ROOT/"data"/"feed.json"; MARKET=ROOT/"data"/"market.json"
-UA="Mozilla/5.0 (compatible; ImmoRadar/2.0.1; +https://github.com/damienktzpro/immo-radar)"
-TIMEOUT=30
+FEED=ROOT/"data"/"feed.json"
+MARKET=ROOT/"data"/"market.json"
+UA="Mozilla/5.0 (compatible; RadarImmobilier/2.2; +https://github.com/damienktzpro/immo-radar)"
+TIMEOUT=22
+MAX_PER_SOURCE=16
+MAX_TOTAL=220
 
-REAL_ESTATE_ANCHORS=(
+ANCHORS=(
 "immobilier","immobilière","immobiliere","logement","logements","habitation",
-"maison","appartement","appartements","loyer","loyers","locataire","locataires",
-"bailleur","bailleurs","bail d'habitation","bail habitation",
-"copropriété","copropriete","copropriétaire","coproprietaire","syndic",
-"construction de logements","construction neuve","construction immobilière","construction immobiliere",
-"permis de construire","mise en chantier","mises en chantier",
-"urbanisme","plan local d'urbanisme","plu ","foncier","foncière","fonciere",
-"propriété immobilière","propriete immobiliere","vente immobilière","vente immobiliere",
-"transaction immobilière","transaction immobiliere","marché immobilier","marche immobilier",
-"prix au m²","prix au m2","prix des logements",
-"dpe","diagnostic de performance énergétique","diagnostic de performance energetique",
+"maison","appartement","loyer","loyers","locataire","bailleur","bail d'habitation",
+"copropriété","copropriete","syndic","construction de logements","construction neuve",
+"permis de construire","mise en chantier","urbanisme","foncier","foncière","fonciere",
+"vente immobilière","vente immobiliere","transaction immobilière","transaction immobiliere",
+"prix des logements","prix immobilier","prix au m²","prix au m2","dpe",
+"diagnostic de performance énergétique","diagnostic de performance energetique",
 "diagnostic immobilier","rénovation énergétique","renovation energetique",
-"passoire thermique","meublé de tourisme","meuble de tourisme",
-"location meublée","location meublee","location nue","location saisonnière","location saisonniere",
-"lmnp","lmp","scpi","opci","crédit immobilier","credit immobilier",
-"prêt immobilier","pret immobilier","prêt à taux zéro","pret a taux zero","ptz",
-"taux immobilier","action logement","anah","maprimerénov","maprimerenov",
-"agence immobilière","agence immobiliere","agent immobilier","mandataire immobilier",
-"promoteur immobilier","promotion immobilière","promotion immobiliere","proptech",
-"résidence principale","residence principale","résidence secondaire","residence secondaire",
-"résidence étudiante","residence etudiante","résidence senior","residence senior",
-"bâtiment","batiment","performance énergétique des bâtiments","performance energetique des batiments",
-"parc immobilier","patrimoine immobilier","taxe foncière","taxe fonciere",
-"plus-value immobilière","plus-value immobiliere","fiscalité immobilière","fiscalite immobiliere"
+"passoire thermique","meublé de tourisme","meuble de tourisme","location meublée",
+"location meublee","location nue","lmnp","lmp","scpi","opci","crédit immobilier",
+"credit immobilier","crédit à l'habitat","credit a l'habitat","prêt immobilier","pret immobilier",
+"prêt à taux zéro","pret a taux zero","ptz","taux immobilier","action logement","anah",
+"maprimerénov","maprimerenov","agence immobilière","agence immobiliere","agent immobilier",
+"mandataire immobilier","promoteur immobilier","promotion immobilière","promotion immobiliere",
+"proptech","résidence principale","residence principale","résidence secondaire","residence secondaire",
+"performance énergétique des bâtiments","performance energetique des batiments",
+"marché immobilier","marche immobilier","parc immobilier","patrimoine immobilier",
+"taxe foncière","taxe fonciere","plus-value immobilière","plus-value immobiliere",
+"fiscalité immobilière","fiscalite immobiliere","gestion locative","marché locatif","marche locatif"
 )
-AMBIGUOUS_REAL_ESTATE_WORDS=(
-"location","achat","vente","crédit","credit","investissement","investir","rendement",
-"construction","travaux","propriété","propriete","taux","prix","marché","marche"
-)
-HARD_REJECT_DOMAINS=(
-"voiture","voitures","véhicule","vehicule","automobile","moto","scooter","vélo","velo",
+REJECT=("voiture","voitures","véhicule","vehicule","automobile","moto","scooter","vélo","velo",
 "batterie","borne de recharge","bonus écologique","bonus ecologique","leasing social","permis de conduire",
-"smartphone","ordinateur","console","football","basket","tennis","cinéma","cinema",
-"restaurant","recette","cryptomonnaie","crypto-monnaie","bitcoin"
-)
-
-CATEGORY={
-"lois":("loi","décret","decret","arrêté","arrete","ordonnance","règlement","reglement","juridique","journal officiel","directive","proposition de loi","projet de loi","copropriété","bail"),
-"marche":("prix","marché","marche","taux","crédit","credit","transaction","vente","construction","loyer","indice"),
-"investir":("invest","bailleur","fiscal","location","rendement","meublé","meuble","lmnp","scpi","foncière","fonciere"),
-"territoires":("commune","territoire","ville","département","departement","local","urbanisme","zone tendue","foncier")
-}
+"smartphone","console","football","basket","tennis","cryptomonnaie","crypto-monnaie","bitcoin")
+MONTHS={"janvier":1,"février":2,"fevrier":2,"mars":3,"avril":4,"mai":5,"juin":6,"juillet":7,"août":8,"aout":8,"septembre":9,"octobre":10,"novembre":11,"décembre":12,"decembre":12}
 
 def now(): return datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds")
 def clean(v):
@@ -64,87 +49,138 @@ def norm_url(v):
     try:
         p=urlsplit(v);return urlunsplit((p.scheme,p.netloc,p.path,"",""))
     except:return v or ""
-def sid(source,title,url): return hashlib.sha1(f"{source}|{title}|{norm_url(url)}".encode()).hexdigest()[:16]
-def immobilier(text):
+def sid(source,title,url):return hashlib.sha1(f"{source}|{title}|{norm_url(url)}".encode()).hexdigest()[:16]
+def is_immo(text):
     t=clean(text).lower()
-    has_anchor=any(k in t for k in REAL_ESTATE_ANCHORS)
-    has_reject=any(k in t for k in HARD_REJECT_DOMAINS)
-    if has_reject and not has_anchor:
-        return False
-    if has_anchor:
-        return True
-    # Les mots ambigus seuls (location, achat, crédit, prix...) ne suffisent jamais.
-    if any(k in t for k in AMBIGUOUS_REAL_ESTATE_WORDS):
-        return False
-    return False
-def category(text):
-    t=clean(text).lower();best=("marche",0)
-    for c,ws in CATEGORY.items():
-        s=sum(1 for w in ws if w in t)
-        if s>best[1]:best=(c,s)
-    return best[0]
-def audience(text,c):
-    t=text.lower()
-    if any(x in t for x in ("lmnp","scpi","bailleur","invest","fiscal","rendement")):return ["investisseur","pro","particulier"]
-    if any(x in t for x in ("agence","syndic","promoteur","proptech","urbanisme")):return ["pro","investisseur","particulier"]
-    return ["particulier","investisseur","pro"]
-def scores(level,c,title):
-    imp=55+(12 if level=="A" else 7 if level=="B" else 2);rel=60+(10 if level=="A" else 7 if level=="B" else 2)
-    if c=="lois":imp+=8;rel+=7
-    if c=="investir":rel+=7
-    if any(x in title.lower() for x in ("entrée en vigueur","entree en vigueur","loi","décret","decret","taux","prix","dpe")):imp+=7
-    return min(100,imp),min(100,rel)
-def item(source,level,title,summary,url,published,status="",territory="France",legal_stage=None,topic=None,source_type=None,excerpt=None,confirmation=None):
-    text=f"{title} {summary}";c=category(text);imp,rel=scores(level,c,title)
-    d={"id":sid(source,title,url),"title":clean(title),"summary":clean(summary)[:520],"url":url,"source":source,"source_level":level,"source_type":source_type or "source","category":c,"audiences":audience(text,c),"published_at":published,"status":status,"importance":imp,"relevance":rel,"territory":territory,"topic":topic or c.capitalize(),"why_it_matters":why(c,level)}
-    if legal_stage:d["legal_stage"]=legal_stage
-    if excerpt:d["original_excerpt"]=clean(excerpt)[:500]
-    if confirmation:d["confirmation"]=confirmation
-    return d
-def why(c,l):
-    base="Source officielle. " if l=="A" else "Source institutionnelle. " if l=="B" else "Source éditoriale immobilière sélectionnée. "
-    return base+{"lois":"Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.","marche":"Cette information aide à lire l’évolution du marché immobilier, des prix, du crédit ou de la construction.","investir":"Cette information peut modifier la fiscalité, le rendement, les contraintes ou le risque d’un investissement.","territoires":"Cette information peut avoir un impact local différent selon la zone concernée."}.get(c,"Impact immobilier à surveiller.")
+    has=any(k in t for k in ANCHORS)
+    if any(k in t for k in REJECT) and not has:return False
+    return has
 def direct(url):
     if not url:return False
     p=urlsplit(norm_url(url));path=p.path.rstrip("/")
-    return path not in ("","/actualites-evenements","/centre-de-ressources","/dossiers-legislatifs","/fr/accueil","/fr/statistiques")
-def frdate(text):
-    months={"janvier":1,"février":2,"fevrier":2,"mars":3,"avril":4,"mai":5,"juin":6,"juillet":7,"août":8,"aout":8,"septembre":9,"octobre":10,"novembre":11,"décembre":12,"decembre":12}
-    m=re.search(r"\b(\d{1,2})\s+("+ "|".join(months)+r")\s+(20\d{2})\b",clean(text).lower())
-    if not m:return None
-    return datetime(int(m.group(3)),months[m.group(2)],int(m.group(1)),8,tzinfo=timezone.utc).astimezone().isoformat(timespec="seconds")
+    return path not in ("","/fr","/actualites","/actualites-evenements","/centre-de-ressources","/dossiers-legislatifs","/actualite-immobilier")
+def parse_date(text,url=""):
+    t=clean(text).lower()
+    m=re.search(r"\b(\d{1,2})\s+("+ "|".join(MONTHS)+r")\s+(20\d{2})\b",t)
+    if m:
+        return datetime(int(m.group(3)),MONTHS[m.group(2)],int(m.group(1)),9,tzinfo=timezone.utc).astimezone().isoformat(timespec="seconds")
+    m=re.search(r"\b(\d{1,2})[/-](\d{1,2})[/-](20\d{2})\b",t)
+    if m:
+        return datetime(int(m.group(3)),int(m.group(2)),int(m.group(1)),9,tzinfo=timezone.utc).astimezone().isoformat(timespec="seconds")
+    m=re.search(r"/(20\d{2})/(\d{1,2})/(\d{1,2})/",url)
+    if m:
+        return datetime(int(m.group(1)),int(m.group(2)),int(m.group(3)),9,tzinfo=timezone.utc).astimezone().isoformat(timespec="seconds")
+    return None
+def category(text,source=""):
+    t=clean(text).lower()
+    if any(x in t for x in ("loi","décret","decret","directive","règlement","reglement","journal officiel","juridique")):return"lois"
+    if any(x in t for x in ("crédit immobilier","credit immobilier","crédit à l'habitat","credit a l'habitat","prêt immobilier","pret immobilier","taux immobilier")):return"credit"
+    if any(x in t for x in ("lmnp","scpi","rendement","investissement locatif","fiscalité immobilière","fiscalite immobiliere")):return"investir"
+    if any(x in t for x in ("commune","agglomération","agglomeration","territoire","local","dvf")):return"territoires"
+    if source in ("Immobilier 2.0","Journal de l'Agence") and any(x in t for x in ("proptech","agent immobilier","agence immobilière","syndic","professionnel")):return"pro"
+    return"marche"
+def audiences(text,c):
+    t=text.lower()
+    if c=="pro":return["pro","investisseur"]
+    if c=="investir" or any(x in t for x in ("bailleur","lmnp","scpi","rendement")):return["investisseur","pro","particulier"]
+    return["particulier","investisseur","pro"]
+def why(c,level):
+    prefix="Source officielle. " if level=="A" else "Source institutionnelle. " if level=="B" else "Source éditoriale immobilière sélectionnée. " if level=="C" else "Source expert / blog à confronter aux données officielles. "
+    tails={"lois":"Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.","credit":"Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets.","investir":"Cette information peut modifier le rendement, la fiscalité ou le risque d’un investissement.","territoires":"Cette donnée locale aide à comparer plus précisément les marchés.","pro":"Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier.","marche":"Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."}
+    return prefix+tails.get(c,tails["marche"])
+def make(source,level,title,summary,url,pub,status="",territory="France",legal_stage=None,topic=None):
+    text=f"{title} {summary}";c=category(text,source)
+    base={"A":82,"B":76,"C":67,"D":60}.get(level,60)
+    imp=min(100,base+(9 if c=="lois" else 6 if c in ("credit","marche") else 4))
+    rel=min(100,base+6)
+    d={"id":sid(source,title,url),"title":clean(title),"summary":clean(summary)[:540],"url":url,"source":source,"source_level":level,"category":c,"audiences":audiences(text,c),"published_at":pub,"status":status,"importance":imp,"relevance":rel,"territory":territory,"topic":topic or c.capitalize(),"why_it_matters":why(c,level)}
+    if legal_stage:d["legal_stage"]=legal_stage
+    return d
 
 def service_public():
-    url="https://www.service-public.fr/abonnements/rss/actu-actualites-particuliers.rss";f=feedparser.parse(url,request_headers={"User-Agent":UA});out=[]
+    f=feedparser.parse("https://www.service-public.fr/abonnements/rss/actu-actualites-particuliers.rss",request_headers={"User-Agent":UA});out=[]
     for e in f.entries:
-        title=clean(getattr(e,"title",""));summary=clean(getattr(e,"summary",""));link=getattr(e,"link","")
-        if not immobilier(title+" "+summary) or not direct(link):continue
-        p=getattr(e,"published_parsed",None);pub=datetime(*p[:6],tzinfo=timezone.utc).astimezone().isoformat(timespec="seconds") if p else now()
-        out.append(item("Service-Public.fr","A",title,summary or "Actualité officielle liée au logement.",link,pub,"Information officielle",topic="Logement",confirmation="Flux RSS officiel de Service-Public.fr."))
-    return out[:30]
+        title=clean(getattr(e,"title",""));summary=clean(getattr(e,"summary",""));url=getattr(e,"link","")
+        if not is_immo(title+" "+summary) or not direct(url):continue
+        p=getattr(e,"published_parsed",None);pub=datetime(*p[:6],tzinfo=timezone.utc).astimezone().isoformat(timespec="seconds") if p else parse_date(summary,url)
+        out.append(make("Service-Public.fr","A",title,summary,url,pub,"Information officielle"))
+    return out[:MAX_PER_SOURCE]
 
-def generic_links(page,source,level,limit=35):
+def generic(page,source,level,require_date=True):
     r=requests.get(page,timeout=TIMEOUT,headers={"User-Agent":UA});r.raise_for_status();s=BeautifulSoup(r.text,"html.parser");out=[];seen=set()
     for a in s.find_all("a",href=True):
-        title=clean(a.get_text(" ",strip=True));url=urljoin(page,a["href"])
-        if len(title)<12 or not immobilier(title) or not direct(url) or url in seen:continue
-        seen.add(url);ctx=clean(a.parent.get_text(" ",strip=True)) if a.parent else title;pub=frdate(ctx) or now()
-        out.append(item(source,level,title,ctx[:420] or title,url,pub,"Publication",topic="Actualité immobilière",confirmation=f"Lien direct détecté sur {source}."))
-        if len(out)>=limit:break
+        title=clean(a.get_text(" ",strip=True));url=urljoin(page,a.get("href",""))
+        if len(title)<14 or len(title)>190 or not direct(url) or url in seen:continue
+        node=a
+        for _ in range(4):
+            if node.parent:node=node.parent
+        context=clean(node.get_text(" ",strip=True))
+        text=f"{title} {context}"
+        if not is_immo(text):continue
+        pub=parse_date(context,url)
+        if require_date and not pub:continue
+        seen.add(url)
+        summary=context.replace(title,"",1).strip()[:480] or title
+        out.append(make(source,level,title,summary,url,pub,"Publication"))
+        if len(out)>=MAX_PER_SOURCE:break
     return out
 
-def anil(): return generic_links("https://www.anil.org/actualites-evenements/","ANIL","B",40)
-def media():
-    out=[]
-    for page,source in [("https://www.immomatin.com/","Immo Matin"),("https://immo2.pro/","Immobilier 2.0")]:
-        try: out+=generic_links(page,source,"C",25)
-        except Exception as e: print(source,e)
-    return out
+def bdf():
+    d=datetime.now();pairs=[]
+    y,m=d.year,d.month
+    for _ in range(8):
+        m-=1
+        if m==0:y-=1;m=12
+        pairs.append((y,m))
+    for y,m in pairs:
+        url=f"https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-{y}-{m:02}"
+        try:
+            r=requests.get(url,timeout=TIMEOUT,headers={"User-Agent":UA})
+            if not r.ok:continue
+            text=clean(BeautifulSoup(r.text,"html.parser").get_text(" "))
+            if "crédits à l'habitat" not in text.lower():continue
+            rate=re.search(r"reste stable.*?à\s*([0-9]+,[0-9]+)\s*%",text.lower())
+            prod=re.search(r"production cvs de crédits à l'habitat \(hors renégociations\).*?([0-9]+,[0-9]+)\s*mds",text.lower())
+            title=f"Crédit immobilier : taux moyen à {rate.group(1)} %" if rate else "Crédits à l’habitat : les dernières données de la Banque de France"
+            summary=(f"La production de crédits à l’habitat hors renégociations atteint {prod.group(1)} Md€ et le taux moyen {rate.group(1)} %." if prod and rate else text[:430])
+            pub=parse_date(text,url)
+            return [make("Banque de France","A",title,summary,url,pub,"Donnée officielle",topic="Crédit")]
+        except Exception as e:print("Banque de France",e)
+    return []
+
+def insee():
+    fixed="https://www.insee.fr/fr/statistiques/8995299"
+    try:
+        r=requests.get(fixed,timeout=TIMEOUT,headers={"User-Agent":UA});r.raise_for_status();s=BeautifulSoup(r.text,"html.parser");text=clean(s.get_text(" "))
+        title="Prix des logements anciens : dernière publication Notaires-Insee"
+        h=s.find("h1")
+        if h:title=clean(h.get_text(" ",strip=True))
+        pub=parse_date(text,fixed)
+        summary=""
+        p=s.find("p")
+        if p:summary=clean(p.get_text(" ",strip=True))
+        return [make("Insee","A",title,summary or text[:450],fixed,pub,"Chiffre officiel",topic="Prix")]
+    except Exception as e:print("Insee",e);return []
+
+def sdes():
+    page="https://www.statistiques.developpement-durable.gouv.fr/la-construction-neuve"
+    try:
+        r=requests.get(page,timeout=TIMEOUT,headers={"User-Agent":UA});r.raise_for_status();s=BeautifulSoup(r.text,"html.parser")
+        a=next((a for a in s.find_all("a",href=True) if "construction-de-logements-resultats" in a.get("href","")),None)
+        if not a:return []
+        url=urljoin(page,a["href"]);rr=requests.get(url,timeout=TIMEOUT,headers={"User-Agent":UA});rr.raise_for_status();ss=BeautifulSoup(rr.text,"html.parser");text=clean(ss.get_text(" "))
+        title=clean(ss.find("h1").get_text(" ",strip=True)) if ss.find("h1") else clean(a.get_text(" ",strip=True))
+        pub=parse_date(text,url)
+        summary=""
+        for p in ss.find_all("p"):
+            tx=clean(p.get_text(" ",strip=True))
+            if "autorisations de logements" in tx.lower():summary=tx;break
+        return [make("SDES / Sitadel","A",title,summary or text[:450],url,pub,"Donnée officielle",topic="Construction")]
+    except Exception as e:print("SDES",e);return []
 
 def senat():
     url="https://data.senat.fr/data/dosleg/dosleg.zip";r=requests.get(url,timeout=60,headers={"User-Agent":UA});r.raise_for_status()
-    with zipfile.ZipFile(io.BytesIO(r.content)) as z:
-        sql=z.read([n for n in z.namelist() if n.endswith(".sql")][0]).decode("utf-8",errors="replace")
+    with zipfile.ZipFile(io.BytesIO(r.content)) as z:sql=z.read([n for n in z.namelist() if n.endswith(".sql")][0]).decode("utf-8",errors="replace")
     def table(name):
         m=re.search(rf"^COPY (?:public\.)?{name} \(([^)]*)\) FROM stdin;\n(.*?)\n\\\\\.$",sql,re.M|re.S)
         if not m:return [],[]
@@ -156,142 +192,106 @@ def senat():
         return ""
     def stage(s):
         t=s.lower()
-        if "promulgu" in t:return "promulgue"
-        if any(x in t for x in ("lecture","commission mixte","congrès","congres")):return "discussion"
-        if t.strip() in ("adopté","adopte"):return "adopte"
-        return "depot"
+        if "promulgu" in t:return"promulgue"
+        if any(x in t for x in ("lecture","commission mixte","congrès","congres")):return"discussion"
+        if t.strip() in ("adopté","adopte"):return"adopte"
+        return"depot"
     out=[]
-    for r0 in lr:
-        title=get(r0,"loiint","loitit","titre","intitule")
-        if not immobilier(title):continue
-        signet=get(r0,"signet")
+    for row in lr:
+        title=get(row,"loiint","loitit","titre","intitule")
+        if not is_immo(title):continue
+        signet=get(row,"signet")
         if not signet:continue
-        st=emap.get(get(r0,"etaloicod","etatloicod","etat"),"Dossier législatif");sg=stage(st)
-        out.append(item("Sénat","A",title,f"Dossier législatif immobilier. État officiel : {st}.",f"https://www.senat.fr/dossier-legislatif/{signet}.html",now(),st,legal_stage=sg,topic="Législation",confirmation="État du dossier issu des données ouvertes du Sénat."))
-    return out[:70]
+        st=emap.get(get(row,"etaloicod","etatloicod","etat"),"Dossier législatif")
+        out.append(make("Sénat","A",title,f"Dossier législatif immobilier. État officiel : {st}.",f"https://www.senat.fr/dossier-legislatif/{signet}.html",None,st,legal_stage=stage(st),topic="Législation"))
+    return out[:MAX_PER_SOURCE]
 
 def legifrance():
-    r=requests.get("https://www.legifrance.gouv.fr/",timeout=TIMEOUT,headers={"User-Agent":UA});r.raise_for_status();s=BeautifulSoup(r.text,"html.parser");jo=[];pat=re.compile(r"/eli/jo/20\d{2}/\d{1,2}/\d{1,2}/\d+")
-    for a in s.find_all("a",href=True):
-        if pat.search(a["href"]):
-            u=urljoin("https://www.legifrance.gouv.fr/",a["href"])
-            if u not in jo:jo.append(u)
-        if len(jo)>=6:break
-    out=[];seen=set()
-    for ju in jo:
-        rr=requests.get(ju,timeout=TIMEOUT,headers={"User-Agent":UA});rr.raise_for_status();ss=BeautifulSoup(rr.text,"html.parser");pub=frdate(ss.get_text(" ",strip=True)) or now()
-        for a in ss.find_all("a",href=True):
-            title=clean(a.get_text(" ",strip=True));u=urljoin(ju,a["href"])
-            if len(title)<12 or not immobilier(title) or norm_url(u)==norm_url(ju) or u in seen:continue
-            seen.add(u);out.append(item("Légifrance","A",title,"Texte immobilier repéré dans un Journal officiel récent. Vérifier dans le texte sa date exacte d’application.",u,pub,"Publié au JORF",legal_stage="jorf",topic="Texte officiel",confirmation="Lien direct vers Légifrance / Journal officiel."))
-    return out[:50]
+    try:
+        r=requests.get("https://www.legifrance.gouv.fr/",timeout=TIMEOUT,headers={"User-Agent":UA});r.raise_for_status();s=BeautifulSoup(r.text,"html.parser");jo=[];pat=re.compile(r"/eli/jo/20\d{2}/\d{1,2}/\d{1,2}/\d+")
+        for a in s.find_all("a",href=True):
+            if pat.search(a["href"]):
+                u=urljoin("https://www.legifrance.gouv.fr/",a["href"])
+                if u not in jo:jo.append(u)
+            if len(jo)>=5:break
+        out=[]
+        for ju in jo:
+            rr=requests.get(ju,timeout=TIMEOUT,headers={"User-Agent":UA});rr.raise_for_status();ss=BeautifulSoup(rr.text,"html.parser");page_text=clean(ss.get_text(" "));pub=parse_date(page_text,ju)
+            for a in ss.find_all("a",href=True):
+                title=clean(a.get_text(" ",strip=True));u=urljoin(ju,a["href"])
+                if len(title)<15 or not is_immo(title) or norm_url(u)==norm_url(ju) or not direct(u):continue
+                out.append(make("Légifrance","A",title,"Texte immobilier repéré dans un Journal officiel récent. La date d’application doit être vérifiée dans le texte.",u,pub,"Publié au JORF",legal_stage="jorf",topic="Texte officiel"))
+                if len(out)>=MAX_PER_SOURCE:return out
+        return out
+    except Exception as e:print("Légifrance",e);return []
 
 def eurlex():
     docs=[
-      ("Règlement délégué (UE) 2026/52 sur le calcul du potentiel de réchauffement global des bâtiments","https://eur-lex.europa.eu/eli/reg_del/2026/52/oj/eng","2026-05-04","Règlement délégué","Cadre européen lié à la performance énergétique et au cycle de vie des bâtiments."),
-      ("Recommandation (UE) 2026/536 sur les guichets uniques pour l’efficacité énergétique des bâtiments","https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026H0536","2026-03-11","Recommandation","Orientations européennes sur les services liés à la rénovation et à la performance énergétique."),
-      ("Directive (UE) 2024/1275 sur la performance énergétique des bâtiments — version consolidée 2026","https://eur-lex.europa.eu/eli/dir/2024/1275/oj?locale=fr","2026-05-24","Directive — transposition nationale","Texte européen majeur pour la rénovation et la performance énergétique des bâtiments.")
+      ("Directive (UE) 2024/1275 sur la performance énergétique des bâtiments","https://eur-lex.europa.eu/eli/dir/2024/1275/oj?locale=fr","Directive — transposition nationale","Le texte européen fixe une trajectoire de performance énergétique et de rénovation du parc immobilier."),
+      ("Règlement délégué (UE) 2026/52 sur le potentiel de réchauffement global des bâtiments","https://eur-lex.europa.eu/eli/reg_del/2026/52/oj/eng","Règlement délégué","Le règlement précise le calcul du potentiel de réchauffement global sur le cycle de vie des bâtiments.")
     ]
-    out=[]
-    for title,url,date,status,summary in docs:
-        out.append(item("EUR-Lex","A",title,summary,url,datetime.fromisoformat(date).replace(tzinfo=timezone.utc).astimezone().isoformat(timespec="seconds"),status,territory="Union européenne",legal_stage="jorf",topic="Droit européen",confirmation="Texte officiel EUR-Lex. Directive et règlement sont distingués."))
+    out=[make("EUR-Lex","A",t,s,u,"2026-05-24T09:00:00+02:00",st,"Union européenne","jorf","Droit européen") for t,u,st,s in docs]
     rss=os.getenv("EURLEX_RSS_URL","").strip()
     if rss:
         f=feedparser.parse(rss,request_headers={"User-Agent":UA})
         for e in f.entries:
-            title=clean(getattr(e,"title",""));summary=clean(getattr(e,"summary",""));link=getattr(e,"link","")
-            if immobilier(title+" "+summary) and direct(link):
-                p=getattr(e,"published_parsed",None);pub=datetime(*p[:6],tzinfo=timezone.utc).astimezone().isoformat(timespec="seconds") if p else now()
-                out.append(item("EUR-Lex","A",title,summary,link,pub,"Acte / procédure UE",territory="Union européenne",legal_stage="jorf",topic="Droit européen",confirmation="Flux RSS EUR-Lex configuré."))
-    return out[:40]
+            title=clean(getattr(e,"title",""));summary=clean(getattr(e,"summary",""));url=getattr(e,"link","")
+            if is_immo(title+" "+summary) and direct(url):
+                p=getattr(e,"published_parsed",None);pub=datetime(*p[:6],tzinfo=timezone.utc).astimezone().isoformat(timespec="seconds") if p else None
+                out.append(make("EUR-Lex","A",title,summary,url,pub,"Acte / procédure UE","Union européenne","jorf","Droit européen"))
+    return out[:MAX_PER_SOURCE]
 
-def existing():
-    try:return json.loads(FEED.read_text(encoding="utf-8")).get("items",[])
-    except:return []
+def collect_all():
+    jobs=[
+      ("Service-Public",service_public),
+      ("Banque de France",bdf),("Insee",insee),("SDES",sdes),("Sénat",senat),("Légifrance",legifrance),("EUR-Lex",eurlex),
+      ("ANIL",lambda:generic("https://www.anil.org/actualites-evenements/","ANIL","B",True)),
+      ("Notaires",lambda:generic("https://www.notaires.fr/fr/actualites","Notaires de France","B",True)),
+      ("MySweetImmo",lambda:generic("https://www.mysweetimmo.com/","MySweetImmo","C",True)),
+      ("Immo Matin",lambda:generic("https://www.immomatin.com/","Immo Matin","C",True)),
+      ("Journal de l'Agence",lambda:generic("https://www.journaldelagence.com/actualites-immobilier","Journal de l'Agence","C",True)),
+      ("Batiactu",lambda:generic("https://www.batiactu.com/theme/theme-logement.php","Batiactu","C",True)),
+      ("Immobilier 2.0",lambda:generic("https://immo2.pro/actualite-immobilier/","Immobilier 2.0","C",True)),
+      ("Horiz.io",lambda:generic("https://horiz.io/investissement-immobilier","Horiz.io","D",True))
+    ]
+    items=[];errors=[]
+    for name,fn in jobs:
+        try:
+            got=fn();items.extend(got);print(name,len(got))
+        except Exception as e:errors.append({"source":name,"error":str(e)});print(name,e)
+    return items,errors
 
 def dedupe(items):
-    out={}
-    for i in items:
-        if not immobilier(i.get("title","")+" "+i.get("summary","")):continue
-        if not direct(i.get("url","")):continue
-        key=(i.get("source","").lower(),re.sub(r"\W+"," ",i.get("title","").lower()).strip())
-        cur=out.get(key)
-        rank={"A":4,"B":3,"C":2,"D":1}
-        if not cur or (rank.get(i.get("source_level"),0),i.get("relevance",0))>(rank.get(cur.get("source_level"),0),cur.get("relevance",0)):out[key]=i
-    vals=list(out.values());vals.sort(key=lambda x:x.get("published_at",""),reverse=True)
+    by={}
+    rank={"A":4,"B":3,"C":2,"D":1}
     cutoff=datetime.now(timezone.utc)-timedelta(days=730)
-    final=[]
+    for i in items:
+        if not is_immo(i.get("title","")+" "+i.get("summary","")):continue
+        if not direct(i.get("url","")):continue
+        if i.get("published_at"):
+            try:
+                d=datetime.fromisoformat(i["published_at"].replace("Z","+00:00")).astimezone(timezone.utc)
+                if d<cutoff:continue
+            except:pass
+        key=norm_url(i["url"]) or re.sub(r"\W+"," ",i["title"].lower()).strip()
+        cur=by.get(key)
+        if not cur or (rank.get(i["source_level"],0),i.get("relevance",0))>(rank.get(cur["source_level"],0),cur.get("relevance",0)):by[key]=i
+    vals=list(by.values())
+    vals.sort(key=lambda x:((datetime.fromisoformat(x["published_at"]).timestamp() if x.get("published_at") else 0),x.get("relevance",0)),reverse=True)
+    # cap each source to keep the feed genuinely diverse
+    counts={};out=[]
     for i in vals:
-        try:
-            d=datetime.fromisoformat(i["published_at"].replace("Z","+00:00")).astimezone(timezone.utc)
-            if d<cutoff:continue
-        except:pass
-        final.append(i)
-    return final[:260]
-
-def find_bdf():
-    today=datetime.now();months=[]
-    y,m=today.year,today.month
-    for _ in range(7):
-        m-=1
-        if m==0:y-=1;m=12
-        months.append((y,m))
-    for y,m in months:
-        u=f"https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-{y}-{m:02}"
-        try:
-            r=requests.get(u,timeout=TIMEOUT,headers={"User-Agent":UA})
-            if r.ok and "crédits" in r.text.lower():return u,clean(BeautifulSoup(r.text,"html.parser").get_text(" "))
-        except:pass
-    return None,None
-
-def market_update():
-    try:m=json.loads(MARKET.read_text(encoding="utf-8"))
-    except:m={}
-    components=m.get("components",[])
-    # Banque de France auto-refresh by month slug.
-    u,text=find_bdf()
-    if u and text:
-        rate=re.search(r"reste stable (?:en \w+ )?à\s*([0-9]+,[0-9]+)\s*%",text.lower())
-        prod=re.search(r"production cvs de crédits à l'habitat \(hors renégociations\).*?([0-9]+,[0-9]+)\s*mds",text.lower())
-        for c in components:
-            if c["key"]=="rates" and rate:c["value"]=rate.group(1).replace(",",".")+" %";c["url"]=u;c["source"]="Banque de France";c["score"]=49
-            if c["key"]=="credit" and prod:c["value"]=prod.group(1).replace(",",".")+" Md€";c["url"]=u;c["source"]="Banque de France";c["score"]=48
-    # SDES auto-refresh from current construction landing page.
-    try:
-        u2="https://www.statistiques.developpement-durable.gouv.fr/la-construction-neuve";r=requests.get(u2,timeout=TIMEOUT,headers={"User-Agent":UA});s=BeautifulSoup(r.text,"html.parser")
-        a=next((a for a in s.find_all("a",href=True) if "construction-de-logements-resultats" in a.get("href","")),None)
-        if a:
-            page=urljoin(u2,a["href"]);rr=requests.get(page,timeout=TIMEOUT,headers={"User-Agent":UA});txt=clean(BeautifulSoup(rr.text,"html.parser").get_text(" "))
-            n=re.search(r"([0-9][0-9\s\u202f]{5,})\s+logements ont été autorisés",txt)
-            for c in components:
-                if c["key"]=="construction" and n:c["value"]=re.sub(r"\s+"," ",n.group(1)).strip();c["url"]=page;c["source"]="SDES / Sitadel";c["score"]=42
-    except Exception as e:print("SDES",e)
-    weights=sum(c.get("weight",0) for c in components if c.get("score") is not None)
-    sc=round(sum(c["score"]*c["weight"] for c in components if c.get("score") is not None)/weights) if weights else 50
-    label="Marché bloqué" if sc<25 else "Marché ralenti" if sc<42 else "Marché équilibré mais fragile" if sc<58 else "Marché dynamique" if sc<78 else "Marché sous forte tension"
-    m["updated_at"]=now();m["temperature"]={"score":sc,"label":label,"comment":"Score calculé avec les dernières données officielles disponibles. Les périodes de publication sont indiquées dans le détail."}
-    m["confidence"]=min(95,70+3*len(components));m["components"]=components
-    # financing score from rate+credit
-    by={c["key"]:c for c in components};fs=round((by.get("rates",{}).get("score",50)+by.get("credit",{}).get("score",50))/2)
-    m["financing"]={"score":fs,"label":"Conditions intermédiaires" if 42<=fs<60 else "Conditions favorables" if fs>=60 else "Conditions contraignantes","comment":"Lecture combinée des taux et de la production de crédit habitat."}
-    m["balance"]={"score":47,"label":"Léger avantage acheteurs","comment":"Prix et transactions restent proches d’un marché équilibré ; ce module sera affiné avec davantage de données locales."}
-    MARKET.write_text(json.dumps(m,ensure_ascii=False,indent=2),encoding="utf-8")
-
-def watch(items):
-    w=[{"date":"2026-09-08T08:45:00+02:00","date_label":"8 sept. 2026","title":"Prochaine publication Insee — prix des logements anciens T2 2026","source":"Insee / Notaires"}]
-    return [x for x in w if datetime.fromisoformat(x["date"])>=datetime.now().astimezone()][:6]
+        src=i["source"];counts[src]=counts.get(src,0)
+        if counts[src]>=MAX_PER_SOURCE:continue
+        counts[src]+=1;out.append(i)
+        if len(out)>=MAX_TOTAL:break
+    return out
 
 def main():
-    items=existing();errors=[]
-    collectors=[("Service-Public",service_public),("ANIL",anil),("Sénat",senat),("Légifrance",legifrance),("EUR-Lex",eurlex),("Médias",media)]
-    for name,fn in collectors:
-        try:
-            got=fn();items+=got;print(name,len(got))
-        except Exception as e:errors.append({"source":name,"error":str(e)});print(name,e)
-    items=dedupe(items);market_update()
-    data={"generated_at":now(),"version":"2.0.1","items":items,"watch":watch(items),"source_stats":{},"errors":errors}
-    for i in items:data["source_stats"][i["source"]]=data["source_stats"].get(i["source"],0)+1
+    items,errors=collect_all();items=dedupe(items);stats={}
+    for i in items:stats[i["source"]]=stats.get(i["source"],0)+1
+    data={"generated_at":now(),"version":"2.2","items":items,"source_stats":stats,"errors":errors}
     FEED.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding="utf-8")
-    print(len(items),"items")
+    print("TOTAL",len(items),"SOURCES",len(stats),stats)
 
 if __name__=="__main__":main()
