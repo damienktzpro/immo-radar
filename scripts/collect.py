@@ -9,13 +9,46 @@ from bs4 import BeautifulSoup
 
 ROOT=Path(__file__).resolve().parents[1]
 FEED=ROOT/"data"/"feed.json"; MARKET=ROOT/"data"/"market.json"
-UA="Mozilla/5.0 (compatible; ImmoRadar/2.0; +https://github.com/damienktzpro/immo-radar)"
+UA="Mozilla/5.0 (compatible; ImmoRadar/2.0.1; +https://github.com/damienktzpro/immo-radar)"
 TIMEOUT=30
 
-REAL_ESTATE=(
-"immobilier","logement","habitation","loyer","location","locataire","bailleur","bail ","baux","copropriété","copropriete","syndic","construction","urbanisme","foncier","propriété","propriete","dpe","performance énergétique","performance energetique","rénovation énergétique","renovation energetique","passoire thermique","meublé","meuble","taxe foncière","taxe fonciere","ptz","prêt à taux zéro","pret a taux zero","crédit immobilier","credit immobilier","action logement","anah","maprimerénov","maprimerenov","encadrement des loyers","permis de construire","vente immobilière","vente immobiliere","bâtiment","batiment","scpi","lmnp","promoteur","agence immobilière","agence immobiliere","mandataire immobilier","proptech","résidence principale","residence principale","résidence secondaire","residence secondaire","diagnostic immobilier","patrimoine bâti","patrimoine bati"
+REAL_ESTATE_ANCHORS=(
+"immobilier","immobilière","immobiliere","logement","logements","habitation",
+"maison","appartement","appartements","loyer","loyers","locataire","locataires",
+"bailleur","bailleurs","bail d'habitation","bail habitation",
+"copropriété","copropriete","copropriétaire","coproprietaire","syndic",
+"construction de logements","construction neuve","construction immobilière","construction immobiliere",
+"permis de construire","mise en chantier","mises en chantier",
+"urbanisme","plan local d'urbanisme","plu ","foncier","foncière","fonciere",
+"propriété immobilière","propriete immobiliere","vente immobilière","vente immobiliere",
+"transaction immobilière","transaction immobiliere","marché immobilier","marche immobilier",
+"prix au m²","prix au m2","prix des logements",
+"dpe","diagnostic de performance énergétique","diagnostic de performance energetique",
+"diagnostic immobilier","rénovation énergétique","renovation energetique",
+"passoire thermique","meublé de tourisme","meuble de tourisme",
+"location meublée","location meublee","location nue","location saisonnière","location saisonniere",
+"lmnp","lmp","scpi","opci","crédit immobilier","credit immobilier",
+"prêt immobilier","pret immobilier","prêt à taux zéro","pret a taux zero","ptz",
+"taux immobilier","action logement","anah","maprimerénov","maprimerenov",
+"agence immobilière","agence immobiliere","agent immobilier","mandataire immobilier",
+"promoteur immobilier","promotion immobilière","promotion immobiliere","proptech",
+"résidence principale","residence principale","résidence secondaire","residence secondaire",
+"résidence étudiante","residence etudiante","résidence senior","residence senior",
+"bâtiment","batiment","performance énergétique des bâtiments","performance energetique des batiments",
+"parc immobilier","patrimoine immobilier","taxe foncière","taxe fonciere",
+"plus-value immobilière","plus-value immobiliere","fiscalité immobilière","fiscalite immobiliere"
 )
-EXCLUDE=("football","basket","crypto-monnaie","cryptomonnaie","gaming","smartphone","cinéma","cinema","restaurant","mode ","santé ","sante ","automobile")
+AMBIGUOUS_REAL_ESTATE_WORDS=(
+"location","achat","vente","crédit","credit","investissement","investir","rendement",
+"construction","travaux","propriété","propriete","taux","prix","marché","marche"
+)
+HARD_REJECT_DOMAINS=(
+"voiture","voitures","véhicule","vehicule","automobile","moto","scooter","vélo","velo",
+"batterie","borne de recharge","bonus écologique","bonus ecologique","leasing social","permis de conduire",
+"smartphone","ordinateur","console","football","basket","tennis","cinéma","cinema",
+"restaurant","recette","cryptomonnaie","crypto-monnaie","bitcoin"
+)
+
 CATEGORY={
 "lois":("loi","décret","decret","arrêté","arrete","ordonnance","règlement","reglement","juridique","journal officiel","directive","proposition de loi","projet de loi","copropriété","bail"),
 "marche":("prix","marché","marche","taux","crédit","credit","transaction","vente","construction","loyer","indice"),
@@ -34,7 +67,16 @@ def norm_url(v):
 def sid(source,title,url): return hashlib.sha1(f"{source}|{title}|{norm_url(url)}".encode()).hexdigest()[:16]
 def immobilier(text):
     t=clean(text).lower()
-    return any(k in t for k in REAL_ESTATE) and not (sum(1 for x in EXCLUDE if x in t)>=2 and not any(k in t for k in ("immobilier","logement","construction","bâtiment","batiment")))
+    has_anchor=any(k in t for k in REAL_ESTATE_ANCHORS)
+    has_reject=any(k in t for k in HARD_REJECT_DOMAINS)
+    if has_reject and not has_anchor:
+        return False
+    if has_anchor:
+        return True
+    # Les mots ambigus seuls (location, achat, crédit, prix...) ne suffisent jamais.
+    if any(k in t for k in AMBIGUOUS_REAL_ESTATE_WORDS):
+        return False
+    return False
 def category(text):
     t=clean(text).lower();best=("marche",0)
     for c,ws in CATEGORY.items():
@@ -247,7 +289,7 @@ def main():
             got=fn();items+=got;print(name,len(got))
         except Exception as e:errors.append({"source":name,"error":str(e)});print(name,e)
     items=dedupe(items);market_update()
-    data={"generated_at":now(),"version":"2.0","items":items,"watch":watch(items),"source_stats":{},"errors":errors}
+    data={"generated_at":now(),"version":"2.0.1","items":items,"watch":watch(items),"source_stats":{},"errors":errors}
     for i in items:data["source_stats"][i["source"]]=data["source_stats"].get(i["source"],0)+1
     FEED.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding="utf-8")
     print(len(items),"items")
