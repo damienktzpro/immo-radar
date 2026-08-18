@@ -1,0 +1,18 @@
+{
+  "updated_at": "2026-08-18T13:00:00+02:00",
+  "temperature": {
+    "score": 48,
+    "label": "Marché équilibré",
+    "comment": "Valeur de démonstration pour la V1. Le score réel sera calculé avec transactions, prix, crédit, pouvoir d’achat, construction et tension locative."
+  },
+  "balance": {
+    "score": 44,
+    "label": "Léger avantage acheteurs",
+    "comment": "Valeur de démonstration en attendant les données nationales et locales automatisées."
+  },
+  "financing": {
+    "score": 47,
+    "label": "Conditions intermédiaires",
+    "comment": "Valeur de démonstration. Le module sera relié aux données de crédit et de taux."
+  }
+}
