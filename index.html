@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <meta name="theme-color" content="#f6f4ee" />
+  <meta name="theme-color" content="#f3f0e8" />
   <meta name="description" content="Radar Immobilier — l’essentiel du marché, des lois et de l’investissement immobilier." />
   <title>Radar Immobilier</title>
   <link rel="stylesheet" href="./styles.css" />
@@ -33,11 +33,28 @@
   </header>
 
   <main id="top">
-    <section id="searchPanel" class="search-panel" hidden>
-      <div class="shell search-inner">
-        <span>⌕</span>
-        <input id="searchInput" type="search" placeholder="LMNP, DPE, loyers, crédit immobilier, copropriété…" />
-        <button id="searchClose">Fermer</button>
+    <section id="searchPanel" class="search-panel search-overlay" hidden>
+      <div class="shell search-global">
+        <div class="search-global-head">
+          <div>
+            <span class="eyebrow">Recherche globale</span>
+            <h2>Rechercher dans le Radar</h2>
+          </div>
+          <button id="searchClose" class="search-close">Fermer</button>
+        </div>
+        <div class="search-global-field">
+          <span>⌕</span>
+          <input id="searchInput" type="search" placeholder="LMNP, DPE, encadrement des loyers, Bordeaux, crédit…" autocomplete="off" />
+        </div>
+        <div class="search-global-tools">
+          <div class="search-periods">
+            <button class="search-period active" data-search-period="all">Tout 2026</button>
+            <button class="search-period" data-search-period="30">30 jours</button>
+            <button class="search-period" data-search-period="7">7 jours</button>
+          </div>
+          <span id="searchArchiveStatus">Chargement de l’index…</span>
+        </div>
+        <div id="searchGlobalResults" class="search-global-results"></div>
       </div>
     </section>
 
@@ -68,7 +85,10 @@
           <button data-profile="investisseur">Investisseur</button>
           <button data-profile="pro">Professionnel</button>
         </div>
-        <em id="profileNote">Votre lecture du marché s’adapte à votre profil</em>
+        <div class="profile-context-end">
+          <strong id="activeProfileBadge">Vue : Particulier</strong>
+          <em id="profileNote">Votre lecture du marché s’adapte à votre profil</em>
+        </div>
       </div>
     </section>
 
@@ -98,6 +118,7 @@
           </div>
 
           <div id="marketKeyFigures" class="key-figures"></div>
+          <div id="marketNextPublication" class="market-next-publication"></div>
         </article>
 
         <div class="market-side">
@@ -125,14 +146,15 @@
           <button id="marketExplainClose">Fermer</button>
         </div>
         <div id="marketComponents" class="component-grid"></div>
-        <div class="confidence"><strong id="marketConfidence">—</strong><span>Confiance dans le score</span></div>
+        <div class="confidence"><strong id="marketConfidence">—</strong><span>Confiance dans les données utilisées</span></div>
+        <p id="marketMethodNote" class="market-method-note"></p>
       </div>
     </section>
 
     <section id="pulseSection" class="pulse shell">
       <div class="section-title">
-        <div><span class="eyebrow">L’essentiel du marché</span><h2>Les 3 signaux à retenir</h2></div>
-        <p>Prix, crédit, location : ce qui pèse vraiment aujourd’hui.</p>
+        <div><span class="eyebrow">L’essentiel du marché</span><h2>Les 3 signaux à surveiller</h2></div>
+        <p>Le Radar sélectionne les sujets récents les plus structurants.</p>
       </div>
       <div id="pulseGrid" class="pulse-grid"></div>
     </section>
@@ -169,7 +191,7 @@
         <div class="territory-search-copy">
           <span class="eyebrow">Recherche territoriale</span>
           <h3>Choisissez une commune ou un arrondissement.</h3>
-          <p>La recherche s’appuie sur le référentiel géographique officiel. Prix DVF, loyers d’annonce, DPE et risques sont reliés à leurs sources publiques dès qu’elles sont disponibles.</p>
+          <p>Chaque valeur locale affiche sa source, sa période et ses limites. Une absence de résultat n’est jamais transformée en zéro.</p>
         </div>
         <div class="territory-search-box">
           <label for="territorySearchInput">Ville, arrondissement ou code postal</label>
@@ -194,7 +216,7 @@
         <div class="territory-market-section">
           <div class="territory-market-head">
             <div><span class="eyebrow">Données immobilières</span><h4>Ce que le Radar peut confirmer aujourd’hui.</h4></div>
-            <p>Chaque valeur affiche sa source, sa période et, lorsque nécessaire, une précaution méthodologique.</p>
+            <p>Source, période et précautions méthodologiques restent visibles pour chaque indicateur.</p>
           </div>
           <div id="territoryMarketMetrics" class="territory-market-metrics"></div>
         </div>
@@ -292,14 +314,19 @@
         <article><strong>C</strong><h3>Média immobilier</h3><p>Presse professionnelle et médias spécialisés sélectionnés.</p></article>
         <article><strong>D</strong><h3>Blog / expert</h3><p>Signal faible ou analyse, jamais présenté comme une source officielle.</p></article>
       </div>
+      <div class="method-notes">
+        <article><span class="eyebrow">Baromètre</span><h3>Un indice du Radar, pas un chiffre officiel.</h3><p>Le score /100 agrège des indicateurs officiels avec des pondérations visibles dans « Comprendre le score ». Il sert à synthétiser, pas à prédire.</p></article>
+        <article><span class="eyebrow">Territoires</span><h3>Les périodes ne sont pas mélangées silencieusement.</h3><p>DVF couvre plusieurs semestres, la carte des loyers correspond au T3 2025, et les DPE ADEME ne représentent pas exhaustivement tout le parc.</p></article>
+        <article><span class="eyebrow">Archive 2026</span><h3>Un historique progressif, non exhaustif.</h3><p>Le Radar conserve les collectes et peut lancer un backfill best-effort. Une absence dans l’archive ne prouve pas qu’une publication n’existe pas.</p></article>
+      </div>
       <div id="sourceHealthTable" class="source-health-table"></div>
     </section>
 
     <section class="local-cta shell">
       <div>
-        <span class="eyebrow">Prochaine grande étape</span>
-        <h2>Le local change la lecture.</h2>
-        <p>Choisissez un territoire : le Radar adapte désormais la veille et prépare la connexion progressive des données locales officielles.</p>
+        <span class="eyebrow">Radar territorial</span>
+        <h2>Le marché se lit aussi commune par commune.</h2>
+        <p>Prix DVF, loyers d’annonce, DPE et risques sont croisés sans masquer leurs périodes ni leurs limites.</p>
       </div>
       <button id="territoryJump"><span></span>Découvrir les territoires ↗</button>
     </section>
@@ -309,9 +336,33 @@
     <div class="shell footer-inner">
       <div class="footer-brand"><strong>RADAR</strong><small>IMMOBILIER</small></div>
       <em>Les décisions commencent par une information claire.</em>
-      <div><button id="footerSources">Sources</button><button id="footerMethod">Méthodologie</button></div>
+      <div class="footer-actions"><button id="footerSources">Sources</button><button id="footerMethod">Méthodologie</button><button id="feedbackOpen">Feedback pro</button></div>
     </div>
   </footer>
+
+  <section id="feedbackPanel" class="feedback-panel" hidden>
+    <div class="feedback-dialog">
+      <div class="feedback-head">
+        <div><span class="eyebrow">Version bêta · retour métier</span><h2>Aidez-nous à challenger le Radar.</h2></div>
+        <button id="feedbackClose">Fermer</button>
+      </div>
+      <p>Le but est de vérifier la cohérence, l’utilité et la lisibilité — pas de valider aveuglément les chiffres.</p>
+      <label>Les données vous paraissent-elles cohérentes ?
+        <select id="feedbackCoherence"><option>À vérifier</option><option>Oui</option><option>Non</option></select>
+      </label>
+      <label>Qu’est-ce qui manque pour un professionnel ?
+        <textarea id="feedbackMissing" rows="3" placeholder="Ex. historique des prix, délais de vente, fiscalité locale…"></textarea>
+      </label>
+      <label>Retour libre
+        <textarea id="feedbackFree" rows="5" placeholder="Ce qui est utile, confus, peu crédible ou à améliorer…"></textarea>
+      </label>
+      <button id="feedbackCopy" class="feedback-copy">Copier le retour</button>
+      <span id="feedbackCopied"></span>
+    </div>
+  </section>
+
+  <button id="feedbackFab" class="feedback-fab">Feedback</button>
+  <div class="beta-strip">BÊTA · Données sourcées · À vérifier auprès de la source avant décision</div>
 
   <script src="./app.js"></script>
 </body>

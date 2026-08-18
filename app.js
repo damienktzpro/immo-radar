@@ -5,7 +5,8 @@ const state={
   officialOnly:false,favoritesOnly:false,query:"",
   items:[],market:null,health:{},sourceStats:{},
   favorites:JSON.parse(localStorage.getItem("radarFavorites")||"[]"),
-  feedback:JSON.parse(localStorage.getItem("radarFeedback")||"{}")
+  feedback:JSON.parse(localStorage.getItem("radarFeedback")||"{}"),
+  archiveItems:[], searchPeriod:"all"
 };
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
 const esc=(v="")=>String(v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
@@ -368,6 +369,10 @@ function renderProfileContext(){
   const c=profileContext();
   if($("#heroProfileCopy"))$("#heroProfileCopy").textContent=c.hero;
   if($("#profileNote"))$("#profileNote").textContent=c.note;
+  if($("#activeProfileBadge")){
+    const labels={particulier:"Particulier",investisseur:"Investisseur",pro:"Professionnel"};
+    $("#activeProfileBadge").textContent=`Vue : ${labels[state.profile]||state.profile}`;
+  }
   if($("#marketProfileLens"))$("#marketProfileLens").innerHTML=`<strong>Lecture ${state.profile==="pro"?"professionnelle":state.profile} :</strong> ${esc(c.lens)}`;
 }
 function sourceReliability(i){return i.source_level==="A"?"Officielle · Fiabilité 100/100":i.source_level==="B"?"Institutionnelle · Fiabilité 96/100":i.source_level==="C"?"Média spécialisé · Fiabilité 78/100":"Blog / expert · Fiabilité 68/100"}
@@ -421,20 +426,84 @@ function filteredItems(){
   if(state.page==="territories")arr=arr.slice(0,24);
   return arr;
 }
+function marketWeightedScore(m){
+  const comps=m?.score_components||[];
+  const denom=comps.reduce((s,c)=>s+Number(c.weight||0),0);
+  if(!denom)return Number(m?.temperature?.score||0);
+  return Math.round(comps.reduce((s,c)=>s+Number(c.score||0)*Number(c.weight||0),0)/denom);
+}
+function selectDynamicPulse(){
+  const eligible=state.items.filter(i=>{
+    const d=ageDays(i.published_at);
+    return d<=35&&["A","B","C"].includes(i.source_level)&&i.url&&directLike(i.url);
+  });
+  const categories=["credit","lois","marche","territoires","investir"];
+  const picked=[];
+  categories.forEach(cat=>{
+    const best=eligible.filter(i=>i.category===cat).sort((a,b)=>score(b)-score(a))[0];
+    if(best&&!picked.some(x=>x.id===best.id))picked.push(best);
+  });
+  return picked.sort((a,b)=>score(b)-score(a)).slice(0,3);
+}
+function directLike(url){
+  try{const u=new URL(url,location.href);return !["","/"].includes(u.pathname)}catch{return false}
+}
 function renderMarket(){
   const m=state.market;if(!m)return;
-  const s=Number(m.temperature?.score||0);
-  $("#marketScore").textContent=s;$("#marketStatus").textContent=(m.temperature?.status||m.temperature?.label||"MARCHÉ").toUpperCase();$("#marketHeadline").textContent=m.temperature?.headline||m.temperature?.label||"";$("#marketComment").textContent=m.temperature?.comment||"";
+  const s=marketWeightedScore(m);
+  $("#marketScore").textContent=s;
+  $("#marketStatus").textContent=(m.temperature?.status||m.temperature?.label||"MARCHÉ").toUpperCase();
+  $("#marketHeadline").textContent=m.temperature?.headline||m.temperature?.label||"";
+  $("#marketComment").textContent=m.temperature?.comment||"";
   $("#marketGauge").style.background=`conic-gradient(var(--coral) 0deg ${s*3.6}deg,#deded7 ${s*3.6}deg 360deg)`;
-  $("#marketPeriod").textContent=m.period_label||"DERNIÈRES DONNÉES";
-  $("#marketTrendMini").innerHTML=(m.history||[45,47,49,50,48]).map((v,idx,arr)=>`<i style="height:${Math.max(6,v/2.2)}px" title="${v}/100"></i>`).join("");
-  $("#balanceLabel").textContent=m.balance?.label||"";$("#balanceComment").textContent=m.balance?.comment||"";const bs=Math.max(0,Math.min(100,m.balance?.score||50));$("#balanceFill").style.width=`${bs}%`;$("#balanceDot").style.left=`${bs}%`;
-  $("#financeLabel").textContent=m.financing?.label||"";$("#financeComment").textContent=m.financing?.comment||"";$("#financeBars").innerHTML=(m.financing?.bars||[35,39,41,48,45,51,47,44,40,39,36,37]).map(v=>`<i style="height:${v}px"></i>`).join("");
+  $("#marketPeriod").textContent=m.period_label||"DERNIERS POINTS DISPONIBLES";
+  $("#marketTrendMini").innerHTML=(m.history||[45,47,49,50,48]).map(v=>`<i style="height:${Math.max(6,v/2.2)}px" title="${v}/100"></i>`).join("");
+
+  $("#balanceLabel").textContent=m.balance?.label||"";
+  $("#balanceComment").textContent=m.balance?.comment||"";
+  const bs=Math.max(0,Math.min(100,m.balance?.score||50));
+  $("#balanceFill").style.width=`${bs}%`;$("#balanceDot").style.left=`${bs}%`;
+
+  $("#financeLabel").textContent=m.financing?.label||"";
+  $("#financeComment").textContent=m.financing?.comment||"";
+  $("#financeBars").innerHTML=(m.financing?.bars||[35,39,41,48,45,51,47,44,40,39,36,37]).map(v=>`<i style="height:${v}px"></i>`).join("");
+
   $("#marketKeyFigures").innerHTML=(m.key_figures||[]).slice(0,3).map(k=>`<div class="key-figure ${k.negative?"negative":""}"><small>${esc(k.label)}</small><strong>${esc(k.value)}</strong></div>`).join("");
-  $("#marketComponents").innerHTML=(m.components||[]).map(c=>`<div class="component"><small>${esc(c.label)}</small><strong>${esc(c.value)}</strong><span>${esc(c.source)} · ${esc(c.period||"")}</span><span class="trend">${esc(c.trend||"→")}</span></div>`).join("");
+
+  const comps=m.score_components||m.components||[];
+  $("#marketComponents").innerHTML=comps.map(c=>`<div class="component">
+    <small>${esc(c.label)}</small>
+    <strong>${c.score!=null?`${esc(c.score)}/100`:esc(c.value)}</strong>
+    ${c.score!=null?`<span class="component-value">${esc(c.value||"")}</span>`:""}
+    <span>${esc(c.source||"")} · ${esc(c.period||"")}</span>
+    ${c.weight!=null?`<span class="component-weight">Poids ${esc(c.weight)} %</span>`:""}
+    ${c.reason?`<span class="component-reason">${esc(c.reason)}</span>`:""}
+    <span class="trend">${esc(c.trend||"→")}</span>
+  </div>`).join("");
   $("#marketConfidence").textContent=`${m.confidence||0}/100`;
+  if($("#marketMethodNote"))$("#marketMethodNote").textContent=m.methodology_note||"";
+
+  const nxt=(m.next_publications||[])[0];
+  if($("#marketNextPublication"))$("#marketNextPublication").innerHTML=nxt?`<strong>Prochaine échéance :</strong> ${esc(nxt.date)} · ${esc(nxt.label)} <span>${esc(nxt.source)}</span>`:"";
+
   renderProfileContext();
-  $("#pulseGrid").innerHTML=(m.pulse||[]).slice(0,3).map((p,idx)=>`<article class="pulse-card"><span class="pulse-index">0${idx+1}</span><span class="label">${esc(p.label)}</span><h3>${esc(p.title)}</h3><p>${esc(p.text)}</p>${p.url?`<a href="${esc(p.url)}" target="_blank" rel="noopener">Voir la source ↗</a>`:""}</article>`).join("");
+
+  const livePulse=selectDynamicPulse();
+  const pulse=livePulse.length>=3?livePulse.map(i=>({
+    label:kind(i).replace("ACTUALITÉ ",""),
+    title:i.title,
+    text:i.summary,
+    url:i.url,
+    source:i.source
+  })):(m.pulse||[]);
+  $("#pulseGrid").innerHTML=pulse.slice(0,3).map((p,idx)=>`<article class="pulse-card">
+    <span class="pulse-index">0${idx+1}</span>
+    <span class="label">${esc(p.label)}</span>
+    <h3>${esc(p.title)}</h3>
+    <p>${esc(p.text)}</p>
+    ${p.source?`<small class="pulse-source">${esc(p.source)}</small>`:""}
+    ${p.url?`<a href="${esc(p.url)}" target="_blank" rel="noopener">Voir la source ↗</a>`:""}
+  </article>`).join("");
 }
 function pageConfig(){
   return {
@@ -516,8 +585,8 @@ function renderTerritoryDashboard(){
   const local=state.territoryLocal||{},loading=state.territoryLocalLoading,dvf=local.dvf||{},rents=local.rents||{},dpe=local.dpe||{},risks=local.risks||{};
   const appPrice=dvf.apartment?.median_price_m2,housePrice=dvf.house?.median_price_m2,appSales=dvf.apartment?.sales,houseSales=dvf.house?.sales,totalSales=dvf.total_sales;
   const rentApp=rents.apartment?.rent_m2;
-  const dpeStatus=loading&&!dpe.status?"Chargement…":dpe.status==="connected"&&dpe.passoires_pct!=null?`F–G : ${String(dpe.passoires_pct).replace(".",",")} %`:dpe.status==="no_data"?"Aucun DPE":"En connexion";
-  const dpeNote=dpe.status==="connected"?`${fmtCount(dpe.total||0)} DPE observés · classe dominante ${dpe.dominant_label||"—"}`:"";
+  const dpeStatus=loading&&!dpe.status?"Chargement…":dpe.status==="connected"&&dpe.passoires_pct!=null?`F–G : ${String(dpe.passoires_pct).replace(".",",")} %`:dpe.status==="no_data"?"Aucun DPE trouvé":"En connexion";
+  const dpeNote=dpe.status==="connected"?`${fmtCount(dpe.total||0)} DPE observés · classe dominante ${dpe.dominant_label||"—"}`:dpe.status==="no_data"?"La requête n’a renvoyé aucun DPE. Cela ne signifie pas qu’aucun logement de la commune ne possède de DPE.":"";
   const riskStatus=loading&&!risks.status?"Chargement…":risks.status==="connected"?"Rapport connecté":"Rapport disponible";
   const riskNote=risks.status==="connected"&&Number.isFinite(Number(risks.present_count))?`${risks.present_count} signal${Number(risks.present_count)>1?"aux":""} identifié${Number(risks.present_count)>1?"s":""}`:"";
   const rentNote=rents.status==="connected"?`${rents.period||"T3 2025"} · ${rents.apartment?.observations_commune??0} observation(s) communale(s)${rents.warning?` · ${rents.warning}`:""}`:"";
@@ -583,11 +652,69 @@ function renderFeed(){
   $("#feed").innerHTML=arr.map(story).join("");$("#emptyState").hidden=arr.length>0;
   $$(".story").forEach(card=>card.addEventListener("click",e=>{const b=e.target.closest("button[data-action]");if(!b)return;const id=card.dataset.id,a=b.dataset.action;if(a==="fav")state.favorites=state.favorites.includes(id)?state.favorites.filter(x=>x!==id):[...state.favorites,id];else state.feedback[id]=state.feedback[id]===a?null:a;savePrefs();renderFeed()}));
 }
+
+function archivePool(){
+  const map=new Map();
+  [...state.archiveItems,...state.items].forEach(i=>{
+    const key=i.id||i.url||`${i.source}|${i.title}`;
+    if(!map.has(key))map.set(key,i);
+  });
+  return [...map.values()];
+}
+function renderGlobalSearch(){
+  const box=$("#searchGlobalResults");if(!box)return;
+  const q=normalizeText($("#searchInput")?.value||"").trim();
+  const cutoff=state.searchPeriod==="7"?7:state.searchPeriod==="30"?30:9999;
+  let arr=archivePool().filter(i=>{
+    if(cutoff!==9999&&ageDays(i.published_at)>cutoff)return false;
+    if(!q)return true;
+    const text=normalizeText([i.title,i.summary,i.why_it_matters,i.source,i.topic,i.territory,i.status].join(" "));
+    return q.split(/\s+/).every(token=>text.includes(token));
+  });
+  arr.sort((a,b)=>(dateObj(b.published_at)?.getTime()||0)-(dateObj(a.published_at)?.getTime()||0));
+  arr=arr.slice(0,30);
+  if($("#searchArchiveStatus")){
+    const total=archivePool().filter(i=>String(i.published_at||"").startsWith("2026")).length;
+    $("#searchArchiveStatus").textContent=`${total} contenu${total>1?"s":""} 2026 indexé${total>1?"s":""} · archive progressive`;
+  }
+  box.innerHTML=arr.length?arr.map(i=>`<a class="search-result-card" href="${esc(i.url)}" target="_blank" rel="noopener">
+    <div><span class="search-result-kind">${esc(kind(i))}</span><strong>${esc(i.title)}</strong><small>${esc(i.source)} · ${esc(fmtDate(i.published_at))}</small></div>
+    <span>↗</span>
+  </a>`).join(""):`<div class="search-no-result">Aucun résultat dans l’index actuel. L’archive 2026 est constituée progressivement.</div>`;
+}
+function feedbackText(){
+  return [
+    "Feedback Radar Immobilier — version bêta",
+    `Profil testé : ${state.profile}`,
+    `Territoire testé : ${territoryLabel()}`,
+    `Cohérence des données : ${$("#feedbackCoherence")?.value||"À vérifier"}`,
+    "",
+    "Ce qui manque :",
+    $("#feedbackMissing")?.value||"—",
+    "",
+    "Retour libre :",
+    $("#feedbackFree")?.value||"—"
+  ].join("\n");
+}
+
 function renderSystem(){
-  const h=state.health||{},success=Number(h.sources_ok||Object.keys(state.sourceStats||{}).length),total=Number(h.sources_total||success),errors=Number(h.errors||0),retained=Number(h.retained||state.items.length),rejected=Number(h.rejected||0);
-  $("#systemHealthMini").textContent=total?`${success}/${total} sources actives`:"";
-  $("#systemStats").innerHTML=`<div class="system-row"><span>Sources opérationnelles</span><strong class="${errors?"warn":"ok"}">${success}/${total||success}</strong></div><div class="system-row"><span>Informations retenues</span><strong>${retained}</strong></div><div class="system-row"><span>Rejetées par les filtres</span><strong>${rejected}</strong></div><div class="system-row"><span>Erreurs de collecte</span><strong class="${errors?"warn":"ok"}">${errors}</strong></div>`;
-  const entries=Object.entries(h.by_source||{});$("#sourceHealthTable").innerHTML=entries.length?entries.map(([name,v])=>`<div class="source-row-health"><strong>${esc(name)}</strong><span>${esc(v.level||"")}</span><b class="${v.ok===false?"warn":"ok"}">${v.ok===false?"Erreur":"OK"}</b><span>${Number(v.retained||0)} retenue(s)</span></div>`).join(""):`<div class="source-row-health"><strong>Sources actives</strong><span>${Object.keys(state.sourceStats||{}).length}</span><b class="ok">OK</b><span>${state.items.length} infos</span></div>`;
+  const h=state.health||{},total=Number(h.sources_total||Object.keys(state.sourceStats||{}).length);
+  const ok=Number(h.sources_ok||0),degraded=Number(h.sources_degraded||0),errors=Number(h.errors||0);
+  const retained=Number(h.retained||state.items.length),rejected=Number(h.rejected||0);
+  $("#systemHealthMini").textContent=total?`${ok}/${total} sources OK${degraded?` · ${degraded} dégradée${degraded>1?"s":""}`:""}`:"";
+  $("#systemStats").innerHTML=`<div class="system-row"><span>Sources OK</span><strong class="ok">${ok}/${total||ok}</strong></div>
+    <div class="system-row"><span>Sources dégradées</span><strong class="${degraded?"warn":"ok"}">${degraded}</strong></div>
+    <div class="system-row"><span>Informations retenues</span><strong>${retained}</strong></div>
+    <div class="system-row"><span>Rejetées par les filtres</span><strong>${rejected}</strong></div>
+    <div class="system-row"><span>Erreurs sans repli</span><strong class="${errors?"warn":"ok"}">${errors}</strong></div>`;
+  const entries=Object.entries(h.by_source||{});
+  $("#sourceHealthTable").innerHTML=entries.length?entries.map(([name,v])=>{
+    const status=v.status||((v.ok===false)?"error":"ok");
+    const label=status==="degraded"?"Dégradée":status==="empty"?"OK · aucun contenu pertinent":status==="error"?"Erreur":"OK";
+    const cls=status==="error"?"warn":status==="degraded"?"degraded":status==="empty"?"empty":"ok";
+    const detail=v.error_type?` · ${v.error_type}`:v.fallback?" · cache conservé":"";
+    return `<div class="source-row-health"><strong>${esc(name)}</strong><span>${esc(v.level||"")}</span><b class="${cls}">${esc(label)}</b><span>${Number(v.retained||0)} retenue(s)${esc(detail)}</span></div>`;
+  }).join(""):`<div class="source-row-health"><strong>Sources actives</strong><span>${Object.keys(state.sourceStats||{}).length}</span><b class="ok">OK</b><span>${state.items.length} infos</span></div>`;
 }
 function showSources(){$("#sourcesPanel").hidden=false;$("#sourcesPanel").scrollIntoView({behavior:"smooth"})}
 function setPage(p){state.page=p;state.filter=p==="laws"?"lois":p==="market"?"all":p==="invest"?"investir":"all";if(p==="territories")state.territoryFilter="overview";$$(".nav-btn").forEach(b=>b.classList.toggle("active",b.dataset.page===p));$$(".filter-btn").forEach(b=>b.classList.toggle("active",b.dataset.filter===state.filter));renderPage();if(p==="territories"&&territoryCurrent()?.code&&!state.territoryLocal&&!state.territoryLocalLoading){state.territoryRequestId+=1;loadTerritoryLocalData(territoryCurrent(),{requestId:state.territoryRequestId});}if(p!=="today")$("#pageIntro").scrollIntoView({behavior:"smooth",block:"start"})}
@@ -597,7 +724,8 @@ function bind(){
   $$(".filter-btn").forEach(b=>b.onclick=()=>{state.filter=b.dataset.filter;$$(".filter-btn").forEach(x=>x.classList.toggle("active",x===b));renderFeed()});
   $$(".fresh-btn").forEach(b=>b.onclick=()=>{state.freshness=b.dataset.freshness;$$(".fresh-btn").forEach(x=>x.classList.toggle("active",x===b));renderFeed()});
   $("#sortSelect").onchange=e=>{state.sort=e.target.value;renderFeed()};$("#officialOnly").onchange=e=>{state.officialOnly=e.target.checked;renderFeed()};$("#favoritesOnly").onchange=e=>{state.favoritesOnly=e.target.checked;renderFeed()};
-  $("#searchOpen").onclick=()=>{$("#searchPanel").hidden=false;$("#searchInput").focus()};$("#searchClose").onclick=()=>{$("#searchPanel").hidden=true};$("#searchInput").oninput=e=>{state.query=e.target.value;renderFeed()};
+  $("#searchOpen").onclick=()=>{$("#searchPanel").hidden=false;$("#searchInput").focus();renderGlobalSearch()};$("#searchClose").onclick=()=>{$("#searchPanel").hidden=true};$("#searchInput").oninput=()=>renderGlobalSearch();
+  $$(".search-period").forEach(b=>b.onclick=()=>{state.searchPeriod=b.dataset.searchPeriod;$$(".search-period").forEach(x=>x.classList.toggle("active",x===b));renderGlobalSearch()});
   $$(".territory-filter-btn").forEach(b=>b.onclick=()=>{state.territoryFilter=b.dataset.territoryFilter;renderTerritoryFeedControls();renderFeed()});
   if($("#territoryOfficialOnly"))$("#territoryOfficialOnly").onchange=e=>{state.officialOnly=e.target.checked;renderFeed()};
   if($("#territorySearchInput"))$("#territorySearchInput").oninput=e=>{clearTimeout(state.territorySearchTimer);const q=e.target.value;state.territorySearchTimer=setTimeout(async()=>{try{const results=await searchTerritories(q);renderTerritorySearchResults(results)}catch(err){console.error(err)}},250)};
@@ -606,11 +734,35 @@ function bind(){
   $("#marketExplainBtn").onclick=()=>{$("#marketExplain").hidden=false};$("#marketExplainClose").onclick=()=>{$("#marketExplain").hidden=true};
   $("#sourcesDetailsBtn").onclick=showSources;$("#sourcesOpen").onclick=showSources;$("#footerSources").onclick=showSources;$("#footerMethod").onclick=()=>{$("#marketExplain").hidden=false;$("#marketExplain").scrollIntoView({behavior:"smooth"})};$("#sourcesClose").onclick=()=>{$("#sourcesPanel").hidden=true};
   $("#territoryJump").onclick=()=>setPage("territories");
+  if($("#feedbackOpen"))$("#feedbackOpen").onclick=()=>{$("#feedbackPanel").hidden=false};
+  if($("#feedbackFab"))$("#feedbackFab").onclick=()=>{$("#feedbackPanel").hidden=false};
+  if($("#feedbackClose"))$("#feedbackClose").onclick=()=>{$("#feedbackPanel").hidden=true};
+  if($("#feedbackCopy"))$("#feedbackCopy").onclick=async()=>{
+    const txt=feedbackText();
+    try{await navigator.clipboard.writeText(txt);$("#feedbackCopied").textContent="Retour copié ✓";}
+    catch{$("#feedbackCopied").textContent="Copie automatique indisponible — sélectionnez le texte manuellement."}
+  };
 }
 async function load(){
   bind();
   try{
-    const [f,m]=await Promise.all([fetch("./data/feed.json",{cache:"no-store"}),fetch("./data/market.json",{cache:"no-store"})]);const feed=await f.json();state.items=feed.items||[];state.sourceStats=feed.source_stats||{};state.health=feed.health||{};state.market=await m.json();$("#lastUpdate").textContent=fmtUpdate(feed.generated_at);try{if(state.territoryData?.code)state.territoryData=await fetchTerritoryByCode(state.territoryData.code)}catch(e){console.warn("Territory hydrate",e)}if(state.territoryData?.code){const cached=readLocalCache(state.territoryData.code);if(cached)state.territoryLocal=cached;}renderProfileContext();renderMarket();renderSystem();renderPage();
-  }catch(e){console.error(e);$("#lastUpdate").textContent="ERREUR DE CHARGEMENT";}
+    const [f,m,a]=await Promise.all([
+      fetch("./data/feed.json",{cache:"no-store"}),
+      fetch("./data/market.json",{cache:"no-store"}),
+      fetch("./data/archive/2026.json",{cache:"no-store"}).catch(()=>null)
+    ]);
+    const feed=await f.json();
+    state.items=feed.items||[];
+    state.sourceStats=feed.source_stats||{};
+    state.health=feed.health||{};
+    state.market=await m.json();
+    if(a&&a.ok){try{const ar=await a.json();state.archiveItems=ar.items||[]}catch{state.archiveItems=[]}}
+    $("#lastUpdate").textContent=fmtUpdate(feed.generated_at);
+    try{if(state.territoryData?.code)state.territoryData=await fetchTerritoryByCode(state.territoryData.code)}catch(e){console.warn("Territory hydrate",e)}
+    if(state.territoryData?.code){const cached=readLocalCache(state.territoryData.code);if(cached)state.territoryLocal=cached;}
+    renderProfileContext();renderMarket();renderSystem();renderPage();renderGlobalSearch();
+  }catch(e){
+    console.error(e);$("#lastUpdate").textContent="ERREUR DE CHARGEMENT";
+  }
 }
 load();
