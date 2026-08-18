@@ -48,12 +48,9 @@ function filteredItems() {
     const categoryOk =
       state.category === "all" || item.category === state.category;
 
-    // "Officiel uniquement" = strictement niveau A.
-    // Le niveau B reste institutionnel, mais pas officiel.
     const officialOk =
       !state.officialOnly || item.source_level === "A";
 
-    // Sécurité : ne jamais montrer les notes techniques de développement.
     const isDevNote =
       String(item.status || "").toLowerCase().includes("connecteur prévu") ||
       String(item.id || "").startsWith("demo-") ||
@@ -77,6 +74,48 @@ function sourceLevelClass(level) {
   return ["A", "B", "C", "D"].includes(level) ? level.toLowerCase() : "d";
 }
 
+function stageLabel(stage) {
+  return {
+    depot: "Déposé",
+    discussion: "En discussion",
+    adopte: "Adopté",
+    promulgue: "Promulgué",
+    jorf: "Publié au JORF",
+    clos: "Clos / non adopté"
+  }[stage] || "";
+}
+
+function renderLegalRadar() {
+  const radar = $("#legalRadar");
+  radar.hidden = state.category !== "lois";
+
+  if (radar.hidden) return;
+
+  const legalItems = state.items.filter((item) =>
+    item.category === "lois" && item.legal_stage
+  );
+
+  const counts = {
+    depot: 0,
+    discussion: 0,
+    adopte: 0,
+    promulgue: 0,
+    jorf: 0
+  };
+
+  for (const item of legalItems) {
+    if (Object.prototype.hasOwnProperty.call(counts, item.legal_stage)) {
+      counts[item.legal_stage] += 1;
+    }
+  }
+
+  $("#legalCountDepot").textContent = counts.depot;
+  $("#legalCountDiscussion").textContent = counts.discussion;
+  $("#legalCountAdopte").textContent = counts.adopte;
+  $("#legalCountPromulgue").textContent = counts.promulgue;
+  $("#legalCountJorf").textContent = counts.jorf;
+}
+
 function renderFeed() {
   const items = filteredItems();
 
@@ -98,6 +137,9 @@ function renderFeed() {
   $("#feed").innerHTML = items.map((item) => {
     const score = profileScore(item);
     const level = esc(item.source_level || "D");
+    const legalStage = item.legal_stage
+      ? `<span class="tag stage">${esc(stageLabel(item.legal_stage))}</span>`
+      : "";
 
     return `
       <article class="feed-card">
@@ -115,6 +157,7 @@ function renderFeed() {
             <span class="tag">${esc(item.source)}</span>
             <span class="tag">${niceDate(item.published_at)}</span>
             <span class="tag">${esc(item.territory || "France")}</span>
+            ${legalStage}
             ${item.status
               ? `<span class="tag status">${esc(item.status)}</span>`
               : ""}
@@ -134,6 +177,8 @@ function renderFeed() {
       </article>
     `;
   }).join("");
+
+  renderLegalRadar();
 }
 
 function renderMarket() {
