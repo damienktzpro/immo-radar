@@ -1,5 +1,5 @@
 {
-  "version": "5.1",
+  "version": "6.0",
   "codes": [
     "78358",
     "75111",
@@ -7,5 +7,5 @@
     "44109",
     "69382"
   ],
-  "note": "Communes préchargées par GitHub Actions. Les autres communes utilisent le chargement direct côté navigateur lorsque l'API l'autorise."
+  "note": "Communes préchargées par GitHub Actions avec Geo API, DVF, Carte des loyers, ADEME DPE et Géorisques."
 }
