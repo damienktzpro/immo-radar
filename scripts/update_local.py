@@ -6,11 +6,13 @@ from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import quote
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 ROOT=Path(__file__).resolve().parents[1]
 DATA_DIR=ROOT/'data'/'territories'
 MONITORED=DATA_DIR/'monitored.json'
-UA='Mozilla/5.0 (compatible; RadarImmobilier/6.0; +https://github.com/damienktzpro/immo-radar)'
+UA='Mozilla/5.0 (compatible; RadarImmobilier/7.0; +https://github.com/damienktzpro/immo-radar)'
 TIMEOUT=28
 GEO_BASE='https://geo.api.gouv.fr'
 TABULAR_BASE='https://tabular-api.data.gouv.fr/api/resources'
@@ -27,7 +29,7 @@ RENT_RESOURCES={
 def now_iso(): return datetime.now(timezone.utc).astimezone().isoformat(timespec='seconds')
 
 def get_json(url,params=None,timeout=TIMEOUT):
- r=requests.get(url,params=params,timeout=timeout,headers={'User-Agent':UA,'Accept':'application/json'})
+ r=_SESSION.get(url,params=params,timeout=timeout)
  r.raise_for_status(); return r.json() if r.text.strip() else {}
 
 def as_number(v):

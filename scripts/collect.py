@@ -1,18 +1,43 @@
 #!/usr/bin/env python3
 from __future__ import annotations
-import hashlib, html, io, json, os, re, zipfile
+import hashlib, html, io, json, os, re, zipfile, time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urljoin, urlsplit, urlunsplit
 import feedparser, requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 from bs4 import BeautifulSoup
 
 ROOT=Path(__file__).resolve().parents[1]
 FEED=ROOT/"data"/"feed.json"
-UA="Mozilla/5.0 (compatible; RadarImmobilier/6.0; +https://github.com/damienktzpro/immo-radar)"
+ARCHIVE=ROOT/"data"/"archive"/"2026.json"
+UA="Mozilla/5.0 (compatible; RadarImmobilier/7.0; +https://github.com/damienktzpro/immo-radar)"
 TIMEOUT=22
 MAX_PER_SOURCE=16
 MAX_TOTAL=240
+
+_RETRY=Retry(
+    total=3,
+    connect=3,
+    read=3,
+    status=3,
+    backoff_factor=0.8,
+    status_forcelist=(429,500,502,503,504),
+    allowed_methods=frozenset(["GET"]),
+    respect_retry_after_header=True,
+)
+_SESSION=requests.Session()
+_SESSION.headers.update({"User-Agent":UA,"Accept-Language":"fr-FR,fr;q=0.9,en;q=0.5"})
+_SESSION.mount("https://",HTTPAdapter(max_retries=_RETRY))
+_SESSION.mount("http://",HTTPAdapter(max_retries=_RETRY))
+
+def http_get(url,**kwargs):
+    kwargs.setdefault("timeout",TIMEOUT)
+    headers=kwargs.pop("headers",{}) or {}
+    merged={"User-Agent":UA,**headers}
+    return _SESSION.get(url,headers=merged,**kwargs)
+
 
 ANCHORS=(
 "immobilier","immobilière","immobiliere","logement","logements","habitation","maison","appartement",
@@ -100,7 +125,7 @@ def service_public():
     return out[:MAX_PER_SOURCE]
 
 def generic(page,source,level,require_date=True):
-    r=requests.get(page,timeout=TIMEOUT,headers={"User-Agent":UA});r.raise_for_status();s=BeautifulSoup(r.text,"html.parser");out=[];seen=set();rejected=0
+    r=http_get(page,timeout=TIMEOUT,headers={"User-Agent":UA});r.raise_for_status();s=BeautifulSoup(r.text,"html.parser");out=[];seen=set();rejected=0
     for a in s.find_all("a",href=True):
         title=clean(a.get_text(" ",strip=True));url=urljoin(page,a.get("href",""))
         if len(title)<14 or len(title)>190 or not direct(url) or url in seen:continue
@@ -118,40 +143,47 @@ def generic(page,source,level,require_date=True):
 
 def bdf():
     d=datetime.now();pairs=[];y,m=d.year,d.month
-    for _ in range(8):
+    for _ in range(10):
         m-=1
         if m==0:y-=1;m=12
         pairs.append((y,m))
+    last_error=None
     for y,m in pairs:
         url=f"https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-{y}-{m:02}"
-        r=requests.get(url,timeout=TIMEOUT,headers={"User-Agent":UA})
-        if not r.ok:continue
-        text=clean(BeautifulSoup(r.text,"html.parser").get_text(" "))
-        if "crédits à l'habitat" not in text.lower():continue
-        pub=parse_date(text,url);return [make("Banque de France","A","Crédits à l’habitat : dernières données de la Banque de France",text[:500],url,pub,"Donnée officielle",topic="Crédit")],0
+        try:
+            r=http_get(url)
+            if not r.ok:continue
+            text=clean(BeautifulSoup(r.text,"html.parser").get_text(" "))
+            if "crédits à l'habitat" not in text.lower():continue
+            pub=parse_date(text,url)
+            return [make("Banque de France","A","Crédits à l’habitat : dernières données de la Banque de France",text[:500],url,pub,"Donnée officielle",topic="Crédit")],0
+        except Exception as exc:
+            last_error=exc
+            continue
+    if last_error:raise last_error
     return [],0
 
 def insee():
-    url="https://www.insee.fr/fr/statistiques/8995299";r=requests.get(url,timeout=TIMEOUT,headers={"User-Agent":UA});r.raise_for_status();s=BeautifulSoup(r.text,"html.parser");text=clean(s.get_text(" "));h=s.find("h1")
+    url="https://www.insee.fr/fr/statistiques/8995299";r=http_get(url,timeout=TIMEOUT,headers={"User-Agent":UA});r.raise_for_status();s=BeautifulSoup(r.text,"html.parser");text=clean(s.get_text(" "));h=s.find("h1")
     return [make("Insee","A",clean(h.get_text(" ",strip=True)) if h else "Prix des logements anciens : dernière publication",text[:500],url,parse_date(text,url),"Chiffre officiel",topic="Prix")],0
 
 def sdes():
-    page="https://www.statistiques.developpement-durable.gouv.fr/la-construction-neuve";r=requests.get(page,timeout=TIMEOUT,headers={"User-Agent":UA});r.raise_for_status();s=BeautifulSoup(r.text,"html.parser")
+    page="https://www.statistiques.developpement-durable.gouv.fr/la-construction-neuve";r=http_get(page,timeout=TIMEOUT,headers={"User-Agent":UA});r.raise_for_status();s=BeautifulSoup(r.text,"html.parser")
     a=next((a for a in s.find_all("a",href=True) if "construction-de-logements-resultats" in a.get("href","")),None)
     if not a:return [],0
-    url=urljoin(page,a["href"]);rr=requests.get(url,timeout=TIMEOUT,headers={"User-Agent":UA});rr.raise_for_status();ss=BeautifulSoup(rr.text,"html.parser");text=clean(ss.get_text(" "));h=ss.find("h1")
+    url=urljoin(page,a["href"]);rr=http_get(url,timeout=TIMEOUT,headers={"User-Agent":UA});rr.raise_for_status();ss=BeautifulSoup(rr.text,"html.parser");text=clean(ss.get_text(" "));h=ss.find("h1")
     return [make("SDES / Sitadel","A",clean(h.get_text(" ",strip=True)) if h else clean(a.get_text(" ",strip=True)),text[:500],url,parse_date(text,url),"Donnée officielle",topic="Construction")],0
 
 def eurlex():
     docs=[
-      ("Directive (UE) 2024/1275 sur la performance énergétique des bâtiments","https://eur-lex.europa.eu/eli/dir/2024/1275/oj?locale=fr","Directive — transposition nationale","Le texte européen fixe une trajectoire de performance énergétique et de rénovation du parc immobilier."),
-      ("Règlement délégué (UE) 2026/52 sur le potentiel de réchauffement global des bâtiments","https://eur-lex.europa.eu/eli/reg_del/2026/52/oj/eng","Règlement délégué","Le règlement précise le calcul du potentiel de réchauffement global sur le cycle de vie des bâtiments.")
+      ("Directive (UE) 2024/1275 sur la performance énergétique des bâtiments","https://eur-lex.europa.eu/eli/dir/2024/1275/oj?locale=fr","Directive — version consolidée","Le texte européen fixe une trajectoire de performance énergétique et de rénovation du parc immobilier.","2026-05-24T09:00:00+02:00"),
+      ("Règlement délégué (UE) 2026/52 sur le potentiel de réchauffement global des bâtiments","https://eur-lex.europa.eu/eli/reg_del/2026/52/oj/eng","Règlement délégué — en vigueur","Le règlement précise le cadre de calcul du potentiel de réchauffement global sur le cycle de vie des bâtiments.","2026-05-04T09:00:00+02:00")
     ]
-    out=[make("EUR-Lex","A",t,s,u,"2026-05-24T09:00:00+02:00",st,"Union européenne","jorf","Droit européen") for t,u,st,s in docs]
+    out=[make("EUR-Lex","A",t,summary,u,pub,st,"Union européenne","jorf","Droit européen") for t,u,st,summary,pub in docs]
     return out,0
 
 def senat():
-    url="https://data.senat.fr/data/dosleg/dosleg.zip";r=requests.get(url,timeout=60,headers={"User-Agent":UA});r.raise_for_status()
+    url="https://data.senat.fr/data/dosleg/dosleg.zip";r=http_get(url,timeout=60,headers={"User-Agent":UA});r.raise_for_status()
     with zipfile.ZipFile(io.BytesIO(r.content)) as z:sql=z.read([n for n in z.namelist() if n.endswith(".sql")][0]).decode("utf-8",errors="replace")
     def table(name):
         m=re.search(rf"^COPY (?:public\.)?{name} \(([^)]*)\) FROM stdin;\n(.*?)\n\\\\\.$",sql,re.M|re.S)
@@ -180,22 +212,57 @@ def senat():
     return out,rejected
 
 def legifrance():
-    r=requests.get("https://www.legifrance.gouv.fr/",timeout=TIMEOUT,headers={"User-Agent":UA});r.raise_for_status();s=BeautifulSoup(r.text,"html.parser");jo=[];pat=re.compile(r"/eli/jo/20\d{2}/\d{1,2}/\d{1,2}/\d+")
+    r=http_get("https://www.legifrance.gouv.fr/");r.raise_for_status()
+    s=BeautifulSoup(r.text,"html.parser");jo=[];pat=re.compile(r"/eli/jo/20\d{2}/\d{1,2}/\d{1,2}/\d+")
     for a in s.find_all("a",href=True):
         if pat.search(a["href"]):
             u=urljoin("https://www.legifrance.gouv.fr/",a["href"])
             if u not in jo:jo.append(u)
-        if len(jo)>=5:break
-    out=[];rejected=0
+        if len(jo)>=7:break
+    out=[];rejected=0;page_errors=[]
     for ju in jo:
-        rr=requests.get(ju,timeout=TIMEOUT,headers={"User-Agent":UA});rr.raise_for_status();ss=BeautifulSoup(rr.text,"html.parser");page=clean(ss.get_text(" "));pub=parse_date(page,ju)
-        for a in ss.find_all("a",href=True):
-            title=clean(a.get_text(" ",strip=True));u=urljoin(ju,a["href"])
-            if len(title)<15 or norm_url(u)==norm_url(ju) or not direct(u):continue
-            if not is_immo(title):rejected+=1;continue
-            out.append(make("Légifrance","A",title,"Texte immobilier repéré dans un Journal officiel récent. Vérifier dans le texte la date exacte d’application.",u,pub,"Publié au JORF",legal_stage="jorf",topic="Texte officiel"))
-            if len(out)>=MAX_PER_SOURCE:return out,rejected
+        try:
+            rr=http_get(ju);rr.raise_for_status()
+            ss=BeautifulSoup(rr.text,"html.parser");page=clean(ss.get_text(" "));pub=parse_date(page,ju)
+            for a in ss.find_all("a",href=True):
+                title=clean(a.get_text(" ",strip=True));u=urljoin(ju,a["href"])
+                if len(title)<15 or norm_url(u)==norm_url(ju) or not direct(u):continue
+                if not is_immo(title):rejected+=1;continue
+                out.append(make("Légifrance","A",title,"Texte immobilier repéré dans un Journal officiel récent. Vérifier dans le texte la date exacte d’application.",u,pub,"Publié au JORF",legal_stage="jorf",topic="Texte officiel"))
+                if len(out)>=MAX_PER_SOURCE:return out,rejected
+        except Exception as exc:
+            page_errors.append(str(exc))
+            continue
+    if not out and page_errors:
+        raise RuntimeError("JORF temporairement indisponible: "+page_errors[-1][:180])
     return out,rejected
+
+def _previous_feed():
+    try:return json.loads(FEED.read_text(encoding="utf-8"))
+    except:return {"items":[],"health":{}}
+
+def _source_fallback(prev,name):
+    return [i for i in prev.get("items",[]) if i.get("source")==name][:MAX_PER_SOURCE]
+
+def _merge_archive(items):
+    ARCHIVE.parent.mkdir(parents=True,exist_ok=True)
+    try:old=json.loads(ARCHIVE.read_text(encoding="utf-8"))
+    except:old={"items":[]}
+    rank={"A":4,"B":3,"C":2,"D":1};dedup={}
+    for i in [*(old.get("items") or []),*items]:
+        if not str(i.get("published_at","")).startswith("2026"):continue
+        key=norm_url(i.get("url","")) or i.get("id") or re.sub(r"\W+"," ",i.get("title","").lower()).strip()
+        cur=dedup.get(key)
+        if not cur or rank.get(i.get("source_level"),0)>=rank.get(cur.get("source_level"),0):
+            dedup[key]=i
+    vals=list(dedup.values())
+    vals.sort(key=lambda x:(x.get("published_at") or "",x.get("relevance",0)),reverse=True)
+    ARCHIVE.write_text(json.dumps({
+        "version":"7.0",
+        "scope":"Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
+        "generated_at":now(),
+        "items":vals[:2500]
+    },ensure_ascii=False,indent=2),encoding="utf-8")
 
 def main():
     jobs=[
@@ -211,13 +278,46 @@ def main():
       ("Immobilier 2.0","C",lambda:generic("https://immo2.pro/actualite-immobilier/","Immobilier 2.0","C",True)),
       ("Horiz.io","D",lambda:generic("https://horiz.io/investissement-immobilier","Horiz.io","D",True))
     ]
+    prev=_previous_feed()
     items=[];errors=[];by_source={};rejected_total=0
     for name,level,fn in jobs:
-        try:
-            got,rejected=fn();items.extend(got);rejected_total+=rejected;by_source[name]={"level":level,"ok":True,"retained":len(got)};print(name,len(got),"retained")
-        except Exception as e:
-            errors.append({"source":name,"error":str(e)});by_source[name]={"level":level,"ok":False,"retained":0};print(name,"ERROR",e)
-    # strict final cleanup + dedupe
+        got=None;rejected=0;last_exc=None
+        for attempt in range(2):
+            try:
+                got,rejected=fn();last_exc=None;break
+            except Exception as exc:
+                last_exc=exc
+                if attempt==0:time.sleep(1.4)
+        if last_exc is None:
+            got=got or [];items.extend(got);rejected_total+=rejected
+            by_source[name]={
+                "level":level,
+                "ok":True,
+                "status":"ok" if got else "empty",
+                "retained":len(got),
+                "last_success":now(),
+                "fallback":False
+            }
+            print(name,len(got),"retained")
+        else:
+            fallback=_source_fallback(prev,name)
+            if fallback:
+                items.extend(fallback)
+                by_source[name]={
+                    "level":level,"ok":False,"status":"degraded","retained":len(fallback),
+                    "last_success":prev.get("generated_at"),"fallback":True,
+                    "error_type":type(last_exc).__name__
+                }
+                errors.append({"source":name,"error":str(last_exc),"fallback":True})
+                print(name,"DEGRADED",last_exc,"fallback",len(fallback))
+            else:
+                by_source[name]={
+                    "level":level,"ok":False,"status":"error","retained":0,
+                    "last_success":None,"fallback":False,"error_type":type(last_exc).__name__
+                }
+                errors.append({"source":name,"error":str(last_exc),"fallback":False})
+                print(name,"ERROR",last_exc)
+
     rank={"A":4,"B":3,"C":2,"D":1};cutoff=datetime.now(timezone.utc)-timedelta(days=730);dedup={}
     for i in items:
         if not is_immo(i.get("title","")+" "+i.get("summary","")):rejected_total+=1;continue
@@ -235,11 +335,19 @@ def main():
         if counts[src]>=MAX_PER_SOURCE:continue
         counts[src]+=1;final.append(i)
         if len(final)>=MAX_TOTAL:break
-    health={"sources_total":len(jobs),"sources_ok":sum(1 for v in by_source.values() if v["ok"]),"errors":len(errors),"retained":len(final),"rejected":rejected_total,"by_source":by_source}
-    data={"generated_at":now(),"version":"6.0","items":final,"source_stats":counts,"health":health,"errors":errors}
+
+    degraded=sum(1 for v in by_source.values() if v.get("status")=="degraded")
+    hard_errors=sum(1 for v in by_source.values() if v.get("status")=="error")
+    sources_ok=sum(1 for v in by_source.values() if v.get("status") in ("ok","empty"))
+    health={
+        "sources_total":len(jobs),"sources_ok":sources_ok,"sources_degraded":degraded,
+        "errors":hard_errors,"retained":len(final),"rejected":rejected_total,"by_source":by_source
+    }
+    data={"generated_at":now(),"version":"7.0","items":final,"source_stats":counts,"health":health,"errors":errors}
     FEED.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding="utf-8")
+    _merge_archive(final)
     print("TOTAL",len(final),health)
-    # V6 — update cached local data with the same GitHub Actions run.
+
     try:
         from update_local import main as update_local_main
         update_local_main()
