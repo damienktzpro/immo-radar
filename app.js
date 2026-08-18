@@ -168,6 +168,19 @@ function renderFeed() {
           ${item.why_it_matters
             ? `<p class="why"><strong>Pourquoi c’est important :</strong> ${esc(item.why_it_matters)}</p>`
             : ""}
+
+          <div class="card-actions">
+            <a
+              class="source-link"
+              href="${esc(item.url || "#")}"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Voir la source : ${esc(item.title)}"
+            >
+              <span>Voir la source</span>
+              <span aria-hidden="true">↗</span>
+            </a>
+          </div>
         </div>
 
         <div class="score-box">
