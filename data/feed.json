@@ -1,47 +1,48 @@
 {
-  "generated_at": "2026-08-18T13:41:27+00:00",
+  "generated_at": "2026-08-18T13:44:02+00:00",
+  "version": "1.1",
   "items": [
     {
-      "id": "demo-dvf-territoires",
-      "title": "Prochaine étape : intégrer DVF pour comparer les ventes réelles par territoire",
-      "summary": "La V1 prévoit un connecteur territorial dédié aux données de ventes immobilières et à leur évolution locale.",
-      "url": "https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/",
-      "source": "data.gouv.fr / DVF",
+      "id": "01b98db0dd1941ff",
+      "title": "Une nouvelle aide pour l’achat d’une voiture électrique d’occasion : comment en bénéficier ?",
+      "summary": "Une aide pour l’achat ou la location d’une voiture électrique d’occasion est mise en place à partir du 1 er septembre. Service Public vous présente les modalités de ce dispositif : conditions d’éligibilité, montant, démarches à accomplir, etc.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19043?xtor=RSS-111",
+      "source": "Service-Public.fr",
       "source_level": "A",
       "source_type": "officielle",
-      "category": "territoires",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T12:00:00+02:00",
-      "status": "Connecteur prévu",
-      "importance": 88,
-      "relevance": 90,
-      "territory": "France",
-      "why_it_matters": "Les ventes réelles permettront de créer un baromètre local plus fiable qu’un simple prix d’annonce."
-    },
-    {
-      "id": "31c82e6b8fcdf1d2",
-      "title": "Urbanisme, voisinage, construction : quelles questions ont préoccupé les ménages en 2025 ?",
-      "summary": "Nouvelle publication repérée automatiquement sur le site de l’ANIL. Ouvrez la source pour consulter le contenu complet.",
-      "url": "https://www.anil.org/actualites-evenements/details/urbanisme-voisinage-construction-quelles-questions-ont-preoccupe-les-menages-en-2025/",
-      "source": "ANIL",
-      "source_level": "B",
-      "source_type": "institutionnelle",
       "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-17T08:00:00+00:00",
-      "status": "Publication ANIL",
-      "importance": 58,
-      "relevance": 69,
+      "published_at": "2026-08-17T22:00:00+00:00",
+      "status": "Information officielle",
+      "importance": 67,
+      "relevance": 75,
       "territory": "France",
-      "why_it_matters": "Source institutionnelle dédiée au logement ; le contenu est classé automatiquement pour faciliter la veille."
+      "why_it_matters": "Source officielle. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "31c82e6b8fcdf1d2",
+      "title": "Urbanisme, voisinage, construction : quelles questions ont préoccupé les ménages en 2025 ?",
+      "summary": "Publication de l’ANIL repérée automatiquement. Consultez la source pour l’analyse juridique ou pratique complète.",
+      "url": "https://www.anil.org/actualites-evenements/details/urbanisme-voisinage-construction-quelles-questions-ont-preoccupe-les-menages-en-2025/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "lois",
+      "audiences": [
+        "pro",
+        "particulier",
+        "investisseur"
+      ],
+      "published_at": "2026-08-17T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 70,
+      "relevance": 74,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette publication peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
       "id": "anil-donnees-loyers-2026",
@@ -67,7 +68,7 @@
     {
       "id": "1cc513da92ef3bd1",
       "title": "Location d'un logement : de la signature du bail à la fin de la location",
-      "summary": "Nouvelle publication repérée automatiquement sur le site de l’ANIL. Ouvrez la source pour consulter le contenu complet.",
+      "summary": "Publication de l’ANIL repérée automatiquement. Consultez la source pour l’analyse juridique ou pratique complète.",
       "url": "https://www.anil.org/actualites-evenements/details/location-dun-logement-de-la-signature-du-bail-a-la-fin-de-la-location/",
       "source": "ANIL",
       "source_level": "B",
@@ -79,11 +80,11 @@
         "pro"
       ],
       "published_at": "2026-08-03T08:00:00+00:00",
-      "status": "Publication ANIL",
-      "importance": 58,
-      "relevance": 72,
+      "status": "Analyse / actualité ANIL",
+      "importance": 70,
+      "relevance": 74,
       "territory": "France",
-      "why_it_matters": "Source institutionnelle dédiée au logement ; le contenu est classé automatiquement pour faciliter la veille."
+      "why_it_matters": "Source institutionnelle spécialisée. Cette publication peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
       "id": "b2e47e6ec5c46293",
@@ -109,23 +110,23 @@
     {
       "id": "c97fbcb683b89861",
       "title": "Louer à un travailleur saisonnier : sécurisez votre location avec la garantie Visale",
-      "summary": "Nouvelle publication repérée automatiquement sur le site de l’ANIL. Ouvrez la source pour consulter le contenu complet.",
+      "summary": "Publication de l’ANIL repérée automatiquement. Consultez la source pour l’analyse juridique ou pratique complète.",
       "url": "https://www.anil.org/actualites-evenements/details/louer-a-un-travailleur-saisonnier-securisez-votre-location-avec-la-garantie-visale/",
       "source": "ANIL",
       "source_level": "B",
       "source_type": "institutionnelle",
-      "category": "investir",
+      "category": "lois",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
       "published_at": "2026-07-30T08:00:00+00:00",
-      "status": "Publication ANIL",
-      "importance": 58,
-      "relevance": 70,
+      "status": "Analyse / actualité ANIL",
+      "importance": 70,
+      "relevance": 74,
       "territory": "France",
-      "why_it_matters": "Source institutionnelle dédiée au logement ; le contenu est classé automatiquement pour faciliter la veille."
+      "why_it_matters": "Source institutionnelle spécialisée. Cette publication peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
       "id": "a77eb7de9e6162fa",
@@ -151,23 +152,23 @@
     {
       "id": "49fec611d31a12ca",
       "title": "Incendies en Nouvelle-Aquitaine : Action Logement met en place un dispositif d'urgence",
-      "summary": "Nouvelle publication repérée automatiquement sur le site de l’ANIL. Ouvrez la source pour consulter le contenu complet.",
+      "summary": "Publication de l’ANIL repérée automatiquement. Consultez la source pour l’analyse juridique ou pratique complète.",
       "url": "https://www.anil.org/actualites-evenements/details/incendies-en-nouvelle-aquitaine-action-logement-met-en-place-un-dispositif-durgence/",
       "source": "ANIL",
       "source_level": "B",
       "source_type": "institutionnelle",
-      "category": "marche",
+      "category": "lois",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
       "published_at": "2026-07-29T08:00:00+00:00",
-      "status": "Publication ANIL",
-      "importance": 58,
-      "relevance": 69,
+      "status": "Analyse / actualité ANIL",
+      "importance": 70,
+      "relevance": 74,
       "territory": "France",
-      "why_it_matters": "Source institutionnelle dédiée au logement ; le contenu est classé automatiquement pour faciliter la veille."
+      "why_it_matters": "Source institutionnelle spécialisée. Cette publication peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
       "id": "anil-loyers-zones-tendues-2026",
@@ -235,44 +236,44 @@
     {
       "id": "7b241d7bae5586fc",
       "title": "IRL : le nouvel indice du 2eme trimestre 2026 est publié",
-      "summary": "Nouvelle publication repérée automatiquement sur le site de l’ANIL. Ouvrez la source pour consulter le contenu complet.",
+      "summary": "Publication de l’ANIL repérée automatiquement. Consultez la source pour l’analyse juridique ou pratique complète.",
       "url": "https://www.anil.org/actualites-evenements/details/irl-le-nouvel-indice-du-2eme-trimestre-2026-est-publie/",
       "source": "ANIL",
       "source_level": "B",
       "source_type": "institutionnelle",
-      "category": "marche",
+      "category": "lois",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
       "published_at": "2026-07-12T08:00:00+00:00",
-      "status": "Publication ANIL",
-      "importance": 64,
-      "relevance": 69,
+      "status": "Analyse / actualité ANIL",
+      "importance": 73,
+      "relevance": 74,
       "territory": "France",
-      "why_it_matters": "Source institutionnelle dédiée au logement ; le contenu est classé automatiquement pour faciliter la veille."
+      "why_it_matters": "Source institutionnelle spécialisée. Cette publication peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
       "id": "46bbdd872668e766",
       "title": "Relance logement : un nouveau dispositif pour faciliter l’achat et la location de logements",
-      "summary": "Nouvelle publication repérée automatiquement sur le site de l’ANIL. Ouvrez la source pour consulter le contenu complet.",
+      "summary": "Publication de l’ANIL repérée automatiquement. Consultez la source pour l’analyse juridique ou pratique complète.",
       "url": "https://www.anil.org/actualites-evenements/details/relance-logement-un-nouveau-dispositif-pour-faciliter-lachat-et-la-location-de-logements/",
       "source": "ANIL",
       "source_level": "B",
       "source_type": "institutionnelle",
-      "category": "investir",
+      "category": "lois",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
       "published_at": "2026-07-10T08:00:00+00:00",
-      "status": "Publication ANIL",
-      "importance": 58,
-      "relevance": 70,
+      "status": "Analyse / actualité ANIL",
+      "importance": 70,
+      "relevance": 74,
       "territory": "France",
-      "why_it_matters": "Source institutionnelle dédiée au logement ; le contenu est classé automatiquement pour faciliter la veille."
+      "why_it_matters": "Source institutionnelle spécialisée. Cette publication peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
       "id": "anil-credit-taux-2026",
@@ -296,5 +297,14 @@
       "why_it_matters": "Les conditions de financement influencent directement le pouvoir d’achat immobilier et le volume d’acquéreurs solvables."
     }
   ],
-  "errors": []
+  "source_stats": {
+    "ANIL": 13,
+    "Service-Public.fr": 1
+  },
+  "errors": [
+    {
+      "source": "Légifrance",
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.legifrance.gouv.fr/"
+    }
+  ]
 }
