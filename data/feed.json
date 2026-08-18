@@ -1,7 +1,490 @@
 {
-  "generated_at": "2026-08-18T14:09:03+00:00",
-  "version": "1.2",
+  "generated_at": "2026-08-18T14:25:59+00:00",
+  "version": "1.2.2",
   "items": [
+    {
+      "id": "f5bac7291632fd64",
+      "title": "Voir tous les outils pratiques",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/outils-pratiques/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "df4248294a0bbae0",
+      "title": "Diagnostic de financement immobilier",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/outils/outils-de-calcul/diagnostic-de-financement/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "9db7bb5c20e06033",
+      "title": "Tableau d'amortissement d'un prêt",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/outils/outils-de-calcul/echeancier-dun-pret/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "92f41e704f7a03e7",
+      "title": "Votre prêt à taux zéro",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/outils/outils-de-calcul/votre-pret-a-taux-zero/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 68,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "b117a9615246be86",
+      "title": "Frais d'acquisition (dits frais de notaire)",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/outils/outils-de-calcul/frais-dacquisition-dits-frais-de-notaire/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "54bcd47889763a54",
+      "title": "Coût d'une hypothèque",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/outils/outils-de-calcul/cout-dune-hypotheque/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "8390c7f92289e6e3",
+      "title": "Investissement locatif ou mise en location d'un logement vacant : simulation",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/outil-mise-en-location-simulation-investissement-immobilier-rendement/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "investir",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 73,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut modifier la fiscalité, les contraintes ou l’intérêt économique d’un investissement."
+    },
+    {
+      "id": "2f4d2e22b3364f73",
+      "title": "Plus value immobilière",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/outils/outils-de-calcul/plus-value-immobiliere/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "ec61871d7d35fdce",
+      "title": "Révision de loyer",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/outils/outils-de-calcul/revision-de-loyer/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 73,
+      "relevance": 74,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Ce texte peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "73bb0c07a14f5cf8",
+      "title": "Aides locales",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/outils-pratiques/aides-locales/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 67,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut avoir un impact différent selon la commune, le département ou la zone concernée."
+    },
+    {
+      "id": "7a6fa1dc0f67487a",
+      "title": "Modèles de lettre",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/modele-lettre-courrier-type/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "174d7b44351db6e1",
+      "title": "Consulter tous les indices et plafonds",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/outils/indices-et-plafonds/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "a6f6f9b216ba7cfb",
+      "title": "Parole d'expert",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/parole-expert-logement/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "0797e453efa3f1cd",
+      "title": "Achat-vente immobilière",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/parole-expert-logement/achat-vente-immobiliere/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "8d69f8b27c1a09ce",
+      "title": "Habitat indigne",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/parole-expert-logement-habitat-indigne/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "e41571faff912f93",
+      "title": "Habiter / Vie pratique",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/parole-expert-logement-habiter-vie-pratique/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "9f488d922f79cc0a",
+      "title": "Rénovation énergétique",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/parole-expert-logement-renovation-energetique/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "b4f214fa13294c56",
+      "title": "Qu’est-ce que l’ANIL ?",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/qui-sommes-nous/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "11979dc2c54be3d0",
+      "title": "Réseau des ADIL",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/qui-sommes-nous/reseau-des-adil/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "28669fa02feb5b32",
+      "title": "Rénover pour mieux louer",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/renover-pour-mieux-louer-programme-life/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "ccd618349a19218b",
+      "title": "Les offres d'emploi du réseau ANIL",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/les-offres-demploi-du-reseau-anil/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 73,
+      "relevance": 74,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Ce texte peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "c8277aa9e8a7d6ff",
+      "title": "Simulateurs et Outils de calculs",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/outils/outils-de-calcul/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "fa2f4af95f7ae0ba",
+      "title": "Mémo-check-list",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/outils/memo-checklists/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T14:25:59+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
     {
       "id": "01b98db0dd1941ff",
       "title": "Une nouvelle aide pour l’achat d’une voiture électrique d’occasion : comment en bénéficier ?",
@@ -45,25 +528,25 @@
       "why_it_matters": "Source institutionnelle spécialisée. Cette publication peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
-      "id": "anil-donnees-loyers-2026",
+      "id": "0c1e8093029e8672",
       "title": "De nouvelles données sur les loyers sont disponibles",
-      "summary": "L’ANIL a annoncé début août la mise à disposition de nouvelles données sur les loyers.",
-      "url": "https://www.anil.org/",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.observatoires-des-loyers.org/connaitre-les-loyers/carte-des-niveaux-de-loyers",
       "source": "ANIL",
       "source_level": "B",
       "source_type": "institutionnelle",
-      "category": "marche",
+      "category": "lois",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-03T08:00:00+02:00",
-      "status": "Données",
-      "importance": 78,
-      "relevance": 82,
+      "published_at": "2026-08-04T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 73,
+      "relevance": 74,
       "territory": "France",
-      "why_it_matters": "Les loyers sont un indicateur central pour comparer les territoires et mesurer la tension locative."
+      "why_it_matters": "Source institutionnelle spécialisée. Ce texte peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
       "id": "1cc513da92ef3bd1",
@@ -171,10 +654,10 @@
       "why_it_matters": "Source institutionnelle spécialisée. Cette publication peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
-      "id": "anil-loyers-zones-tendues-2026",
-      "title": "Encadrement de l’évolution des loyers en zones tendues à compter du 1er août 2026",
-      "summary": "L’ANIL a publié une analyse juridique dédiée à l’encadrement de l’évolution des loyers dans les zones tendues.",
-      "url": "https://www.anil.org/centre-de-ressources/",
+      "id": "091448832a801dbf",
+      "title": "Nouvelle Parole d'expert : mon propriétaire peut-il augmenter mon loyer ?",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/parole-expert-logement-location-bailleur-augmentation-loyer/",
       "source": "ANIL",
       "source_level": "B",
       "source_type": "institutionnelle",
@@ -184,12 +667,33 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-23T08:00:00+02:00",
-      "status": "Analyse juridique",
-      "importance": 92,
-      "relevance": 88,
+      "published_at": "2026-07-28T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 73,
+      "relevance": 74,
       "territory": "France",
-      "why_it_matters": "Concerne directement la fixation ou l’évolution du loyer pour de nombreux bailleurs et professionnels."
+      "why_it_matters": "Source institutionnelle spécialisée. Ce texte peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "7ca85d38f6d0af4e",
+      "title": "Nouvelle analyse juridique : Encadrement de l’évolution des loyers en zones tendues à compter du 1er août 2026",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/analyse-juridique-encadrement-evolution-loyers-zones-tendues/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-23T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 73,
+      "relevance": 74,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Ce texte peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
       "id": "f48d3e3cac69b880",
@@ -213,25 +717,25 @@
       "why_it_matters": "Source institutionnelle dédiée au logement ; le contenu est classé automatiquement pour faciliter la veille."
     },
     {
-      "id": "anil-irl-t2-2026",
-      "title": "IRL : le nouvel indice du 2e trimestre 2026 est publié",
-      "summary": "L’ANIL indique que le dernier indice de référence des loyers du deuxième trimestre 2026 a été publié au Journal officiel.",
-      "url": "https://www.anil.org/actualites-evenements/",
+      "id": "835b5e22c72ab043",
+      "title": "Nouvelle parole d'expert : Location de vacances : quelles sont les différences entre l’acompte et les arrhes ?",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/parole-expert-logement-location-vacances-garanties-contrat/",
       "source": "ANIL",
       "source_level": "B",
       "source_type": "institutionnelle",
-      "category": "lois",
+      "category": "investir",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-12T08:00:00+02:00",
-      "status": "Publié",
-      "importance": 86,
-      "relevance": 83,
+      "published_at": "2026-07-14T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 73,
       "territory": "France",
-      "why_it_matters": "L’IRL sert de référence pour certaines révisions de loyers lorsque les conditions légales et contractuelles sont réunies."
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut modifier la fiscalité, les contraintes ou l’intérêt économique d’un investissement."
     },
     {
       "id": "7b241d7bae5586fc",
@@ -276,10 +780,157 @@
       "why_it_matters": "Source institutionnelle spécialisée. Cette publication peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
-      "id": "anil-credit-taux-2026",
-      "title": "Des taux toujours stables malgré un regain de tensions obligataires",
-      "summary": "L’ANIL a publié au deuxième trimestre 2026 un indicateur consacré à l’évolution des taux de crédit immobilier.",
-      "url": "https://www.anil.org/centre-de-ressources/votre-recherche/etudes-eclairages/",
+      "id": "b99339a3084c52a7",
+      "title": "Location de vacances : locataires et propriétaires bailleurs, connaissez-vous vos droits ?",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/actualites-evenements/details/location-de-vacances-locataires-et-proprietaires-bailleurs-connaissez-vous-vos-droits/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "investir",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-07-08T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 73,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut modifier la fiscalité, les contraintes ou l’intérêt économique d’un investissement."
+    },
+    {
+      "id": "f4b63184c92c8645",
+      "title": "L’ADIL du Loiret et d’Eure-et-Loir lance son cahier de vacances spécial logement",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/actualites-evenements/details/ladil-du-loiret-et-deure-et-loir-lance-son-cahier-de-vacances-special-logement/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-03T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 73,
+      "relevance": 74,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Ce texte peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "3074b68622c6aaea",
+      "title": "Nouvelle analyse juridique : Améliorer l'accès au logement des travailleurs des services publics",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/documentation-experte/analyses-juridiques-jurisprudence/ameliorer-lacces-au-logement-des-travailleurs-des-services-publics/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-06-30T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 70,
+      "relevance": 74,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Ce texte peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "0bfde29439edf91f",
+      "title": "Pourquoi des données fiables sur les loyers sont essentielles ? Témoignage d'Antoine Armand, Maire d'Annecy",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/actualites-evenements/details/pourquoi-des-donnees-fiables-sur-les-loyers-sont-essentielles-temoignage-dantoine-armand-maire-dannecy/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-06-22T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 73,
+      "relevance": 74,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Ce texte peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "27266a607335f341",
+      "title": "Séminaire annuel du réseau des Observatoires locaux des loyers à Annecy",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/actualites-evenements/details/seminaire-annuel-du-reseau-des-observatoires-locaux-des-loyers-a-annecy/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-06-17T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 73,
+      "relevance": 74,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Ce texte peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "0ced619a84626a1f",
+      "title": "Comment fixer le montant de son loyer ?",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/parole-expert-logement-location/comment-fixer-le-montant-dun-loyer/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-06-16T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 73,
+      "relevance": 74,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Ce texte peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "83a217a99cee4fb5",
+      "title": "Le Bail mobilité, vous connaissez ?",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/votre-besoin/louer/type-de-location/bail-mobilite/quest-ce-que-le-bail-mobilite/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-06-12T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 70,
+      "relevance": 74,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Ce texte peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "00361a62a66e3d71",
+      "title": "Nouvelle publication : Les ADIL, productrices de connaissance sur le logement !",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/documentation-experte/etudes-eclairages/etudes-et-eclairages-2026/etudes-2025-du-reseau-des-adil/",
       "source": "ANIL",
       "source_level": "B",
       "source_type": "institutionnelle",
@@ -289,16 +940,121 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-05-18T08:00:00+02:00",
-      "status": "Étude",
-      "importance": 80,
-      "relevance": 79,
+      "published_at": "2026-06-11T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
       "territory": "France",
-      "why_it_matters": "Les conditions de financement influencent directement le pouvoir d’achat immobilier et le volume d’acquéreurs solvables."
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "534061388eb58077",
+      "title": "Dossier facile : constituez un dossier de location numérique de qualité",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/actualites-evenements/details/dossier-facile-constituer-un-dossier-de-location-numerique-de-qualite/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "investir",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-06-08T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 73,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut modifier la fiscalité, les contraintes ou l’intérêt économique d’un investissement."
+    },
+    {
+      "id": "4fb841bf7c3446a5",
+      "title": "Nouvelle Parole d'expert : Travailleur saisonnier : comment trouver un logement saisonnier ?",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/parole-expert-logement-trouver-location-saisonnier-travail/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-06-02T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
+    },
+    {
+      "id": "2abbd55b1c8116ba",
+      "title": "Je cherche une location, mais je n’ai pas de garant. Comment faire pour louer ?",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/parole-expert-logement-location-pas-garant/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "investir",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-05-28T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 73,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut modifier la fiscalité, les contraintes ou l’intérêt économique d’un investissement."
+    },
+    {
+      "id": "a16a999273a9ca16",
+      "title": "Nouvelle Parole d'expert : Comment préparer un dossier de location rassurant pour le propriétaire ?",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/parole-expert-logement-constituer-dossier-location/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "investir",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-05-19T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 73,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut modifier la fiscalité, les contraintes ou l’intérêt économique d’un investissement."
+    },
+    {
+      "id": "e6caecaa2436b5e6",
+      "title": "Quelles solutions de logement pour les étudiants ?",
+      "summary": "Publication immobilière repérée depuis l’ANIL. Le lien ouvre directement la page correspondant à cette information.",
+      "url": "https://www.anil.org/parole-expert-logement-location-etudiants-solutions/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-05-13T08:00:00+00:00",
+      "status": "Analyse / actualité ANIL",
+      "importance": 62,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle spécialisée. Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché."
     }
   ],
   "source_stats": {
-    "ANIL": 13,
+    "ANIL": 49,
     "Service-Public.fr": 1
   },
   "legal_stats": {
