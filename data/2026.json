@@ -1,0 +1,113 @@
+{
+  "version": "7.0",
+  "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
+  "generated_at": "2026-08-18T22:31:00+02:00",
+  "items": [
+    {
+      "id": "insee-prix-t1-2026",
+      "title": "Les prix de l’ancien progressent légèrement au 1er trimestre",
+      "summary": "Les prix des logements anciens augmentent de 0,2 % sur le trimestre et de 0,1 % sur un an. Le nombre de transactions annuelles se stabilise à 952 000 fin mars.",
+      "url": "https://www.insee.fr/fr/statistiques/8995299",
+      "source": "Insee",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-05-28T08:45:00+02:00",
+      "status": "Chiffre officiel",
+      "importance": 92,
+      "relevance": 90,
+      "territory": "France",
+      "topic": "Prix",
+      "why_it_matters": "Le marché ne baisse plus à l’échelle nationale, mais le redémarrage reste modéré et hétérogène."
+    },
+    {
+      "id": "bdf-credit-2026-05",
+      "title": "Crédit immobilier : les dernières données de la Banque de France",
+      "summary": "En mai 2026, la production de crédits à l’habitat hors renégociations atteint 11,4 Md€ et le taux moyen s’établit à 3,21 %.",
+      "url": "https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-2026-05",
+      "source": "Banque de France",
+      "source_level": "A",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-08T09:00:00+02:00",
+      "status": "Donnée officielle",
+      "importance": 91,
+      "relevance": 89,
+      "territory": "France",
+      "topic": "Crédit",
+      "why_it_matters": "Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets."
+    },
+    {
+      "id": "sdes-construction",
+      "title": "La construction de logements reste nettement sous sa moyenne récente",
+      "summary": "Sur douze mois, les autorisations de logements restent nettement sous la moyenne des cinq années précédentes.",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/construction-de-logements-resultats-fin-juin-2026-france-entiere",
+      "source": "SDES / Sitadel",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-28T09:00:00+02:00",
+      "status": "Donnée officielle",
+      "importance": 90,
+      "relevance": 86,
+      "territory": "France",
+      "topic": "Construction",
+      "why_it_matters": "Une construction durablement faible limite l’offre future et entretient les tensions sur certains marchés."
+    },
+    {
+      "id": "eurlex-epbd",
+      "title": "Directive (UE) 2024/1275 sur la performance énergétique des bâtiments",
+      "summary": "Le texte européen fixe une trajectoire de performance énergétique et de rénovation du parc immobilier.",
+      "url": "https://eur-lex.europa.eu/eli/dir/2024/1275/oj?locale=fr",
+      "source": "EUR-Lex",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-05-24T09:00:00+02:00",
+      "status": "Directive — transposition nationale",
+      "importance": 94,
+      "relevance": 88,
+      "territory": "Union européenne",
+      "topic": "Droit européen",
+      "legal_stage": "jorf",
+      "why_it_matters": "Les futures règles françaises de rénovation et de performance énergétique s’inscrivent dans ce cadre européen."
+    },
+    {
+      "id": "mysweetimmo-locatif",
+      "title": "Le marché locatif repart, mais les petites surfaces restent rares",
+      "summary": "L’offre locative progresse, sans retour à la normale pour les studios et deux-pièces dans les zones les plus tendues.",
+      "url": "https://www.mysweetimmo.com/2026/07/10/location-1er-semestre-2026-bienici-le-marche-repart-mais-les-petites-surfaces-restent-introuvables/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-10T09:00:00+02:00",
+      "status": "Analyse média",
+      "importance": 72,
+      "relevance": 75,
+      "territory": "France",
+      "topic": "Location",
+      "why_it_matters": "Le retour de l’offre ne suffit pas encore à détendre certains segments locatifs."
+    }
+  ]
+}
