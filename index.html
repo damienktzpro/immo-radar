@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#0b1220" />
+  <meta name="description" content="Immo Radar — veille immobilière, lois, marché et opportunités." />
+  <title>Immo Radar</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="Immo Radar">
+      <span class="brand-mark">IR</span>
+      <span>
+        <strong>Immo Radar</strong>
+        <small>Marché · Lois · Opportunités</small>
+      </span>
+    </a>
+
+    <div class="profile-switch" role="group" aria-label="Profil">
+      <button data-profile="particulier">Particulier</button>
+      <button data-profile="investisseur" class="active">Investisseur</button>
+      <button data-profile="pro">Pro</button>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero shell">
+      <div>
+        <span class="eyebrow">Veille immobilière intelligente</span>
+        <h1>Comprendre ce qui change dans l’immobilier.</h1>
+        <p>Les informations importantes, hiérarchisées par fiabilité, impact et pertinence pour votre profil.</p>
+      </div>
+      <div class="hero-badge">
+        <span class="pulse"></span>
+        <div>
+          <strong id="lastUpdate">Mise à jour en cours…</strong>
+          <small>Actualisation automatisée via GitHub Actions</small>
+        </div>
+      </div>
+    </section>
+
+    <section class="shell radar-grid" aria-label="Baromètre immobilier">
+      <article class="meter-card">
+        <div class="meter-head">
+          <div>
+            <span class="card-kicker">Température du marché</span>
+            <h2 id="marketScore">—</h2>
+          </div>
+          <span id="marketLabel" class="status-pill">—</span>
+        </div>
+        <div class="meter-track"><div id="marketBar" class="meter-fill"></div></div>
+        <p id="marketComment">Chargement…</p>
+      </article>
+
+      <article class="meter-card">
+        <span class="card-kicker">Rapport de force</span>
+        <h3 id="balanceLabel">—</h3>
+        <div class="balance">
+          <span>Acheteurs</span>
+          <div class="balance-track"><i id="balanceDot"></i></div>
+          <span>Vendeurs</span>
+        </div>
+        <p id="balanceComment">Chargement…</p>
+      </article>
+
+      <article class="meter-card">
+        <span class="card-kicker">Financement</span>
+        <h3 id="financeLabel">—</h3>
+        <div class="balance">
+          <span>Contraignant</span>
+          <div class="balance-track"><i id="financeDot"></i></div>
+          <span>Favorable</span>
+        </div>
+        <p id="financeComment">Chargement…</p>
+      </article>
+    </section>
+
+    <section class="shell toolbar">
+      <div class="tabs" role="tablist">
+        <button class="tab active" data-category="all">Aujourd’hui</button>
+        <button class="tab" data-category="lois">Lois & réglementation</button>
+        <button class="tab" data-category="marche">Marché</button>
+        <button class="tab" data-category="investir">Investir</button>
+        <button class="tab" data-category="territoires">Territoires</button>
+      </div>
+
+      <div class="filters">
+        <label>
+          Trier
+          <select id="sortSelect">
+            <option value="pertinence">Plus pertinent</option>
+            <option value="recent">Plus récent</option>
+            <option value="important">Plus important</option>
+          </select>
+        </label>
+        <label class="official-toggle">
+          <input type="checkbox" id="officialOnly" />
+          <span>Officiel uniquement</span>
+        </label>
+      </div>
+    </section>
+
+    <section class="shell content-layout">
+      <div>
+        <div class="section-title">
+          <div>
+            <span class="eyebrow">Votre veille</span>
+            <h2 id="feedTitle">À retenir aujourd’hui</h2>
+          </div>
+          <span id="resultCount" class="count-pill">0 info</span>
+        </div>
+        <div id="feed" class="feed"></div>
+        <div id="emptyState" class="empty" hidden>
+          <strong>Aucun résultat avec ces filtres.</strong>
+          <span>Essayez un autre profil ou désactivez « officiel uniquement ».</span>
+        </div>
+      </div>
+
+      <aside>
+        <div class="side-card">
+          <span class="card-kicker">Fiabilité des sources</span>
+          <h3>Une hiérarchie explicite</h3>
+          <ul class="source-legend">
+            <li><b class="level a">A</b><span><strong>Officielle</strong><small>Légifrance, INSEE, Banque de France…</small></span></li>
+            <li><b class="level b">B</b><span><strong>Institutionnelle</strong><small>ANIL, Notaires, ADEME…</small></span></li>
+            <li><b class="level c">C</b><span><strong>Média spécialisé</strong><small>Presse professionnelle sélectionnée</small></span></li>
+            <li><b class="level d">D</b><span><strong>Expert / blog</strong><small>Opinion et signaux faibles</small></span></li>
+          </ul>
+        </div>
+
+        <div class="side-card">
+          <span class="card-kicker">Principe juridique</span>
+          <h3>Pas de confusion entre annonce et loi</h3>
+          <p>Chaque texte doit afficher son statut : projet, adopté, promulgué, décret attendu ou en vigueur.</p>
+        </div>
+      </aside>
+    </section>
+  </main>
+
+  <footer>
+    <div class="shell footer-inner">
+      <span>Immo Radar · V1 GitHub Pages</span>
+      <span>Information et veille — pas de conseil juridique ou financier personnalisé.</span>
+    </div>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
