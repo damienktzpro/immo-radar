@@ -177,7 +177,7 @@ function renderFeed() {
               rel="noopener noreferrer"
               aria-label="Voir la source : ${esc(item.title)}"
             >
-              <span>Voir la source</span>
+              <span>Ouvrir l’article</span>
               <span aria-hidden="true">↗</span>
             </a>
           </div>
