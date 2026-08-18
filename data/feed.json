@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:03:58+00:00",
+  "generated_at": "2026-08-18T21:10:46+00:00",
   "version": "4.0",
   "items": [
     {
@@ -168,6 +168,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
+    },
+    {
+      "id": "08b1588075d7e3f3",
+      "title": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux",
+      "summary": "Investir / Financer Crédit immobilier : Faut-il emprunter maintenant ou attendre septembre ? Les vrais prix de l'immobilier Immobilier : Trop de biens à vendre, les prix affichés reculent en Grande-Bretagne Vie Pro Prospection immobilière : Acheter un lead vendeur ne suffit plus pour pouvoir l’appeler Propriétaires ou locataires Article sponsorisé Les bases pour protéger efficacement son logement : sécurisation et couverture financière Marché immobilier Immobilier : Quand la",
+      "url": "https://www.mysweetimmo.com/2026/08/13/trouvez-des-bureaux-disponibles-rapidement-a-paris-avec-geolocaux/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets."
     },
     {
       "id": "554aa5802fa13bcf",
@@ -379,27 +400,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets."
     },
     {
-      "id": "08b1588075d7e3f3",
-      "title": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux",
-      "summary": "Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Après leboncoin, Aurélien Flament prend la tête",
-      "url": "https://www.mysweetimmo.com/2026/08/13/trouvez-des-bureaux-disponibles-rapidement-a-paris-avec-geolocaux/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
-    },
-    {
       "id": "8baf2bfb80be582c",
       "title": "Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026",
       "summary": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Après leboncoin, Aurélien Flament prend la tête d’",
@@ -488,6 +488,27 @@
       "title": "Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026",
       "summary": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Après leboncoin, Aurélien Flament prend la tête d’idealista Franc",
       "url": "https://www.mysweetimmo.com/2026/08/04/immobilier-ce-que-lai-act-change-vraiment-pour-les-agences-depuis-le-2-aout-2026/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "b26c4ee2b6aa7dcd",
+      "title": "Après leboncoin, Aurélien Flament prend la tête d’idealista France",
+      "summary": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Immobilier : Ce que l’AI Act change vraiment pour les agences depu",
+      "url": "https://www.mysweetimmo.com/2026/08/04/apres-leboncoin-aurelien-flament-prend-la-tete-didealista-france/",
       "source": "MySweetImmo",
       "source_level": "C",
       "category": "lois",
@@ -963,27 +984,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "5813aca4ed50fbf0",
-      "title": "Annonces immobilières : Première position garantie avec Priority & Top Position de Belles Demeures",
-      "summary": "Investir / Financer Crédit immobilier : Faut-il emprunter maintenant ou attendre septembre ? Les vrais prix de l'immobilier Immobilier : Trop de biens à vendre, les prix affichés reculent en Grande-Bretagne Vie Pro Prospection immobilière : Acheter un lead vendeur ne suffit plus pour pouvoir l’appeler Propriétaires ou locataires Article sponsorisé Les bases pour protéger efficacement son logement : sécurisation et couverture financière Marché immobilier Immobilier : Quand la",
-      "url": "https://www.mysweetimmo.com/2026/07/27/immobilier-de-luxe-belles-demeures-lance-top-position-pour-les-agences-immobilieres/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "credit",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-27T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Credit",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets."
     },
     {
       "id": "773d75a1499ae3b3",
@@ -1470,7 +1470,7 @@
     {
       "id": "69565539196cd1c3",
       "title": "Tous corps d'état",
-      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Témoin \"En matière de transition écologique, il n'y",
+      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 18/08/2026 Économie Saint-Gobain con",
       "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -1491,7 +1491,7 @@
     {
       "id": "135874d9ef9c7687",
       "title": "Tous métiers de la construction",
-      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Témoin \"En matière de transition écologique, il n'y a pas de compé",
+      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 18/08/2026 Économie Saint-Gobain confirme le retou",
       "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -1512,7 +1512,7 @@
     {
       "id": "b507c4ff7769afdd",
       "title": "Construction (tous corps d'état)",
-      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Témoin \"En matière de transition écologique, il n'y a pas de compét",
+      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 18/08/2026 Économie Saint-Gobain confirme le retour",
       "url": "https://www.batiactu.com/theme/theme-construction.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -1693,10 +1693,10 @@
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 14,
-    "errors": 1,
+    "sources_ok": 13,
+    "errors": 2,
     "retained": 80,
-    "rejected": 336,
+    "rejected": 335,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
@@ -1705,8 +1705,8 @@
       },
       "Banque de France": {
         "level": "A",
-        "ok": true,
-        "retained": 1
+        "ok": false,
+        "retained": 0
       },
       "Insee": {
         "level": "A",
@@ -1776,6 +1776,10 @@
     }
   },
   "errors": [
+    {
+      "source": "Banque de France",
+      "error": "HTTPSConnectionPool(host='www.banque-france.fr', port=443): Read timed out. (read timeout=22)"
+    },
     {
       "source": "Légifrance",
       "error": "403 Client Error: Forbidden for url: https://www.legifrance.gouv.fr/"
