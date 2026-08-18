@@ -13,8 +13,78 @@ const dateObj=v=>{if(!v)return null;const d=new Date(v);return Number.isNaN(d.ge
 function fmtDate(v){const d=dateObj(v);return d?new Intl.DateTimeFormat("fr-FR",{day:"2-digit",month:"short",year:"numeric"}).format(d).toUpperCase():"DATE NON DISPONIBLE"}
 function fmtUpdate(v){const d=dateObj(v);return d?`VEILLE MISE À JOUR LE ${new Intl.DateTimeFormat("fr-FR",{day:"2-digit",month:"long",year:"numeric"}).format(d).toUpperCase()}`:"VEILLE MISE À JOUR"}
 function ageDays(v){const d=dateObj(v);return d?Math.floor((Date.now()-d.getTime())/86400000):9999}
-function score(i){let n=Number(i.relevance||0);if((i.audiences||[]).includes(state.profile))n+=8;const fb=state.feedback[i.id];if(fb==="more")n+=6;if(fb==="less")n-=10;return Math.max(0,Math.min(100,n))}
+function score(i){
+  let n=Number(i.relevance||0);
+  if((i.audiences||[]).includes(state.profile))n+=5;
+
+  const weights={
+    particulier:{lois:7,credit:11,marche:7,territoires:5,investir:1,pro:-8},
+    investisseur:{lois:8,credit:9,marche:7,territoires:7,investir:14,pro:3},
+    pro:{lois:10,credit:4,marche:9,territoires:8,investir:4,pro:15}
+  };
+  n+=(weights[state.profile]?.[i.category]||0);
+
+  const fb=state.feedback[i.id];
+  if(fb==="more")n+=7;
+  if(fb==="less")n-=12;
+  return Math.max(0,Math.min(100,n));
+}
 function savePrefs(){localStorage.setItem("radarFavorites",JSON.stringify(state.favorites));localStorage.setItem("radarFeedback",JSON.stringify(state.feedback))}
+
+function profileContext(){
+  return {
+    particulier:{
+      hero:"Achat, vente, crédit, travaux : les signaux qui peuvent réellement changer votre projet.",
+      note:"Le fil privilégie achat, crédit, DPE, travaux, location et copropriété.",
+      feed:"Ce qui peut changer votre projet",
+      lens:"Pour un particulier : regardez surtout le coût du crédit, la capacité de négociation et l’évolution des prix."
+    },
+    investisseur:{
+      hero:"Rendement, fiscalité, loyers, financement : une lecture conçue pour décider avec plus de contexte.",
+      note:"Le fil privilégie rendement, fiscalité, financement, loyers et réglementation bailleurs.",
+      feed:"Ce qui peut changer votre rendement",
+      lens:"Pour un investisseur : surveillez le coût du financement, la tension locative, la fiscalité et l’offre future."
+    },
+    pro:{
+      hero:"Volumes, réglementation, construction, réseaux et outils : les signaux utiles pour piloter votre activité.",
+      note:"Le fil privilégie réglementation, volumes, construction, agences, syndic, proptech et marché local.",
+      feed:"Ce qui peut changer votre activité",
+      lens:"Pour un professionnel : l’activité dépend surtout des volumes, du crédit, de la réglementation et du marché local."
+    }
+  }[state.profile];
+}
+function profileWhy(i){
+  const base=i.why_it_matters||"Cette information a un impact immobilier concret à surveiller.";
+  const extra={
+    particulier:{
+      lois:" À vérifier avant d’acheter, vendre, louer ou engager des travaux.",
+      credit:" Impact direct sur votre capacité d’emprunt, votre mensualité et votre budget.",
+      marche:" Peut modifier le bon moment pour acheter, vendre ou négocier.",
+      territoires:" À confronter aux données de votre commune avant toute décision."
+    },
+    investisseur:{
+      lois:" Peut modifier votre fiscalité, vos obligations ou la rentabilité nette.",
+      credit:" Le coût de la dette peut faire basculer la rentabilité d’une opération.",
+      marche:" À lire avec les loyers, la vacance et le prix d’entrée.",
+      investir:" À intégrer directement dans votre calcul de rendement et de risque.",
+      territoires:" La rentabilité se joue souvent à l’échelle locale, pas nationale."
+    },
+    pro:{
+      lois:" Peut modifier vos obligations, vos process ou l’information à transmettre aux clients.",
+      credit:" Peut affecter la solvabilité des acquéreurs et les volumes de transactions.",
+      marche:" Peut changer les volumes, les délais et le rapport de force avec les clients.",
+      pro:" Signal à intégrer dans vos outils, vos argumentaires ou votre organisation.",
+      territoires:" Peut avoir un impact direct sur votre activité commerciale locale."
+    }
+  };
+  return base+(extra[state.profile]?.[i.category]||"");
+}
+function renderProfileContext(){
+  const c=profileContext();
+  if($("#heroProfileCopy"))$("#heroProfileCopy").textContent=c.hero;
+  if($("#profileNote"))$("#profileNote").textContent=c.note;
+  if($("#marketProfileLens"))$("#marketProfileLens").innerHTML=`<strong>Lecture ${state.profile==="pro"?"professionnelle":state.profile} :</strong> ${esc(c.lens)}`;
+}
 function sourceReliability(i){return i.source_level==="A"?"Officielle · Fiabilité 100/100":i.source_level==="B"?"Institutionnelle · Fiabilité 96/100":i.source_level==="C"?"Média spécialisé · Fiabilité 78/100":"Blog / expert · Fiabilité 68/100"}
 function kind(i){if(i.category==="lois")return i.legal_stage?"NOUVELLE RÈGLE":"ACTUALITÉ JURIDIQUE";if(i.category==="credit")return"CRÉDIT IMMOBILIER";if(i.category==="investir")return"INVESTISSEMENT";if(i.category==="territoires")return"DONNÉES LOCALES";if(i.category==="pro")return"PROFESSIONNELS";if(i.source_level==="A")return"CHIFFRE OFFICIEL";if(i.source_level==="C")return"ANALYSE MÉDIA";if(i.source_level==="D")return"ANALYSE EXPERT";return"ACTUALITÉ IMMOBILIÈRE"}
 function filterMatches(i){
@@ -71,11 +141,12 @@ function renderMarket(){
   $("#marketKeyFigures").innerHTML=(m.key_figures||[]).slice(0,3).map(k=>`<div class="key-figure ${k.negative?"negative":""}"><small>${esc(k.label)}</small><strong>${esc(k.value)}</strong></div>`).join("");
   $("#marketComponents").innerHTML=(m.components||[]).map(c=>`<div class="component"><small>${esc(c.label)}</small><strong>${esc(c.value)}</strong><span>${esc(c.source)} · ${esc(c.period||"")}</span><span class="trend">${esc(c.trend||"→")}</span></div>`).join("");
   $("#marketConfidence").textContent=`${m.confidence||0}/100`;
+  renderProfileContext();
   $("#pulseGrid").innerHTML=(m.pulse||[]).slice(0,3).map((p,idx)=>`<article class="pulse-card"><span class="pulse-index">0${idx+1}</span><span class="label">${esc(p.label)}</span><h3>${esc(p.title)}</h3><p>${esc(p.text)}</p>${p.url?`<a href="${esc(p.url)}" target="_blank" rel="noopener">Voir la source ↗</a>`:""}</article>`).join("");
 }
 function pageConfig(){
   return {
-    today:{eyebrow:"Fil personnalisé",title:"À la une pour vous",desc:""},
+    today:{eyebrow:"Fil personnalisé",title:profileContext().feed,desc:""},
     laws:{eyebrow:"Radar juridique",title:"Lois & réglementation",desc:"Suivez les textes immobiliers français et européens sans confondre projet, adoption, publication et entrée en vigueur."},
     market:{eyebrow:"Marché immobilier",title:"Prix, crédit & activité",desc:"Les données officielles et les analyses qui permettent de lire la situation du marché."},
     invest:{eyebrow:"Investissement",title:"Investir avec plus de contexte",desc:"Fiscalité, LMNP, location nue, SCPI, financement et signaux de marché."},
@@ -138,7 +209,7 @@ function story(i,idx){
     <div class="story-meta"><span class="kind">${esc(kind(i))}</span><span>·</span>${i.status?`<span class="status">${esc(i.status)}</span><span>·</span>`:""}<span>${esc(i.territory||"France")}</span><span>·</span><span>${esc(fmtDate(i.published_at))}</span></div>
     <h3><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
     <p class="story-summary">${esc(i.summary)}</p>
-    <div class="why-box"><strong>Pourquoi c’est important</strong><p>${esc(i.why_it_matters||"Cette information a un impact immobilier concret à surveiller.")}</p></div>
+    <div class="why-box"><strong>Pourquoi c’est important</strong><p>${esc(profileWhy(i))}</p></div>
     <div class="story-footer"><div class="source-info"><span class="source-check">✓</span><span><strong>${esc(i.source)}</strong><small>${esc(sourceReliability(i))}</small></span></div><div class="score"><span>Pertinence</span><strong>${s}</strong></div><a class="source-arrow" href="${esc(i.url)}" target="_blank" rel="noopener" aria-label="Ouvrir la source">↗</a></div>
     <div class="story-actions"><button data-action="fav" class="${fav?"active":""}">☆ Favori</button><button data-action="more" class="${fb==="more"?"active":""}">↑ Plus comme ça</button><button data-action="less" class="${fb==="less"?"active":""}">↓ Moins comme ça</button></div>
   </div></article>`;
@@ -158,7 +229,7 @@ function renderSystem(){
 function showSources(){$("#sourcesPanel").hidden=false;$("#sourcesPanel").scrollIntoView({behavior:"smooth"})}
 function setPage(p){state.page=p;state.filter=p==="laws"?"lois":p==="market"?"all":p==="invest"?"investir":p==="territories"?"all":"all";$$(".nav-btn").forEach(b=>b.classList.toggle("active",b.dataset.page===p));$$(".filter-btn").forEach(b=>b.classList.toggle("active",b.dataset.filter===state.filter));renderPage();if(p!=="today")$("#pageIntro").scrollIntoView({behavior:"smooth",block:"start"})}
 function bind(){
-  $$(".profile-switch button").forEach(b=>{b.classList.toggle("active",b.dataset.profile===state.profile);b.onclick=()=>{state.profile=b.dataset.profile;localStorage.setItem("radarProfile",state.profile);$$(".profile-switch button").forEach(x=>x.classList.toggle("active",x===b));renderFeed()}});
+  $$(".profile-switch button").forEach(b=>{b.classList.toggle("active",b.dataset.profile===state.profile);b.onclick=()=>{state.profile=b.dataset.profile;localStorage.setItem("radarProfile",state.profile);$$(".profile-switch button").forEach(x=>x.classList.toggle("active",x===b));renderProfileContext();renderMarket();renderPage()}});
   $$(".nav-btn").forEach(b=>b.onclick=()=>setPage(b.dataset.page));
   $$(".filter-btn").forEach(b=>b.onclick=()=>{state.filter=b.dataset.filter;$$(".filter-btn").forEach(x=>x.classList.toggle("active",x===b));renderFeed()});
   $$(".fresh-btn").forEach(b=>b.onclick=()=>{state.freshness=b.dataset.freshness;$$(".fresh-btn").forEach(x=>x.classList.toggle("active",x===b));renderFeed()});
@@ -171,7 +242,7 @@ function bind(){
 async function load(){
   bind();
   try{
-    const [f,m]=await Promise.all([fetch("./data/feed.json",{cache:"no-store"}),fetch("./data/market.json",{cache:"no-store"})]);const feed=await f.json();state.items=feed.items||[];state.sourceStats=feed.source_stats||{};state.health=feed.health||{};state.market=await m.json();$("#lastUpdate").textContent=fmtUpdate(feed.generated_at);renderMarket();renderSystem();renderPage();
+    const [f,m]=await Promise.all([fetch("./data/feed.json",{cache:"no-store"}),fetch("./data/market.json",{cache:"no-store"})]);const feed=await f.json();state.items=feed.items||[];state.sourceStats=feed.source_stats||{};state.health=feed.health||{};state.market=await m.json();$("#lastUpdate").textContent=fmtUpdate(feed.generated_at);renderProfileContext();renderMarket();renderSystem();renderPage();
   }catch(e){console.error(e);$("#lastUpdate").textContent="ERREUR DE CHARGEMENT";}
 }
 load();
