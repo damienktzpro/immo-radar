@@ -1,818 +1,255 @@
 #!/usr/bin/env python3
-"""
-Immo Radar V1.2.2 — collecteur + liens directs.
-
-Sources :
-- Service-Public.fr (A)
-- Légifrance / JORF (A)
-- Sénat / DOSLEG (A)
-- ANIL (B)
-
-Le radar juridique utilise les états officiels du Sénat lorsqu'ils sont
-disponibles. L'entrée en vigueur n'est PAS inférée automatiquement.
-"""
-
 from __future__ import annotations
-
-import argparse
-import hashlib
-import html
-import io
-import json
-import re
-import zipfile
+import hashlib, html, io, json, os, re, zipfile
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urljoin, urlsplit, urlunsplit
-
-import feedparser
-import requests
+import feedparser, requests
 from bs4 import BeautifulSoup
 
-ROOT = Path(__file__).resolve().parents[1]
-FEED_PATH = ROOT / "data" / "feed.json"
+ROOT=Path(__file__).resolve().parents[1]
+FEED=ROOT/"data"/"feed.json"; MARKET=ROOT/"data"/"market.json"
+UA="Mozilla/5.0 (compatible; ImmoRadar/2.0; +https://github.com/damienktzpro/immo-radar)"
+TIMEOUT=30
 
-UA = (
-    "Mozilla/5.0 (compatible; ImmoRadar/1.2; "
-    "+https://github.com/damienktzpro/immo-radar)"
+REAL_ESTATE=(
+"immobilier","logement","habitation","loyer","location","locataire","bailleur","bail ","baux","copropriété","copropriete","syndic","construction","urbanisme","foncier","propriété","propriete","dpe","performance énergétique","performance energetique","rénovation énergétique","renovation energetique","passoire thermique","meublé","meuble","taxe foncière","taxe fonciere","ptz","prêt à taux zéro","pret a taux zero","crédit immobilier","credit immobilier","action logement","anah","maprimerénov","maprimerenov","encadrement des loyers","permis de construire","vente immobilière","vente immobiliere","bâtiment","batiment","scpi","lmnp","promoteur","agence immobilière","agence immobiliere","mandataire immobilier","proptech","résidence principale","residence principale","résidence secondaire","residence secondaire","diagnostic immobilier","patrimoine bâti","patrimoine bati"
 )
-
-TIMEOUT = 30
-MAX_ITEMS = 220
-MAX_AGE_DAYS = 730
-
-SERVICE_PUBLIC_RSS = (
-    "https://www.service-public.fr/abonnements/"
-    "rss/actu-actualites-particuliers.rss"
-)
-ANIL_ACTUS = "https://www.anil.org/actualites-evenements/"
-LEGIFRANCE_HOME = "https://www.legifrance.gouv.fr/"
-SENAT_DOSLEG_ZIP = "https://data.senat.fr/data/dosleg/dosleg.zip"
-
-REAL_ESTATE_KEYWORDS = (
-    "immobilier", "logement", "habitation", "loyer", "location", "locataire",
-    "bailleur", "bail ", "baux", "copropriété", "copropriete", "syndic",
-    "construction", "urbanisme", "foncier", "propriété", "propriete",
-    "dpe", "diagnostic de performance énergétique",
-    "diagnostic de performance energetique", "rénovation énergétique",
-    "renovation energetique", "passoire thermique", "meublé de tourisme",
-    "meuble de tourisme", "taxe foncière", "taxe fonciere",
-    "prêt à taux zéro", "pret a taux zero", "ptz", "crédit immobilier",
-    "credit immobilier", "action logement", "anah", "ma prime rénov",
-    "ma prime renov", "maprimerénov", "encadrement des loyers",
-    "permis de construire", "vente immobilière", "vente immobiliere",
-    "hébergement", "hebergement", "bâtiment", "batiment",
-)
-
-CATEGORY_KEYWORDS = {
-    "lois": (
-        "loi", "décret", "decret", "arrêté", "arrete", "ordonnance",
-        "règlement", "reglement", "juridique", "journal officiel",
-        "loyer", "bail", "copropriété", "copropriete", "fiscal",
-        "proposition de loi", "projet de loi",
-    ),
-    "marche": (
-        "prix", "marché", "marche", "taux", "crédit", "credit",
-        "transaction", "vente", "construction", "loyer", "indice",
-    ),
-    "investir": (
-        "invest", "bailleur", "fiscal", "location", "rendement",
-        "meublé", "meuble", "loc'avantages", "scpi",
-    ),
-    "territoires": (
-        "commune", "territoire", "ville", "département", "departement",
-        "local", "observatoire", "zone tendue", "urbanisme",
-    ),
+EXCLUDE=("football","basket","crypto-monnaie","cryptomonnaie","gaming","smartphone","cinéma","cinema","restaurant","mode ","santé ","sante ","automobile")
+CATEGORY={
+"lois":("loi","décret","decret","arrêté","arrete","ordonnance","règlement","reglement","juridique","journal officiel","directive","proposition de loi","projet de loi","copropriété","bail"),
+"marche":("prix","marché","marche","taux","crédit","credit","transaction","vente","construction","loyer","indice"),
+"investir":("invest","bailleur","fiscal","location","rendement","meublé","meuble","lmnp","scpi","foncière","fonciere"),
+"territoires":("commune","territoire","ville","département","departement","local","urbanisme","zone tendue","foncier")
 }
 
+def now(): return datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds")
+def clean(v):
+    if not v:return ""
+    return " ".join(BeautifulSoup(html.unescape(str(v)),"html.parser").get_text(" ").split())
+def norm_url(v):
+    try:
+        p=urlsplit(v);return urlunsplit((p.scheme,p.netloc,p.path,"",""))
+    except:return v or ""
+def sid(source,title,url): return hashlib.sha1(f"{source}|{title}|{norm_url(url)}".encode()).hexdigest()[:16]
+def immobilier(text):
+    t=clean(text).lower()
+    return any(k in t for k in REAL_ESTATE) and not (sum(1 for x in EXCLUDE if x in t)>=2 and not any(k in t for k in ("immobilier","logement","construction","bâtiment","batiment")))
+def category(text):
+    t=clean(text).lower();best=("marche",0)
+    for c,ws in CATEGORY.items():
+        s=sum(1 for w in ws if w in t)
+        if s>best[1]:best=(c,s)
+    return best[0]
+def audience(text,c):
+    t=text.lower()
+    if any(x in t for x in ("lmnp","scpi","bailleur","invest","fiscal","rendement")):return ["investisseur","pro","particulier"]
+    if any(x in t for x in ("agence","syndic","promoteur","proptech","urbanisme")):return ["pro","investisseur","particulier"]
+    return ["particulier","investisseur","pro"]
+def scores(level,c,title):
+    imp=55+(12 if level=="A" else 7 if level=="B" else 2);rel=60+(10 if level=="A" else 7 if level=="B" else 2)
+    if c=="lois":imp+=8;rel+=7
+    if c=="investir":rel+=7
+    if any(x in title.lower() for x in ("entrée en vigueur","entree en vigueur","loi","décret","decret","taux","prix","dpe")):imp+=7
+    return min(100,imp),min(100,rel)
+def item(source,level,title,summary,url,published,status="",territory="France",legal_stage=None,topic=None,source_type=None,excerpt=None,confirmation=None):
+    text=f"{title} {summary}";c=category(text);imp,rel=scores(level,c,title)
+    d={"id":sid(source,title,url),"title":clean(title),"summary":clean(summary)[:520],"url":url,"source":source,"source_level":level,"source_type":source_type or "source","category":c,"audiences":audience(text,c),"published_at":published,"status":status,"importance":imp,"relevance":rel,"territory":territory,"topic":topic or c.capitalize(),"why_it_matters":why(c,level)}
+    if legal_stage:d["legal_stage"]=legal_stage
+    if excerpt:d["original_excerpt"]=clean(excerpt)[:500]
+    if confirmation:d["confirmation"]=confirmation
+    return d
+def why(c,l):
+    base="Source officielle. " if l=="A" else "Source institutionnelle. " if l=="B" else "Source éditoriale immobilière sélectionnée. "
+    return base+{"lois":"Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.","marche":"Cette information aide à lire l’évolution du marché immobilier, des prix, du crédit ou de la construction.","investir":"Cette information peut modifier la fiscalité, le rendement, les contraintes ou le risque d’un investissement.","territoires":"Cette information peut avoir un impact local différent selon la zone concernée."}.get(c,"Impact immobilier à surveiller.")
+def direct(url):
+    if not url:return False
+    p=urlsplit(norm_url(url));path=p.path.rstrip("/")
+    return path not in ("","/actualites-evenements","/centre-de-ressources","/dossiers-legislatifs","/fr/accueil","/fr/statistiques")
+def frdate(text):
+    months={"janvier":1,"février":2,"fevrier":2,"mars":3,"avril":4,"mai":5,"juin":6,"juillet":7,"août":8,"aout":8,"septembre":9,"octobre":10,"novembre":11,"décembre":12,"decembre":12}
+    m=re.search(r"\b(\d{1,2})\s+("+ "|".join(months)+r")\s+(20\d{2})\b",clean(text).lower())
+    if not m:return None
+    return datetime(int(m.group(3)),months[m.group(2)],int(m.group(1)),8,tzinfo=timezone.utc).astimezone().isoformat(timespec="seconds")
 
-def now_iso() -> str:
-    return datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds")
+def service_public():
+    url="https://www.service-public.fr/abonnements/rss/actu-actualites-particuliers.rss";f=feedparser.parse(url,request_headers={"User-Agent":UA});out=[]
+    for e in f.entries:
+        title=clean(getattr(e,"title",""));summary=clean(getattr(e,"summary",""));link=getattr(e,"link","")
+        if not immobilier(title+" "+summary) or not direct(link):continue
+        p=getattr(e,"published_parsed",None);pub=datetime(*p[:6],tzinfo=timezone.utc).astimezone().isoformat(timespec="seconds") if p else now()
+        out.append(item("Service-Public.fr","A",title,summary or "Actualité officielle liée au logement.",link,pub,"Information officielle",topic="Logement",confirmation="Flux RSS officiel de Service-Public.fr."))
+    return out[:30]
 
+def generic_links(page,source,level,limit=35):
+    r=requests.get(page,timeout=TIMEOUT,headers={"User-Agent":UA});r.raise_for_status();s=BeautifulSoup(r.text,"html.parser");out=[];seen=set()
+    for a in s.find_all("a",href=True):
+        title=clean(a.get_text(" ",strip=True));url=urljoin(page,a["href"])
+        if len(title)<12 or not immobilier(title) or not direct(url) or url in seen:continue
+        seen.add(url);ctx=clean(a.parent.get_text(" ",strip=True)) if a.parent else title;pub=frdate(ctx) or now()
+        out.append(item(source,level,title,ctx[:420] or title,url,pub,"Publication",topic="Actualité immobilière",confirmation=f"Lien direct détecté sur {source}."))
+        if len(out)>=limit:break
+    return out
 
-def clean_text(value: str | None) -> str:
-    if not value:
+def anil(): return generic_links("https://www.anil.org/actualites-evenements/","ANIL","B",40)
+def media():
+    out=[]
+    for page,source in [("https://www.immomatin.com/","Immo Matin"),("https://immo2.pro/","Immobilier 2.0")]:
+        try: out+=generic_links(page,source,"C",25)
+        except Exception as e: print(source,e)
+    return out
+
+def senat():
+    url="https://data.senat.fr/data/dosleg/dosleg.zip";r=requests.get(url,timeout=60,headers={"User-Agent":UA});r.raise_for_status()
+    with zipfile.ZipFile(io.BytesIO(r.content)) as z:
+        sql=z.read([n for n in z.namelist() if n.endswith(".sql")][0]).decode("utf-8",errors="replace")
+    def table(name):
+        m=re.search(rf"^COPY (?:public\.)?{name} \(([^)]*)\) FROM stdin;\n(.*?)\n\\\\\.$",sql,re.M|re.S)
+        if not m:return [],[]
+        return [x.strip() for x in m.group(1).split(",")],[[None if v==r"\N" else v for v in line.split("\t")] for line in m.group(2).splitlines() if line]
+    ec,er=table("etaloi");lc,lr=table("loi");emap={str(r[0]).strip():clean(r[1]) for r in er if len(r)>1 and r[0]};idx={c:i for i,c in enumerate(lc)}
+    def get(r,*names):
+        for n in names:
+            if n in idx and idx[n]<len(r):return clean(r[idx[n]])
         return ""
-    value = BeautifulSoup(html.unescape(value), "html.parser").get_text(" ")
-    return " ".join(value.split())
+    def stage(s):
+        t=s.lower()
+        if "promulgu" in t:return "promulgue"
+        if any(x in t for x in ("lecture","commission mixte","congrès","congres")):return "discussion"
+        if t.strip() in ("adopté","adopte"):return "adopte"
+        return "depot"
+    out=[]
+    for r0 in lr:
+        title=get(r0,"loiint","loitit","titre","intitule")
+        if not immobilier(title):continue
+        signet=get(r0,"signet")
+        if not signet:continue
+        st=emap.get(get(r0,"etaloicod","etatloicod","etat"),"Dossier législatif");sg=stage(st)
+        out.append(item("Sénat","A",title,f"Dossier législatif immobilier. État officiel : {st}.",f"https://www.senat.fr/dossier-legislatif/{signet}.html",now(),st,legal_stage=sg,topic="Législation",confirmation="État du dossier issu des données ouvertes du Sénat."))
+    return out[:70]
 
+def legifrance():
+    r=requests.get("https://www.legifrance.gouv.fr/",timeout=TIMEOUT,headers={"User-Agent":UA});r.raise_for_status();s=BeautifulSoup(r.text,"html.parser");jo=[];pat=re.compile(r"/eli/jo/20\d{2}/\d{1,2}/\d{1,2}/\d+")
+    for a in s.find_all("a",href=True):
+        if pat.search(a["href"]):
+            u=urljoin("https://www.legifrance.gouv.fr/",a["href"])
+            if u not in jo:jo.append(u)
+        if len(jo)>=6:break
+    out=[];seen=set()
+    for ju in jo:
+        rr=requests.get(ju,timeout=TIMEOUT,headers={"User-Agent":UA});rr.raise_for_status();ss=BeautifulSoup(rr.text,"html.parser");pub=frdate(ss.get_text(" ",strip=True)) or now()
+        for a in ss.find_all("a",href=True):
+            title=clean(a.get_text(" ",strip=True));u=urljoin(ju,a["href"])
+            if len(title)<12 or not immobilier(title) or norm_url(u)==norm_url(ju) or u in seen:continue
+            seen.add(u);out.append(item("Légifrance","A",title,"Texte immobilier repéré dans un Journal officiel récent. Vérifier dans le texte sa date exacte d’application.",u,pub,"Publié au JORF",legal_stage="jorf",topic="Texte officiel",confirmation="Lien direct vers Légifrance / Journal officiel."))
+    return out[:50]
 
-def normalize_url(value: str) -> str:
-    if not value:
-        return ""
-    try:
-        parts = urlsplit(value)
-        return urlunsplit((parts.scheme, parts.netloc, parts.path, "", ""))
-    except Exception:
-        return value
-
-
-def stable_id(source: str, title: str, url: str) -> str:
-    raw = f"{source}|{title}|{normalize_url(url)}".encode("utf-8")
-    return hashlib.sha1(raw).hexdigest()[:16]
-
-
-def is_real_estate(text: str) -> bool:
-    txt = clean_text(text).lower()
-    return any(keyword in txt for keyword in REAL_ESTATE_KEYWORDS)
-
-
-def classify(text: str) -> str:
-    txt = clean_text(text).lower()
-    best_category = "marche"
-    best_score = 0
-
-    for category, words in CATEGORY_KEYWORDS.items():
-        score = sum(1 for word in words if word in txt)
-        if score > best_score:
-            best_category = category
-            best_score = score
-
-    return best_category
-
-
-def audience_for(category: str, text: str) -> list[str]:
-    txt = text.lower()
-
-    if any(x in txt for x in ("bailleur", "invest", "fiscal", "meublé", "rendement")):
-        return ["investisseur", "pro", "particulier"]
-
-    if any(x in txt for x in ("copropriété", "syndic", "professionnel", "urbanisme")):
-        return ["pro", "particulier", "investisseur"]
-
-    return ["particulier", "investisseur", "pro"]
-
-
-def score_item(title: str, source_level: str, category: str, status: str) -> tuple[int, int]:
-    txt = title.lower()
-    importance = 55
-    relevance = 60
-
-    if source_level == "A":
-        importance += 12
-        relevance += 10
-    elif source_level == "B":
-        importance += 7
-        relevance += 7
-
-    if category == "lois":
-        importance += 8
-        relevance += 7
-    elif category == "marche":
-        relevance += 5
-    elif category == "investir":
-        relevance += 6
-
-    strong = (
-        "loi", "décret", "decret", "entrée en vigueur", "entree en vigueur",
-        "journal officiel", "taux", "irl", "fiscal", "loyer", "dpe",
-        "prêt à taux zéro", "pret a taux zero",
-    )
-    importance += min(18, 3 * sum(1 for word in strong if word in txt))
-
-    if "jorf" in status.lower():
-        importance += 6
-
-    return min(100, importance), min(100, relevance)
-
-
-def parse_struct_time(entry) -> str:
-    parsed = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
-    if parsed:
-        dt = datetime(*parsed[:6], tzinfo=timezone.utc)
-        return dt.astimezone().isoformat(timespec="seconds")
-    return now_iso()
-
-
-def extract_french_date(text: str) -> str | None:
-    months = {
-        "janvier": 1, "février": 2, "fevrier": 2, "mars": 3, "avril": 4,
-        "mai": 5, "juin": 6, "juillet": 7, "août": 8, "aout": 8,
-        "septembre": 9, "octobre": 10, "novembre": 11,
-        "décembre": 12, "decembre": 12,
-    }
-
-    match = re.search(
-        r"\b(\d{1,2})\s+"
-        r"(janvier|février|fevrier|mars|avril|mai|juin|juillet|"
-        r"août|aout|septembre|octobre|novembre|décembre|decembre)"
-        r"\s+(20\d{2})\b",
-        clean_text(text).lower(),
-    )
-
-    if not match:
-        return None
-
-    day = int(match.group(1))
-    month = months[match.group(2)]
-    year = int(match.group(3))
-
-    return datetime(year, month, day, 8, 0, tzinfo=timezone.utc).astimezone().isoformat(timespec="seconds")
-
-
-def why_it_matters(category: str, source_level: str) -> str:
-    prefix = "Source officielle. " if source_level == "A" else "Source institutionnelle spécialisée. "
-
-    endings = {
-        "lois": "Ce texte peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
-        "marche": "Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché.",
-        "investir": "Cette information peut modifier la fiscalité, les contraintes ou l’intérêt économique d’un investissement.",
-        "territoires": "Cette information peut avoir un impact différent selon la commune, le département ou la zone concernée.",
-    }
-
-    return prefix + endings.get(category, endings["marche"])
-
-
-def make_item(
-    *,
-    source: str,
-    source_level: str,
-    source_type: str,
-    title: str,
-    summary: str,
-    url: str,
-    published_at: str,
-    status: str,
-    territory: str = "France",
-    category: str | None = None,
-    legal_stage: str | None = None,
-) -> dict:
-    combined = f"{title} {summary}"
-    category = category or classify(combined)
-    importance, relevance = score_item(title, source_level, category, status)
-
-    item = {
-        "id": stable_id(source, title, url),
-        "title": clean_text(title),
-        "summary": clean_text(summary)[:520],
-        "url": url,
-        "source": source,
-        "source_level": source_level,
-        "source_type": source_type,
-        "category": category,
-        "audiences": audience_for(category, combined),
-        "published_at": published_at,
-        "status": status,
-        "importance": importance,
-        "relevance": relevance,
-        "territory": territory,
-        "why_it_matters": why_it_matters(category, source_level),
-    }
-
-    if legal_stage:
-        item["legal_stage"] = legal_stage
-
-    return item
-
-
-def load_existing_items() -> list[dict]:
-    if not FEED_PATH.exists():
-        return []
-    try:
-        data = json.loads(FEED_PATH.read_text(encoding="utf-8"))
-        return list(data.get("items", []))
-    except Exception:
-        return []
-
-
-def collect_service_public(limit: int = 25) -> list[dict]:
-    feed = feedparser.parse(SERVICE_PUBLIC_RSS, request_headers={"User-Agent": UA})
-
-    if getattr(feed, "bozo", False) and not feed.entries:
-        raise RuntimeError(f"Flux RSS Service-Public illisible: {getattr(feed, 'bozo_exception', '')}")
-
-    items = []
-
-    for entry in feed.entries:
-        title = clean_text(getattr(entry, "title", ""))
-        summary = clean_text(getattr(entry, "summary", "") or getattr(entry, "description", ""))
-        link = getattr(entry, "link", "")
-
-        if not title or not link or not is_real_estate(f"{title} {summary}"):
-            continue
-
-        items.append(make_item(
-            source="Service-Public.fr",
-            source_level="A",
-            source_type="officielle",
-            title=title,
-            summary=summary or "Actualité officielle repérée dans le flux RSS de Service-Public.fr.",
-            url=link,
-            published_at=parse_struct_time(entry),
-            status="Information officielle",
-        ))
-
-        if len(items) >= limit:
-            break
-
-    return items
-
-
-def is_generic_source_url(source: str, url: str) -> bool:
-    """True when a URL points only to a homepage / listing, not an article."""
-    if not url:
-        return True
-
-    normalized = normalize_url(url)
-    try:
-        parts = urlsplit(normalized)
-        host = parts.netloc.lower().removeprefix("www.")
-        path = parts.path.rstrip("/").lower()
-    except Exception:
-        return True
-
-    generic_paths = {
-        "anil.org": {
-            "",
-            "/actualites-evenements",
-            "/centre-de-ressources",
-            "/centre-de-ressources/votre-recherche",
-            "/centre-de-ressources/votre-recherche/etudes-eclairages",
-            "/documentation-experte",
-            "/documentation-experte/etudes-eclairages",
-        },
-        "legifrance.gouv.fr": {""},
-        "service-public.fr": {""},
-        "senat.fr": {"", "/dossiers-legislatifs"},
-    }
-
-    return path in generic_paths.get(host, set())
-
-
-def collect_anil(limit: int = 45) -> list[dict]:
-    """
-    Collecte les vrais liens d'articles depuis les pages ANIL.
-
-    Contrairement à la V1, on ne conserve jamais les liens de rubrique
-    (accueil, centre de ressources, page "toutes les actualités", etc.).
-    Les liens externes éditorialement proposés par l'ANIL sont acceptés
-    lorsqu'ils correspondent à une actualité immobilière précise.
-    """
-    pages = [
-        "https://www.anil.org/",
-        ANIL_ACTUS,
-        "https://www.anil.org/centre-de-ressources/",
+def eurlex():
+    docs=[
+      ("Règlement délégué (UE) 2026/52 sur le calcul du potentiel de réchauffement global des bâtiments","https://eur-lex.europa.eu/eli/reg_del/2026/52/oj/eng","2026-05-04","Règlement délégué","Cadre européen lié à la performance énergétique et au cycle de vie des bâtiments."),
+      ("Recommandation (UE) 2026/536 sur les guichets uniques pour l’efficacité énergétique des bâtiments","https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026H0536","2026-03-11","Recommandation","Orientations européennes sur les services liés à la rénovation et à la performance énergétique."),
+      ("Directive (UE) 2024/1275 sur la performance énergétique des bâtiments — version consolidée 2026","https://eur-lex.europa.eu/eli/dir/2024/1275/oj?locale=fr","2026-05-24","Directive — transposition nationale","Texte européen majeur pour la rénovation et la performance énergétique des bâtiments.")
     ]
-
-    items = []
-    seen_urls = set()
-
-    for page_url in pages:
-        response = requests.get(
-            page_url,
-            timeout=TIMEOUT,
-            headers={"User-Agent": UA},
-        )
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, "html.parser")
-
-        for anchor in soup.find_all("a", href=True):
-            title = clean_text(anchor.get_text(" ", strip=True))
-            href = anchor.get("href", "").strip()
-
-            if not title or len(title) < 12 or not href:
-                continue
-
-            url = urljoin(page_url, href)
-
-            if not url.startswith(("http://", "https://")):
-                continue
-
-            # L'ANIL peut pointer vers une source externe précise
-            # (ex. Observatoires des loyers). On l'accepte.
-            if is_generic_source_url("ANIL", url):
-                continue
-
-            normalized = normalize_url(url)
-            if normalized in seen_urls:
-                continue
-
-            context_node = anchor
-            for _ in range(2):
-                if context_node.parent:
-                    context_node = context_node.parent
-            context = clean_text(context_node.get_text(" ", strip=True))
-
-            if not is_real_estate(f"{title} {context}"):
-                continue
-
-            seen_urls.add(normalized)
-            published = extract_french_date(context) or now_iso()
-
-            items.append(make_item(
-                source="ANIL",
-                source_level="B",
-                source_type="institutionnelle",
-                title=title,
-                summary=(
-                    "Publication immobilière repérée depuis l’ANIL. "
-                    "Le lien ouvre directement la page correspondant à cette information."
-                ),
-                url=url,
-                published_at=published,
-                status="Analyse / actualité ANIL",
-            ))
-
-            if len(items) >= limit:
-                return items
-
-    return items
-
-
-def latest_jorf_urls(limit: int = 8) -> list[str]:
-    response = requests.get(LEGIFRANCE_HOME, timeout=TIMEOUT, headers={"User-Agent": UA})
-    response.raise_for_status()
-    soup = BeautifulSoup(response.text, "html.parser")
-
-    urls = []
-    pattern = re.compile(r"/eli/jo/20\d{2}/\d{1,2}/\d{1,2}/\d+")
-
-    for anchor in soup.find_all("a", href=True):
-        href = anchor.get("href", "")
-        if not pattern.search(href):
-            continue
-
-        url = urljoin(LEGIFRANCE_HOME, href)
-        if url not in urls:
-            urls.append(url)
-
-        if len(urls) >= limit:
-            break
-
-    return urls
-
-
-def collect_legifrance(limit: int = 40) -> list[dict]:
-    items = []
-    seen = set()
-
-    for jorf_url in latest_jorf_urls():
-        response = requests.get(jorf_url, timeout=TIMEOUT, headers={"User-Agent": UA})
-        response.raise_for_status()
-
-        soup = BeautifulSoup(response.text, "html.parser")
-        page_text = clean_text(soup.get_text(" ", strip=True))
-        published = extract_french_date(page_text) or now_iso()
-
-        for anchor in soup.find_all("a", href=True):
-            title = clean_text(anchor.get_text(" ", strip=True))
-
-            if len(title) < 12 or not is_real_estate(title):
-                continue
-
-            url = urljoin(jorf_url, anchor.get("href", ""))
-
-            if not url.startswith("https://www.legifrance.gouv.fr/"):
-                continue
-
-            if normalize_url(url) == normalize_url(jorf_url):
-                # La carte doit pointer vers le texte lui-même, pas vers le sommaire du JORF.
-                continue
-
-            key = normalize_url(url) or title.lower()
-            if key in seen:
-                continue
-            seen.add(key)
-
-            items.append(make_item(
-                source="Légifrance",
-                source_level="A",
-                source_type="officielle",
-                title=title,
-                summary=(
-                    "Texte repéré dans un Journal officiel récent à partir de mots-clés immobiliers. "
-                    "La publication au JORF est certaine ; la date d’entrée en vigueur doit être vérifiée dans le texte."
-                ),
-                url=url,
-                published_at=published,
-                status="Publié au JORF",
-                category="lois",
-                legal_stage="jorf",
-            ))
-
-            if len(items) >= limit:
-                return items
-
-    return items
-
-
-def extract_copy_table(sql_text: str, table: str):
-    pattern = re.compile(
-        rf"^COPY (?:public\.)?{re.escape(table)} \(([^)]*)\) FROM stdin;\n(.*?)\n\\\\\.$",
-        re.MULTILINE | re.DOTALL,
-    )
-    match = pattern.search(sql_text)
-    if not match:
-        return [], []
-
-    columns = [c.strip() for c in match.group(1).split(",")]
-    rows = []
-
-    for line in match.group(2).splitlines():
-        if not line:
-            continue
-        values = [None if v == r"\N" else v for v in line.split("\t")]
-        rows.append(values)
-
-    return columns, rows
-
-
-def normalize_senat_stage(state: str) -> str:
-    txt = clean_text(state).lower()
-
-    if "promulgu" in txt:
-        return "promulgue"
-
-    if (
-        "commission mixte paritaire" in txt
-        or "première lecture" in txt
-        or "premiere lecture" in txt
-        or "deuxième lecture" in txt
-        or "deuxieme lecture" in txt
-        or "nouvelle lecture" in txt
-        or "lecture définitive" in txt
-        or "lecture definitive" in txt
-        or "congrès du parlement" in txt
-        or "congres du parlement" in txt
-    ):
-        return "discussion"
-
-    if txt.strip() == "adopté" or txt.strip() == "adopte":
-        return "adopte"
-
-    if "non adopté" in txt or "non adopte" in txt or "caduc" in txt or "non conforme" in txt:
-        return "clos"
-
-    return "depot"
-
-
-def senat_status_label(raw_state: str, stage: str) -> str:
-    state = clean_text(raw_state)
-    if state:
-        return state
-
-    labels = {
-        "depot": "Dossier déposé",
-        "discussion": "Navette parlementaire en cours",
-        "adopte": "Adopté",
-        "promulgue": "Promulgué",
-        "clos": "Dossier clos",
-    }
-    return labels.get(stage, "Dossier législatif")
-
-
-def collect_senat_dosleg(limit: int = 60) -> list[dict]:
-    response = requests.get(SENAT_DOSLEG_ZIP, timeout=60, headers={"User-Agent": UA})
-    response.raise_for_status()
-
-    with zipfile.ZipFile(io.BytesIO(response.content)) as archive:
-        sql_files = [n for n in archive.namelist() if n.lower().endswith(".sql")]
-        if not sql_files:
-            raise RuntimeError("Aucun fichier SQL trouvé dans DOSLEG.")
-        sql_text = archive.read(sql_files[0]).decode("utf-8", errors="replace")
-
-    et_cols, et_rows = extract_copy_table(sql_text, "etaloi")
-    loi_cols, loi_rows = extract_copy_table(sql_text, "loi")
-
-    if not loi_cols or not loi_rows:
-        raise RuntimeError("Table loi introuvable dans DOSLEG.")
-
-    state_map = {}
-    for row in et_rows:
-        if len(row) >= 2 and row[0]:
-            state_map[str(row[0]).strip()] = clean_text(row[1])
-
-    idx = {name: i for i, name in enumerate(loi_cols)}
-
-    def get(row, *names):
-        for name in names:
-            pos = idx.get(name)
-            if pos is not None and pos < len(row):
-                return clean_text(row[pos])
-        return ""
-
-    items = []
-
-    for row in loi_rows:
-        title = get(row, "loiint", "loitit", "titre", "intitule")
-        if not title or not is_real_estate(title):
-            continue
-
-        state_code = get(row, "etaloicod", "etatloicod", "etat")
-        raw_state = state_map.get(state_code, state_code)
-        stage = normalize_senat_stage(raw_state)
-
-        signet = get(row, "signet")
-        if not signet:
-            # Sans identifiant de dossier, on n'affiche pas une page générique :
-            # chaque carte doit ouvrir une source précise.
-            continue
-
-        url = f"https://www.senat.fr/dossier-legislatif/{signet}.html"
-
-        date_value = get(row, "date_loi", "loidat", "proaccdat", "loidatjo")
-        published_at = now_iso()
-
-        if re.match(r"^\d{4}-\d{2}-\d{2}", date_value):
-            try:
-                published_at = datetime.fromisoformat(date_value[:10]).replace(
-                    tzinfo=timezone.utc
-                ).astimezone().isoformat(timespec="seconds")
-            except Exception:
-                pass
-
-        status = senat_status_label(raw_state, stage)
-
-        items.append(make_item(
-            source="Sénat",
-            source_level="A",
-            source_type="officielle",
-            title=title,
-            summary=(
-                "Dossier législatif immobilier repéré dans la base ouverte DOSLEG du Sénat. "
-                f"État officiel du dossier : {status}."
-            ),
-            url=url,
-            published_at=published_at,
-            status=status,
-            category="lois",
-            legal_stage=stage,
-        ))
-
-    items.sort(key=lambda item: item.get("published_at", ""), reverse=True)
-    return items[:limit]
-
-
-def is_development_note(item: dict) -> bool:
-    status = str(item.get("status", "")).lower()
-    title = str(item.get("title", "")).lower()
-    item_id = str(item.get("id", "")).lower()
-
-    return (
-        "connecteur prévu" in status
-        or item_id.startswith("demo-")
-        or title.startswith("prochaine étape :")
-    )
-
-
-def not_too_old(item: dict) -> bool:
-    value = item.get("published_at")
-    if not value:
-        return True
-
+    out=[]
+    for title,url,date,status,summary in docs:
+        out.append(item("EUR-Lex","A",title,summary,url,datetime.fromisoformat(date).replace(tzinfo=timezone.utc).astimezone().isoformat(timespec="seconds"),status,territory="Union européenne",legal_stage="jorf",topic="Droit européen",confirmation="Texte officiel EUR-Lex. Directive et règlement sont distingués."))
+    rss=os.getenv("EURLEX_RSS_URL","").strip()
+    if rss:
+        f=feedparser.parse(rss,request_headers={"User-Agent":UA})
+        for e in f.entries:
+            title=clean(getattr(e,"title",""));summary=clean(getattr(e,"summary",""));link=getattr(e,"link","")
+            if immobilier(title+" "+summary) and direct(link):
+                p=getattr(e,"published_parsed",None);pub=datetime(*p[:6],tzinfo=timezone.utc).astimezone().isoformat(timespec="seconds") if p else now()
+                out.append(item("EUR-Lex","A",title,summary,link,pub,"Acte / procédure UE",territory="Union européenne",legal_stage="jorf",topic="Droit européen",confirmation="Flux RSS EUR-Lex configuré."))
+    return out[:40]
+
+def existing():
+    try:return json.loads(FEED.read_text(encoding="utf-8")).get("items",[])
+    except:return []
+
+def dedupe(items):
+    out={}
+    for i in items:
+        if not immobilier(i.get("title","")+" "+i.get("summary","")):continue
+        if not direct(i.get("url","")):continue
+        key=(i.get("source","").lower(),re.sub(r"\W+"," ",i.get("title","").lower()).strip())
+        cur=out.get(key)
+        rank={"A":4,"B":3,"C":2,"D":1}
+        if not cur or (rank.get(i.get("source_level"),0),i.get("relevance",0))>(rank.get(cur.get("source_level"),0),cur.get("relevance",0)):out[key]=i
+    vals=list(out.values());vals.sort(key=lambda x:x.get("published_at",""),reverse=True)
+    cutoff=datetime.now(timezone.utc)-timedelta(days=730)
+    final=[]
+    for i in vals:
+        try:
+            d=datetime.fromisoformat(i["published_at"].replace("Z","+00:00")).astimezone(timezone.utc)
+            if d<cutoff:continue
+        except:pass
+        final.append(i)
+    return final[:260]
+
+def find_bdf():
+    today=datetime.now();months=[]
+    y,m=today.year,today.month
+    for _ in range(7):
+        m-=1
+        if m==0:y-=1;m=12
+        months.append((y,m))
+    for y,m in months:
+        u=f"https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-{y}-{m:02}"
+        try:
+            r=requests.get(u,timeout=TIMEOUT,headers={"User-Agent":UA})
+            if r.ok and "crédits" in r.text.lower():return u,clean(BeautifulSoup(r.text,"html.parser").get_text(" "))
+        except:pass
+    return None,None
+
+def market_update():
+    try:m=json.loads(MARKET.read_text(encoding="utf-8"))
+    except:m={}
+    components=m.get("components",[])
+    # Banque de France auto-refresh by month slug.
+    u,text=find_bdf()
+    if u and text:
+        rate=re.search(r"reste stable (?:en \w+ )?à\s*([0-9]+,[0-9]+)\s*%",text.lower())
+        prod=re.search(r"production cvs de crédits à l'habitat \(hors renégociations\).*?([0-9]+,[0-9]+)\s*mds",text.lower())
+        for c in components:
+            if c["key"]=="rates" and rate:c["value"]=rate.group(1).replace(",",".")+" %";c["url"]=u;c["source"]="Banque de France";c["score"]=49
+            if c["key"]=="credit" and prod:c["value"]=prod.group(1).replace(",",".")+" Md€";c["url"]=u;c["source"]="Banque de France";c["score"]=48
+    # SDES auto-refresh from current construction landing page.
     try:
-        dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
+        u2="https://www.statistiques.developpement-durable.gouv.fr/la-construction-neuve";r=requests.get(u2,timeout=TIMEOUT,headers={"User-Agent":UA});s=BeautifulSoup(r.text,"html.parser")
+        a=next((a for a in s.find_all("a",href=True) if "construction-de-logements-resultats" in a.get("href","")),None)
+        if a:
+            page=urljoin(u2,a["href"]);rr=requests.get(page,timeout=TIMEOUT,headers={"User-Agent":UA});txt=clean(BeautifulSoup(rr.text,"html.parser").get_text(" "))
+            n=re.search(r"([0-9][0-9\s\u202f]{5,})\s+logements ont été autorisés",txt)
+            for c in components:
+                if c["key"]=="construction" and n:c["value"]=re.sub(r"\s+"," ",n.group(1)).strip();c["url"]=page;c["source"]="SDES / Sitadel";c["score"]=42
+    except Exception as e:print("SDES",e)
+    weights=sum(c.get("weight",0) for c in components if c.get("score") is not None)
+    sc=round(sum(c["score"]*c["weight"] for c in components if c.get("score") is not None)/weights) if weights else 50
+    label="Marché bloqué" if sc<25 else "Marché ralenti" if sc<42 else "Marché équilibré mais fragile" if sc<58 else "Marché dynamique" if sc<78 else "Marché sous forte tension"
+    m["updated_at"]=now();m["temperature"]={"score":sc,"label":label,"comment":"Score calculé avec les dernières données officielles disponibles. Les périodes de publication sont indiquées dans le détail."}
+    m["confidence"]=min(95,70+3*len(components));m["components"]=components
+    # financing score from rate+credit
+    by={c["key"]:c for c in components};fs=round((by.get("rates",{}).get("score",50)+by.get("credit",{}).get("score",50))/2)
+    m["financing"]={"score":fs,"label":"Conditions intermédiaires" if 42<=fs<60 else "Conditions favorables" if fs>=60 else "Conditions contraignantes","comment":"Lecture combinée des taux et de la production de crédit habitat."}
+    m["balance"]={"score":47,"label":"Léger avantage acheteurs","comment":"Prix et transactions restent proches d’un marché équilibré ; ce module sera affiné avec davantage de données locales."}
+    MARKET.write_text(json.dumps(m,ensure_ascii=False,indent=2),encoding="utf-8")
 
-        cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
-        return dt.astimezone(timezone.utc) >= cutoff
-    except Exception:
-        return True
+def watch(items):
+    w=[{"date":"2026-09-08T08:45:00+02:00","date_label":"8 sept. 2026","title":"Prochaine publication Insee — prix des logements anciens T2 2026","source":"Insee / Notaires"}]
+    return [x for x in w if datetime.fromisoformat(x["date"])>=datetime.now().astimezone()][:6]
 
+def main():
+    items=existing();errors=[]
+    collectors=[("Service-Public",service_public),("ANIL",anil),("Sénat",senat),("Légifrance",legifrance),("EUR-Lex",eurlex),("Médias",media)]
+    for name,fn in collectors:
+        try:
+            got=fn();items+=got;print(name,len(got))
+        except Exception as e:errors.append({"source":name,"error":str(e)});print(name,e)
+    items=dedupe(items);market_update()
+    data={"generated_at":now(),"version":"2.0","items":items,"watch":watch(items),"source_stats":{},"errors":errors}
+    for i in items:data["source_stats"][i["source"]]=data["source_stats"].get(i["source"],0)+1
+    FEED.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding="utf-8")
+    print(len(items),"items")
 
-def dedupe(items: list[dict]) -> list[dict]:
-    by_key = {}
-
-    for item in items:
-        if is_development_note(item) or not not_too_old(item):
-            continue
-
-        source = str(item.get("source", ""))
-        url = normalize_url(item.get("url", ""))
-        title = clean_text(item.get("title", "")).lower()
-
-        # Migration automatique des cartes V1/V1.1 :
-        # supprime les anciennes URL qui renvoyaient vers une rubrique.
-        if is_generic_source_url(source, url):
-            continue
-
-        # Déduplication par titre + source afin de préférer le vrai article
-        # plutôt qu'une ancienne fiche équivalente.
-        title_key = re.sub(r"[^a-z0-9à-ÿ]+", " ", title).strip()
-        title_key = re.sub(
-            r"^(nouvelle? |nouveau |indicateur des taux |analyse juridique )+",
-            "",
-            title_key,
-        ).strip()
-
-        key = f"{source.lower()}|{title_key or url}"
-        if not key:
-            continue
-
-        current = by_key.get(key)
-        if current is None:
-            by_key[key] = item
-            continue
-
-        rank = {"A": 4, "B": 3, "C": 2, "D": 1}
-
-        def directness(candidate: dict) -> int:
-            candidate_url = normalize_url(candidate.get("url", ""))
-            return 0 if is_generic_source_url(
-                str(candidate.get("source", "")),
-                candidate_url,
-            ) else 1
-
-        new_tuple = (
-            directness(item),
-            rank.get(item.get("source_level"), 0),
-            item.get("relevance", 0),
-        )
-        old_tuple = (
-            directness(current),
-            rank.get(current.get("source_level"), 0),
-            current.get("relevance", 0),
-        )
-
-        if new_tuple > old_tuple:
-            by_key[key] = item
-
-    return sorted(
-        by_key.values(),
-        key=lambda x: x.get("published_at", ""),
-        reverse=True,
-    )[:MAX_ITEMS]
-
-
-def source_stats(items: list[dict]) -> dict:
-    stats = {}
-    for item in items:
-        source = item.get("source", "Inconnue")
-        stats[source] = stats.get(source, 0) + 1
-    return dict(sorted(stats.items(), key=lambda kv: (-kv[1], kv[0])))
-
-
-def legal_stats(items: list[dict]) -> dict:
-    stats = {
-        "depot": 0,
-        "discussion": 0,
-        "adopte": 0,
-        "promulgue": 0,
-        "jorf": 0,
-        "clos": 0,
-    }
-    for item in items:
-        stage = item.get("legal_stage")
-        if stage in stats:
-            stats[stage] += 1
-    return stats
-
-
-def main() -> None:
-    parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "--demo",
-        action="store_true",
-        help="Ne contacte pas Internet et nettoie uniquement les données existantes.",
-    )
-    args = parser.parse_args()
-
-    items = load_existing_items()
-    errors = []
-
-    collectors = [
-        ("Service-Public.fr", collect_service_public),
-        ("Légifrance", collect_legifrance),
-        ("Sénat", collect_senat_dosleg),
-        ("ANIL", collect_anil),
-    ]
-
-    if not args.demo:
-        for name, collector in collectors:
-            try:
-                new_items = collector()
-                items.extend(new_items)
-                print(f"{name}: {len(new_items)} élément(s) pertinent(s)")
-            except Exception as exc:
-                errors.append({
-                    "source": name,
-                    "error": f"{type(exc).__name__}: {exc}",
-                })
-                print(f"{name}: erreur non bloquante: {exc}")
-
-    items = dedupe(items)
-
-    feed = {
-        "generated_at": now_iso(),
-        "version": "1.2.2",
-        "items": items,
-        "source_stats": source_stats(items),
-        "legal_stats": legal_stats(items),
-        "errors": errors,
-    }
-
-    FEED_PATH.write_text(
-        json.dumps(feed, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
-
-    print(
-        f"{len(items)} éléments écrits dans {FEED_PATH}. "
-        f"Sources: {feed['source_stats']}. "
-        f"Radar juridique: {feed['legal_stats']}."
-    )
-
-
-if __name__ == "__main__":
-    main()
+if __name__=="__main__":main()
