@@ -3,21 +3,17 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <meta name="theme-color" content="#0b1220" />
-  <meta name="description" content="Immo Radar — veille immobilière, lois, marché et opportunités." />
+  <meta name="theme-color" content="#08111f" />
+  <meta name="description" content="Immo Radar — veille immobilière, lois, marché, investissement et territoires." />
   <title>Immo Radar</title>
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
   <header class="topbar">
-    <a class="brand" href="#top" aria-label="Immo Radar">
+    <a class="brand" href="#top">
       <span class="brand-mark">IR</span>
-      <span>
-        <strong>Immo Radar</strong>
-        <small>Marché · Lois · Opportunités</small>
-      </span>
+      <span><strong>Immo Radar</strong><small>Marché · Lois · Investissement</small></span>
     </a>
-
     <div class="profile-switch" role="group" aria-label="Profil">
       <button data-profile="particulier">Particulier</button>
       <button data-profile="investisseur" class="active">Investisseur</button>
@@ -29,52 +25,57 @@
     <section class="hero shell">
       <div>
         <span class="eyebrow">Veille immobilière intelligente</span>
-        <h1>Comprendre ce qui change dans l’immobilier.</h1>
-        <p>Les informations importantes, hiérarchisées par fiabilité, impact et pertinence pour votre profil.</p>
+        <h1>Tout ce qui change dans l’immobilier.</h1>
+        <p>Actualités, lois, marché et investissement — filtrés, sourcés et expliqués.</p>
       </div>
       <div class="hero-badge">
         <span class="pulse"></span>
-        <div>
-          <strong id="lastUpdate">Mise à jour en cours…</strong>
-          <small>Actualisation automatisée via GitHub Actions</small>
-        </div>
+        <div><strong id="lastUpdate">Chargement…</strong><small>Actualisation automatique toutes les 6 h</small></div>
       </div>
     </section>
 
-    <section class="shell radar-grid" aria-label="Baromètre immobilier">
+    <section class="shell watch-section">
+      <div class="section-title compact">
+        <div><span class="eyebrow">À surveiller</span><h2>Les prochaines échéances importantes</h2></div>
+        <span id="watchCount" class="count-pill">0</span>
+      </div>
+      <div id="watchList" class="watch-grid"></div>
+    </section>
+
+    <section class="shell radar-grid">
       <article class="meter-card">
         <div class="meter-head">
-          <div>
-            <span class="card-kicker">Température du marché</span>
-            <h2 id="marketScore">—</h2>
-          </div>
+          <div><span class="card-kicker">Température du marché</span><h2 id="marketScore">—</h2></div>
           <span id="marketLabel" class="status-pill">—</span>
         </div>
         <div class="meter-track"><div id="marketBar" class="meter-fill"></div></div>
         <p id="marketComment">Chargement…</p>
+        <button class="ghost-link" id="marketDetailsBtn">Voir le calcul</button>
       </article>
-
       <article class="meter-card">
         <span class="card-kicker">Rapport de force</span>
         <h3 id="balanceLabel">—</h3>
-        <div class="balance">
-          <span>Acheteurs</span>
-          <div class="balance-track"><i id="balanceDot"></i></div>
-          <span>Vendeurs</span>
-        </div>
+        <div class="balance"><span>Acheteurs</span><div class="balance-track"><i id="balanceDot"></i></div><span>Vendeurs</span></div>
         <p id="balanceComment">Chargement…</p>
       </article>
-
       <article class="meter-card">
         <span class="card-kicker">Financement</span>
         <h3 id="financeLabel">—</h3>
-        <div class="balance">
-          <span>Contraignant</span>
-          <div class="balance-track"><i id="financeDot"></i></div>
-          <span>Favorable</span>
-        </div>
+        <div class="balance"><span>Contraignant</span><div class="balance-track"><i id="financeDot"></i></div><span>Favorable</span></div>
         <p id="financeComment">Chargement…</p>
       </article>
+    </section>
+
+    <section id="marketDetails" class="shell market-details" hidden>
+      <div class="market-details-grid" id="marketComponents"></div>
+      <div class="confidence-line"><strong id="marketConfidence">—</strong><span>Confiance dans le score</span></div>
+    </section>
+
+    <section class="shell searchbar">
+      <div class="searchbox">
+        <span>⌕</span>
+        <input id="searchInput" type="search" placeholder="Rechercher : LMNP, DPE, crédit immobilier, copropriété…" />
+      </div>
     </section>
 
     <section class="shell toolbar">
@@ -85,129 +86,66 @@
         <button class="tab" data-category="investir">Investir</button>
         <button class="tab" data-category="territoires">Territoires</button>
       </div>
-
       <div class="filters">
-        <label>
-          Trier
+        <label>Trier
           <select id="sortSelect">
             <option value="pertinence">Plus pertinent</option>
             <option value="recent">Plus récent</option>
             <option value="important">Plus important</option>
           </select>
         </label>
-        <label class="official-toggle">
-          <input type="checkbox" id="officialOnly" />
-          <span>Officiel uniquement</span>
-        </label>
+        <label class="official-toggle"><input type="checkbox" id="officialOnly" /><span>Officiel uniquement</span></label>
+        <label class="official-toggle"><input type="checkbox" id="favoritesOnly" /><span>Favoris</span></label>
       </div>
     </section>
 
     <section id="legalRadar" class="shell legal-radar" hidden>
       <div class="section-title legal-title">
-        <div>
-          <span class="eyebrow">Radar juridique</span>
-          <h2>Où en sont les textes immobiliers ?</h2>
-        </div>
-        <span class="status-pill">France</span>
+        <div><span class="eyebrow">Radar juridique</span><h2>France + Union européenne</h2></div>
+        <span class="status-pill">Sources officielles</span>
       </div>
-
       <div class="legal-stages">
-        <article class="legal-stage">
-          <span class="legal-index">1</span>
-          <div>
-            <small>Étape</small>
-            <strong>Déposé</strong>
-          </div>
-          <b id="legalCountDepot">0</b>
-        </article>
-
-        <article class="legal-stage">
-          <span class="legal-index">2</span>
-          <div>
-            <small>Étape</small>
-            <strong>En discussion</strong>
-          </div>
-          <b id="legalCountDiscussion">0</b>
-        </article>
-
-        <article class="legal-stage">
-          <span class="legal-index">3</span>
-          <div>
-            <small>Étape</small>
-            <strong>Adopté</strong>
-          </div>
-          <b id="legalCountAdopte">0</b>
-        </article>
-
-        <article class="legal-stage">
-          <span class="legal-index">4</span>
-          <div>
-            <small>Étape</small>
-            <strong>Promulgué</strong>
-          </div>
-          <b id="legalCountPromulgue">0</b>
-        </article>
-
-        <article class="legal-stage">
-          <span class="legal-index">5</span>
-          <div>
-            <small>Étape</small>
-            <strong>Publié au JORF</strong>
-          </div>
-          <b id="legalCountJorf">0</b>
-        </article>
+        <article class="legal-stage"><span class="legal-index">1</span><div><small>Étape</small><strong>Déposé</strong></div><b id="legalCountDepot">0</b></article>
+        <article class="legal-stage"><span class="legal-index">2</span><div><small>Étape</small><strong>En discussion</strong></div><b id="legalCountDiscussion">0</b></article>
+        <article class="legal-stage"><span class="legal-index">3</span><div><small>Étape</small><strong>Adopté</strong></div><b id="legalCountAdopte">0</b></article>
+        <article class="legal-stage"><span class="legal-index">4</span><div><small>Étape</small><strong>Promulgué</strong></div><b id="legalCountPromulgue">0</b></article>
+        <article class="legal-stage"><span class="legal-index">5</span><div><small>Étape</small><strong>Publié / applicable</strong></div><b id="legalCountJorf">0</b></article>
       </div>
-
-      <p class="legal-note">
-        “Publié au JORF” ne signifie pas automatiquement “déjà en vigueur”.
-        Immo Radar n’affichera “En vigueur” que lorsqu’une date d’application fiable sera identifiée.
-      </p>
+      <p class="legal-note">Immo Radar distingue publication, promulgation et entrée en vigueur. Une directive européenne est également distinguée d’un règlement directement applicable.</p>
     </section>
 
     <section class="shell content-layout">
       <div>
         <div class="section-title">
-          <div>
-            <span class="eyebrow">Votre veille</span>
-            <h2 id="feedTitle">À retenir aujourd’hui</h2>
-          </div>
+          <div><span class="eyebrow">Votre veille</span><h2 id="feedTitle">À retenir aujourd’hui</h2></div>
           <span id="resultCount" class="count-pill">0 info</span>
         </div>
         <div id="feed" class="feed"></div>
         <div id="emptyState" class="empty" hidden>
-          <strong>Aucun résultat avec ces filtres.</strong>
-          <span>Essayez un autre profil ou désactivez « officiel uniquement ».</span>
+          <strong>Aucun résultat.</strong><span>Modifiez la recherche ou les filtres.</span>
         </div>
       </div>
-
       <aside>
         <div class="side-card">
           <span class="card-kicker">Fiabilité des sources</span>
           <h3>Une hiérarchie explicite</h3>
           <ul class="source-legend">
-            <li><b class="level a">A</b><span><strong>Officielle</strong><small>Légifrance, Sénat, Service-Public…</small></span></li>
+            <li><b class="level a">A</b><span><strong>Officielle</strong><small>Légifrance, Sénat, Insee, Banque de France, EUR-Lex…</small></span></li>
             <li><b class="level b">B</b><span><strong>Institutionnelle</strong><small>ANIL, Notaires, ADEME…</small></span></li>
-            <li><b class="level c">C</b><span><strong>Média spécialisé</strong><small>Presse professionnelle sélectionnée</small></span></li>
-            <li><b class="level d">D</b><span><strong>Expert / blog</strong><small>Opinion et signaux faibles</small></span></li>
+            <li><b class="level c">C</b><span><strong>Média immobilier</strong><small>Presse spécialisée sélectionnée</small></span></li>
+            <li><b class="level d">D</b><span><strong>Blog / expert</strong><small>Opinion et signaux faibles</small></span></li>
           </ul>
         </div>
-
         <div class="side-card">
-          <span class="card-kicker">Principe juridique</span>
-          <h3>Pas de confusion entre annonce et loi</h3>
-          <p>Chaque texte affiche son statut connu. Une promulgation, une publication au Journal officiel et une entrée en vigueur sont distinguées.</p>
+          <span class="card-kicker">Règle du radar</span>
+          <h3>Immobilier ou rejet</h3>
+          <p>Le collecteur exclut les informations générales sans lien immobilier identifiable.</p>
         </div>
       </aside>
     </section>
   </main>
 
-  <footer>
-    <div class="shell footer-inner">
-      <span>Immo Radar · V1.2 GitHub Pages</span>
-      <span>Information et veille — pas de conseil juridique ou financier personnalisé.</span>
-    </div>
-  </footer>
-
+  <footer><div class="shell footer-inner"><span>Immo Radar · V2</span><span>Information et veille — pas de conseil juridique ou financier personnalisé.</span></div></footer>
   <script src="./app.js"></script>
 </body>
 </html>
