@@ -1,0 +1,61 @@
+name: Update Immo Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+  push:
+    branches: ["main"]
+    paths-ignore:
+      - "data/feed.json"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "immo-radar-pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect data
+        run: python scripts/collect.py
+
+      - name: Commit refreshed data
+        run: |
+          if git diff --quiet -- data/feed.json; then
+            echo "No feed change"
+          else
+            git config user.name "immo-radar-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/feed.json
+            git commit -m "chore: refresh immo radar feed"
+            git push
+          fi
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy Pages
+        uses: actions/deploy-pages@v4
