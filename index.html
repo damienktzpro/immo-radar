@@ -165,31 +165,47 @@
     </section>
 
     <section id="territoryDashboard" class="territory-dashboard shell" hidden>
-      <div class="territory-grid">
-        <article class="territory-card territory-intro">
+      <article class="territory-search-card">
+        <div class="territory-search-copy">
+          <span class="eyebrow">Recherche territoriale</span>
+          <h3>Choisissez une commune ou un arrondissement.</h3>
+          <p>La recherche s’appuie sur le référentiel géographique officiel. Les données immobilières locales ne sont jamais simulées : une valeur absente reste indiquée comme non connectée.</p>
+        </div>
+        <div class="territory-search-box">
+          <label for="territorySearchInput">Ville, arrondissement ou code postal</label>
+          <div class="territory-search-field"><span>⌕</span><input id="territorySearchInput" autocomplete="off" placeholder="Paris 11e, Bordeaux, 92100…"><button id="territorySearchClear" type="button">Effacer</button></div>
+          <div id="territorySearchResults" class="territory-search-results" hidden></div>
+          <div class="territory-popular"><span>Recherches rapides</span><button data-territory-code="75111">Paris 11e</button><button data-territory-code="69382">Lyon 2e</button><button data-territory-code="33063">Bordeaux</button><button data-territory-code="44109">Nantes</button></div>
+        </div>
+      </article>
+
+      <article class="territory-overview-card">
+        <div class="territory-overview-head">
           <div>
-            <span class="eyebrow">Radar local</span>
-            <h3>Comparer un territoire avant de décider.</h3>
-            <p>Prix DVF, loyers, DPE, permis de construire et risques seront bientôt réunis commune par commune, dans une lecture exploitable immédiatement.</p>
+            <span class="eyebrow">Territoire sélectionné</span>
+            <h3 id="territoryName">Paris 11e arrondissement</h3>
+            <p id="territoryMeta">Paris · Île-de-France</p>
           </div>
-          <div id="territorySwitches" class="territory-switches"></div>
-          <div class="territory-preview">
-            <span>DVF</span><span>LOYERS</span><span>DPE</span><span>RISQUES</span><span>URBANISME</span><span>CRÉDIT</span>
+          <div class="territory-data-badge"><span></span><strong>Données officielles uniquement</strong></div>
+        </div>
+
+        <div id="territoryIdentityMetrics" class="territory-identity-metrics"></div>
+
+        <div class="territory-market-section">
+          <div class="territory-market-head">
+            <div><span class="eyebrow">Données immobilières</span><h4>Ce que le Radar peut confirmer aujourd’hui.</h4></div>
+            <p>Les valeurs locales sont affichées uniquement lorsqu’une source est effectivement reliée.</p>
           </div>
-        </article>
-        <article class="territory-card territory-local">
-          <div class="territory-local-head">
-            <div>
-              <span class="eyebrow">Commune pilote</span>
-              <h3 id="territoryName">Paris 11e</h3>
-              <p id="territorySummary">Lecture locale de démonstration en attendant le branchement complet des sources territoriales.</p>
-            </div>
-            <button id="territoryFocusBtn" class="territory-focus">Voir la commune ↗</button>
-          </div>
-          <div id="territoryMetrics" class="territory-metrics"></div>
-          <div id="territorySources" class="territory-sources"></div>
-        </article>
-      </div>
+          <div id="territoryMarketMetrics" class="territory-market-metrics"></div>
+        </div>
+
+        <div class="territory-reading">
+          <div><span class="eyebrow">Lecture du Radar</span><h4 id="territoryReadingTitle">Une lecture locale, sans chiffres inventés.</h4></div>
+          <p id="territoryReadingText">Le territoire sélectionné sert maintenant de filtre aux actualités locales. Les données nationales restent visibles lorsqu’elles ont un impact direct sur ce marché.</p>
+        </div>
+
+        <div id="territorySourceStatus" class="territory-source-status"></div>
+      </article>
     </section>
 
     <section id="feedSection" class="feed-section shell">
@@ -208,7 +224,7 @@
           </label>
         </div>
 
-        <div class="feed-controls">
+        <div id="globalFeedControls" class="feed-controls">
           <button class="filter-btn active" data-filter="all">Tout</button>
           <button class="filter-btn" data-filter="lois">Lois</button>
           <button class="filter-btn" data-filter="marche">Marché</button>
@@ -217,6 +233,17 @@
           <button class="filter-btn" data-filter="pro">Pro</button>
           <label><input type="checkbox" id="officialOnly"> Officiel uniquement</label>
           <label><input type="checkbox" id="favoritesOnly"> Favoris</label>
+        </div>
+
+        <div id="territoryFeedControls" class="territory-feed-controls" hidden>
+          <button class="territory-filter-btn active" data-territory-filter="overview">Vue d’ensemble</button>
+          <button class="territory-filter-btn" data-territory-filter="prix">Prix</button>
+          <button class="territory-filter-btn" data-territory-filter="loyers">Loyers</button>
+          <button class="territory-filter-btn" data-territory-filter="transactions">Transactions</button>
+          <button class="territory-filter-btn" data-territory-filter="dpe">DPE</button>
+          <button class="territory-filter-btn" data-territory-filter="construction">Construction</button>
+          <button class="territory-filter-btn" data-territory-filter="risques">Risques</button>
+          <label><input type="checkbox" id="territoryOfficialOnly"> Sources officielles</label>
         </div>
 
         <div class="freshness-tabs" id="freshnessTabs">
@@ -271,8 +298,8 @@
     <section class="local-cta shell">
       <div>
         <span class="eyebrow">Prochaine grande étape</span>
-        <h2>Le Radar devient local.</h2>
-        <p>DVF, loyers, DPE, permis de construire et risques : bientôt une lecture ville par ville.</p>
+        <h2>Le local change la lecture.</h2>
+        <p>Choisissez un territoire : le Radar adapte désormais la veille et prépare la connexion progressive des données locales officielles.</p>
       </div>
       <button id="territoryJump"><span></span>Découvrir les territoires ↗</button>
     </section>

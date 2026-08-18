@@ -10,58 +10,68 @@ const state={
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
 const esc=(v="")=>String(v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
 const dateObj=v=>{if(!v)return null;const d=new Date(v);return Number.isNaN(d.getTime())?null:d};
-const TERRITORY_PRESETS={
-  paris11:{
-    label:"Paris 11e",
-    summary:"Marché très liquide, loyers sous tension et parc ancien à arbitrer avec attention sur le DPE.",
-    focus:"Profil urbain dense : lecture utile pour arbitrer achat, location et niveau de négociation.",
-    metrics:[
-      ["Prix ancien", "10 420 €/m²", "ordre de grandeur local"],
-      ["Loyer médian", "31 €/m²", "marché locatif tendu"],
-      ["DPE à surveiller", "E à G", "enjeu travaux / rénovation"],
-      ["Permis récents", "Modérés", "offre neuve limitée"]
-    ],
-    sources:["DVF", "Observatoires des loyers", "ADEME DPE", "Géorisques", "Sit@del"]
-  },
-  lyon2:{
-    label:"Lyon 2e",
-    summary:"Centre premium, marché recherché avec vacance faible et arbitrage fin entre rendement et prix d'entrée.",
-    focus:"Bon terrain pour une lecture investisseur : prix élevés mais tension locative soutenue.",
-    metrics:[
-      ["Prix ancien", "6 780 €/m²", "central et recherché"],
-      ["Loyer médian", "19 €/m²", "pression locative solide"],
-      ["DPE à surveiller", "D à F", "travaux ciblés"],
-      ["Permis récents", "Limités", "offre contenue"]
-    ],
-    sources:["DVF", "ANIL", "ADEME DPE", "Géorisques", "INSEE"]
-  },
-  bordeaux:{
-    label:"Bordeaux",
-    summary:"Reprise plus sélective : le marché se stabilise, mais le financement et l'emplacement font encore l'écart.",
-    focus:"Lecture équilibrée entre prix, loyers et capacité d’absorption du marché local.",
-    metrics:[
-      ["Prix ancien", "4 710 €/m²", "stabilisation récente"],
-      ["Loyer médian", "15 €/m²", "niveau soutenu"],
-      ["DPE à surveiller", "D à G", "parc hétérogène"],
-      ["Permis récents", "En retrait", "vigilance sur l’offre"]
-    ],
-    sources:["DVF", "Observatoires des loyers", "ADEME DPE", "Géorisques", "Sit@del"]
-  },
-  nantes:{
-    label:"Nantes",
-    summary:"Marché plus accessible, toujours actif, avec une tension locative structurelle dans plusieurs quartiers.",
-    focus:"Pertinent pour comparer rendement brut, qualité énergétique et niveau réel de concurrence locative.",
-    metrics:[
-      ["Prix ancien", "3 980 €/m²", "marché encore actif"],
-      ["Loyer médian", "14 €/m²", "tension persistante"],
-      ["DPE à surveiller", "D à F", "travaux à anticiper"],
-      ["Permis récents", "En baisse", "soutien à la tension"]
-    ],
-    sources:["DVF", "ANIL", "ADEME DPE", "Géorisques", "INSEE"]
-  }
+const TERRITORY_DEFAULT={
+  nom:"Paris 11e Arrondissement",code:"75111",codesPostaux:["75011"],population:null,surface:null,
+  departement:{code:"75",nom:"Paris"},region:{code:"11",nom:"Île-de-France"}
 };
-state.territory=localStorage.getItem("radarTerritory")||"paris11";
-function territoryCurrent(){return TERRITORY_PRESETS[state.territory]||Object.values(TERRITORY_PRESETS)[0]}
+state.territoryFilter="overview";
+state.territoryData=(()=>{try{return JSON.parse(localStorage.getItem("radarTerritoryData"))||TERRITORY_DEFAULT}catch{return TERRITORY_DEFAULT}})();
+state.territorySearchTimer=null;
+function territoryCurrent(){return state.territoryData||TERRITORY_DEFAULT}
+function normalizeText(v=""){return String(v).normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase()}
+function formatPopulation(v){return Number(v)>0?new Intl.NumberFormat("fr-FR").format(Number(v)):"Donnée indisponible"}
+function territoryLabel(t=territoryCurrent()){return t.nom||"Territoire sélectionné"}
+function territoryGeoTerms(t=territoryCurrent()){
+  const vals=[t.nom,t.departement?.nom,t.region?.nom,...(t.codesPostaux||[])].filter(Boolean).map(normalizeText);
+  const nom=normalizeText(t.nom||"").replace(/\b(arrondissement|municipal|commune)\b/g,"").replace(/\s+/g," ").trim();
+  if(nom)vals.push(nom);
+  return [...new Set(vals.filter(x=>x.length>1))];
+}
+function territoryMatchesText(i){
+  const text=normalizeText([i.title,i.summary,i.why_it_matters,i.territory,i.topic].join(" "));
+  return territoryGeoTerms().some(term=>term && text.includes(term));
+}
+function territoryFilterMatches(i){
+  if(state.page!=="territories")return true;
+  const text=normalizeText([i.title,i.summary,i.topic].join(" "));
+  const f=state.territoryFilter;
+  if(f==="overview")return true;
+  if(f==="prix")return /prix|ancien|vente immobiliere|marche immobilier/.test(text);
+  if(f==="loyers")return /loyer|location|locatif/.test(text);
+  if(f==="transactions")return /transaction|mutation|vente|dvf/.test(text);
+  if(f==="dpe")return /\bdpe\b|performance energetique|renovation energetique|passoire thermique/.test(text);
+  if(f==="construction")return /construction|permis|mise en chantier|logements autorises/.test(text);
+  if(f==="risques")return /risque|georisque|inondation|argile|radon|sismique|pollue/.test(text);
+  return true;
+}
+function territoryBoost(i){
+  if(state.page!=="territories")return 0;
+  if(territoryMatchesText(i))return 22;
+  if(i.territory==="France")return 4;
+  return 0;
+}
+function geoRiskUrl(t=territoryCurrent()){
+  if(!t.code||!t.nom)return "https://www.georisques.gouv.fr/";
+  return `https://www.georisques.gouv.fr/mes-risques/connaitre-les-risques-pres-de-chez-moi/rapport2/${encodeURIComponent(t.code)}/${encodeURIComponent(t.nom)}/commune`;
+}
+async function fetchTerritoryByCode(code){
+  const fields="nom,code,codesPostaux,population,surface,departement,region,codeDepartement,codeRegion";
+  const r=await fetch(`https://geo.api.gouv.fr/communes/${encodeURIComponent(code)}?fields=${encodeURIComponent(fields)}`);
+  if(!r.ok)throw new Error("Territoire introuvable");
+  return await r.json();
+}
+async function searchTerritories(q){
+  q=String(q||"").trim();if(q.length<2)return [];
+  const fields="nom,code,codesPostaux,population,surface,departement,region,codeDepartement,codeRegion";
+  const param=/^\d{5}$/.test(q)?`codePostal=${encodeURIComponent(q)}`:`nom=${encodeURIComponent(q)}&boost=population`;
+  const r=await fetch(`https://geo.api.gouv.fr/communes?${param}&fields=${encodeURIComponent(fields)}`);
+  if(!r.ok)throw new Error("Recherche indisponible");
+  const data=await r.json();return (Array.isArray(data)?data:[]).slice(0,8);
+}
+async function selectTerritory(t){
+  if(!t)return;state.territoryData=t;localStorage.setItem("radarTerritoryData",JSON.stringify(t));state.territoryFilter="overview";
+  renderTerritoryDashboard();renderTerritoryFeedControls();renderSidebar();renderFeed();
+}
 
 function fmtDate(v){const d=dateObj(v);return d?new Intl.DateTimeFormat("fr-FR",{day:"2-digit",month:"short",year:"numeric"}).format(d).toUpperCase():"DATE NON DISPONIBLE"}
 function fmtUpdate(v){const d=dateObj(v);return d?`VEILLE MISE À JOUR LE ${new Intl.DateTimeFormat("fr-FR",{day:"2-digit",month:"long",year:"numeric"}).format(d).toUpperCase()}`:"VEILLE MISE À JOUR"}
@@ -80,6 +90,7 @@ function score(i){
   const fb=state.feedback[i.id];
   if(fb==="more")n+=7;
   if(fb==="less")n-=12;
+  n+=territoryBoost(i);
   return Math.max(0,Math.min(100,n));
 }
 function savePrefs(){localStorage.setItem("radarFavorites",JSON.stringify(state.favorites));localStorage.setItem("radarFeedback",JSON.stringify(state.feedback))}
@@ -151,7 +162,11 @@ function pageMatches(i){
   if(state.page==="laws")return i.category==="lois";
   if(state.page==="market")return ["marche","credit"].includes(i.category);
   if(state.page==="invest")return i.category==="investir"||/\blmnp\b|\bscpi\b|investissement locatif|fiscalité immobilière/i.test(`${i.title} ${i.summary}`.toLowerCase());
-  if(state.page==="territories")return i.category==="territoires";
+  if(state.page==="territories"){
+    if(!territoryFilterMatches(i))return false;
+    if(i.category==="territoires")return territoryMatchesText(i);
+    return i.territory==="France"&&["lois","marche","credit","investir"].includes(i.category);
+  }
   return true;
 }
 function freshnessMatches(i){
@@ -203,7 +218,7 @@ function pageConfig(){
     laws:{eyebrow:"Radar juridique",title:"Lois & réglementation",desc:"Suivez les textes immobiliers français et européens sans confondre projet, adoption, publication et entrée en vigueur."},
     market:{eyebrow:"Marché immobilier",title:"Prix, crédit & activité",desc:"Les données officielles et les analyses qui permettent de lire la situation du marché."},
     invest:{eyebrow:"Investissement",title:"Investir avec plus de contexte",desc:"Fiscalité, LMNP, location nue, SCPI, financement et signaux de marché."},
-    territories:{eyebrow:"Territoires",title:"Comprendre un marché local",desc:"Une lecture territoriale pour comparer une commune sous plusieurs angles : prix, loyers, énergie, risques et urbanisme."}
+    territories:{eyebrow:"Territoires",title:"Votre marché, à l’échelle locale.",desc:"Choisissez une commune ou un arrondissement. Le Radar priorise les informations qui concernent ce territoire et conserve les signaux nationaux réellement utiles."}
   }[state.page];
 }
 function renderPage(){
@@ -214,7 +229,10 @@ function renderPage(){
   $("#todayOverview").hidden=state.page!=="today"&&state.page!=="market";$("#pulseSection").hidden=state.page!=="today";
   $("#legalDashboard").hidden=state.page!=="laws";$("#investDashboard").hidden=state.page!=="invest";$("#territoryDashboard").hidden=state.page!=="territories";
   $("#freshnessTabs").hidden=state.page!=="today";
-  renderLegalDashboard();renderInvestDashboard();renderTerritoryDashboard();renderSidebar();renderFeed();
+  if($("#globalFeedControls"))$("#globalFeedControls").hidden=state.page==="territories";
+  if($("#territoryFeedControls"))$("#territoryFeedControls").hidden=state.page!=="territories";
+  if(state.page==="territories"){$("#feedEyebrow").textContent="Veille territoriale";$("#feedTitle").textContent=`Ce qui affecte ${territoryLabel()}`;}
+  renderLegalDashboard();renderInvestDashboard();renderTerritoryDashboard();renderTerritoryFeedControls();renderSidebar();renderFeed();
 }
 function renderLegalDashboard(){
   if(state.page!=="laws")return;
@@ -240,18 +258,53 @@ function renderInvestDashboard(){
   $("#investCards").innerHTML=cards.map(c=>`<article class="invest-card"><span class="flag">${c[1]}</span><h3>${c[0]}</h3><p>${c[2]}</p><div class="invest-metrics"><span>${c[3]}</span><span>${c[4]}</span></div></article>`).join("");
 }
 
+function renderTerritoryFeedControls(){
+  if(!$("#territoryFeedControls"))return;
+  $$(".territory-filter-btn").forEach(b=>b.classList.toggle("active",b.dataset.territoryFilter===state.territoryFilter));
+}
+function territoryMarketMetric(label,source,url,status="En connexion"){
+  return `<article class="territory-market-metric"><small>${esc(label)}</small><strong>${esc(status)}</strong><span>${esc(source)}</span><a href="${esc(url)}" target="_blank" rel="noopener">Source officielle ↗</a></article>`;
+}
+function renderTerritorySearchResults(results){
+  const box=$("#territorySearchResults");if(!box)return;
+  if(!results.length){box.innerHTML='<div class="territory-search-empty">Aucun territoire trouvé.</div>';box.hidden=false;return;}
+  box.innerHTML=results.map(t=>`<button class="territory-search-result" data-code="${esc(t.code)}"><strong>${esc(t.nom)}</strong><span>${esc(t.codesPostaux?.join(" · ")||t.code)}${t.departement?.nom?` · ${esc(t.departement.nom)}`:""}</span></button>`).join("");
+  box.hidden=false;
+  box.querySelectorAll(".territory-search-result").forEach(b=>b.onclick=async()=>{try{const t=await fetchTerritoryByCode(b.dataset.code);await selectTerritory(t);$("#territorySearchInput").value=t.nom;box.hidden=true}catch(e){console.error(e)}});
+}
 function renderTerritoryDashboard(){
   if(state.page!=="territories")return;
-  const entries=Object.entries(TERRITORY_PRESETS);
-  const current=territoryCurrent();
-  $("#territorySwitches").innerHTML=entries.map(([key,t])=>`<button class="territory-chip ${key===state.territory?"active":""}" data-territory="${key}">${esc(t.label)}</button>`).join("");
-  $("#territoryName").textContent=current.label;
-  $("#territorySummary").textContent=current.summary;
-  $("#territoryMetrics").innerHTML=current.metrics.map(m=>`<article class="territory-metric"><small>${esc(m[0])}</small><strong>${esc(m[1])}</strong><span>${esc(m[2])}</span></article>`).join("");
-  $("#territorySources").innerHTML=`<p class="territory-focus-copy">${esc(current.focus)}</p><div class="territory-source-chips">${current.sources.map(s=>`<span>${esc(s)}</span>`).join("")}</div>`;
-  $$(".territory-chip").forEach(b=>b.onclick=()=>{state.territory=b.dataset.territory;localStorage.setItem("radarTerritory",state.territory);renderTerritoryDashboard();renderSidebar()});
-  $("#territoryFocusBtn").onclick=()=>window.alert(`La vue locale détaillée de ${current.label} sera la prochaine grande brique du Radar.`);
+  const t=territoryCurrent();
+  $("#territoryName").textContent=territoryLabel(t);
+  $("#territoryMeta").textContent=[t.departement?.nom,t.region?.nom].filter(Boolean).join(" · ")||"France";
+  if($("#territorySearchInput")&&!$("#territorySearchInput").matches(":focus"))$("#territorySearchInput").value=territoryLabel(t);
+  const identity=[
+    ["Code INSEE",t.code||"—"],
+    ["Population",formatPopulation(t.population)],
+    ["Code postal",(t.codesPostaux||[]).join(" · ")||"—"],
+    ["Département",t.departement?.nom||t.codeDepartement||"—"],
+    ["Région",t.region?.nom||t.codeRegion||"—"]
+  ];
+  $("#territoryIdentityMetrics").innerHTML=identity.map(m=>`<div class="territory-identity-metric"><small>${esc(m[0])}</small><strong>${esc(m[1])}</strong></div>`).join("");
+  $("#territoryMarketMetrics").innerHTML=[
+    territoryMarketMetric("Prix ancien","DVF / data.gouv.fr","https://explore.data.gouv.fr/fr/immobilier"),
+    territoryMarketMetric("Loyer médian","Observatoires des loyers","https://www.observatoires-des-loyers.org/"),
+    territoryMarketMetric("Transactions","DVF / data.gouv.fr","https://explore.data.gouv.fr/fr/immobilier"),
+    territoryMarketMetric("DPE","ADEME","https://data.ademe.fr/datasets/dpe03existant"),
+    territoryMarketMetric("Risques","Géorisques",geoRiskUrl(t),"Rapport disponible")
+  ].join("");
+  $("#territoryReadingTitle").textContent=state.profile==="investisseur"?"Décider localement, sans confondre rendement et marché.":state.profile==="pro"?"Lire le territoire comme un marché d’activité.":"Situer votre projet dans son vrai marché.";
+  $("#territoryReadingText").textContent=state.profile==="investisseur"?"Le Radar priorise ici les loyers, le financement, la réglementation bailleur et les informations réellement liées au territoire sélectionné.":state.profile==="pro"?"Le Radar remonte en priorité les signaux locaux, la réglementation, la construction et les données susceptibles d’affecter les volumes et la demande.":"Le Radar met en avant les prix, le crédit, le DPE, les risques et les règles qui peuvent modifier une décision d’achat, de vente ou de location.";
+  const statuses=[
+    ["API Découpage administratif","Connectée","https://geo.api.gouv.fr/decoupage-administratif/communes"],
+    ["DVF","À brancher","https://explore.data.gouv.fr/fr/immobilier"],
+    ["Observatoires des loyers","À brancher","https://www.observatoires-des-loyers.org/"],
+    ["ADEME DPE","À brancher","https://data.ademe.fr/datasets/dpe03existant"],
+    ["Géorisques","Lien officiel prêt",geoRiskUrl(t)]
+  ];
+  $("#territorySourceStatus").innerHTML=`<div class="territory-source-status-head"><span class="eyebrow">Sources locales</span><p>Le statut de connexion est affiché explicitement.</p></div><div class="territory-source-status-grid">${statuses.map(s=>`<a href="${esc(s[2])}" target="_blank" rel="noopener"><span>${esc(s[0])}</span><strong class="${s[1]==="Connectée"||s[1].includes("prêt")?"ok":"pending"}">${esc(s[1])}</strong></a>`).join("")}</div>`;
 }
+
 function legalSidebar(){
   let laws=state.items.filter(i=>i.category==="lois"&&i.source_level==="A").sort((a,b)=>(dateObj(b.published_at)?.getTime()||0)-(dateObj(a.published_at)?.getTime()||0)).slice(0,3);
   return `<span class="overline">Radar des lois</span><h2>À surveiller</h2><p>Le statut exact de chaque texte, de l’annonce à son application.</p><div class="timeline">${laws.map((i,idx)=>`<article class="timeline-item ${idx===1?"orange":idx===2?"gold":""}"><small>${esc(i.territory==="Union européenne"?(i.status||"UE"):(i.status||"France"))}</small><h3>${esc(i.title)}</h3><p>${esc(i.summary)}</p><a href="${esc(i.url)}" target="_blank" rel="noopener">Voir le texte ↗</a></article>`).join("")||"<p>Aucun texte récent détecté.</p>"}</div><button class="sidebar-cta" data-sidebar-action="laws">Voir toutes les lois →</button>`;
@@ -264,8 +317,9 @@ function investSidebar(){
 }
 function territorySidebar(){
   const t=territoryCurrent();
-  return `<span class="overline">Radar local</span><h2>${esc(t.label)}</h2><p>${esc(t.focus)}</p><div class="sidebar-metric"><span>Transactions</span><strong>${esc(t.metrics[0][1])}</strong></div><div class="sidebar-metric"><span>Loyer</span><strong>${esc(t.metrics[1][1])}</strong></div><div class="sidebar-metric"><span>DPE</span><strong>${esc(t.metrics[2][1])}</strong></div><div class="sidebar-metric"><span>Sources</span><strong>${t.sources.length}</strong></div><button class="sidebar-cta" data-sidebar-action="sources">Voir les sources locales →</button>`;
+  return `<span class="overline">Radar local</span><h2>${esc(territoryLabel(t))}</h2><p>${esc([t.departement?.nom,t.region?.nom].filter(Boolean).join(" · ")||"France")}</p><div class="sidebar-metric"><span>Code INSEE</span><strong>${esc(t.code||"—")}</strong></div><div class="sidebar-metric"><span>Population</span><strong>${esc(formatPopulation(t.population))}</strong></div><div class="sidebar-metric"><span>Code postal</span><strong>${esc((t.codesPostaux||[])[0]||"—")}</strong></div><div class="sidebar-metric"><span>Données marché</span><strong>Connexion en cours</strong></div><a class="sidebar-cta sidebar-link" href="${esc(geoRiskUrl(t))}" target="_blank" rel="noopener">Ouvrir Géorisques ↗</a>`;
 }
+
 function renderSidebar(){
   const box=$("#dynamicSidebar");box.innerHTML=state.page==="laws"?legalSidebar():state.page==="market"?marketSidebar():state.page==="invest"?investSidebar():state.page==="territories"?territorySidebar():legalSidebar();
   const btn=box.querySelector("[data-sidebar-action]");if(btn)btn.onclick=()=>{const a=btn.dataset.sidebarAction;if(a==="laws")setPage("laws");if(a==="method"){$("#marketExplain").hidden=false;$("#marketExplain").scrollIntoView({behavior:"smooth"})}if(a==="sources")showSources()};
@@ -283,7 +337,7 @@ function story(i,idx){
 }
 function renderFeed(){
   const arr=filteredItems();$("#resultCount").textContent=`${arr.length} information${arr.length>1?"s":""} dans ce fil`;
-  $("#freshnessHint").textContent=state.page==="today"?(state.freshness==="fresh"?"Priorité aux nouveautés des derniers jours":state.freshness==="week"?"Actualités de la semaine":"Contenus utiles, même plus anciens"):"";
+  $("#freshnessHint").textContent=state.page==="today"?(state.freshness==="fresh"?"Priorité aux nouveautés des derniers jours":state.freshness==="week"?"Actualités de la semaine":"Contenus utiles, même plus anciens"):state.page==="territories"?`Local : ${territoryLabel()} · national : uniquement les signaux utiles`:"";
   $("#feed").innerHTML=arr.map(story).join("");$("#emptyState").hidden=arr.length>0;
   $$(".story").forEach(card=>card.addEventListener("click",e=>{const b=e.target.closest("button[data-action]");if(!b)return;const id=card.dataset.id,a=b.dataset.action;if(a==="fav")state.favorites=state.favorites.includes(id)?state.favorites.filter(x=>x!==id):[...state.favorites,id];else state.feedback[id]=state.feedback[id]===a?null:a;savePrefs();renderFeed()}));
 }
@@ -294,7 +348,7 @@ function renderSystem(){
   const entries=Object.entries(h.by_source||{});$("#sourceHealthTable").innerHTML=entries.length?entries.map(([name,v])=>`<div class="source-row-health"><strong>${esc(name)}</strong><span>${esc(v.level||"")}</span><b class="${v.ok===false?"warn":"ok"}">${v.ok===false?"Erreur":"OK"}</b><span>${Number(v.retained||0)} retenue(s)</span></div>`).join(""):`<div class="source-row-health"><strong>Sources actives</strong><span>${Object.keys(state.sourceStats||{}).length}</span><b class="ok">OK</b><span>${state.items.length} infos</span></div>`;
 }
 function showSources(){$("#sourcesPanel").hidden=false;$("#sourcesPanel").scrollIntoView({behavior:"smooth"})}
-function setPage(p){state.page=p;state.filter=p==="laws"?"lois":p==="market"?"all":p==="invest"?"investir":p==="territories"?"all":"all";$$(".nav-btn").forEach(b=>b.classList.toggle("active",b.dataset.page===p));$$(".filter-btn").forEach(b=>b.classList.toggle("active",b.dataset.filter===state.filter));renderPage();if(p!=="today")$("#pageIntro").scrollIntoView({behavior:"smooth",block:"start"})}
+function setPage(p){state.page=p;state.filter=p==="laws"?"lois":p==="market"?"all":p==="invest"?"investir":"all";if(p==="territories")state.territoryFilter="overview";$$(".nav-btn").forEach(b=>b.classList.toggle("active",b.dataset.page===p));$$(".filter-btn").forEach(b=>b.classList.toggle("active",b.dataset.filter===state.filter));renderPage();if(p!=="today")$("#pageIntro").scrollIntoView({behavior:"smooth",block:"start"})}
 function bind(){
   $$(".profile-switch button").forEach(b=>{b.classList.toggle("active",b.dataset.profile===state.profile);b.onclick=()=>{state.profile=b.dataset.profile;localStorage.setItem("radarProfile",state.profile);$$(".profile-switch button").forEach(x=>x.classList.toggle("active",x===b));renderProfileContext();renderMarket();renderPage()}});
   $$(".nav-btn").forEach(b=>b.onclick=()=>setPage(b.dataset.page));
@@ -302,6 +356,11 @@ function bind(){
   $$(".fresh-btn").forEach(b=>b.onclick=()=>{state.freshness=b.dataset.freshness;$$(".fresh-btn").forEach(x=>x.classList.toggle("active",x===b));renderFeed()});
   $("#sortSelect").onchange=e=>{state.sort=e.target.value;renderFeed()};$("#officialOnly").onchange=e=>{state.officialOnly=e.target.checked;renderFeed()};$("#favoritesOnly").onchange=e=>{state.favoritesOnly=e.target.checked;renderFeed()};
   $("#searchOpen").onclick=()=>{$("#searchPanel").hidden=false;$("#searchInput").focus()};$("#searchClose").onclick=()=>{$("#searchPanel").hidden=true};$("#searchInput").oninput=e=>{state.query=e.target.value;renderFeed()};
+  $$(".territory-filter-btn").forEach(b=>b.onclick=()=>{state.territoryFilter=b.dataset.territoryFilter;renderTerritoryFeedControls();renderFeed()});
+  if($("#territoryOfficialOnly"))$("#territoryOfficialOnly").onchange=e=>{state.officialOnly=e.target.checked;renderFeed()};
+  if($("#territorySearchInput"))$("#territorySearchInput").oninput=e=>{clearTimeout(state.territorySearchTimer);const q=e.target.value;state.territorySearchTimer=setTimeout(async()=>{try{const results=await searchTerritories(q);renderTerritorySearchResults(results)}catch(err){console.error(err)}},250)};
+  if($("#territorySearchClear"))$("#territorySearchClear").onclick=()=>{$("#territorySearchInput").value="";$("#territorySearchResults").hidden=true};
+  $$('[data-territory-code]').forEach(b=>b.onclick=async()=>{try{const t=await fetchTerritoryByCode(b.dataset.territoryCode);await selectTerritory(t)}catch(e){console.error(e)}});
   $("#marketExplainBtn").onclick=()=>{$("#marketExplain").hidden=false};$("#marketExplainClose").onclick=()=>{$("#marketExplain").hidden=true};
   $("#sourcesDetailsBtn").onclick=showSources;$("#sourcesOpen").onclick=showSources;$("#footerSources").onclick=showSources;$("#footerMethod").onclick=()=>{$("#marketExplain").hidden=false;$("#marketExplain").scrollIntoView({behavior:"smooth"})};$("#sourcesClose").onclick=()=>{$("#sourcesPanel").hidden=true};
   $("#territoryJump").onclick=()=>setPage("territories");
@@ -309,7 +368,7 @@ function bind(){
 async function load(){
   bind();
   try{
-    const [f,m]=await Promise.all([fetch("./data/feed.json",{cache:"no-store"}),fetch("./data/market.json",{cache:"no-store"})]);const feed=await f.json();state.items=feed.items||[];state.sourceStats=feed.source_stats||{};state.health=feed.health||{};state.market=await m.json();$("#lastUpdate").textContent=fmtUpdate(feed.generated_at);renderProfileContext();renderMarket();renderSystem();renderPage();
+    const [f,m]=await Promise.all([fetch("./data/feed.json",{cache:"no-store"}),fetch("./data/market.json",{cache:"no-store"})]);const feed=await f.json();state.items=feed.items||[];state.sourceStats=feed.source_stats||{};state.health=feed.health||{};state.market=await m.json();$("#lastUpdate").textContent=fmtUpdate(feed.generated_at);try{if(state.territoryData?.code)state.territoryData=await fetchTerritoryByCode(state.territoryData.code)}catch(e){console.warn("Territory hydrate",e)}renderProfileContext();renderMarket();renderSystem();renderPage();
   }catch(e){console.error(e);$("#lastUpdate").textContent="ERREUR DE CHARGEMENT";}
 }
 load();
