@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:10:46+00:00",
+  "generated_at": "2026-08-18T21:45:43+00:00",
   "version": "4.0",
   "items": [
     {
@@ -1449,7 +1449,7 @@
     {
       "id": "4e92b6c7f877a985",
       "title": "Aller au contenu principal",
-      "summary": "Politique du logement Actualité Produithèque Emploi Formation Newsletter Toggle navigation Se connecter BTP Architecture-Aménagement Immobilier Industrie-Énergie Tribune RH Tribune d'experts Produithèque Emploi BTP Formation Rechercher Se connecter S'abonner Se connecter S'abonner BTP Architecture-Aménagement Immobilier Industrie-Énergie Tribune RH Tribune d'experts À la une Saint-Gobain confirme le retour de la croissance de ses ventes en France Logement HLM architecte Tous",
+      "summary": "Politique du logement Actualité Produithèque Emploi Formation Newsletter Toggle navigation Se connecter BTP Architecture-Aménagement Immobilier Industrie-Énergie Tribune RH Tribune d'experts Produithèque Emploi BTP Formation Rechercher Se connecter S'abonner Se connecter S'abonner BTP Architecture-Aménagement Immobilier Industrie-Énergie Tribune RH Tribune d'experts À la une \"En matière de transition écologique, il n'y a pas de compétition\", Benoît ... Logement HLM architect",
       "url": "https://www.batiactu.com/theme/theme-logement.php#main-content",
       "source": "Batiactu",
       "source_level": "C",
@@ -1529,27 +1529,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "3b2255cb7e8a6f65",
-      "title": "Informations Rapides · 28 mai 2026 · n° 130 Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) Indices Notaires-Insee des prix des logements anciens - premier trimestre 2026",
-      "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee true false https://www.sphinxonline.com/surveyserver/s/ccpesatisf/EnqUtilisateurs2026/questionnaire.htm 2026-08-19 00:00:00.0 9028126 Votre avis nous intéresse ! Bonjour et bienvenue sur le site de l'Insee Après votre visite , vous pourrez donner votre avis sur le site de l’Insee en répondant à un court questionnaire. En cliquant sur oui, vous aurez accès à l’ onglet Insee.fr et",
-      "url": "https://www.insee.fr/fr/statistiques/8995299",
-      "source": "Insee",
-      "source_level": "A",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-05-28T09:00:00+00:00",
-      "status": "Chiffre officiel",
-      "importance": 88,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Prix",
-      "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "bfcdb4203643c1fb",
@@ -1686,16 +1665,15 @@
     "Journal de l'Agence": 16,
     "SDES / Sitadel": 1,
     "Batiactu": 12,
-    "Insee": 1,
     "Notaires de France": 1,
     "EUR-Lex": 1,
     "Horiz.io": 4
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 13,
-    "errors": 2,
-    "retained": 80,
+    "sources_ok": 12,
+    "errors": 3,
+    "retained": 79,
     "rejected": 335,
     "by_source": {
       "Service-Public.fr": {
@@ -1710,8 +1688,8 @@
       },
       "Insee": {
         "level": "A",
-        "ok": true,
-        "retained": 1
+        "ok": false,
+        "retained": 0
       },
       "SDES / Sitadel": {
         "level": "A",
@@ -1779,6 +1757,10 @@
     {
       "source": "Banque de France",
       "error": "HTTPSConnectionPool(host='www.banque-france.fr', port=443): Read timed out. (read timeout=22)"
+    },
+    {
+      "source": "Insee",
+      "error": "HTTPSConnectionPool(host='www.insee.fr', port=443): Read timed out. (read timeout=22)"
     },
     {
       "source": "Légifrance",
