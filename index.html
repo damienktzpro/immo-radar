@@ -3,149 +3,190 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <meta name="theme-color" content="#08111f" />
-  <meta name="description" content="Immo Radar — veille immobilière, lois, marché, investissement et territoires." />
-  <title>Immo Radar</title>
+  <meta name="theme-color" content="#f4f2eb" />
+  <meta name="description" content="Radar Immobilier — marché, lois, investissement et territoires sans le bruit." />
+  <title>Radar Immobilier</title>
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
-  <header class="topbar">
-    <a class="brand" href="#top">
-      <span class="brand-mark">IR</span>
-      <span><strong>Immo Radar</strong><small>Marché · Lois · Investissement</small></span>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Radar Immobilier">
+      <span class="radar-logo" aria-hidden="true">
+        <i class="ring r1"></i><i class="ring r2"></i><i class="axis ax"></i><i class="axis ay"></i><i class="dot"></i>
+      </span>
+      <span class="brand-copy"><strong>RADAR</strong><small>IMMOBILIER</small></span>
     </a>
-    <div class="profile-switch" role="group" aria-label="Profil">
-      <button data-profile="particulier">Particulier</button>
-      <button data-profile="investisseur" class="active">Investisseur</button>
-      <button data-profile="pro">Pro</button>
+
+    <nav class="main-nav" aria-label="Navigation principale">
+      <button class="nav-link active" data-nav="all">Aujourd’hui</button>
+      <button class="nav-link" data-nav="lois">Lois</button>
+      <button class="nav-link" data-nav="marche">Marché</button>
+      <button class="nav-link" data-nav="investir">Investir</button>
+      <button class="nav-link" data-nav="territoires">Territoires</button>
+    </nav>
+
+    <div class="header-actions">
+      <button id="searchToggle" class="search-button" aria-label="Rechercher">⌕</button>
+      <button class="country-button"><span></span> France <b>⌄</b></button>
     </div>
   </header>
 
   <main id="top">
+    <section id="globalSearch" class="global-search shell" hidden>
+      <input id="searchInput" type="search" placeholder="Rechercher : LMNP, DPE, crédit immobilier, copropriété…" />
+      <button id="searchClose">Fermer</button>
+    </section>
+
     <section class="hero shell">
-      <div>
-        <span class="eyebrow">Veille immobilière intelligente</span>
-        <h1>Tout ce qui change dans l’immobilier.</h1>
-        <p>Actualités, lois, marché et investissement — filtrés, sourcés et expliqués.</p>
-      </div>
-      <div class="hero-badge">
-        <span class="pulse"></span>
-        <div><strong id="lastUpdate">Chargement…</strong><small>Actualisation automatique toutes les 6 h</small></div>
-      </div>
-    </section>
+      <div class="update-line"><span></span><strong id="lastUpdate">VEILLE EN COURS DE MISE À JOUR</strong></div>
 
-    <section class="shell watch-section">
-      <div class="section-title compact">
-        <div><span class="eyebrow">À surveiller</span><h2>Les prochaines échéances importantes</h2></div>
-        <span id="watchCount" class="count-pill">0</span>
-      </div>
-      <div id="watchList" class="watch-grid"></div>
-    </section>
-
-    <section class="shell radar-grid">
-      <article class="meter-card">
-        <div class="meter-head">
-          <div><span class="card-kicker">Température du marché</span><h2 id="marketScore">—</h2></div>
-          <span id="marketLabel" class="status-pill">—</span>
+      <div class="hero-grid">
+        <div>
+          <span class="eyebrow">Votre synthèse immobilière</span>
+          <h1>L’immobilier,<br><em>sans le bruit.</em></h1>
         </div>
-        <div class="meter-track"><div id="marketBar" class="meter-fill"></div></div>
-        <p id="marketComment">Chargement…</p>
-        <button class="ghost-link" id="marketDetailsBtn">Voir le calcul</button>
+        <p>Marché, lois et opportunités : les informations importantes, vérifiées et expliquées selon votre situation.</p>
+      </div>
+
+      <div class="profile-row">
+        <span>Je suis</span>
+        <div class="profile-switch">
+          <button data-profile="particulier" class="active">Particulier</button>
+          <button data-profile="investisseur">Investisseur</button>
+          <button data-profile="pro">Professionnel</button>
+        </div>
+        <em>Votre fil s’adapte instantanément</em>
+      </div>
+    </section>
+
+    <section class="market-shell shell">
+      <article class="market-main">
+        <div class="market-main-head">
+          <div>
+            <span class="eyebrow">Baromètre national</span>
+            <h2>Température du marché</h2>
+          </div>
+          <span id="marketPeriod" class="period-pill">DONNÉES T1–T2 2026</span>
+        </div>
+
+        <div class="market-main-body">
+          <div id="scoreGauge" class="score-gauge"><div><strong id="marketScore">—</strong><small>/100</small></div></div>
+          <div class="market-copy">
+            <span id="marketStatus" class="market-status">—</span>
+            <h3 id="marketHeadline">Chargement du marché…</h3>
+            <p id="marketComment"></p>
+            <button id="marketDetailsBtn" class="text-link">Comprendre le score ↗</button>
+          </div>
+        </div>
+
+        <div id="marketKeyFigures" class="market-keyfigures"></div>
       </article>
-      <article class="meter-card">
-        <span class="card-kicker">Rapport de force</span>
-        <h3 id="balanceLabel">—</h3>
-        <div class="balance"><span>Acheteurs</span><div class="balance-track"><i id="balanceDot"></i></div><span>Vendeurs</span></div>
-        <p id="balanceComment">Chargement…</p>
-      </article>
-      <article class="meter-card">
-        <span class="card-kicker">Financement</span>
-        <h3 id="financeLabel">—</h3>
-        <div class="balance"><span>Contraignant</span><div class="balance-track"><i id="financeDot"></i></div><span>Favorable</span></div>
-        <p id="financeComment">Chargement…</p>
-      </article>
-    </section>
 
-    <section id="marketDetails" class="shell market-details" hidden>
-      <div class="market-details-grid" id="marketComponents"></div>
-      <div class="confidence-line"><strong id="marketConfidence">—</strong><span>Confiance dans le score</span></div>
-    </section>
+      <div class="market-side">
+        <article class="force-card">
+          <span class="overline">Rapport de force</span>
+          <h3 id="balanceLabel">—</h3>
+          <p id="balanceComment"></p>
+          <div class="force-track"><i id="balanceDot"></i></div>
+          <div class="force-labels"><span>ACHETEURS</span><span>VENDEURS</span></div>
+        </article>
 
-    <section class="shell searchbar">
-      <div class="searchbox">
-        <span>⌕</span>
-        <input id="searchInput" type="search" placeholder="Rechercher : LMNP, DPE, crédit immobilier, copropriété…" />
+        <article class="finance-card">
+          <div class="finance-head"><span class="overline">Financement</span><b>%</b></div>
+          <h3 id="financeLabel">—</h3>
+          <p id="financeComment"></p>
+          <div id="financeBars" class="finance-bars"></div>
+          <div class="finance-axis"><span>SEPT. 25</span><span>AOÛT 26</span></div>
+        </article>
       </div>
     </section>
 
-    <section class="shell toolbar">
-      <div class="tabs" role="tablist">
-        <button class="tab active" data-category="all">Aujourd’hui</button>
-        <button class="tab" data-category="lois">Lois & réglementation</button>
-        <button class="tab" data-category="marche">Marché</button>
-        <button class="tab" data-category="investir">Investir</button>
-        <button class="tab" data-category="territoires">Territoires</button>
-      </div>
-      <div class="filters">
-        <label>Trier
-          <select id="sortSelect">
-            <option value="pertinence">Plus pertinent</option>
-            <option value="recent">Plus récent</option>
-            <option value="important">Plus important</option>
-          </select>
-        </label>
-        <label class="official-toggle"><input type="checkbox" id="officialOnly" /><span>Officiel uniquement</span></label>
-        <label class="official-toggle"><input type="checkbox" id="favoritesOnly" /><span>Favoris</span></label>
-      </div>
+    <section id="marketDetails" class="market-details shell" hidden>
+      <div id="marketComponents" class="market-components"></div>
+      <p>Confiance dans le score : <strong id="marketConfidence">—</strong>. Chaque donnée conserve sa période de publication.</p>
     </section>
 
-    <section id="legalRadar" class="shell legal-radar" hidden>
-      <div class="section-title legal-title">
-        <div><span class="eyebrow">Radar juridique</span><h2>France + Union européenne</h2></div>
-        <span class="status-pill">Sources officielles</span>
+    <section class="pulse-section shell">
+      <div class="section-heading">
+        <div><span class="eyebrow">Le pulse du jour</span><h2>Ce qu’il faut retenir</h2></div>
+        <p>3 signaux qui expliquent le marché aujourd’hui</p>
       </div>
-      <div class="legal-stages">
-        <article class="legal-stage"><span class="legal-index">1</span><div><small>Étape</small><strong>Déposé</strong></div><b id="legalCountDepot">0</b></article>
-        <article class="legal-stage"><span class="legal-index">2</span><div><small>Étape</small><strong>En discussion</strong></div><b id="legalCountDiscussion">0</b></article>
-        <article class="legal-stage"><span class="legal-index">3</span><div><small>Étape</small><strong>Adopté</strong></div><b id="legalCountAdopte">0</b></article>
-        <article class="legal-stage"><span class="legal-index">4</span><div><small>Étape</small><strong>Promulgué</strong></div><b id="legalCountPromulgue">0</b></article>
-        <article class="legal-stage"><span class="legal-index">5</span><div><small>Étape</small><strong>Publié / applicable</strong></div><b id="legalCountJorf">0</b></article>
-      </div>
-      <p class="legal-note">Immo Radar distingue publication, promulgation et entrée en vigueur. Une directive européenne est également distinguée d’un règlement directement applicable.</p>
+      <div id="pulseGrid" class="pulse-grid"></div>
     </section>
 
-    <section class="shell content-layout">
-      <div>
-        <div class="section-title">
-          <div><span class="eyebrow">Votre veille</span><h2 id="feedTitle">À retenir aujourd’hui</h2></div>
-          <span id="resultCount" class="count-pill">0 info</span>
+    <section id="feedSection" class="feed-section shell">
+      <div class="feed-main">
+        <div class="feed-heading">
+          <div><span class="eyebrow">Fil personnalisé</span><h2>À la une pour vous</h2></div>
+          <label class="sort-control">Trier par
+            <select id="sortSelect">
+              <option value="pertinence">Pertinence</option>
+              <option value="recent">Plus récent</option>
+              <option value="important">Importance</option>
+            </select>
+          </label>
         </div>
-        <div id="feed" class="feed"></div>
-        <div id="emptyState" class="empty" hidden>
-          <strong>Aucun résultat.</strong><span>Modifiez la recherche ou les filtres.</span>
+
+        <div class="feed-filters">
+          <button class="feed-filter active" data-category="all">Tout</button>
+          <button class="feed-filter" data-category="lois">Lois</button>
+          <button class="feed-filter" data-category="marche">Marché</button>
+          <button class="feed-filter" data-category="credit">Crédit</button>
+          <button class="feed-filter" data-category="investir">Investir</button>
+          <button class="feed-filter" data-category="pro">Pro</button>
+          <label><input type="checkbox" id="officialOnly"> Sources officielles</label>
+          <label><input type="checkbox" id="favoritesOnly"> Favoris</label>
         </div>
+
+        <div id="resultCount" class="result-count"></div>
+        <div id="feed" class="feed-list"></div>
+        <div id="emptyState" class="empty" hidden>Aucune information ne correspond à ces filtres.</div>
       </div>
-      <aside>
-        <div class="side-card">
-          <span class="card-kicker">Fiabilité des sources</span>
-          <h3>Une hiérarchie explicite</h3>
-          <ul class="source-legend">
-            <li><b class="level a">A</b><span><strong>Officielle</strong><small>Légifrance, Sénat, Insee, Banque de France, EUR-Lex…</small></span></li>
-            <li><b class="level b">B</b><span><strong>Institutionnelle</strong><small>ANIL, Notaires, ADEME…</small></span></li>
-            <li><b class="level c">C</b><span><strong>Média immobilier</strong><small>Presse spécialisée sélectionnée</small></span></li>
-            <li><b class="level d">D</b><span><strong>Blog / expert</strong><small>Opinion et signaux faibles</small></span></li>
-          </ul>
-        </div>
-        <div class="side-card">
-          <span class="card-kicker">Règle du radar</span>
-          <h3>Immobilier ou rejet</h3>
-          <p>Le collecteur exclut les informations générales sans lien immobilier identifiable.</p>
-        </div>
+
+      <aside class="feed-sidebar">
+        <section class="law-radar">
+          <span class="overline">Radar des lois</span>
+          <h2>À surveiller</h2>
+          <p>Le statut exact de chaque texte, de l’annonce à son application.</p>
+          <div id="lawTimeline" class="law-timeline"></div>
+          <button id="showAllLaws" class="sidebar-action">Voir toutes les lois →</button>
+        </section>
+
+        <section id="sourcesBox" class="sources-box">
+          <div class="shield">✓</div>
+          <div>
+            <h3>Sources vérifiées</h3>
+            <p>Une information juridique n’est considérée comme certaine qu’après confirmation officielle.</p>
+            <details>
+              <summary>Voir les sources actives</summary>
+              <div id="activeSources" class="active-sources"></div>
+            </details>
+          </div>
+        </section>
       </aside>
+    </section>
+
+    <section class="local-teaser shell">
+      <div>
+        <span class="eyebrow">Bientôt dans votre ville</span>
+        <h2>Le radar deviendra local.</h2>
+        <p>Prix DVF, loyers, DPE, permis de construire et risques réunis pour comparer chaque territoire.</p>
+      </div>
+      <button data-nav-target="territoires"><span></span> Choisir une commune ↗</button>
     </section>
   </main>
 
-  <footer><div class="shell footer-inner"><span>Immo Radar · V2</span><span>Information et veille — pas de conseil juridique ou financier personnalisé.</span></div></footer>
+  <footer class="footer">
+    <div class="shell footer-inner">
+      <div class="footer-brand">
+        <span class="radar-logo small" aria-hidden="true"><i class="ring r1"></i><i class="ring r2"></i><i class="axis ax"></i><i class="axis ay"></i><i class="dot"></i></span>
+        <span><strong>RADAR</strong><small>IMMOBILIER</small></span>
+      </div>
+      <em>Les décisions commencent par une information claire.</em>
+      <nav><a href="#sourcesBox">SOURCES</a><a href="#marketDetails">MÉTHODOLOGIE</a></nav>
+    </div>
+  </footer>
+
   <script src="./app.js"></script>
 </body>
 </html>
