@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T20:56:34+00:00",
+  "generated_at": "2026-08-18T21:03:58+00:00",
   "version": "4.0",
   "items": [
     {
@@ -45,9 +45,30 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
+      "id": "a93ae8ba6ef6ea51",
+      "title": "Diagnostic immobilier : Ce que le DPE européen dira en plus au 1er janvier 2027",
+      "summary": "Nouveau Règlementation Vie Pro Incendies dans le Sud-Ouest : Bien’ici se mobilise pour aider au relogement des sinistrés Rénovation MaPrimeRénov’, MaPrimeAdapt’ : Ce qui change aujourd’hui avec le nouveau compte France Rénov’",
+      "url": "https://www.mysweetimmo.com/2026/08/18/diagnostic-immobilier-ce-que-le-dpe-europeen-dira-en-plus-au-1er-janvier-2027/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
       "id": "d7de534a824dac0f",
       "title": "Incendies dans le Sud-Ouest : Bien’ici se mobilise pour aider au relogement des sinistrés",
-      "summary": "Vie Pro Rénovation MaPrimeRénov’, MaPrimeAdapt’ : Ce qui change aujourd’hui avec le nouveau compte France Rénov’ Vie Pro Article sponsorisé Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/08/18/incendies-dans-le-sud-ouest-bienici-se-mobilise-pour-aider-au-relogement-des-sinistres/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -358,9 +379,30 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets."
     },
     {
+      "id": "08b1588075d7e3f3",
+      "title": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux",
+      "summary": "Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Après leboncoin, Aurélien Flament prend la tête",
+      "url": "https://www.mysweetimmo.com/2026/08/13/trouvez-des-bureaux-disponibles-rapidement-a-paris-avec-geolocaux/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
       "id": "8baf2bfb80be582c",
       "title": "Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026",
-      "summary": "Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Après leboncoin, Aurélien Flament prend la tête d’idealista France Canicule : Avez-vous le droit d’installer une clim",
+      "summary": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Après leboncoin, Aurélien Flament prend la tête d’",
       "url": "https://www.mysweetimmo.com/2026/08/12/hausse-du-prix-du-gaz-jusqua-509-e-de-plus-sur-la-facture-en-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -381,7 +423,7 @@
     {
       "id": "9be7878ebb0f5a8f",
       "title": "Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros",
-      "summary": "Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Après leboncoin, Aurélien Flament prend la tête d’idealista France Canicule : Avez-vous le droit d’installer une climatisation sur votre balcon ?",
+      "summary": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Après leboncoin, Aurélien Flament prend la tête d’idealista France Canicule : Av",
       "url": "https://www.mysweetimmo.com/2026/08/12/immobilier-alpilles-17-chambres-45-hectares-ce-mas-de-1679-est-a-vendre-575-millions-deuros/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -402,7 +444,7 @@
     {
       "id": "88dfb213383334d0",
       "title": "Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire",
-      "summary": "Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Après leboncoin, Aurélien Flament prend la tête d’idealista France Canicule : Avez-vous le droit d’installer une climatisation s",
+      "summary": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Après leboncoin, Aurélien Flament prend la tête d’idealista Fr",
       "url": "https://www.mysweetimmo.com/2026/08/06/immobilier-acheter-pres-dune-foret-ce-que-le-vendeur-est-oblige-de-vous-dire/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -423,7 +465,7 @@
     {
       "id": "5ddc31d852754d7c",
       "title": "Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août",
-      "summary": "Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Après leboncoin, Aurélien Flament prend la tête d’idealista France Canicule : Avez-vous le droit d’installer une climatisation sur votre balcon ?",
+      "summary": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Après leboncoin, Aurélien Flament prend la tête d’idealista France Canicule : Av",
       "url": "https://www.mysweetimmo.com/2026/08/05/agents-immobiliers-le-decret-sur-la-pige-telephonique-fixe-les-regles-applicables-des-le-11-aout/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -444,50 +486,8 @@
     {
       "id": "a328f2f888d7b7cc",
       "title": "Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026",
-      "summary": "Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Après leboncoin, Aurélien Flament prend la tête d’idealista France Canicule : Avez-vous le droit d’installer une climatisation sur",
+      "summary": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Après leboncoin, Aurélien Flament prend la tête d’idealista Franc",
       "url": "https://www.mysweetimmo.com/2026/08/04/immobilier-ce-que-lai-act-change-vraiment-pour-les-agences-depuis-le-2-aout-2026/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
-    },
-    {
-      "id": "b26c4ee2b6aa7dcd",
-      "title": "Après leboncoin, Aurélien Flament prend la tête d’idealista France",
-      "summary": "Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Canicule : Avez-vous le droit d’installer une c",
-      "url": "https://www.mysweetimmo.com/2026/08/04/apres-leboncoin-aurelien-flament-prend-la-tete-didealista-france/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
-    },
-    {
-      "id": "65f58fb2147f5756",
-      "title": "Canicule : Avez-vous le droit d’installer une climatisation sur votre balcon ?",
-      "summary": "Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Après leboncoin, Aurélien Flament prend la tête",
-      "url": "https://www.mysweetimmo.com/2026/08/04/canicule-avez-vous-le-droit-dinstaller-une-climatisation-sur-votre-balcon/",
       "source": "MySweetImmo",
       "source_level": "C",
       "category": "lois",
@@ -1449,7 +1449,7 @@
     {
       "id": "4e92b6c7f877a985",
       "title": "Aller au contenu principal",
-      "summary": "Politique du logement Actualité Produithèque Emploi Formation Newsletter Toggle navigation Se connecter BTP Architecture-Aménagement Immobilier Industrie-Énergie Tribune RH Tribune d'experts Produithèque Emploi BTP Formation Rechercher Se connecter S'abonner Se connecter S'abonner BTP Architecture-Aménagement Immobilier Industrie-Énergie Tribune RH Tribune d'experts À la une \"En matière de transition écologique, il n'y a pas de compétition\", Benoît ... Logement HLM architect",
+      "summary": "Politique du logement Actualité Produithèque Emploi Formation Newsletter Toggle navigation Se connecter BTP Architecture-Aménagement Immobilier Industrie-Énergie Tribune RH Tribune d'experts Produithèque Emploi BTP Formation Rechercher Se connecter S'abonner Se connecter S'abonner BTP Architecture-Aménagement Immobilier Industrie-Énergie Tribune RH Tribune d'experts À la une Saint-Gobain confirme le retour de la croissance de ses ventes en France Logement HLM architecte Tous",
       "url": "https://www.batiactu.com/theme/theme-logement.php#main-content",
       "source": "Batiactu",
       "source_level": "C",
@@ -1470,7 +1470,7 @@
     {
       "id": "69565539196cd1c3",
       "title": "Tous corps d'état",
-      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 18/08/2026 Économie Saint-Gobain con",
+      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Témoin \"En matière de transition écologique, il n'y",
       "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -1491,7 +1491,7 @@
     {
       "id": "135874d9ef9c7687",
       "title": "Tous métiers de la construction",
-      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 18/08/2026 Économie Saint-Gobain confirme le retou",
+      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Témoin \"En matière de transition écologique, il n'y a pas de compé",
       "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -1512,7 +1512,7 @@
     {
       "id": "b507c4ff7769afdd",
       "title": "Construction (tous corps d'état)",
-      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 18/08/2026 Économie Saint-Gobain confirme le retour",
+      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Témoin \"En matière de transition écologique, il n'y a pas de compét",
       "url": "https://www.batiactu.com/theme/theme-construction.php",
       "source": "Batiactu",
       "source_level": "C",
