@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T13:53:44+00:00",
-  "version": "1.1",
+  "generated_at": "2026-08-18T13:57:40+00:00",
+  "version": "1.2",
   "items": [
     {
       "id": "01b98db0dd1941ff",
@@ -301,10 +301,22 @@
     "ANIL": 13,
     "Service-Public.fr": 1
   },
+  "legal_stats": {
+    "depot": 0,
+    "discussion": 0,
+    "adopte": 0,
+    "promulgue": 0,
+    "jorf": 0,
+    "clos": 0
+  },
   "errors": [
     {
       "source": "Légifrance",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.legifrance.gouv.fr/"
+    },
+    {
+      "source": "Sénat",
+      "error": "RuntimeError: Table loi introuvable dans DOSLEG."
     }
   ]
 }
