@@ -1,26 +1,47 @@
 {
-  "generated_at": "2026-08-18T13:00:00+02:00",
+  "generated_at": "2026-08-18T13:32:45+00:00",
   "items": [
     {
-      "id": "anil-loyers-zones-tendues-2026",
-      "title": "Encadrement de l’évolution des loyers en zones tendues à compter du 1er août 2026",
-      "summary": "L’ANIL a publié une analyse juridique dédiée à l’encadrement de l’évolution des loyers dans les zones tendues.",
-      "url": "https://www.anil.org/centre-de-ressources/",
-      "source": "ANIL",
-      "source_level": "B",
-      "source_type": "institutionnelle",
-      "category": "lois",
+      "id": "demo-dvf-territoires",
+      "title": "Prochaine étape : intégrer DVF pour comparer les ventes réelles par territoire",
+      "summary": "La V1 prévoit un connecteur territorial dédié aux données de ventes immobilières et à leur évolution locale.",
+      "url": "https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/",
+      "source": "data.gouv.fr / DVF",
+      "source_level": "A",
+      "source_type": "officielle",
+      "category": "territoires",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-23T08:00:00+02:00",
-      "status": "Analyse juridique",
-      "importance": 92,
-      "relevance": 88,
+      "published_at": "2026-08-18T12:00:00+02:00",
+      "status": "Connecteur prévu",
+      "importance": 88,
+      "relevance": 90,
       "territory": "France",
-      "why_it_matters": "Concerne directement la fixation ou l’évolution du loyer pour de nombreux bailleurs et professionnels."
+      "why_it_matters": "Les ventes réelles permettront de créer un baromètre local plus fiable qu’un simple prix d’annonce."
+    },
+    {
+      "id": "31c82e6b8fcdf1d2",
+      "title": "Urbanisme, voisinage, construction : quelles questions ont préoccupé les ménages en 2025 ?",
+      "summary": "Nouvelle publication repérée automatiquement sur le site de l’ANIL. Ouvrez la source pour consulter le contenu complet.",
+      "url": "https://www.anil.org/actualites-evenements/details/urbanisme-voisinage-construction-quelles-questions-ont-preoccupe-les-menages-en-2025/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-17T08:00:00+00:00",
+      "status": "Publication ANIL",
+      "importance": 58,
+      "relevance": 69,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle dédiée au logement ; le contenu est classé automatiquement pour faciliter la veille."
     },
     {
       "id": "anil-donnees-loyers-2026",
@@ -44,6 +65,153 @@
       "why_it_matters": "Les loyers sont un indicateur central pour comparer les territoires et mesurer la tension locative."
     },
     {
+      "id": "1cc513da92ef3bd1",
+      "title": "Location d'un logement : de la signature du bail à la fin de la location",
+      "summary": "Nouvelle publication repérée automatiquement sur le site de l’ANIL. Ouvrez la source pour consulter le contenu complet.",
+      "url": "https://www.anil.org/actualites-evenements/details/location-dun-logement-de-la-signature-du-bail-a-la-fin-de-la-location/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-03T08:00:00+00:00",
+      "status": "Publication ANIL",
+      "importance": 58,
+      "relevance": 72,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle dédiée au logement ; le contenu est classé automatiquement pour faciliter la veille."
+    },
+    {
+      "id": "b2e47e6ec5c46293",
+      "title": "Incendies : des mesures exceptionnelles pour accompagner les sinistrés",
+      "summary": "Nouvelle publication repérée automatiquement sur le site de l’ANIL. Ouvrez la source pour consulter le contenu complet.",
+      "url": "https://www.anil.org/actualites-evenements/details/incendies-des-mesures-exceptionnelles-pour-accompagner-les-sinistres/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-31T08:00:00+00:00",
+      "status": "Publication ANIL",
+      "importance": 58,
+      "relevance": 69,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle dédiée au logement ; le contenu est classé automatiquement pour faciliter la veille."
+    },
+    {
+      "id": "c97fbcb683b89861",
+      "title": "Louer à un travailleur saisonnier : sécurisez votre location avec la garantie Visale",
+      "summary": "Nouvelle publication repérée automatiquement sur le site de l’ANIL. Ouvrez la source pour consulter le contenu complet.",
+      "url": "https://www.anil.org/actualites-evenements/details/louer-a-un-travailleur-saisonnier-securisez-votre-location-avec-la-garantie-visale/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "investir",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-30T08:00:00+00:00",
+      "status": "Publication ANIL",
+      "importance": 58,
+      "relevance": 70,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle dédiée au logement ; le contenu est classé automatiquement pour faciliter la veille."
+    },
+    {
+      "id": "a77eb7de9e6162fa",
+      "title": "Incendies : l’ AMF lance la mobilisation générale des maires pour soutenir les communes sinistrées",
+      "summary": "Nouvelle publication repérée automatiquement sur le site de l’ANIL. Ouvrez la source pour consulter le contenu complet.",
+      "url": "https://www.anil.org/actualites-evenements/details/incendies-lamf-lance-la-mobilisation-generale-des-maires-pour-soutenir-les-communes-sinistrees/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-30T08:00:00+00:00",
+      "status": "Publication ANIL",
+      "importance": 58,
+      "relevance": 62,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle dédiée au logement ; le contenu est classé automatiquement pour faciliter la veille."
+    },
+    {
+      "id": "49fec611d31a12ca",
+      "title": "Incendies en Nouvelle-Aquitaine : Action Logement met en place un dispositif d'urgence",
+      "summary": "Nouvelle publication repérée automatiquement sur le site de l’ANIL. Ouvrez la source pour consulter le contenu complet.",
+      "url": "https://www.anil.org/actualites-evenements/details/incendies-en-nouvelle-aquitaine-action-logement-met-en-place-un-dispositif-durgence/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-29T08:00:00+00:00",
+      "status": "Publication ANIL",
+      "importance": 58,
+      "relevance": 69,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle dédiée au logement ; le contenu est classé automatiquement pour faciliter la veille."
+    },
+    {
+      "id": "anil-loyers-zones-tendues-2026",
+      "title": "Encadrement de l’évolution des loyers en zones tendues à compter du 1er août 2026",
+      "summary": "L’ANIL a publié une analyse juridique dédiée à l’encadrement de l’évolution des loyers dans les zones tendues.",
+      "url": "https://www.anil.org/centre-de-ressources/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-23T08:00:00+02:00",
+      "status": "Analyse juridique",
+      "importance": 92,
+      "relevance": 88,
+      "territory": "France",
+      "why_it_matters": "Concerne directement la fixation ou l’évolution du loyer pour de nombreux bailleurs et professionnels."
+    },
+    {
+      "id": "f48d3e3cac69b880",
+      "title": "Notre rapport d’activité 2025 est en ligne",
+      "summary": "Nouvelle publication repérée automatiquement sur le site de l’ANIL. Ouvrez la source pour consulter le contenu complet.",
+      "url": "https://www.anil.org/actualites-evenements/details/notre-rapport-dactivite-2025-est-en-ligne/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-22T08:00:00+00:00",
+      "status": "Publication ANIL",
+      "importance": 58,
+      "relevance": 69,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle dédiée au logement ; le contenu est classé automatiquement pour faciliter la veille."
+    },
+    {
       "id": "anil-irl-t2-2026",
       "title": "IRL : le nouvel indice du 2e trimestre 2026 est publié",
       "summary": "L’ANIL indique que le dernier indice de référence des loyers du deuxième trimestre 2026 a été publié au Journal officiel.",
@@ -65,6 +233,48 @@
       "why_it_matters": "L’IRL sert de référence pour certaines révisions de loyers lorsque les conditions légales et contractuelles sont réunies."
     },
     {
+      "id": "7b241d7bae5586fc",
+      "title": "IRL : le nouvel indice du 2eme trimestre 2026 est publié",
+      "summary": "Nouvelle publication repérée automatiquement sur le site de l’ANIL. Ouvrez la source pour consulter le contenu complet.",
+      "url": "https://www.anil.org/actualites-evenements/details/irl-le-nouvel-indice-du-2eme-trimestre-2026-est-publie/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-12T08:00:00+00:00",
+      "status": "Publication ANIL",
+      "importance": 64,
+      "relevance": 69,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle dédiée au logement ; le contenu est classé automatiquement pour faciliter la veille."
+    },
+    {
+      "id": "46bbdd872668e766",
+      "title": "Relance logement : un nouveau dispositif pour faciliter l’achat et la location de logements",
+      "summary": "Nouvelle publication repérée automatiquement sur le site de l’ANIL. Ouvrez la source pour consulter le contenu complet.",
+      "url": "https://www.anil.org/actualites-evenements/details/relance-logement-un-nouveau-dispositif-pour-faciliter-lachat-et-la-location-de-logements/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "investir",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-10T08:00:00+00:00",
+      "status": "Publication ANIL",
+      "importance": 58,
+      "relevance": 70,
+      "territory": "France",
+      "why_it_matters": "Source institutionnelle dédiée au logement ; le contenu est classé automatiquement pour faciliter la veille."
+    },
+    {
       "id": "anil-credit-taux-2026",
       "title": "Des taux toujours stables malgré un regain de tensions obligataires",
       "summary": "L’ANIL a publié au deuxième trimestre 2026 un indicateur consacré à l’évolution des taux de crédit immobilier.",
@@ -84,47 +294,7 @@
       "relevance": 79,
       "territory": "France",
       "why_it_matters": "Les conditions de financement influencent directement le pouvoir d’achat immobilier et le volume d’acquéreurs solvables."
-    },
-    {
-      "id": "anil-locavantages-2026",
-      "title": "Loc’Avantages : valorisez votre bien tout en réduisant vos impôts",
-      "summary": "L’ANIL a publié un contenu consacré au dispositif Loc’Avantages pour les propriétaires bailleurs.",
-      "url": "https://www.anil.org/",
-      "source": "ANIL",
-      "source_level": "B",
-      "source_type": "institutionnelle",
-      "category": "investir",
-      "audiences": [
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-04-22T08:00:00+02:00",
-      "status": "Dispositif",
-      "importance": 68,
-      "relevance": 74,
-      "territory": "France",
-      "why_it_matters": "Peut entrer dans l’arbitrage rendement, fiscalité et contraintes pour certains investissements locatifs."
-    },
-    {
-      "id": "demo-dvf-territoires",
-      "title": "Prochaine étape : intégrer DVF pour comparer les ventes réelles par territoire",
-      "summary": "La V1 prévoit un connecteur territorial dédié aux données de ventes immobilières et à leur évolution locale.",
-      "url": "https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/",
-      "source": "data.gouv.fr / DVF",
-      "source_level": "A",
-      "source_type": "officielle",
-      "category": "territoires",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T12:00:00+02:00",
-      "status": "Connecteur prévu",
-      "importance": 88,
-      "relevance": 90,
-      "territory": "France",
-      "why_it_matters": "Les ventes réelles permettront de créer un baromètre local plus fiable qu’un simple prix d’annonce."
     }
-  ]
+  ],
+  "errors": []
 }
