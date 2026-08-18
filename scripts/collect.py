@@ -1,18 +1,15 @@
 #!/usr/bin/env python3
 """
-Immo Radar V1.1 — collecteur multi-sources.
+Immo Radar V1.2 — collecteur + radar juridique.
 
-Sources activées :
-- Service-Public.fr : RSS officiel des actualités particuliers (niveau A)
-- Légifrance : derniers Journaux officiels, filtrés par thèmes immobiliers (niveau A)
-- ANIL : actualités et analyses logement (niveau B)
+Sources :
+- Service-Public.fr (A)
+- Légifrance / JORF (A)
+- Sénat / DOSLEG (A)
+- ANIL (B)
 
-Principes de prudence :
-- un texte repéré dans le JORF est étiqueté "Publié au JORF",
-  pas automatiquement "en vigueur" ;
-- les publications ANIL restent niveau B institutionnel ;
-- les notes techniques de développement sont supprimées du flux public ;
-- aucune opinion/blog ne peut être promue au niveau A ou B.
+Le radar juridique utilise les états officiels du Sénat lorsqu'ils sont
+disponibles. L'entrée en vigueur n'est PAS inférée automatiquement.
 """
 
 from __future__ import annotations
@@ -20,8 +17,10 @@ from __future__ import annotations
 import argparse
 import hashlib
 import html
+import io
 import json
 import re
+import zipfile
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urljoin, urlsplit, urlunsplit
@@ -34,13 +33,13 @@ ROOT = Path(__file__).resolve().parents[1]
 FEED_PATH = ROOT / "data" / "feed.json"
 
 UA = (
-    "Mozilla/5.0 (compatible; ImmoRadar/1.1; "
+    "Mozilla/5.0 (compatible; ImmoRadar/1.2; "
     "+https://github.com/damienktzpro/immo-radar)"
 )
 
-TIMEOUT = 25
-MAX_ITEMS = 180
-MAX_AGE_DAYS = 365
+TIMEOUT = 30
+MAX_ITEMS = 220
+MAX_AGE_DAYS = 730
 
 SERVICE_PUBLIC_RSS = (
     "https://www.service-public.fr/abonnements/"
@@ -48,6 +47,7 @@ SERVICE_PUBLIC_RSS = (
 )
 ANIL_ACTUS = "https://www.anil.org/actualites-evenements/"
 LEGIFRANCE_HOME = "https://www.legifrance.gouv.fr/"
+SENAT_DOSLEG_ZIP = "https://data.senat.fr/data/dosleg/dosleg.zip"
 
 REAL_ESTATE_KEYWORDS = (
     "immobilier", "logement", "habitation", "loyer", "location", "locataire",
@@ -59,8 +59,9 @@ REAL_ESTATE_KEYWORDS = (
     "meuble de tourisme", "taxe foncière", "taxe fonciere",
     "prêt à taux zéro", "pret a taux zero", "ptz", "crédit immobilier",
     "credit immobilier", "action logement", "anah", "ma prime rénov",
-    "ma prime renov", "maPrimeRénov".lower(), "encadrement des loyers",
+    "ma prime renov", "maprimerénov", "encadrement des loyers",
     "permis de construire", "vente immobilière", "vente immobiliere",
+    "hébergement", "hebergement", "bâtiment", "batiment",
 )
 
 CATEGORY_KEYWORDS = {
@@ -68,6 +69,7 @@ CATEGORY_KEYWORDS = {
         "loi", "décret", "decret", "arrêté", "arrete", "ordonnance",
         "règlement", "reglement", "juridique", "journal officiel",
         "loyer", "bail", "copropriété", "copropriete", "fiscal",
+        "proposition de loi", "projet de loi",
     ),
     "marche": (
         "prix", "marché", "marche", "taux", "crédit", "credit",
@@ -117,7 +119,6 @@ def is_real_estate(text: str) -> bool:
 
 def classify(text: str) -> str:
     txt = clean_text(text).lower()
-
     best_category = "marche"
     best_score = 0
 
@@ -142,14 +143,8 @@ def audience_for(category: str, text: str) -> list[str]:
     return ["particulier", "investisseur", "pro"]
 
 
-def score_item(
-    title: str,
-    source_level: str,
-    category: str,
-    status: str,
-) -> tuple[int, int]:
+def score_item(title: str, source_level: str, category: str, status: str) -> tuple[int, int]:
     txt = title.lower()
-
     importance = 55
     relevance = 60
 
@@ -182,9 +177,7 @@ def score_item(
 
 
 def parse_struct_time(entry) -> str:
-    parsed = getattr(entry, "published_parsed", None) or getattr(
-        entry, "updated_parsed", None
-    )
+    parsed = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
     if parsed:
         dt = datetime(*parsed[:6], tzinfo=timezone.utc)
         return dt.astimezone().isoformat(timespec="seconds")
@@ -193,21 +186,10 @@ def parse_struct_time(entry) -> str:
 
 def extract_french_date(text: str) -> str | None:
     months = {
-        "janvier": 1,
-        "février": 2,
-        "fevrier": 2,
-        "mars": 3,
-        "avril": 4,
-        "mai": 5,
-        "juin": 6,
-        "juillet": 7,
-        "août": 8,
-        "aout": 8,
-        "septembre": 9,
-        "octobre": 10,
-        "novembre": 11,
-        "décembre": 12,
-        "decembre": 12,
+        "janvier": 1, "février": 2, "fevrier": 2, "mars": 3, "avril": 4,
+        "mai": 5, "juin": 6, "juillet": 7, "août": 8, "aout": 8,
+        "septembre": 9, "octobre": 10, "novembre": 11,
+        "décembre": 12, "decembre": 12,
     }
 
     match = re.search(
@@ -225,9 +207,20 @@ def extract_french_date(text: str) -> str | None:
     month = months[match.group(2)]
     year = int(match.group(3))
 
-    return datetime(
-        year, month, day, 8, 0, tzinfo=timezone.utc
-    ).astimezone().isoformat(timespec="seconds")
+    return datetime(year, month, day, 8, 0, tzinfo=timezone.utc).astimezone().isoformat(timespec="seconds")
+
+
+def why_it_matters(category: str, source_level: str) -> str:
+    prefix = "Source officielle. " if source_level == "A" else "Source institutionnelle spécialisée. "
+
+    endings = {
+        "lois": "Ce texte peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+        "marche": "Cette information peut influencer les prix, les loyers, le crédit ou le niveau d’activité du marché.",
+        "investir": "Cette information peut modifier la fiscalité, les contraintes ou l’intérêt économique d’un investissement.",
+        "territoires": "Cette information peut avoir un impact différent selon la commune, le département ou la zone concernée.",
+    }
+
+    return prefix + endings.get(category, endings["marche"])
 
 
 def make_item(
@@ -241,14 +234,14 @@ def make_item(
     published_at: str,
     status: str,
     territory: str = "France",
+    category: str | None = None,
+    legal_stage: str | None = None,
 ) -> dict:
     combined = f"{title} {summary}"
-    category = classify(combined)
-    importance, relevance = score_item(
-        title, source_level, category, status
-    )
+    category = category or classify(combined)
+    importance, relevance = score_item(title, source_level, category, status)
 
-    return {
+    item = {
         "id": stable_id(source, title, url),
         "title": clean_text(title),
         "summary": clean_text(summary)[:520],
@@ -266,40 +259,15 @@ def make_item(
         "why_it_matters": why_it_matters(category, source_level),
     }
 
+    if legal_stage:
+        item["legal_stage"] = legal_stage
 
-def why_it_matters(category: str, source_level: str) -> str:
-    prefix = (
-        "Source officielle. "
-        if source_level == "A"
-        else "Source institutionnelle spécialisée. "
-    )
-
-    endings = {
-        "lois": (
-            "Cette publication peut modifier les règles applicables aux "
-            "propriétaires, locataires, investisseurs ou professionnels."
-        ),
-        "marche": (
-            "Cette information peut influencer les prix, les loyers, "
-            "le crédit ou le niveau d’activité du marché."
-        ),
-        "investir": (
-            "Cette information peut modifier la fiscalité, les contraintes "
-            "ou l’intérêt économique d’un investissement."
-        ),
-        "territoires": (
-            "Cette information peut avoir un impact différent selon la "
-            "commune, le département ou la zone concernée."
-        ),
-    }
-
-    return prefix + endings.get(category, endings["marche"])
+    return item
 
 
 def load_existing_items() -> list[dict]:
     if not FEED_PATH.exists():
         return []
-
     try:
         data = json.loads(FEED_PATH.read_text(encoding="utf-8"))
         return list(data.get("items", []))
@@ -307,48 +275,32 @@ def load_existing_items() -> list[dict]:
         return []
 
 
-def collect_service_public(limit: int = 20) -> list[dict]:
-    feed = feedparser.parse(
-        SERVICE_PUBLIC_RSS,
-        request_headers={"User-Agent": UA},
-    )
+def collect_service_public(limit: int = 25) -> list[dict]:
+    feed = feedparser.parse(SERVICE_PUBLIC_RSS, request_headers={"User-Agent": UA})
 
     if getattr(feed, "bozo", False) and not feed.entries:
-        raise RuntimeError(
-            f"Flux RSS Service-Public illisible: {getattr(feed, 'bozo_exception', '')}"
-        )
+        raise RuntimeError(f"Flux RSS Service-Public illisible: {getattr(feed, 'bozo_exception', '')}")
 
     items = []
 
     for entry in feed.entries:
         title = clean_text(getattr(entry, "title", ""))
-        summary = clean_text(
-            getattr(entry, "summary", "")
-            or getattr(entry, "description", "")
-        )
+        summary = clean_text(getattr(entry, "summary", "") or getattr(entry, "description", ""))
         link = getattr(entry, "link", "")
 
-        if not title or not link:
+        if not title or not link or not is_real_estate(f"{title} {summary}"):
             continue
 
-        if not is_real_estate(f"{title} {summary}"):
-            continue
-
-        items.append(
-            make_item(
-                source="Service-Public.fr",
-                source_level="A",
-                source_type="officielle",
-                title=title,
-                summary=summary or (
-                    "Actualité officielle repérée dans le flux RSS "
-                    "de Service-Public.fr."
-                ),
-                url=link,
-                published_at=parse_struct_time(entry),
-                status="Information officielle",
-            )
-        )
+        items.append(make_item(
+            source="Service-Public.fr",
+            source_level="A",
+            source_type="officielle",
+            title=title,
+            summary=summary or "Actualité officielle repérée dans le flux RSS de Service-Public.fr.",
+            url=link,
+            published_at=parse_struct_time(entry),
+            status="Information officielle",
+        ))
 
         if len(items) >= limit:
             break
@@ -356,30 +308,19 @@ def collect_service_public(limit: int = 20) -> list[dict]:
     return items
 
 
-def collect_anil(limit: int = 30) -> list[dict]:
-    response = requests.get(
-        ANIL_ACTUS,
-        timeout=TIMEOUT,
-        headers={"User-Agent": UA},
-    )
+def collect_anil(limit: int = 35) -> list[dict]:
+    response = requests.get(ANIL_ACTUS, timeout=TIMEOUT, headers={"User-Agent": UA})
     response.raise_for_status()
-
     soup = BeautifulSoup(response.text, "html.parser")
 
     items = []
     seen = set()
 
-    for anchor in soup.select(
-        'a[href*="/actualites-evenements/details/"]'
-    ):
+    for anchor in soup.select('a[href*="/actualites-evenements/details/"]'):
         title = clean_text(anchor.get_text(" ", strip=True))
         url = urljoin(ANIL_ACTUS, anchor.get("href", ""))
 
-        if (
-            not title
-            or len(title) < 8
-            or url in seen
-        ):
+        if not title or len(title) < 8 or url in seen:
             continue
 
         seen.add(url)
@@ -395,22 +336,16 @@ def collect_anil(limit: int = 30) -> list[dict]:
         if not is_real_estate(f"{title} {context}"):
             continue
 
-        items.append(
-            make_item(
-                source="ANIL",
-                source_level="B",
-                source_type="institutionnelle",
-                title=title,
-                summary=(
-                    "Publication de l’ANIL repérée automatiquement. "
-                    "Consultez la source pour l’analyse juridique ou "
-                    "pratique complète."
-                ),
-                url=url,
-                published_at=published,
-                status="Analyse / actualité ANIL",
-            )
-        )
+        items.append(make_item(
+            source="ANIL",
+            source_level="B",
+            source_type="institutionnelle",
+            title=title,
+            summary="Publication de l’ANIL repérée automatiquement. Consultez la source pour l’analyse juridique ou pratique complète.",
+            url=url,
+            published_at=published,
+            status="Analyse / actualité ANIL",
+        ))
 
         if len(items) >= limit:
             break
@@ -419,28 +354,19 @@ def collect_anil(limit: int = 30) -> list[dict]:
 
 
 def latest_jorf_urls(limit: int = 8) -> list[str]:
-    response = requests.get(
-        LEGIFRANCE_HOME,
-        timeout=TIMEOUT,
-        headers={"User-Agent": UA},
-    )
+    response = requests.get(LEGIFRANCE_HOME, timeout=TIMEOUT, headers={"User-Agent": UA})
     response.raise_for_status()
-
     soup = BeautifulSoup(response.text, "html.parser")
-    urls = []
 
-    pattern = re.compile(
-        r"/eli/jo/20\d{2}/\d{1,2}/\d{1,2}/\d+"
-    )
+    urls = []
+    pattern = re.compile(r"/eli/jo/20\d{2}/\d{1,2}/\d{1,2}/\d+")
 
     for anchor in soup.find_all("a", href=True):
         href = anchor.get("href", "")
-
         if not pattern.search(href):
             continue
 
         url = urljoin(LEGIFRANCE_HOME, href)
-
         if url not in urls:
             urls.append(url)
 
@@ -450,69 +376,199 @@ def latest_jorf_urls(limit: int = 8) -> list[str]:
     return urls
 
 
-def collect_legifrance(limit: int = 35) -> list[dict]:
+def collect_legifrance(limit: int = 40) -> list[dict]:
     items = []
     seen = set()
 
     for jorf_url in latest_jorf_urls():
-        response = requests.get(
-            jorf_url,
-            timeout=TIMEOUT,
-            headers={"User-Agent": UA},
-        )
+        response = requests.get(jorf_url, timeout=TIMEOUT, headers={"User-Agent": UA})
         response.raise_for_status()
 
         soup = BeautifulSoup(response.text, "html.parser")
         page_text = clean_text(soup.get_text(" ", strip=True))
         published = extract_french_date(page_text) or now_iso()
 
-        # Les textes du JORF sont normalement liés depuis la page du numéro.
-        # On parcourt tous les liens et on ne conserve que les intitulés
-        # comportant un vocabulaire immobilier.
         for anchor in soup.find_all("a", href=True):
             title = clean_text(anchor.get_text(" ", strip=True))
 
-            if len(title) < 12:
+            if len(title) < 12 or not is_real_estate(title):
                 continue
 
-            if not is_real_estate(title):
-                continue
+            url = urljoin(jorf_url, anchor.get("href", ""))
 
-            href = anchor.get("href", "")
-            url = urljoin(jorf_url, href)
-
-            # Évite navigation, PDF génériques et doublons.
             if not url.startswith("https://www.legifrance.gouv.fr/"):
                 continue
 
             key = normalize_url(url) or title.lower()
             if key in seen:
                 continue
-
             seen.add(key)
 
-            items.append(
-                make_item(
-                    source="Légifrance",
-                    source_level="A",
-                    source_type="officielle",
-                    title=title,
-                    summary=(
-                        "Texte repéré dans un Journal officiel récent "
-                        "à partir de mots-clés immobiliers. "
-                        "Le statut affiché signifie qu’il est publié au JORF ; "
-                        "la date d’entrée en vigueur doit être vérifiée dans le texte."
-                    ),
-                    url=url,
-                    published_at=published,
-                    status="Publié au JORF",
-                )
-            )
+            items.append(make_item(
+                source="Légifrance",
+                source_level="A",
+                source_type="officielle",
+                title=title,
+                summary=(
+                    "Texte repéré dans un Journal officiel récent à partir de mots-clés immobiliers. "
+                    "La publication au JORF est certaine ; la date d’entrée en vigueur doit être vérifiée dans le texte."
+                ),
+                url=url,
+                published_at=published,
+                status="Publié au JORF",
+                category="lois",
+                legal_stage="jorf",
+            ))
 
             if len(items) >= limit:
                 return items
 
     return items
+
+
+def extract_copy_table(sql_text: str, table: str):
+    pattern = re.compile(
+        rf"^COPY (?:public\.)?{re.escape(table)} \(([^)]*)\) FROM stdin;\n(.*?)\n\\\\\.$",
+        re.MULTILINE | re.DOTALL,
+    )
+    match = pattern.search(sql_text)
+    if not match:
+        return [], []
+
+    columns = [c.strip() for c in match.group(1).split(",")]
+    rows = []
+
+    for line in match.group(2).splitlines():
+        if not line:
+            continue
+        values = [None if v == r"\N" else v for v in line.split("\t")]
+        rows.append(values)
+
+    return columns, rows
+
+
+def normalize_senat_stage(state: str) -> str:
+    txt = clean_text(state).lower()
+
+    if "promulgu" in txt:
+        return "promulgue"
+
+    if (
+        "commission mixte paritaire" in txt
+        or "première lecture" in txt
+        or "premiere lecture" in txt
+        or "deuxième lecture" in txt
+        or "deuxieme lecture" in txt
+        or "nouvelle lecture" in txt
+        or "lecture définitive" in txt
+        or "lecture definitive" in txt
+        or "congrès du parlement" in txt
+        or "congres du parlement" in txt
+    ):
+        return "discussion"
+
+    if txt.strip() == "adopté" or txt.strip() == "adopte":
+        return "adopte"
+
+    if "non adopté" in txt or "non adopte" in txt or "caduc" in txt or "non conforme" in txt:
+        return "clos"
+
+    return "depot"
+
+
+def senat_status_label(raw_state: str, stage: str) -> str:
+    state = clean_text(raw_state)
+    if state:
+        return state
+
+    labels = {
+        "depot": "Dossier déposé",
+        "discussion": "Navette parlementaire en cours",
+        "adopte": "Adopté",
+        "promulgue": "Promulgué",
+        "clos": "Dossier clos",
+    }
+    return labels.get(stage, "Dossier législatif")
+
+
+def collect_senat_dosleg(limit: int = 60) -> list[dict]:
+    response = requests.get(SENAT_DOSLEG_ZIP, timeout=60, headers={"User-Agent": UA})
+    response.raise_for_status()
+
+    with zipfile.ZipFile(io.BytesIO(response.content)) as archive:
+        sql_files = [n for n in archive.namelist() if n.lower().endswith(".sql")]
+        if not sql_files:
+            raise RuntimeError("Aucun fichier SQL trouvé dans DOSLEG.")
+        sql_text = archive.read(sql_files[0]).decode("utf-8", errors="replace")
+
+    et_cols, et_rows = extract_copy_table(sql_text, "etaloi")
+    loi_cols, loi_rows = extract_copy_table(sql_text, "loi")
+
+    if not loi_cols or not loi_rows:
+        raise RuntimeError("Table loi introuvable dans DOSLEG.")
+
+    state_map = {}
+    for row in et_rows:
+        if len(row) >= 2 and row[0]:
+            state_map[str(row[0]).strip()] = clean_text(row[1])
+
+    idx = {name: i for i, name in enumerate(loi_cols)}
+
+    def get(row, *names):
+        for name in names:
+            pos = idx.get(name)
+            if pos is not None and pos < len(row):
+                return clean_text(row[pos])
+        return ""
+
+    items = []
+
+    for row in loi_rows:
+        title = get(row, "loiint", "loitit", "titre", "intitule")
+        if not title or not is_real_estate(title):
+            continue
+
+        state_code = get(row, "etaloicod", "etatloicod", "etat")
+        raw_state = state_map.get(state_code, state_code)
+        stage = normalize_senat_stage(raw_state)
+
+        signet = get(row, "signet")
+        if signet:
+            url = f"https://www.senat.fr/dossier-legislatif/{signet}.html"
+        else:
+            url = "https://www.senat.fr/dossiers-legislatifs/"
+
+        date_value = get(row, "date_loi", "loidat", "proaccdat", "loidatjo")
+        published_at = now_iso()
+
+        if re.match(r"^\d{4}-\d{2}-\d{2}", date_value):
+            try:
+                published_at = datetime.fromisoformat(date_value[:10]).replace(
+                    tzinfo=timezone.utc
+                ).astimezone().isoformat(timespec="seconds")
+            except Exception:
+                pass
+
+        status = senat_status_label(raw_state, stage)
+
+        items.append(make_item(
+            source="Sénat",
+            source_level="A",
+            source_type="officielle",
+            title=title,
+            summary=(
+                "Dossier législatif immobilier repéré dans la base ouverte DOSLEG du Sénat. "
+                f"État officiel du dossier : {status}."
+            ),
+            url=url,
+            published_at=published_at,
+            status=status,
+            category="lois",
+            legal_stage=stage,
+        ))
+
+    items.sort(key=lambda item: item.get("published_at", ""), reverse=True)
+    return items[:limit]
 
 
 def is_development_note(item: dict) -> bool:
@@ -547,28 +603,21 @@ def dedupe(items: list[dict]) -> list[dict]:
     by_key = {}
 
     for item in items:
-        if is_development_note(item):
-            continue
-
-        if not not_too_old(item):
+        if is_development_note(item) or not not_too_old(item):
             continue
 
         url = normalize_url(item.get("url", ""))
         title = clean_text(item.get("title", "")).lower()
 
-        key = url or title
-
+        key = f"{item.get('source','')}|{url or title}"
         if not key:
             continue
 
         current = by_key.get(key)
-
         if current is None:
             by_key[key] = item
             continue
 
-        # En cas de doublon, garde le niveau le plus fiable,
-        # puis la meilleure pertinence.
         rank = {"A": 4, "B": 3, "C": 2, "D": 1}
         new_tuple = (
             rank.get(item.get("source_level"), 0),
@@ -591,12 +640,26 @@ def dedupe(items: list[dict]) -> list[dict]:
 
 def source_stats(items: list[dict]) -> dict:
     stats = {}
-
     for item in items:
         source = item.get("source", "Inconnue")
         stats[source] = stats.get(source, 0) + 1
-
     return dict(sorted(stats.items(), key=lambda kv: (-kv[1], kv[0])))
+
+
+def legal_stats(items: list[dict]) -> dict:
+    stats = {
+        "depot": 0,
+        "discussion": 0,
+        "adopte": 0,
+        "promulgue": 0,
+        "jorf": 0,
+        "clos": 0,
+    }
+    for item in items:
+        stage = item.get("legal_stage")
+        if stage in stats:
+            stats[stage] += 1
+    return stats
 
 
 def main() -> None:
@@ -614,6 +677,7 @@ def main() -> None:
     collectors = [
         ("Service-Public.fr", collect_service_public),
         ("Légifrance", collect_legifrance),
+        ("Sénat", collect_senat_dosleg),
         ("ANIL", collect_anil),
     ]
 
@@ -634,9 +698,10 @@ def main() -> None:
 
     feed = {
         "generated_at": now_iso(),
-        "version": "1.1",
+        "version": "1.2",
         "items": items,
         "source_stats": source_stats(items),
+        "legal_stats": legal_stats(items),
         "errors": errors,
     }
 
@@ -647,7 +712,8 @@ def main() -> None:
 
     print(
         f"{len(items)} éléments écrits dans {FEED_PATH}. "
-        f"Sources: {feed['source_stats']}"
+        f"Sources: {feed['source_stats']}. "
+        f"Radar juridique: {feed['legal_stats']}."
     )
 
 
