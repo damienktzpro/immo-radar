@@ -1,0 +1,11 @@
+{
+  "version": "5.1",
+  "codes": [
+    "78358",
+    "75111",
+    "33063",
+    "44109",
+    "69382"
+  ],
+  "note": "Communes préchargées par GitHub Actions. Les autres communes utilisent le chargement direct côté navigateur lorsque l'API l'autorise."
+}
