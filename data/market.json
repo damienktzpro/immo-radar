@@ -4,8 +4,8 @@
   "temperature": {
     "score": 48,
     "status": "Équilibre fragile",
-    "headline": "Le redémarrage marque une pause.",
-    "comment": "Les prix résistent et les transactions se stabilisent, mais le crédit reste sélectif et la construction demeure dégradée."
+    "headline": "Le marché se stabilise. La reprise reste incomplète.",
+    "comment": "Les prix tiennent et les volumes respirent, mais le crédit reste exigeant et la faiblesse de la construction continue de limiter l’offre."
   },
   "history": [
     43,
@@ -95,20 +95,20 @@
   "pulse": [
     {
       "label": "PRIX",
-      "title": "La baisse nationale s’interrompt",
-      "text": "+0,1 % sur un an dans l’ancien, avec de forts écarts selon les territoires.",
+      "title": "Les prix arrêtent de reculer",
+      "text": "+0,1 % sur un an dans l’ancien : la baisse nationale s’essouffle, avec de forts écarts selon les territoires.",
       "url": "https://www.insee.fr/fr/statistiques/8995299"
     },
     {
       "label": "CRÉDIT",
-      "title": "La reprise perd de son élan",
-      "text": "La demande reste présente, mais les taux et les critères d’octroi restent décisifs.",
+      "title": "Le crédit reste le verrou",
+      "text": "La demande est là, mais le coût du financement et les critères d’octroi continuent de trier les projets.",
       "url": "https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-2026-05"
     },
     {
       "label": "LOCATION",
-      "title": "La tension reste structurelle",
-      "text": "Le faible niveau de construction continue de peser sur l’offre disponible.",
+      "title": "L’offre locative reste sous pression",
+      "text": "La construction insuffisante entretient un déficit d’offre dans les marchés les plus tendus.",
       "url": "https://www.statistiques.developpement-durable.gouv.fr/la-construction-neuve"
     }
   ]
