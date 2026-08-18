@@ -253,3 +253,40 @@ footer{border-top:1px solid var(--line);padding:38px 0}.footer-inner{display:gri
 .territory-grid,.territory-intro,.territory-local,.territory-switches,.territory-preview,.territory-metrics,.territory-sources{display:none!important}
 @media(max-width:1100px){.territory-search-card{grid-template-columns:1fr}.territory-identity-metrics{grid-template-columns:repeat(3,1fr)}.territory-market-metrics{grid-template-columns:repeat(3,1fr)}.territory-source-status-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:760px){.territory-search-card,.territory-overview-card{padding:22px 18px}.territory-search-copy h3{font-size:30px}.territory-overview-head{display:block}.territory-data-badge{display:inline-flex;margin-top:14px}.territory-overview-head h3{font-size:34px}.territory-identity-metrics{grid-template-columns:1fr 1fr}.territory-identity-metric{border-bottom:1px solid var(--line)}.territory-market-head{display:block}.territory-market-head>p{text-align:left;margin-top:10px}.territory-market-metrics,.territory-source-status-grid{grid-template-columns:1fr}.territory-reading{grid-template-columns:1fr;gap:8px}.territory-source-status-head{display:block}.territory-source-status-head p{margin-top:6px}.territory-feed-controls{overflow:auto;flex-wrap:nowrap;padding-bottom:4px}.territory-feed-controls label{display:none}.territory-filter-btn{white-space:nowrap}.territory-popular{align-items:flex-start}.territory-search-result{display:block}.territory-search-result span{display:block;text-align:left;margin-top:4px}}
+
+
+/* ---------- V5.1 local connections ---------- */
+.territory-market-metric{
+  position:relative;
+}
+.territory-market-metric strong{
+  min-height:2.3em;
+  display:flex;
+  align-items:center;
+}
+.territory-market-metric em{
+  display:block;
+  margin-top:5px;
+  color:#8a8f8b;
+  font-size:9px;
+  line-height:1.35;
+  font-style:normal;
+}
+.territory-market-metric.is-connected{
+  border-color:rgba(47,106,86,.35);
+  box-shadow:0 10px 28px rgba(47,106,86,.05);
+}
+.territory-market-metric.is-connected:before{
+  content:"";
+  position:absolute;
+  top:14px;
+  right:14px;
+  width:7px;
+  height:7px;
+  border-radius:50%;
+  background:var(--emerald);
+  box-shadow:0 0 0 4px rgba(47,106,86,.09);
+}
+.territory-source-status-grid strong.error{
+  color:var(--coral);
+}
