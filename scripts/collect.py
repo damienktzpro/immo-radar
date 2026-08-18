@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Immo Radar V1.2 — collecteur + radar juridique.
+Immo Radar V1.2.2 — collecteur + liens directs.
 
 Sources :
 - Service-Public.fr (A)
@@ -308,47 +308,113 @@ def collect_service_public(limit: int = 25) -> list[dict]:
     return items
 
 
-def collect_anil(limit: int = 35) -> list[dict]:
-    response = requests.get(ANIL_ACTUS, timeout=TIMEOUT, headers={"User-Agent": UA})
-    response.raise_for_status()
-    soup = BeautifulSoup(response.text, "html.parser")
+def is_generic_source_url(source: str, url: str) -> bool:
+    """True when a URL points only to a homepage / listing, not an article."""
+    if not url:
+        return True
+
+    normalized = normalize_url(url)
+    try:
+        parts = urlsplit(normalized)
+        host = parts.netloc.lower().removeprefix("www.")
+        path = parts.path.rstrip("/").lower()
+    except Exception:
+        return True
+
+    generic_paths = {
+        "anil.org": {
+            "",
+            "/actualites-evenements",
+            "/centre-de-ressources",
+            "/centre-de-ressources/votre-recherche",
+            "/centre-de-ressources/votre-recherche/etudes-eclairages",
+            "/documentation-experte",
+            "/documentation-experte/etudes-eclairages",
+        },
+        "legifrance.gouv.fr": {""},
+        "service-public.fr": {""},
+        "senat.fr": {"", "/dossiers-legislatifs"},
+    }
+
+    return path in generic_paths.get(host, set())
+
+
+def collect_anil(limit: int = 45) -> list[dict]:
+    """
+    Collecte les vrais liens d'articles depuis les pages ANIL.
+
+    Contrairement à la V1, on ne conserve jamais les liens de rubrique
+    (accueil, centre de ressources, page "toutes les actualités", etc.).
+    Les liens externes éditorialement proposés par l'ANIL sont acceptés
+    lorsqu'ils correspondent à une actualité immobilière précise.
+    """
+    pages = [
+        "https://www.anil.org/",
+        ANIL_ACTUS,
+        "https://www.anil.org/centre-de-ressources/",
+    ]
 
     items = []
-    seen = set()
+    seen_urls = set()
 
-    for anchor in soup.select('a[href*="/actualites-evenements/details/"]'):
-        title = clean_text(anchor.get_text(" ", strip=True))
-        url = urljoin(ANIL_ACTUS, anchor.get("href", ""))
+    for page_url in pages:
+        response = requests.get(
+            page_url,
+            timeout=TIMEOUT,
+            headers={"User-Agent": UA},
+        )
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, "html.parser")
 
-        if not title or len(title) < 8 or url in seen:
-            continue
+        for anchor in soup.find_all("a", href=True):
+            title = clean_text(anchor.get_text(" ", strip=True))
+            href = anchor.get("href", "").strip()
 
-        seen.add(url)
+            if not title or len(title) < 12 or not href:
+                continue
 
-        container = anchor
-        for _ in range(3):
-            if container.parent:
-                container = container.parent
+            url = urljoin(page_url, href)
 
-        context = clean_text(container.get_text(" ", strip=True))
-        published = extract_french_date(context) or now_iso()
+            if not url.startswith(("http://", "https://")):
+                continue
 
-        if not is_real_estate(f"{title} {context}"):
-            continue
+            # L'ANIL peut pointer vers une source externe précise
+            # (ex. Observatoires des loyers). On l'accepte.
+            if is_generic_source_url("ANIL", url):
+                continue
 
-        items.append(make_item(
-            source="ANIL",
-            source_level="B",
-            source_type="institutionnelle",
-            title=title,
-            summary="Publication de l’ANIL repérée automatiquement. Consultez la source pour l’analyse juridique ou pratique complète.",
-            url=url,
-            published_at=published,
-            status="Analyse / actualité ANIL",
-        ))
+            normalized = normalize_url(url)
+            if normalized in seen_urls:
+                continue
 
-        if len(items) >= limit:
-            break
+            context_node = anchor
+            for _ in range(2):
+                if context_node.parent:
+                    context_node = context_node.parent
+            context = clean_text(context_node.get_text(" ", strip=True))
+
+            if not is_real_estate(f"{title} {context}"):
+                continue
+
+            seen_urls.add(normalized)
+            published = extract_french_date(context) or now_iso()
+
+            items.append(make_item(
+                source="ANIL",
+                source_level="B",
+                source_type="institutionnelle",
+                title=title,
+                summary=(
+                    "Publication immobilière repérée depuis l’ANIL. "
+                    "Le lien ouvre directement la page correspondant à cette information."
+                ),
+                url=url,
+                published_at=published,
+                status="Analyse / actualité ANIL",
+            ))
+
+            if len(items) >= limit:
+                return items
 
     return items
 
@@ -397,6 +463,10 @@ def collect_legifrance(limit: int = 40) -> list[dict]:
             url = urljoin(jorf_url, anchor.get("href", ""))
 
             if not url.startswith("https://www.legifrance.gouv.fr/"):
+                continue
+
+            if normalize_url(url) == normalize_url(jorf_url):
+                # La carte doit pointer vers le texte lui-même, pas vers le sommaire du JORF.
                 continue
 
             key = normalize_url(url) or title.lower()
@@ -533,10 +603,12 @@ def collect_senat_dosleg(limit: int = 60) -> list[dict]:
         stage = normalize_senat_stage(raw_state)
 
         signet = get(row, "signet")
-        if signet:
-            url = f"https://www.senat.fr/dossier-legislatif/{signet}.html"
-        else:
-            url = "https://www.senat.fr/dossiers-legislatifs/"
+        if not signet:
+            # Sans identifiant de dossier, on n'affiche pas une page générique :
+            # chaque carte doit ouvrir une source précise.
+            continue
+
+        url = f"https://www.senat.fr/dossier-legislatif/{signet}.html"
 
         date_value = get(row, "date_loi", "loidat", "proaccdat", "loidatjo")
         published_at = now_iso()
@@ -606,10 +678,25 @@ def dedupe(items: list[dict]) -> list[dict]:
         if is_development_note(item) or not not_too_old(item):
             continue
 
+        source = str(item.get("source", ""))
         url = normalize_url(item.get("url", ""))
         title = clean_text(item.get("title", "")).lower()
 
-        key = f"{item.get('source','')}|{url or title}"
+        # Migration automatique des cartes V1/V1.1 :
+        # supprime les anciennes URL qui renvoyaient vers une rubrique.
+        if is_generic_source_url(source, url):
+            continue
+
+        # Déduplication par titre + source afin de préférer le vrai article
+        # plutôt qu'une ancienne fiche équivalente.
+        title_key = re.sub(r"[^a-z0-9à-ÿ]+", " ", title).strip()
+        title_key = re.sub(
+            r"^(nouvelle? |nouveau |indicateur des taux |analyse juridique )+",
+            "",
+            title_key,
+        ).strip()
+
+        key = f"{source.lower()}|{title_key or url}"
         if not key:
             continue
 
@@ -619,11 +706,21 @@ def dedupe(items: list[dict]) -> list[dict]:
             continue
 
         rank = {"A": 4, "B": 3, "C": 2, "D": 1}
+
+        def directness(candidate: dict) -> int:
+            candidate_url = normalize_url(candidate.get("url", ""))
+            return 0 if is_generic_source_url(
+                str(candidate.get("source", "")),
+                candidate_url,
+            ) else 1
+
         new_tuple = (
+            directness(item),
             rank.get(item.get("source_level"), 0),
             item.get("relevance", 0),
         )
         old_tuple = (
+            directness(current),
             rank.get(current.get("source_level"), 0),
             current.get("relevance", 0),
         )
@@ -698,7 +795,7 @@ def main() -> None:
 
     feed = {
         "generated_at": now_iso(),
-        "version": "1.2",
+        "version": "1.2.2",
         "items": items,
         "source_stats": source_stats(items),
         "legal_stats": legal_stats(items),
