@@ -1,0 +1,130 @@
+{
+  "generated_at": "2026-08-18T13:00:00+02:00",
+  "items": [
+    {
+      "id": "anil-loyers-zones-tendues-2026",
+      "title": "Encadrement de l’évolution des loyers en zones tendues à compter du 1er août 2026",
+      "summary": "L’ANIL a publié une analyse juridique dédiée à l’encadrement de l’évolution des loyers dans les zones tendues.",
+      "url": "https://www.anil.org/centre-de-ressources/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-23T08:00:00+02:00",
+      "status": "Analyse juridique",
+      "importance": 92,
+      "relevance": 88,
+      "territory": "France",
+      "why_it_matters": "Concerne directement la fixation ou l’évolution du loyer pour de nombreux bailleurs et professionnels."
+    },
+    {
+      "id": "anil-donnees-loyers-2026",
+      "title": "De nouvelles données sur les loyers sont disponibles",
+      "summary": "L’ANIL a annoncé début août la mise à disposition de nouvelles données sur les loyers.",
+      "url": "https://www.anil.org/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-03T08:00:00+02:00",
+      "status": "Données",
+      "importance": 78,
+      "relevance": 82,
+      "territory": "France",
+      "why_it_matters": "Les loyers sont un indicateur central pour comparer les territoires et mesurer la tension locative."
+    },
+    {
+      "id": "anil-irl-t2-2026",
+      "title": "IRL : le nouvel indice du 2e trimestre 2026 est publié",
+      "summary": "L’ANIL indique que le dernier indice de référence des loyers du deuxième trimestre 2026 a été publié au Journal officiel.",
+      "url": "https://www.anil.org/actualites-evenements/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-12T08:00:00+02:00",
+      "status": "Publié",
+      "importance": 86,
+      "relevance": 83,
+      "territory": "France",
+      "why_it_matters": "L’IRL sert de référence pour certaines révisions de loyers lorsque les conditions légales et contractuelles sont réunies."
+    },
+    {
+      "id": "anil-credit-taux-2026",
+      "title": "Des taux toujours stables malgré un regain de tensions obligataires",
+      "summary": "L’ANIL a publié au deuxième trimestre 2026 un indicateur consacré à l’évolution des taux de crédit immobilier.",
+      "url": "https://www.anil.org/centre-de-ressources/votre-recherche/etudes-eclairages/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-05-18T08:00:00+02:00",
+      "status": "Étude",
+      "importance": 80,
+      "relevance": 79,
+      "territory": "France",
+      "why_it_matters": "Les conditions de financement influencent directement le pouvoir d’achat immobilier et le volume d’acquéreurs solvables."
+    },
+    {
+      "id": "anil-locavantages-2026",
+      "title": "Loc’Avantages : valorisez votre bien tout en réduisant vos impôts",
+      "summary": "L’ANIL a publié un contenu consacré au dispositif Loc’Avantages pour les propriétaires bailleurs.",
+      "url": "https://www.anil.org/",
+      "source": "ANIL",
+      "source_level": "B",
+      "source_type": "institutionnelle",
+      "category": "investir",
+      "audiences": [
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-04-22T08:00:00+02:00",
+      "status": "Dispositif",
+      "importance": 68,
+      "relevance": 74,
+      "territory": "France",
+      "why_it_matters": "Peut entrer dans l’arbitrage rendement, fiscalité et contraintes pour certains investissements locatifs."
+    },
+    {
+      "id": "demo-dvf-territoires",
+      "title": "Prochaine étape : intégrer DVF pour comparer les ventes réelles par territoire",
+      "summary": "La V1 prévoit un connecteur territorial dédié aux données de ventes immobilières et à leur évolution locale.",
+      "url": "https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/",
+      "source": "data.gouv.fr / DVF",
+      "source_level": "A",
+      "source_type": "officielle",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T12:00:00+02:00",
+      "status": "Connecteur prévu",
+      "importance": 88,
+      "relevance": 90,
+      "territory": "France",
+      "why_it_matters": "Les ventes réelles permettront de créer un baromètre local plus fiable qu’un simple prix d’annonce."
+    }
+  ]
+}
