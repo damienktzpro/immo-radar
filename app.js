@@ -10,6 +10,59 @@ const state={
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
 const esc=(v="")=>String(v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
 const dateObj=v=>{if(!v)return null;const d=new Date(v);return Number.isNaN(d.getTime())?null:d};
+const TERRITORY_PRESETS={
+  paris11:{
+    label:"Paris 11e",
+    summary:"Marché très liquide, loyers sous tension et parc ancien à arbitrer avec attention sur le DPE.",
+    focus:"Profil urbain dense : lecture utile pour arbitrer achat, location et niveau de négociation.",
+    metrics:[
+      ["Prix ancien", "10 420 €/m²", "ordre de grandeur local"],
+      ["Loyer médian", "31 €/m²", "marché locatif tendu"],
+      ["DPE à surveiller", "E à G", "enjeu travaux / rénovation"],
+      ["Permis récents", "Modérés", "offre neuve limitée"]
+    ],
+    sources:["DVF", "Observatoires des loyers", "ADEME DPE", "Géorisques", "Sit@del"]
+  },
+  lyon2:{
+    label:"Lyon 2e",
+    summary:"Centre premium, marché recherché avec vacance faible et arbitrage fin entre rendement et prix d'entrée.",
+    focus:"Bon terrain pour une lecture investisseur : prix élevés mais tension locative soutenue.",
+    metrics:[
+      ["Prix ancien", "6 780 €/m²", "central et recherché"],
+      ["Loyer médian", "19 €/m²", "pression locative solide"],
+      ["DPE à surveiller", "D à F", "travaux ciblés"],
+      ["Permis récents", "Limités", "offre contenue"]
+    ],
+    sources:["DVF", "ANIL", "ADEME DPE", "Géorisques", "INSEE"]
+  },
+  bordeaux:{
+    label:"Bordeaux",
+    summary:"Reprise plus sélective : le marché se stabilise, mais le financement et l'emplacement font encore l'écart.",
+    focus:"Lecture équilibrée entre prix, loyers et capacité d’absorption du marché local.",
+    metrics:[
+      ["Prix ancien", "4 710 €/m²", "stabilisation récente"],
+      ["Loyer médian", "15 €/m²", "niveau soutenu"],
+      ["DPE à surveiller", "D à G", "parc hétérogène"],
+      ["Permis récents", "En retrait", "vigilance sur l’offre"]
+    ],
+    sources:["DVF", "Observatoires des loyers", "ADEME DPE", "Géorisques", "Sit@del"]
+  },
+  nantes:{
+    label:"Nantes",
+    summary:"Marché plus accessible, toujours actif, avec une tension locative structurelle dans plusieurs quartiers.",
+    focus:"Pertinent pour comparer rendement brut, qualité énergétique et niveau réel de concurrence locative.",
+    metrics:[
+      ["Prix ancien", "3 980 €/m²", "marché encore actif"],
+      ["Loyer médian", "14 €/m²", "tension persistante"],
+      ["DPE à surveiller", "D à F", "travaux à anticiper"],
+      ["Permis récents", "En baisse", "soutien à la tension"]
+    ],
+    sources:["DVF", "ANIL", "ADEME DPE", "Géorisques", "INSEE"]
+  }
+};
+state.territory=localStorage.getItem("radarTerritory")||"paris11";
+function territoryCurrent(){return TERRITORY_PRESETS[state.territory]||Object.values(TERRITORY_PRESETS)[0]}
+
 function fmtDate(v){const d=dateObj(v);return d?new Intl.DateTimeFormat("fr-FR",{day:"2-digit",month:"short",year:"numeric"}).format(d).toUpperCase():"DATE NON DISPONIBLE"}
 function fmtUpdate(v){const d=dateObj(v);return d?`VEILLE MISE À JOUR LE ${new Intl.DateTimeFormat("fr-FR",{day:"2-digit",month:"long",year:"numeric"}).format(d).toUpperCase()}`:"VEILLE MISE À JOUR"}
 function ageDays(v){const d=dateObj(v);return d?Math.floor((Date.now()-d.getTime())/86400000):9999}
@@ -150,7 +203,7 @@ function pageConfig(){
     laws:{eyebrow:"Radar juridique",title:"Lois & réglementation",desc:"Suivez les textes immobiliers français et européens sans confondre projet, adoption, publication et entrée en vigueur."},
     market:{eyebrow:"Marché immobilier",title:"Prix, crédit & activité",desc:"Les données officielles et les analyses qui permettent de lire la situation du marché."},
     invest:{eyebrow:"Investissement",title:"Investir avec plus de contexte",desc:"Fiscalité, LMNP, location nue, SCPI, financement et signaux de marché."},
-    territories:{eyebrow:"Territoires",title:"Comprendre un marché local",desc:"Bientôt : DVF, loyers, DPE, risques et urbanisme réunis par commune."}
+    territories:{eyebrow:"Territoires",title:"Comprendre un marché local",desc:"Une lecture territoriale pour comparer une commune sous plusieurs angles : prix, loyers, énergie, risques et urbanisme."}
   }[state.page];
 }
 function renderPage(){
@@ -161,7 +214,7 @@ function renderPage(){
   $("#todayOverview").hidden=state.page!=="today"&&state.page!=="market";$("#pulseSection").hidden=state.page!=="today";
   $("#legalDashboard").hidden=state.page!=="laws";$("#investDashboard").hidden=state.page!=="invest";$("#territoryDashboard").hidden=state.page!=="territories";
   $("#freshnessTabs").hidden=state.page!=="today";
-  renderLegalDashboard();renderInvestDashboard();renderSidebar();renderFeed();
+  renderLegalDashboard();renderInvestDashboard();renderTerritoryDashboard();renderSidebar();renderFeed();
 }
 function renderLegalDashboard(){
   if(state.page!=="laws")return;
@@ -186,6 +239,19 @@ function renderInvestDashboard(){
   ];
   $("#investCards").innerHTML=cards.map(c=>`<article class="invest-card"><span class="flag">${c[1]}</span><h3>${c[0]}</h3><p>${c[2]}</p><div class="invest-metrics"><span>${c[3]}</span><span>${c[4]}</span></div></article>`).join("");
 }
+
+function renderTerritoryDashboard(){
+  if(state.page!=="territories")return;
+  const entries=Object.entries(TERRITORY_PRESETS);
+  const current=territoryCurrent();
+  $("#territorySwitches").innerHTML=entries.map(([key,t])=>`<button class="territory-chip ${key===state.territory?"active":""}" data-territory="${key}">${esc(t.label)}</button>`).join("");
+  $("#territoryName").textContent=current.label;
+  $("#territorySummary").textContent=current.summary;
+  $("#territoryMetrics").innerHTML=current.metrics.map(m=>`<article class="territory-metric"><small>${esc(m[0])}</small><strong>${esc(m[1])}</strong><span>${esc(m[2])}</span></article>`).join("");
+  $("#territorySources").innerHTML=`<p class="territory-focus-copy">${esc(current.focus)}</p><div class="territory-source-chips">${current.sources.map(s=>`<span>${esc(s)}</span>`).join("")}</div>`;
+  $$(".territory-chip").forEach(b=>b.onclick=()=>{state.territory=b.dataset.territory;localStorage.setItem("radarTerritory",state.territory);renderTerritoryDashboard();renderSidebar()});
+  $("#territoryFocusBtn").onclick=()=>window.alert(`La vue locale détaillée de ${current.label} sera la prochaine grande brique du Radar.`);
+}
 function legalSidebar(){
   let laws=state.items.filter(i=>i.category==="lois"&&i.source_level==="A").sort((a,b)=>(dateObj(b.published_at)?.getTime()||0)-(dateObj(a.published_at)?.getTime()||0)).slice(0,3);
   return `<span class="overline">Radar des lois</span><h2>À surveiller</h2><p>Le statut exact de chaque texte, de l’annonce à son application.</p><div class="timeline">${laws.map((i,idx)=>`<article class="timeline-item ${idx===1?"orange":idx===2?"gold":""}"><small>${esc(i.territory==="Union européenne"?(i.status||"UE"):(i.status||"France"))}</small><h3>${esc(i.title)}</h3><p>${esc(i.summary)}</p><a href="${esc(i.url)}" target="_blank" rel="noopener">Voir le texte ↗</a></article>`).join("")||"<p>Aucun texte récent détecté.</p>"}</div><button class="sidebar-cta" data-sidebar-action="laws">Voir toutes les lois →</button>`;
@@ -197,7 +263,8 @@ function investSidebar(){
   const inv=state.items.filter(i=>i.category==="investir").slice(0,3);return `<span class="overline">Investir</span><h2>Points de vigilance</h2><p>Le rendement brut ne suffit pas : fiscalité, financement, réglementation et demande locative doivent être lus ensemble.</p><div>${inv.map(i=>`<div class="sidebar-metric"><span>${esc(i.topic||"Signal")}</span><strong>${score(i)}/100</strong></div>`).join("")||'<div class="sidebar-metric"><span>Actualités ciblées</span><strong>En veille</strong></div>'}</div><button class="sidebar-cta" data-sidebar-action="sources">Sources investissement →</button>`;
 }
 function territorySidebar(){
-  return `<span class="overline">Radar local</span><h2>Prochaine étape</h2><p>Une commune pourra être lue sous plusieurs angles, sans dépendre d’un seul indicateur.</p><div class="sidebar-metric"><span>Transactions</span><strong>DVF</strong></div><div class="sidebar-metric"><span>Énergie</span><strong>DPE</strong></div><div class="sidebar-metric"><span>Risques</span><strong>Géorisques</strong></div><div class="sidebar-metric"><span>Urbanisme</span><strong>GPU</strong></div>`;
+  const t=territoryCurrent();
+  return `<span class="overline">Radar local</span><h2>${esc(t.label)}</h2><p>${esc(t.focus)}</p><div class="sidebar-metric"><span>Transactions</span><strong>${esc(t.metrics[0][1])}</strong></div><div class="sidebar-metric"><span>Loyer</span><strong>${esc(t.metrics[1][1])}</strong></div><div class="sidebar-metric"><span>DPE</span><strong>${esc(t.metrics[2][1])}</strong></div><div class="sidebar-metric"><span>Sources</span><strong>${t.sources.length}</strong></div><button class="sidebar-cta" data-sidebar-action="sources">Voir les sources locales →</button>`;
 }
 function renderSidebar(){
   const box=$("#dynamicSidebar");box.innerHTML=state.page==="laws"?legalSidebar():state.page==="market"?marketSidebar():state.page==="invest"?investSidebar():state.page==="territories"?territorySidebar():legalSidebar();

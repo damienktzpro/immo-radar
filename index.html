@@ -165,15 +165,30 @@
     </section>
 
     <section id="territoryDashboard" class="territory-dashboard shell" hidden>
-      <div class="territory-card">
-        <div>
-          <span class="eyebrow">Radar local</span>
-          <h3>Choisissez bientôt une commune.</h3>
-          <p>Prix DVF, loyers, DPE, risques et permis de construire seront réunis dans un seul écran.</p>
-        </div>
-        <div class="territory-preview">
-          <span>DVF</span><span>DPE</span><span>LOYERS</span><span>RISQUES</span><span>URBANISME</span>
-        </div>
+      <div class="territory-grid">
+        <article class="territory-card territory-intro">
+          <div>
+            <span class="eyebrow">Radar local</span>
+            <h3>Comparer un territoire avant de décider.</h3>
+            <p>Prix DVF, loyers, DPE, permis de construire et risques seront bientôt réunis commune par commune, dans une lecture exploitable immédiatement.</p>
+          </div>
+          <div id="territorySwitches" class="territory-switches"></div>
+          <div class="territory-preview">
+            <span>DVF</span><span>LOYERS</span><span>DPE</span><span>RISQUES</span><span>URBANISME</span><span>CRÉDIT</span>
+          </div>
+        </article>
+        <article class="territory-card territory-local">
+          <div class="territory-local-head">
+            <div>
+              <span class="eyebrow">Commune pilote</span>
+              <h3 id="territoryName">Paris 11e</h3>
+              <p id="territorySummary">Lecture locale de démonstration en attendant le branchement complet des sources territoriales.</p>
+            </div>
+            <button id="territoryFocusBtn" class="territory-focus">Voir la commune ↗</button>
+          </div>
+          <div id="territoryMetrics" class="territory-metrics"></div>
+          <div id="territorySources" class="territory-sources"></div>
+        </article>
       </div>
     </section>
 
@@ -256,10 +271,10 @@
     <section class="local-cta shell">
       <div>
         <span class="eyebrow">Prochaine grande étape</span>
-        <h2>Le Radar deviendra local.</h2>
-        <p>DVF, loyers, DPE, permis de construire et risques, ville par ville.</p>
+        <h2>Le Radar devient local.</h2>
+        <p>DVF, loyers, DPE, permis de construire et risques : bientôt une lecture ville par ville.</p>
       </div>
-      <button id="territoryJump"><span></span>Découvrir Territoires ↗</button>
+      <button id="territoryJump"><span></span>Découvrir les territoires ↗</button>
     </section>
   </main>
 
