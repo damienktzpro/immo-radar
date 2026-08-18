@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T22:31:00+02:00",
-  "period_label": "DONNÉES T1–T2 2026",
+  "updated_at": "2026-08-19T00:35:00+02:00",
+  "period_label": "DERNIERS POINTS DISPONIBLES",
   "temperature": {
     "score": 48,
     "status": "Équilibre fragile",
@@ -110,6 +110,81 @@
       "title": "L’offre locative reste sous pression",
       "text": "La construction insuffisante entretient un déficit d’offre dans les marchés les plus tendus.",
       "url": "https://www.statistiques.developpement-durable.gouv.fr/la-construction-neuve"
+    }
+  ],
+  "methodology_note": "Le 48/100 est un indice synthétique propre au Radar Immobilier, et non un indicateur officiel. Il agrège six composantes sourcées avec des pondérations explicites.",
+  "score_components": [
+    {
+      "label": "Prix de l’ancien",
+      "score": 50,
+      "weight": 20,
+      "value": "+0,2 % T/T",
+      "source": "Insee / Notaires",
+      "period": "T1 2026",
+      "trend": "→",
+      "reason": "Les prix se stabilisent sans accélération nette."
+    },
+    {
+      "label": "Transactions",
+      "score": 55,
+      "weight": 20,
+      "value": "952 000",
+      "source": "Insee / Notaires",
+      "period": "fin mars 2026",
+      "trend": "↑",
+      "reason": "Les volumes se redressent, mais restent sous les pics antérieurs."
+    },
+    {
+      "label": "Taux de crédit",
+      "score": 45,
+      "weight": 20,
+      "value": "3,21 %",
+      "source": "Banque de France",
+      "period": "mai 2026",
+      "trend": "→",
+      "reason": "Le coût du crédit reste un filtre important pour la demande."
+    },
+    {
+      "label": "Production de crédit",
+      "score": 52,
+      "weight": 15,
+      "value": "11,4 Md€",
+      "source": "Banque de France",
+      "period": "mai 2026",
+      "trend": "→",
+      "reason": "La production reste active mais a légèrement reflué en mai."
+    },
+    {
+      "label": "Construction",
+      "score": 30,
+      "weight": 15,
+      "value": "376 241 autorisés",
+      "source": "SDES / Sitadel",
+      "period": "juil. 2025–juin 2026",
+      "trend": "↓",
+      "reason": "L’offre neuve reste nettement inférieure à sa moyenne récente."
+    },
+    {
+      "label": "Tension locative",
+      "score": 57,
+      "weight": 10,
+      "value": "Offre contrainte",
+      "source": "ANIL / construction / loyers",
+      "period": "2026",
+      "trend": "↑",
+      "reason": "La faiblesse de l’offre entretient la pression sur certains marchés locatifs."
+    }
+  ],
+  "next_publications": [
+    {
+      "date": "28 août 2026",
+      "label": "Construction de logements — juillet 2026",
+      "source": "SDES"
+    },
+    {
+      "date": "8 septembre 2026",
+      "label": "Prix des logements anciens — T2 2026",
+      "source": "Insee"
     }
   ]
 }
