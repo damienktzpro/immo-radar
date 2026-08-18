@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 ROOT=Path(__file__).resolve().parents[1]
 FEED=ROOT/"data"/"feed.json"
-UA="Mozilla/5.0 (compatible; RadarImmobilier/5.0; +https://github.com/damienktzpro/immo-radar)"
+UA="Mozilla/5.0 (compatible; RadarImmobilier/5.1; +https://github.com/damienktzpro/immo-radar)"
 TIMEOUT=22
 MAX_PER_SOURCE=16
 MAX_TOTAL=240
@@ -236,8 +236,14 @@ def main():
         counts[src]+=1;final.append(i)
         if len(final)>=MAX_TOTAL:break
     health={"sources_total":len(jobs),"sources_ok":sum(1 for v in by_source.values() if v["ok"]),"errors":len(errors),"retained":len(final),"rejected":rejected_total,"by_source":by_source}
-    data={"generated_at":now(),"version":"5.0","items":final,"source_stats":counts,"health":health,"errors":errors}
+    data={"generated_at":now(),"version":"5.1","items":final,"source_stats":counts,"health":health,"errors":errors}
     FEED.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding="utf-8")
     print("TOTAL",len(final),health)
+    # V5.1 — update cached local data with the same GitHub Actions run.
+    try:
+        from update_local import main as update_local_main
+        update_local_main()
+    except Exception as exc:
+        print("LOCAL UPDATE ERROR", exc)
 
 if __name__=="__main__":main()
