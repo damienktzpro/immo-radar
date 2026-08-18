@@ -1,72 +1,99 @@
 {
-  "updated_at": "2026-08-18T16:35:00+02:00",
+  "updated_at": "2026-08-18T22:10:00+02:00",
+  "period_label": "DONNÉES T1–T2 2026",
   "temperature": {
-    "score": 50,
-    "label": "Marché équilibré mais fragile",
-    "comment": "Score calculé à partir des dernières données officielles disponibles, avec renormalisation si une source manque."
+    "score": 48,
+    "status": "Équilibre fragile",
+    "headline": "Le redémarrage marque une pause.",
+    "comment": "Les prix résistent et les transactions se stabilisent, mais le crédit reste sélectif et la construction demeure dégradée."
   },
   "balance": {
-    "score": 47,
+    "score": 55,
     "label": "Léger avantage acheteurs",
-    "comment": "Prix quasi stables et activité stabilisée : rapport de force proche de l’équilibre."
+    "comment": "Les prix tiennent, mais les délais et le financement laissent encore une marge de négociation."
   },
   "financing": {
-    "score": 48,
-    "label": "Conditions intermédiaires",
-    "comment": "Taux autour de 3,21 % et production de crédit active mais légèrement en retrait sur le dernier mois disponible."
+    "score": 47,
+    "label": "Conditions encore sélectives",
+    "comment": "La production de crédits reste active mais les taux et les critères d’octroi continuent de peser sur certains dossiers.",
+    "bars": [
+      35,
+      39,
+      41,
+      48,
+      45,
+      51,
+      47,
+      44,
+      40,
+      39,
+      36,
+      37
+    ]
   },
-  "confidence": 86,
-  "components": [
+  "confidence": 88,
+  "key_figures": [
     {
-      "key": "prices",
-      "label": "Prix des logements anciens",
-      "value": "+0,2 % T/T",
-      "score": 52,
-      "weight": 20,
-      "source": "Insee / Notaires",
-      "period": "T1 2026",
-      "url": "https://www.insee.fr/fr/statistiques/8995299"
+      "label": "PRIX ANCIEN · 3 MOIS",
+      "value": "+0,2 %"
     },
     {
-      "key": "transactions",
-      "label": "Transactions sur 12 mois",
-      "value": "952 000",
-      "score": 56,
-      "weight": 25,
-      "source": "Insee / Notaires",
-      "period": "fin mars 2026",
-      "url": "https://www.insee.fr/fr/statistiques/8995299"
+      "label": "TRANSACTIONS · 12 MOIS",
+      "value": "952 000"
     },
     {
-      "key": "credit",
-      "label": "Production de crédit habitat",
-      "value": "11,4 Md€",
-      "score": 48,
-      "weight": 20,
-      "source": "Banque de France",
-      "period": "mai 2026",
-      "url": "https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-2026-05"
-    },
-    {
-      "key": "rates",
-      "label": "Taux nouveaux crédits habitat",
-      "value": "3,21 %",
-      "score": 49,
-      "weight": 15,
-      "source": "Banque de France",
-      "period": "mai 2026",
-      "url": "https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-2026-05"
-    },
-    {
-      "key": "construction",
-      "label": "Logements autorisés sur 12 mois",
-      "value": "376 241",
-      "score": 42,
-      "weight": 20,
-      "source": "SDES / Sitadel",
-      "period": "juin 2026",
-      "url": "https://www.statistiques.developpement-durable.gouv.fr/construction-de-logements-resultats-fin-juin-2026-france-entiere"
+      "label": "LOGEMENTS AUTORISÉS",
+      "value": "−8,0 %*",
+      "negative": true
     }
   ],
-  "methodology": "Température = moyenne pondérée des composantes disponibles. Le score n’est pas un conseil d’investissement."
+  "components": [
+    {
+      "label": "Prix logements anciens",
+      "value": "+0,2 % T/T",
+      "source": "Insee / Notaires",
+      "period": "T1 2026"
+    },
+    {
+      "label": "Transactions annuelles",
+      "value": "952 000",
+      "source": "Insee / Notaires",
+      "period": "fin mars 2026"
+    },
+    {
+      "label": "Taux crédit habitat",
+      "value": "3,21 %",
+      "source": "Banque de France",
+      "period": "mai 2026"
+    },
+    {
+      "label": "Production crédit habitat",
+      "value": "11,4 Md€",
+      "source": "Banque de France",
+      "period": "mai 2026"
+    },
+    {
+      "label": "Logements autorisés",
+      "value": "376 241",
+      "source": "SDES / Sitadel",
+      "period": "juil. 2025–juin 2026"
+    }
+  ],
+  "pulse": [
+    {
+      "label": "PRIX",
+      "title": "La baisse nationale s’interrompt",
+      "text": "+0,1 % sur un an dans l’ancien, avec de forts écarts selon les territoires."
+    },
+    {
+      "label": "CRÉDIT",
+      "title": "La reprise perd de son élan",
+      "text": "La demande reste présente, mais les taux et les critères d’octroi restent décisifs."
+    },
+    {
+      "label": "LOCATION",
+      "title": "La tension reste structurelle",
+      "text": "Le faible niveau de construction continue de peser sur l’offre disponible."
+    }
+  ]
 }

@@ -1,65 +1,119 @@
 {
-  "version": "2.0",
+  "version": "2.2",
+  "levels": {
+    "A": "Officielle",
+    "B": "Institutionnelle",
+    "C": "Média immobilier",
+    "D": "Blog / expert"
+  },
   "sources": [
     {
       "name": "Légifrance",
       "level": "A",
-      "enabled": true,
-      "scope": "Lois, décrets, Journal officiel"
+      "mode": "auto",
+      "url": "https://www.legifrance.gouv.fr/"
     },
     {
       "name": "Sénat / DOSLEG",
       "level": "A",
-      "enabled": true,
-      "scope": "Dossiers législatifs"
-    },
-    {
-      "name": "Service-Public.fr",
-      "level": "A",
-      "enabled": true,
-      "scope": "Actualités logement"
+      "mode": "auto",
+      "url": "https://data.senat.fr/dosleg/"
     },
     {
       "name": "EUR-Lex",
       "level": "A",
-      "enabled": true,
-      "scope": "Droit immobilier / bâtiment UE ; base suivie + RSS optionnel"
+      "mode": "auto+rss",
+      "url": "https://eur-lex.europa.eu/"
     },
     {
-      "name": "Insee / Notaires",
+      "name": "Service-Public.fr",
       "level": "A",
-      "enabled": true,
-      "scope": "Prix et transactions"
+      "mode": "rss",
+      "url": "https://www.service-public.fr/abonnements/rss/actu-actualites-particuliers.rss"
+    },
+    {
+      "name": "Insee",
+      "level": "A",
+      "mode": "auto",
+      "url": "https://www.insee.fr/"
     },
     {
       "name": "Banque de France",
       "level": "A",
-      "enabled": true,
-      "scope": "Crédit et taux"
+      "mode": "auto",
+      "url": "https://www.banque-france.fr/"
     },
     {
       "name": "SDES / Sitadel",
       "level": "A",
-      "enabled": true,
-      "scope": "Construction"
+      "mode": "auto",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/la-construction-neuve"
     },
     {
       "name": "ANIL",
       "level": "B",
-      "enabled": true,
-      "scope": "Analyses logement"
+      "mode": "auto",
+      "url": "https://www.anil.org/actualites-evenements/"
+    },
+    {
+      "name": "Notaires de France",
+      "level": "B",
+      "mode": "auto",
+      "url": "https://www.notaires.fr/fr/actualites"
+    },
+    {
+      "name": "MySweetImmo",
+      "level": "C",
+      "mode": "auto",
+      "url": "https://www.mysweetimmo.com/"
     },
     {
       "name": "Immo Matin",
       "level": "C",
-      "enabled": true,
-      "scope": "Actualité professionnelle immobilière"
+      "mode": "auto",
+      "url": "https://www.immomatin.com/"
+    },
+    {
+      "name": "Journal de l'Agence",
+      "level": "C",
+      "mode": "auto",
+      "url": "https://www.journaldelagence.com/actualites-immobilier"
+    },
+    {
+      "name": "Batiactu",
+      "level": "C",
+      "mode": "auto",
+      "url": "https://www.batiactu.com/theme/theme-logement.php"
     },
     {
       "name": "Immobilier 2.0",
       "level": "C",
-      "enabled": true,
-      "scope": "Proptech et innovation immobilière"
+      "mode": "auto",
+      "url": "https://immo2.pro/actualite-immobilier/"
+    },
+    {
+      "name": "Horiz.io",
+      "level": "D",
+      "mode": "auto",
+      "url": "https://horiz.io/investissement-immobilier"
+    },
+    {
+      "name": "ADEME DPE",
+      "level": "B",
+      "mode": "territoires-later",
+      "url": "https://data.ademe.fr/datasets/dpe03existant"
+    },
+    {
+      "name": "DVF / data.gouv.fr",
+      "level": "A",
+      "mode": "territoires-later",
+      "url": "https://explore.data.gouv.fr/fr/immobilier"
+    },
+    {
+      "name": "Géorisques",
+      "level": "A",
+      "mode": "territoires-later",
+      "url": "https://www.georisques.gouv.fr/"
     }
   ]
 }
