@@ -1,18 +1,72 @@
 {
-  "updated_at": "2026-08-18T13:00:00+02:00",
+  "updated_at": "2026-08-18T16:35:00+02:00",
   "temperature": {
-    "score": 48,
-    "label": "Marché équilibré",
-    "comment": "Valeur de démonstration pour la V1. Le score réel sera calculé avec transactions, prix, crédit, pouvoir d’achat, construction et tension locative."
+    "score": 50,
+    "label": "Marché équilibré mais fragile",
+    "comment": "Score calculé à partir des dernières données officielles disponibles, avec renormalisation si une source manque."
   },
   "balance": {
-    "score": 44,
+    "score": 47,
     "label": "Léger avantage acheteurs",
-    "comment": "Valeur de démonstration en attendant les données nationales et locales automatisées."
+    "comment": "Prix quasi stables et activité stabilisée : rapport de force proche de l’équilibre."
   },
   "financing": {
-    "score": 47,
+    "score": 48,
     "label": "Conditions intermédiaires",
-    "comment": "Valeur de démonstration. Le module sera relié aux données de crédit et de taux."
-  }
+    "comment": "Taux autour de 3,21 % et production de crédit active mais légèrement en retrait sur le dernier mois disponible."
+  },
+  "confidence": 86,
+  "components": [
+    {
+      "key": "prices",
+      "label": "Prix des logements anciens",
+      "value": "+0,2 % T/T",
+      "score": 52,
+      "weight": 20,
+      "source": "Insee / Notaires",
+      "period": "T1 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8995299"
+    },
+    {
+      "key": "transactions",
+      "label": "Transactions sur 12 mois",
+      "value": "952 000",
+      "score": 56,
+      "weight": 25,
+      "source": "Insee / Notaires",
+      "period": "fin mars 2026",
+      "url": "https://www.insee.fr/fr/statistiques/8995299"
+    },
+    {
+      "key": "credit",
+      "label": "Production de crédit habitat",
+      "value": "11,4 Md€",
+      "score": 48,
+      "weight": 20,
+      "source": "Banque de France",
+      "period": "mai 2026",
+      "url": "https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-2026-05"
+    },
+    {
+      "key": "rates",
+      "label": "Taux nouveaux crédits habitat",
+      "value": "3,21 %",
+      "score": 49,
+      "weight": 15,
+      "source": "Banque de France",
+      "period": "mai 2026",
+      "url": "https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-2026-05"
+    },
+    {
+      "key": "construction",
+      "label": "Logements autorisés sur 12 mois",
+      "value": "376 241",
+      "score": 42,
+      "weight": 20,
+      "source": "SDES / Sitadel",
+      "period": "juin 2026",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/construction-de-logements-resultats-fin-juin-2026-france-entiere"
+    }
+  ],
+  "methodology": "Température = moyenne pondérée des composantes disponibles. Le score n’est pas un conseil d’investissement."
 }
