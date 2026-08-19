@@ -240,31 +240,280 @@ def senat():
         if len(out)>=MAX_PER_SOURCE:break
     return out,rejected
 
-def legifrance():
-    r=http_get("https://www.legifrance.gouv.fr/");r.raise_for_status()
-    s=BeautifulSoup(r.text,"html.parser");jo=[];pat=re.compile(r"/eli/jo/20\d{2}/\d{1,2}/\d{1,2}/\d+")
-    for a in s.find_all("a",href=True):
-        if pat.search(a["href"]):
-            u=urljoin("https://www.legifrance.gouv.fr/",a["href"])
-            if u not in jo:jo.append(u)
-        if len(jo)>=7:break
-    out=[];rejected=0;page_errors=[]
-    for ju in jo:
+# ============================================================
+# LEGIFRANCE — API OFFICIELLE PISTE
+# ============================================================
+
+PISTE_TOKEN_URL = "https://oauth.piste.gouv.fr/api/oauth/token"
+PISTE_API_BASE = "https://api.piste.gouv.fr/dila/legifrance/lf-engine-app"
+
+
+def _piste_token():
+    client_id = os.getenv("PISTE_CLIENT_ID", "").strip()
+    client_secret = os.getenv("PISTE_CLIENT_SECRET", "").strip()
+
+    if not client_id or not client_secret:
+        raise RuntimeError(
+            "Identifiants PISTE absents : "
+            "PISTE_CLIENT_ID / PISTE_CLIENT_SECRET"
+        )
+
+    r = requests.post(
+        PISTE_TOKEN_URL,
+        data={
+            "grant_type": "client_credentials",
+            "client_id": client_id,
+            "client_secret": client_secret,
+            "scope": "openid",
+        },
+        headers={
+            "Accept": "application/json",
+            "Content-Type": "application/x-www-form-urlencoded",
+        },
+        timeout=TIMEOUT,
+    )
+
+    if not r.ok:
+        raise RuntimeError(
+            f"PISTE OAuth : HTTP {r.status_code} - {r.text[:180]}"
+        )
+
+    token = (r.json() or {}).get("access_token")
+
+    if not token:
+        raise RuntimeError("PISTE OAuth : aucun access_token reçu")
+
+    return token
+
+
+def _piste_post(path, payload, token):
+    url = PISTE_API_BASE + path
+    last_error = None
+
+    for attempt in range(3):
         try:
-            rr=http_get(ju);rr.raise_for_status()
-            ss=BeautifulSoup(rr.text,"html.parser");page=clean(ss.get_text(" "));pub=parse_date(page,ju)
-            for a in ss.find_all("a",href=True):
-                title=clean(a.get_text(" ",strip=True));u=urljoin(ju,a["href"])
-                if len(title)<15 or norm_url(u)==norm_url(ju) or not direct(u):continue
-                if not is_immo(title):rejected+=1;continue
-                out.append(make("Légifrance","A",title,"Texte immobilier repéré dans un Journal officiel récent. Vérifier dans le texte la date exacte d’application.",u,pub,"Publié au JORF",legal_stage="jorf",topic="Texte officiel"))
-                if len(out)>=MAX_PER_SOURCE:return out,rejected
-        except Exception as exc:
-            page_errors.append(str(exc))
+            r = requests.post(
+                url,
+                headers={
+                    "Authorization": f"Bearer {token}",
+                    "Accept": "application/json",
+                    "Content-Type": "application/json",
+                    "User-Agent": UA,
+                },
+                json=payload,
+                timeout=TIMEOUT,
+            )
+
+            # Token expiré / invalide : renouvellement automatique
+            if r.status_code == 401:
+                token = _piste_token()
+
+                r = requests.post(
+                    url,
+                    headers={
+                        "Authorization": f"Bearer {token}",
+                        "Accept": "application/json",
+                        "Content-Type": "application/json",
+                        "User-Agent": UA,
+                    },
+                    json=payload,
+                    timeout=TIMEOUT,
+                )
+
+            if r.status_code == 403:
+                raise RuntimeError(
+                    "PISTE Légifrance : HTTP 403. "
+                    "Vérifier les CGU et que l'API Légifrance "
+                    "est bien cochée dans l'application PISTE."
+                )
+
+            if r.status_code == 429 or r.status_code >= 500:
+                last_error = RuntimeError(
+                    f"PISTE Légifrance : HTTP {r.status_code}"
+                )
+                if attempt < 2:
+                    time.sleep(2 * (attempt + 1))
+                    continue
+
+            r.raise_for_status()
+            return r.json(), token
+
+        except requests.RequestException as exc:
+            last_error = exc
+
+            if attempt < 2:
+                time.sleep(2 * (attempt + 1))
+                continue
+
+    raise RuntimeError(
+        f"PISTE Légifrance indisponible : {last_error}"
+    )
+
+
+def _jorf_texts(data):
+    """
+    Parcourt récursivement le sommaire du Journal officiel
+    et récupère les identifiants JORFTEXT + leurs titres.
+    """
+    results = []
+    seen = set()
+
+    def walk(node):
+        if isinstance(node, dict):
+            ident = node.get("id")
+
+            if (
+                isinstance(ident, str)
+                and ident.startswith("JORFTEXT")
+                and ident not in seen
+            ):
+                title = clean(
+                    node.get("titre")
+                    or node.get("title")
+                    or ""
+                )
+
+                seen.add(ident)
+                results.append((ident, title))
+
+            for value in node.values():
+                walk(value)
+
+        elif isinstance(node, list):
+            for value in node:
+                walk(value)
+
+    walk(data)
+    return results
+
+
+def _piste_date(value):
+    """
+    Convertit datePubli PISTE en date ISO utilisable
+    par Immo Radar.
+    """
+    if value is None:
+        return None
+
+    try:
+        # L'API renvoie généralement un timestamp en millisecondes
+        if isinstance(value, (int, float)):
+            timestamp = value / 1000 if value > 10_000_000_000 else value
+
+            return datetime.fromtimestamp(
+                timestamp,
+                tz=timezone.utc,
+            ).astimezone().isoformat(timespec="seconds")
+
+        value = str(value).strip()
+
+        if value.isdigit():
+            number = int(value)
+            timestamp = number / 1000 if number > 10_000_000_000 else number
+
+            return datetime.fromtimestamp(
+                timestamp,
+                tz=timezone.utc,
+            ).astimezone().isoformat(timespec="seconds")
+
+        return datetime.fromisoformat(
+            value.replace("Z", "+00:00")
+        ).astimezone().isoformat(timespec="seconds")
+
+    except Exception:
+        return None
+
+
+def legifrance():
+    """
+    Collecte Légifrance via l'API officielle PISTE.
+
+    Étapes :
+    1. OAuth2 PISTE
+    2. Récupération des derniers Journaux officiels
+    3. Lecture de leurs sommaires
+    4. Filtrage des textes liés à l'immobilier
+    """
+
+    token = _piste_token()
+
+    latest, token = _piste_post(
+        "/consult/lastNJo",
+        {"nbElement": 10},
+        token,
+    )
+
+    containers = latest.get("containers") or []
+
+    if not containers:
+        raise RuntimeError(
+            "PISTE Légifrance : aucun Journal officiel retourné"
+        )
+
+    out = []
+    rejected = 0
+    seen = set()
+
+    for jo in containers:
+        jo_id = jo.get("id")
+
+        if not jo_id:
             continue
-    if not out and page_errors:
-        raise RuntimeError("JORF temporairement indisponible: "+page_errors[-1][:180])
-    return out,rejected
+
+        publication_date = _piste_date(jo.get("datePubli"))
+
+        summary, token = _piste_post(
+            "/consult/jorfCont",
+            {
+                "id": jo_id,
+                "highlightActivated": False,
+            },
+            token,
+        )
+
+        texts = _jorf_texts(summary)
+
+        for text_id, title in texts:
+            if text_id in seen:
+                continue
+
+            seen.add(text_id)
+
+            if not title or len(title) < 12:
+                rejected += 1
+                continue
+
+            if not is_immo(title):
+                rejected += 1
+                continue
+
+            public_url = (
+                "https://www.legifrance.gouv.fr/"
+                f"jorf/id/{text_id}"
+            )
+
+            out.append(
+                make(
+                    "Légifrance",
+                    "A",
+                    title,
+                    (
+                        "Texte officiel lié à l'immobilier, "
+                        "publié au Journal officiel et récupéré "
+                        "via l'API officielle Légifrance."
+                    ),
+                    public_url,
+                    publication_date,
+                    "Publié au JORF",
+                    legal_stage="jorf",
+                    topic="Texte officiel",
+                )
+            )
+
+            if len(out) >= MAX_PER_SOURCE:
+                return out, rejected
+
+    return out, rejected
 
 def _previous_feed():
     try:return json.loads(FEED.read_text(encoding="utf-8"))
