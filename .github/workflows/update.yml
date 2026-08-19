@@ -39,7 +39,7 @@ jobs:
       - name: Dependencies
         run: pip install -r requirements.txt
 
-            - name: Collect national and local data
+      - name: Collect national and local data
         env:
           PISTE_CLIENT_ID: ${{ secrets.PISTE_CLIENT_ID }}
           PISTE_CLIENT_SECRET: ${{ secrets.PISTE_CLIENT_SECRET }}
