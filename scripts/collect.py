@@ -124,19 +124,48 @@ def service_public():
         out.append(make("Service-Public.fr","A",title,summary,url,pub,"Information officielle"))
     return out[:MAX_PER_SOURCE]
 
+
+BAD_TITLES=(
+    "page suivante","page précédente","aller au contenu principal","accueil",
+    "toutes les actualités","carte des prix immobiliers","en savoir plus",
+    "lire la suite","voir plus","menu","rechercher"
+)
+def bad_editorial_title(title):
+    t=clean(title).lower().strip(" ›»:-")
+    if len(t)<14:return True
+    if t in BAD_TITLES:return True
+    if any(t.startswith(x) and len(t)<55 for x in BAD_TITLES):return True
+    return False
+
+def editorial_context(a,title):
+    # Prefer the nearest semantic article/list item rather than climbing to a whole page.
+    node=a.find_parent(["article","li"])
+    if node is None:
+        node=a.parent
+        for _ in range(2):
+            if node and node.parent:node=node.parent
+    context=clean(node.get_text(" ",strip=True)) if node else title
+    # If a listing container is still huge, keep the local text around this title only.
+    if len(context)>1100:
+        pos=context.lower().find(clean(title).lower())
+        if pos>=0:context=context[max(0,pos-80):pos+760]
+        else:context=context[:760]
+    return context
+
 def generic(page,source,level,require_date=True):
-    r=http_get(page,timeout=TIMEOUT,headers={"User-Agent":UA});r.raise_for_status();s=BeautifulSoup(r.text,"html.parser");out=[];seen=set();rejected=0
+    r=http_get(page,timeout=TIMEOUT,headers={"User-Agent":UA});r.raise_for_status()
+    s=BeautifulSoup(r.text,"html.parser");out=[];seen=set();rejected=0
     for a in s.find_all("a",href=True):
         title=clean(a.get_text(" ",strip=True));url=urljoin(page,a.get("href",""))
-        if len(title)<14 or len(title)>190 or not direct(url) or url in seen:continue
-        node=a
-        for _ in range(4):
-            if node.parent:node=node.parent
-        context=clean(node.get_text(" ",strip=True));text=f"{title} {context}"
+        if bad_editorial_title(title) or len(title)>190 or not direct(url) or url in seen:continue
+        context=editorial_context(a,title);text=f"{title} {context}"
         if not is_immo(text):rejected+=1;continue
         pub=parse_date(context,url)
         if require_date and not pub:rejected+=1;continue
-        seen.add(url);summary=context.replace(title,"",1).strip()[:480] or title
+        seen.add(url)
+        summary=context.replace(title,"",1).strip()
+        summary=re.sub(r"\s+(Lire l'actualité|Lire la suite|En savoir plus)\s*$","",summary,flags=re.I)
+        summary=(summary[:430] or title).strip()
         out.append(make(source,level,title,summary,url,pub,"Publication"))
         if len(out)>=MAX_PER_SOURCE:break
     return out,rejected
@@ -258,7 +287,7 @@ def _merge_archive(items):
     vals=list(dedup.values())
     vals.sort(key=lambda x:(x.get("published_at") or "",x.get("relevance",0)),reverse=True)
     ARCHIVE.write_text(json.dumps({
-        "version":"7.0",
+        "version":"7.1",
         "scope":"Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
         "generated_at":now(),
         "items":vals[:2500]
@@ -343,7 +372,7 @@ def main():
         "sources_total":len(jobs),"sources_ok":sources_ok,"sources_degraded":degraded,
         "errors":hard_errors,"retained":len(final),"rejected":rejected_total,"by_source":by_source
     }
-    data={"generated_at":now(),"version":"7.0","items":final,"source_stats":counts,"health":health,"errors":errors}
+    data={"generated_at":now(),"version":"7.1","items":final,"source_stats":counts,"health":health,"errors":errors}
     FEED.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding="utf-8")
     _merge_archive(final)
     print("TOTAL",len(final),health)
