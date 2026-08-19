@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-19T20:55:54+00:00",
+  "generated_at": "2026-08-19T21:06:15+00:00",
   "items": [
     {
       "id": "d8a559c7836333f2",
@@ -130,6 +130,28 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
+      "id": "2ee8368242bde0d8",
+      "title": "LOI n° 2026-795 du 18 août 2026 visant à moderniser la gestion du patrimoine immobilier de l'Etat (1)",
+      "summary": "Texte officiel lié à l'immobilier, publié au Journal officiel et récupéré via l'API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054706983",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-19T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
+    },
+    {
       "id": "76a83a15dbf75310",
       "title": "Crédit immobilier : Faut-il emprunter maintenant ou attendre septembre ?",
       "summary": "Investir / Financer",
@@ -256,69 +278,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "69565539196cd1c3",
-      "title": "Tous corps d'état",
-      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant",
-      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "135874d9ef9c7687",
-      "title": "Tous métiers de la construction",
-      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le",
-      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "b507c4ff7769afdd",
-      "title": "Construction (tous corps d'état)",
-      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 1",
-      "url": "https://www.batiactu.com/theme/theme-construction.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
       "id": "31c82e6b8fcdf1d2",
       "title": "Urbanisme, voisinage, construction : quelles questions ont préoccupé les ménages en 2025 ?",
       "summary": "17 août 2026 En 2025, les ADIL ont réalisé plus de 26 000 consultations sur les questions d'urbanisme, de droit notarial et de relations de voisinage.",
@@ -403,6 +362,50 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
+      "id": "9cba8bce7f79eaa0",
+      "title": "Arrêté du 27 juillet 2026 prorogeant les effets de l'arrêté du 2 septembre 2021 déclarant d'utilité publique les travaux d'aménagement du contournement Ouest de Montpellier, emportant mise en compatibilité des documents d'urbanisme des communes de Juvignac, Montpellier et Saint-Jean-de-Védas et classement ou déclassement des voies occupées par l'aménagement",
+      "summary": "Texte officiel lié à l'immobilier, publié au Journal officiel et récupéré via l'API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054683596",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-15T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
+    },
+    {
+      "id": "fb5fde4153fe557d",
+      "title": "Décret n° 2026-790 du 13 août 2026 adoptant la mise en compatibilité du schéma de cohérence territoriale de la région Flandre-Dunkerque et du plan local d'urbanisme intercommunal - habitat et déplacements de la communauté urbaine de Dunkerque dans le cadre du projet de réalisation d'une paire de réacteurs électronucléaires de type EPR2 par la société anonyme Électricité de France à Gravelines",
+      "summary": "Texte officiel lié à l'immobilier, publié au Journal officiel et récupéré via l'API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054683611",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-15T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
+    },
+    {
       "id": "b9ed9ac4790e893b",
       "title": "Devenir Membre Premium",
       "summary": "Connexion Immo2 Se connecter ou créer un compte LA FONCTIONNALITÉ À LIRE PLUS TARD EST RÉSERVÉE AUX MEMBRES IMMOBILIER 2.0 PREMIUM PROFITEZ À 100% D’IMMOBILIER 2.0 EN REJOIGNANT AUJOURD’HUI PLUS DE 1000 ENTREPRISES QUI FONT CONFIANCE À IMMOBILIER 2.0 PREMIUM. Catégorie Actualité du secteur de l’Internet immobilier Toute l’actualité du secteur de l’internet immobilier et des événements immobilier auxquels il faut être présent ! Pour ne plus jamais rien manquer et rester à l’a",
@@ -444,6 +447,72 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
+      "id": "bb749fbce27f4b05",
+      "title": "Arrêté du 11 août 2026 relatif au versement de la subvention de l'Etat aux maisons départementales des personnes handicapées au titre de leurs actions en matière de gestion du risque notamment concernant l'attribution de l'allocation aux adultes handicapés en 2026",
+      "summary": "Texte officiel lié à l'immobilier, publié au Journal officiel et récupéré via l'API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054678495",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
+    },
+    {
+      "id": "ed87cf181f5209f0",
+      "title": "Arrêté du 3 août 2026 portant nomination d'un directeur régional adjoint de l'environnement, de l'aménagement et du logement (région Bretagne)",
+      "summary": "Texte officiel lié à l'immobilier, publié au Journal officiel et récupéré via l'API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054678609",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
+    },
+    {
+      "id": "9bb584338a870f9b",
+      "title": "Avis relatif à l'extension d'un accord conclu dans le cadre de la convention collective nationale de l'habitat et logement accompagnés",
+      "summary": "Texte officiel lié à l'immobilier, publié au Journal officiel et récupéré via l'API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054678694",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-14T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
+    },
+    {
       "id": "08b1588075d7e3f3",
       "title": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux",
       "summary": "Geolocaux centralise environ 60 000 annonces d’immobilier d’entreprise et permet de cibler des bureaux à Paris par carte, budget et surface. Contenu sponsorisé par geolocaux",
@@ -483,6 +552,28 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
+    },
+    {
+      "id": "289a96a9e912d895",
+      "title": "Arrêté du 11 juin 2026 portant diverses dispositions d'adaptation au droit de l'Union européenne sur le diagnostic de performance énergétique",
+      "summary": "Texte officiel lié à l'immobilier, publié au Journal officiel et récupéré via l'API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054673312",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-13T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
     },
     {
       "id": "9be7878ebb0f5a8f",
@@ -544,6 +635,50 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
+    },
+    {
+      "id": "08a442b812a11f7a",
+      "title": "Arrêté du 23 juillet 2026 fixant le montant d'une subvention exceptionnelle versée aux organisations syndicales représentatives de fonctionnaires de l'Etat",
+      "summary": "Texte officiel lié à l'immobilier, publié au Journal officiel et récupéré via l'API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054666578",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-12T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
+    },
+    {
+      "id": "8e42df162ac4bc6f",
+      "title": "Arrêté du 30 juillet 2026 portant nomination d'une directrice régionale adjointe de l'environnement, de l'aménagement et du logement (région Normandie)",
+      "summary": "Texte officiel lié à l'immobilier, publié au Journal officiel et récupéré via l'API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054667042",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-12T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
     },
     {
       "id": "554aa5802fa13bcf",
@@ -650,6 +785,72 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
+      "id": "6dfb7463508537c9",
+      "title": "Décret n° 2026-765 du 9 août 2026 modifiant le dispositif d'agrément des organismes de qualification des professionnels prévu par l'article R. 125-40 du code de la construction et de l'habitation",
+      "summary": "Texte officiel lié à l'immobilier, publié au Journal officiel et récupéré via l'API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054658984",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-11T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
+    },
+    {
+      "id": "e7b123d08cbc6176",
+      "title": "Décret n° 2026-766 du 9 août 2026 relatif à la composition de la commission d'agrément des organismes délivrant des qualifications aux professionnels réalisant des travaux ou prestations prévus à l'article R. 125-40 du code de la construction et de l'habitation",
+      "summary": "Texte officiel lié à l'immobilier, publié au Journal officiel et récupéré via l'API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054659003",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-11T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
+    },
+    {
+      "id": "aaaba17651b53bc1",
+      "title": "Décret du 10 août 2026 portant nomination d'un ambassadeur extraordinaire et plénipotentiaire de la République française auprès de la République de Maurice - M. LOYER (Alexis)",
+      "summary": "Texte officiel lié à l'immobilier, publié au Journal officiel et récupéré via l'API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054659160",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-11T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
+    },
+    {
       "id": "e3fd8b79608fa614",
       "title": "Les bases pour protéger efficacement son logement : sécurisation et couverture financière",
       "summary": "Propriétaires ou locataires Article sponsorisé",
@@ -731,6 +932,94 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
+    },
+    {
+      "id": "fb993d1ad3002d25",
+      "title": "Arrêté du 6 août 2026 portant nomination au comité du contrôle et des suites de l'Agence nationale de contrôle du logement social (ANCOLS)",
+      "summary": "Texte officiel lié à l'immobilier, publié au Journal officiel et récupéré via l'API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054646856",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-09T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
+    },
+    {
+      "id": "afeb3ad633afb1fe",
+      "title": "Arrêté du 6 août 2026 portant nomination au comité des études de l'Agence nationale de contrôle du logement social (ANCOLS)",
+      "summary": "Texte officiel lié à l'immobilier, publié au Journal officiel et récupéré via l'API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054646858",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-09T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
+    },
+    {
+      "id": "6ed5be18bad6e77d",
+      "title": "Décision n° 2026-429 du 27 juillet 2026 modifiant la décision n° 2025-892 du 12 novembre 2025 relative aux modalités de programmation du temps d'émission attribué aux formations politiques représentées par un groupe dans l'une ou l'autre des assemblées du Parlement et aux organisations syndicales et professionnelles représentatives à l'échelle nationale pour l'année 2025 et les décisions n° 2025-1144 du 17 décembre 2025 et n° 2026-106 du 18 mars 2026 fixant les calendriers de diffusion de ces émissions",
+      "summary": "Texte officiel lié à l'immobilier, publié au Journal officiel et récupéré via l'API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054643794",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-08T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
+    },
+    {
+      "id": "9a2ddc38709c2d67",
+      "title": "Arrêté du 28 juillet 2026 approuvant le bilan de la concertation préalable à la mise en compatibilité des plans locaux d'urbanisme des communes de Brec'h, Erdeven, Locoal-Mendon, Ploemel, Plouharnel et Pluvigner dans le cadre de la déclaration d'utilité publique pour les travaux de création d'une triple liaison électrique sous-marine et souterraine à 225 000 volts en courant alternatif entre le poste électrique en mer et le poste électrique implanté à Pluvigner pour le projet de raccordement électrique des parcs éoliens en mer de Bretagne sud",
+      "summary": "Texte officiel lié à l'immobilier, publié au Journal officiel et récupéré via l'API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054632557",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-07T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
     },
     {
       "id": "88dfb213383334d0",
@@ -1064,6 +1353,69 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "69565539196cd1c3",
+      "title": "Tous corps d'état",
+      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Té",
+      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-31T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "135874d9ef9c7687",
+      "title": "Tous métiers de la construction",
+      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Témoin \"En matiè",
+      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-31T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "b507c4ff7769afdd",
+      "title": "Construction (tous corps d'état)",
+      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Témoin \"En matièr",
+      "url": "https://www.batiactu.com/theme/theme-construction.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-31T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "c97fbcb683b89861",
