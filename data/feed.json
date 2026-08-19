@@ -1,15 +1,99 @@
 {
-  "generated_at": "2026-08-19T01:56:19+00:00",
-  "version": "7.0",
+  "generated_at": "2026-08-19T07:01:47+00:00",
+  "version": "7.1",
   "items": [
     {
-      "id": "76a83a15dbf75310",
-      "title": "Crédit immobilier : Faut-il emprunter maintenant ou attendre septembre ?",
-      "summary": "Investir / Financer Les vrais prix de l'immobilier Immobilier : Trop de biens à vendre, les prix affichés reculent en Grande-Bretagne Vie Pro Prospection immobilière : Acheter un lead vendeur ne suffit plus pour pouvoir l’appeler Propriétaires ou locataires Article sponsorisé Les bases pour protéger efficacement son logement : sécurisation et couverture financière Marché immobilier Immobilier : Quand la canicule pèse sur le choix du logement",
-      "url": "https://www.mysweetimmo.com/2026/08/18/credit-immobilier-faut-il-emprunter-maintenant-ou-attendre-septembre/",
+      "id": "d8a559c7836333f2",
+      "title": "Voir tous les événements à venir",
+      "summary": "LMATY Du 02/09/2026 au 04/09/2026 KAZBUILD - ALMATY Du 02/09/2026 au 04/09/2026 Articles Populaires Les artisans dans \"l'incompréhension\" face à la possible interdiction des chaudières gaz Le ZAN, une potentielle \"aberration\" de plus pour les parcs zoologiques L'Etat envisagerait d'interdire les chaudières gaz, des acteurs réagissent Diagnostic de performance énergétique : le décret certification modifié d'ici l'été Rendement",
+      "url": "https://www.batiactu.com/agenda.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-09-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "0b1756554f4604ab",
+      "title": "Immobilier de luxe : Jusqu’à 113 000 €/m² à Saint-Jean-Cap-Ferrat, en tête du classement européen",
+      "summary": "Nouveau Luxe",
+      "url": "https://www.mysweetimmo.com/2026/08/19/113-000-euros-le-m%c2%b2-la-cote-dazur-domine-limmobilier-de-luxe-en-europe/",
       "source": "MySweetImmo",
       "source_level": "C",
-      "category": "credit",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "dfd04702a6a69305",
+      "title": "Métiers de la transaction et de la gestion : et la RSE bordel !",
+      "summary": "Le 19/08/2026 à 07H24 Les métiers de la transaction et de la gestion n’échappent pas à la réflexion sur l’attractivité. Pour recruter, ils doivent séduire les jeunes — et même les actifs en reconversion. Mais un levier reste encore largement sous-exploité : la RSE. Tribune d'Henry Buzy-Cazaux. Jusqu’à 50 candidats pour un studio : le logement étudiant reste sous tension dans les grandes métropoles Le 19/08/2026 à 06H45 À quelq",
+      "url": "https://www.journaldelagence.com/1412972-metiers-de-la-transaction-et-de-la-gestion-et-la-rse-bordel",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "c2fc7150de060720",
+      "title": "Jusqu’à 50 candidats pour un studio : le logement étudiant reste sous tension dans les grandes métropoles",
+      "summary": "ier reste encore largement sous-exploité : la RSE. Tribune d'Henry Buzy-Cazaux. Le 19/08/2026 à 06H45 À quelques semaines de la rentrée universitaire, ERA Immobilier dévoile les résultats d'une enquête menée auprès de ses agences de Bordeaux, Strasbourg, Nantes et Toulouse. Malgré des réalités locales différentes, un constat s'impose : trouver un logement étudiant est devenu une véritable course contre la montre. L'offre de p",
+      "url": "https://www.journaldelagence.com/1412969-jusqua-50-candidats-pour-un-studio-le-logement-etudiant-reste-sous-tension-dans-les-grandes-metropoles",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "a93ae8ba6ef6ea51",
+      "title": "Diagnostic immobilier : Ce que le DPE européen dira en plus au 1er janvier 2027",
+      "summary": "Nouveau Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/08/18/diagnostic-immobilier-ce-que-le-dpe-europeen-dira-en-plus-au-1er-janvier-2027/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
       "audiences": [
         "particulier",
         "investisseur",
@@ -17,11 +101,11 @@
       ],
       "published_at": "2026-08-18T09:00:00+00:00",
       "status": "Publication",
-      "importance": 73,
+      "importance": 76,
       "relevance": 73,
       "territory": "France",
-      "topic": "Credit",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets."
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
       "id": "a2576d7b8d5d6c4a",
@@ -45,13 +129,13 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "a93ae8ba6ef6ea51",
-      "title": "Diagnostic immobilier : Ce que le DPE européen dira en plus au 1er janvier 2027",
-      "summary": "Nouveau Règlementation Vie Pro Incendies dans le Sud-Ouest : Bien’ici se mobilise pour aider au relogement des sinistrés Rénovation MaPrimeRénov’, MaPrimeAdapt’ : Ce qui change aujourd’hui avec le nouveau compte France Rénov’",
-      "url": "https://www.mysweetimmo.com/2026/08/18/diagnostic-immobilier-ce-que-le-dpe-europeen-dira-en-plus-au-1er-janvier-2027/",
+      "id": "76a83a15dbf75310",
+      "title": "Crédit immobilier : Faut-il emprunter maintenant ou attendre septembre ?",
+      "summary": "Investir / Financer",
+      "url": "https://www.mysweetimmo.com/2026/08/18/credit-immobilier-faut-il-emprunter-maintenant-ou-attendre-septembre/",
       "source": "MySweetImmo",
       "source_level": "C",
-      "category": "lois",
+      "category": "credit",
       "audiences": [
         "particulier",
         "investisseur",
@@ -59,11 +143,11 @@
       ],
       "published_at": "2026-08-18T09:00:00+00:00",
       "status": "Publication",
-      "importance": 76,
+      "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets."
     },
     {
       "id": "d7de534a824dac0f",
@@ -87,9 +171,51 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
+      "id": "023d818f798302c2",
+      "title": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ?",
+      "summary": "e petites surfaces ne suffit plus à répondre à une demande toujours plus forte. Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interrog",
+      "url": "https://www.journaldelagence.com/1412953-dissocier-le-foncier-du-bati-une-nouveau-levier-pour-recreer-la-solvabilite-des-acquereurs",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "2396897533ee05dc",
+      "title": "Qu’est-ce qui fait une bonne annonce immobilière ? Ce n’est pas sa capacité à faire rêver, mais à inspirer confiance",
+      "summary": "à une transformation durable de notre conception de la propriété immobilière ? Le 18/08/2026 à 07H08 Dans une annonce immobilière, la confiance naît de l'alignement entre ce qui est écrit et ce qui peut être vérifié. À l'appui de plusieurs recherches scientifiques, Nathalie Gardes montre que les annonces les plus efficaces ne sont plus celles qui multiplient les superlatifs, mais celles qui donnent aux acquéreurs les éléments",
+      "url": "https://www.journaldelagence.com/1412978-quest-ce-qui-fait-une-bonne-annonce-immobiliere-ce-nest-pas-sa-capacite-a-faire-rever-mais-a-inspirer-confiance",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
       "id": "31c82e6b8fcdf1d2",
       "title": "Urbanisme, voisinage, construction : quelles questions ont préoccupé les ménages en 2025 ?",
-      "summary": "17 août 2026 En 2025, les ADIL ont réalisé plus de 26 000 consultations sur les questions d'urbanisme, de droit notarial et de relations de voisinage. Lire l'actualité",
+      "summary": "17 août 2026 En 2025, les ADIL ont réalisé plus de 26 000 consultations sur les questions d'urbanisme, de droit notarial et de relations de voisinage.",
       "url": "https://www.anil.org/actualites-evenements/details/urbanisme-voisinage-construction-quelles-questions-ont-preoccupe-les-menages-en-2025/",
       "source": "ANIL",
       "source_level": "B",
@@ -129,11 +255,32 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "b9ed9ac4790e893b",
-      "title": "Devenir Membre Premium",
-      "summary": "Connexion Immo2 Se connecter ou créer un compte LA FONCTIONNALITÉ À LIRE PLUS TARD EST RÉSERVÉE AUX MEMBRES IMMOBILIER 2.0 PREMIUM PROFITEZ À 100% D’IMMOBILIER 2.0 EN REJOIGNANT AUJOURD’HUI PLUS DE 1000 ENTREPRISES QUI FONT CONFIANCE À IMMOBILIER 2.0 PREMIUM. Catégorie Actualité du secteur de l’Internet immobilier Toute l’actualité du secteur de l’internet immobilier et des événements immobilier auxquels il faut être présent ! Pour ne plus jamais rien manquer et rester à l’a",
-      "url": "https://immo2.pro/premium?source=CTA-lire-plus-tard",
-      "source": "Immobilier 2.0",
+      "id": "e4d892665bf36ce2",
+      "title": "Absence de diagnostics immobiliers : la responsabilité du notaire peut être engagée",
+      "summary": "donnent aux acquéreurs les éléments nécessaires pour se projeter… en confiance. Le 17/08/2026 à 07H36 Saviez-vous que le devoir de conseil du notaire ne se limite pas à la rédaction de l'acte authentique ? La Cour de cassation a rappellé dans un arrêt récent que lorsqu'un acquéreur devient bailleur d'un immeuble déjà loué, il doit également être informé des risques qu'il encourt si certains diagnostics n'ont pas été réalisés.",
+      "url": "https://www.journaldelagence.com/1412418-absence-de-diagnostics-immobiliers-la-responsabilite-du-notaire-peut-etre-engagee",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-08-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "efcd52137bf31732",
+      "title": "Assurance emprunteur : les bons conseils à donner à vos clients pour concilier économies et protection",
+      "summary": "formé des risques qu'il encourt si certains diagnostics n'ont pas été réalisés. Le 17/08/2026 à 06H08 À l’heure où les taux d’intérêt repartent légèrement à la hausse sous l’effet du contexte géopolitique et économique international, le coût global d’un achat immobilier augmente lui aussi. Cette situation pousse naturellement les emprunteurs à chercher des solutions pour réduire les frais annexes liés à leur financement. Un r",
+      "url": "https://www.journaldelagence.com/1412891-assurance-emprunteur-les-bons-conseils-a-donner-a-vos-clients-pour-concilier-economies-et-protection",
+      "source": "Journal de l'Agence",
       "source_level": "C",
       "category": "marche",
       "audiences": [
@@ -141,7 +288,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-14T09:00:00+00:00",
+      "published_at": "2026-08-17T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -172,11 +319,11 @@
     {
       "id": "08b1588075d7e3f3",
       "title": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux",
-      "summary": "Investir / Financer Crédit immobilier : Faut-il emprunter maintenant ou attendre septembre ? Les vrais prix de l'immobilier Immobilier : Trop de biens à vendre, les prix affichés reculent en Grande-Bretagne Vie Pro Prospection immobilière : Acheter un lead vendeur ne suffit plus pour pouvoir l’appeler Propriétaires ou locataires Article sponsorisé Les bases pour protéger efficacement son logement : sécurisation et couverture financière Marché immobilier Immobilier : Quand la",
+      "summary": "Geolocaux centralise environ 60 000 annonces d’immobilier d’entreprise et permet de cibler des bureaux à Paris par carte, budget et surface. Contenu sponsorisé par geolocaux",
       "url": "https://www.mysweetimmo.com/2026/08/13/trouvez-des-bureaux-disponibles-rapidement-a-paris-avec-geolocaux/",
       "source": "MySweetImmo",
       "source_level": "C",
-      "category": "credit",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
@@ -187,13 +334,94 @@
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Credit",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets."
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "3d973321dd372c51",
+      "title": "Documenter un bien sans multiplier les fichiers : le pari de PhotoReport",
+      "summary": "ture utile pour les professionnels de l'immobilier confrontés à ces situations. Le 13/08/2026 à 07H22 Photos dans le téléphone, commentaires dans un carnet, captures d'écran envoyées par WhatsApp, rapport à refaire au bureau… Pour de nombreux professionnels de l'immobilier, documenter l'avancement d'un bien relève encore du bricolage numérique. C'est ce constat de terrain qui a donné naissance à l'application française PhotoR",
+      "url": "https://www.journaldelagence.com/1412875-documenter-un-bien-sans-multiplier-les-fichiers-le-pari-de-photoreport",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-08-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
+    },
+    {
+      "id": "9be7878ebb0f5a8f",
+      "title": "Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros",
+      "summary": "Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros",
+      "url": "https://www.mysweetimmo.com/2026/08/12/immobilier-alpilles-17-chambres-45-hectares-ce-mas-de-1679-est-a-vendre-575-millions-deuros/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "e914ba589db71f28",
+      "title": "Immobilier : la blockchain peut-elle vraiment remplacer la confiance ?",
+      "summary": "constat de terrain qui a donné naissance à l'application française PhotoReport. Le 12/08/2026 à 08H05 La blockchain promet de démocratiser l’accès à l’immobilier et d’accélérer les transactions. Mais que sait-on vraiment des effets de cette technologie ? Location : il est interdit d’utiliser ChatGPT pour automatiser le tri des profils locataires Le 12/08/2026 à 07H57 Les professionnels de l'immobilier qui utilisent l'intellig",
+      "url": "https://www.journaldelagence.com/1412838-immobilier-la-blockchain-peut-elle-vraiment-remplacer-la-confiance",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-08-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
+    },
+    {
+      "id": "b098f11727f825f9",
+      "title": "Location : il est interdit d’utiliser ChatGPT pour automatiser le tri des profils locataires",
+      "summary": "r les transactions. Mais que sait-on vraiment des effets de cette technologie ? Le 12/08/2026 à 07H57 Les professionnels de l'immobilier qui utilisent l'intelligence artificielle pour analyser des dossiers locatifs doivent rester vigilants. Le RGPD et les politiques d'utilisation d'OpenAI convergent sur un même principe : une décision ayant des conséquences importantes pour une personne ne peut pas être entièrement automatisé",
+      "url": "https://www.journaldelagence.com/1412633-location-il-est-interdit-dutiliser-chatgpt-pour-automatiser-le-tri-des-profils-locataires",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-08-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
       "id": "554aa5802fa13bcf",
       "title": "Nouvelle Parole d'expert : Ma maison se fissure : puis-je bénéficier du Fonds de prévention argile ?",
-      "summary": "11 août 2026 Des fissures apparaissent sur les murs de votre maison ? Elles peuvent être liées au phénomène de retrait-gonflement des argiles ( RGA ), qui s'accentue avec les épisodes de sécheresse suivis de fortes pluies. Avec le changement climatique, ce… Lire l'actualité",
+      "summary": "11 août 2026 Des fissures apparaissent sur les murs de votre maison ? Elles peuvent être liées au phénomène de retrait-gonflement des argiles ( RGA ), qui s'accentue avec les épisodes de sécheresse suivis de fortes pluies. Avec le changement climatique, ce…",
       "url": "https://www.anil.org/parole-expert-logement-habiter-vie-pratique/ma-maison-se-fissure-puis-je-beneficier-du-fonds-de-prevention-argile/",
       "source": "ANIL",
       "source_level": "B",
@@ -233,6 +461,68 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
+      "id": "8929852ca5dc3634",
+      "title": "Immobilier : que peut-on acheter en France avec 250 000 € ?",
+      "summary": "r leurs fournisseurs d'IA dans leur gouvernance de l'intelligence artificielle. Le 11/08/2026 à 07H49 Un budget ne raconte jamais toute l'histoire d'un projet immobilier. Les 250 000 € qui permettent d'acquérir un studio dans certaines villes ouvrent parfois les portes d'une maison familiale ailleurs. Une récente étude de SeLoger illustre, chiffres à l'appui, l'ampleur des écarts de pouvoir d'achat immobilier sur le territoir",
+      "url": "https://www.journaldelagence.com/1412535-immobilier-que-peut-on-acheter-en-france-avec-250-000-e",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "e86c649ef1cbb466",
+      "title": "Aménagements extérieurs : 5 points de vigilance à surveiller avant une vente",
+      "summary": "s en quête du meilleur compromis entre surface, localisation et qualité de vie. Le 11/08/2026 à 07H28 Les aménagements extérieurs constituent un véritable atout commercial… à condition qu'ils soient parfaitement régularisés. Urbanisme, fiscalité, PLU, revente : autant de sujets sur lesquels les propriétaires commettent encore des erreurs. Voici cinq situations que tout agent immobilier a intérêt à savoir repérer pour mieux co",
+      "url": "https://www.journaldelagence.com/1412798-amenagements-exterieurs-5-points-de-vigilance-a-surveiller-avant-une-vente",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Territoires",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
+    },
+    {
+      "id": "469b609a4baf6219",
+      "title": "Gestionnaires de copropriété : la pénurie de talents recule, mais la fidélisation reste un défi",
+      "summary": "savoir repérer pour mieux conseiller ses clients et sécuriser ses transactions. Le 11/08/2026 à 07H12 La pénurie de gestionnaires de copropriété s'atténue progressivement en France. Selon la dernière enquête de l'ANGC, la part des cabinets de syndic confrontés à un poste vacant est passée de 56 % en 2022 à 39 % en 2026. Une évolution encourageante qui ne doit toutefois pas masquer une autre réalité : attirer de nouveaux talen",
+      "url": "https://www.journaldelagence.com/1412673-gestionnaires-de-copropriete-la-penurie-de-talents-recule-mais-la-fidelisation-reste-un-defi",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-08-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
+    },
+    {
       "id": "e3fd8b79608fa614",
       "title": "Les bases pour protéger efficacement son logement : sécurisation et couverture financière",
       "summary": "Propriétaires ou locataires Article sponsorisé",
@@ -256,7 +546,7 @@
     {
       "id": "8cf0647c90452195",
       "title": "Immobilier : Quand la canicule pèse sur le choix du logement",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier : Quand la canicule pèse sur le choix du logement",
       "url": "https://www.mysweetimmo.com/2026/08/10/immobilier-quand-la-canicule-pese-sur-le-choix-du-logement/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -273,6 +563,26 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "1b3189d7958c7575",
+      "title": "Syndic de copropriété : bienvenue dans la roue des émotions !",
+      "summary": "à mieux les fidéliser. Gilles Frémont, président de l'ANGC, livre son analyse. Le 10/08/2026 à 08H04 Du trac avant une assemblée générale à la plénitude d'une boîte mail vide avant les vacances, le quotidien d'un syndic est une véritable montagne russe émotionnelle. Avec humour, Gilles Frémont, président de l'Association nationale des gestionnaires de copropriété (ANGC), a imaginé une \"roue des émotions du syndic\" dans une pu",
+      "url": "https://www.journaldelagence.com/1412497-syndics-de-copropriete-bienvenue-dans-la-roue-des-emotions",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-08-10T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
       "id": "bdf8a551019bd962",
@@ -296,9 +606,71 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
+      "id": "88dfb213383334d0",
+      "title": "Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire",
+      "summary": "Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire",
+      "url": "https://www.mysweetimmo.com/2026/08/06/immobilier-acheter-pres-dune-foret-ce-que-le-vendeur-est-oblige-de-vous-dire/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "6cf6abe8040be146",
+      "title": "Plongée dans les rouages du blanchiment d’argent : une enquête qui éclaire vos obligations Tracfin",
+      "summary": "rement l'organisation d'une visite de la constitution d'un dossier de location. Le 06/08/2026 à 07H06 Les professionnels de l'immobilier connaissent leurs obligations en matière de lutte contre le blanchiment des capitaux. Mais comprennent-ils réellement les mécanismes qu'elles visent à combattre ? Dans Les Blanchisseurs – Argent sale et cols blancs, Éric Percheron entraîne le lecteur dans les coulisses de l'économie criminel",
+      "url": "https://www.journaldelagence.com/1412605-plongee-dans-les-rouages-du-blanchiment-dargent-une-enquete-qui-eclaire-vos-obligations-tracfin",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-08-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
+    },
+    {
+      "id": "5ddc31d852754d7c",
+      "title": "Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août",
+      "summary": "Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août",
+      "url": "https://www.mysweetimmo.com/2026/08/05/agents-immobiliers-le-decret-sur-la-pige-telephonique-fixe-les-regles-applicables-des-le-11-aout/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
       "id": "0c1e8093029e8672",
       "title": "De nouvelles données sur les loyers sont disponibles",
-      "summary": "04 août 2026 Les Observatoires locaux des loyers ( OLL ) actualisent annuellement leurs productions statistiques et des résultats 2025 sont désormais disponibles pour les territoires suivants : agglomération de Lorient, de Vannes, d’Auray Quiberon, d’Aix-les-Bains,… Lire l'actualité",
+      "summary": "04 août 2026 Les Observatoires locaux des loyers ( OLL ) actualisent annuellement leurs productions statistiques et des résultats 2025 sont désormais disponibles pour les territoires suivants : agglomération de Lorient, de Vannes, d’Auray Quiberon, d’Aix-les-Bains,…",
       "url": "https://www.observatoires-des-loyers.org/connaitre-les-loyers/carte-des-niveaux-de-loyers",
       "source": "ANIL",
       "source_level": "B",
@@ -360,7 +732,7 @@
     {
       "id": "1cc513da92ef3bd1",
       "title": "Location d'un logement : de la signature du bail à la fin de la location",
-      "summary": "03 août 2026 Signer un bail, emménager, vivre dans son logement, puis le quitter : une location est rythmée par plusieurs étapes importantes. Chacune répond à des règles précises et implique des droits et des obligations, aussi bien pour le locataire que pour le… Lire l'actualité",
+      "summary": "03 août 2026 Signer un bail, emménager, vivre dans son logement, puis le quitter : une location est rythmée par plusieurs étapes importantes. Chacune répond à des règles précises et implique des droits et des obligations, aussi bien pour le locataire que pour le…",
       "url": "https://www.anil.org/actualites-evenements/details/location-dun-logement-de-la-signature-du-bail-a-la-fin-de-la-location/",
       "source": "ANIL",
       "source_level": "B",
@@ -381,11 +753,11 @@
     {
       "id": "8849fd43f1fcd238",
       "title": "Économie et Business",
-      "summary": "Toute l'actualité de l'immobilier Investir / Financer Crédit immobilier : Faut-il emprunter maintenant ou attendre septembre ? Les vrais prix de l'immobilier Immobilier : Trop de biens à vendre, les prix affichés reculent en Grande-Bretagne Vie Pro Prospection immobilière : Acheter un lead vendeur ne suffit plus pour pouvoir l’appeler Propriétaires ou locataires Article sponsorisé Les bases pour protéger efficacement son logement : sécurisation et couverture financière Marché",
+      "summary": "Dans l'actu Tout voir Environnement International Luxe People Politique Société Nouveau Luxe Immobilier de luxe : Jusqu’à 113 000 €/m² à Saint-Jean-Cap-Ferrat, en tête du classement européen Vie Pro Incendies dans le Sud-Ouest : Bien’ici se mobilise pour aider au relogement des sinistrés Rénovation MaPrimeRénov’, MaPrimeAdapt’ : Ce qui change aujourd’hui avec le nouveau compte France Rénov’ Trouvez des bureaux disponibles rap",
       "url": "https://www.mysweetimmo.com/category/dans-l-actu/business/",
       "source": "MySweetImmo",
       "source_level": "C",
-      "category": "credit",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
@@ -396,163 +768,16 @@
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Credit",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets."
-    },
-    {
-      "id": "8baf2bfb80be582c",
-      "title": "Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026",
-      "summary": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Après leboncoin, Aurélien Flament prend la tête d’",
-      "url": "https://www.mysweetimmo.com/2026/08/12/hausse-du-prix-du-gaz-jusqua-509-e-de-plus-sur-la-facture-en-2026/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
-    },
-    {
-      "id": "9be7878ebb0f5a8f",
-      "title": "Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros",
-      "summary": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Après leboncoin, Aurélien Flament prend la tête d’idealista France Canicule : Av",
-      "url": "https://www.mysweetimmo.com/2026/08/12/immobilier-alpilles-17-chambres-45-hectares-ce-mas-de-1679-est-a-vendre-575-millions-deuros/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
-    },
-    {
-      "id": "88dfb213383334d0",
-      "title": "Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire",
-      "summary": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Après leboncoin, Aurélien Flament prend la tête d’idealista Fr",
-      "url": "https://www.mysweetimmo.com/2026/08/06/immobilier-acheter-pres-dune-foret-ce-que-le-vendeur-est-oblige-de-vous-dire/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
-    },
-    {
-      "id": "5ddc31d852754d7c",
-      "title": "Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août",
-      "summary": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026 Après leboncoin, Aurélien Flament prend la tête d’idealista France Canicule : Av",
-      "url": "https://www.mysweetimmo.com/2026/08/05/agents-immobiliers-le-decret-sur-la-pige-telephonique-fixe-les-regles-applicables-des-le-11-aout/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "a328f2f888d7b7cc",
       "title": "Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026",
-      "summary": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Après leboncoin, Aurélien Flament prend la tête d’idealista Franc",
+      "summary": "Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026",
       "url": "https://www.mysweetimmo.com/2026/08/04/immobilier-ce-que-lai-act-change-vraiment-pour-les-agences-depuis-le-2-aout-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
-    },
-    {
-      "id": "b26c4ee2b6aa7dcd",
-      "title": "Après leboncoin, Aurélien Flament prend la tête d’idealista France",
-      "summary": "Trouvez des bureaux disponibles rapidement à Paris avec Geolocaux Hausse du prix du gaz : Jusqu’à 509 € de plus sur la facture en 2026 Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire Agents immobiliers : Le décret sur la pige téléphonique fixe les règles applicables dès le 11 août Immobilier : Ce que l’AI Act change vraiment pour les agences depu",
-      "url": "https://www.mysweetimmo.com/2026/08/04/apres-leboncoin-aurelien-flament-prend-la-tete-didealista-france/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
-    },
-    {
-      "id": "4d4395915d29d880",
-      "title": "Carte des prix immobiliers",
-      "summary": "Recherche Actu Conjoncture Agenda Salons Evénements Nominations A lire Guides Juridique Management Métier Réglementation Marketing Financement Expertise Urbanisme Fiscalité Zoom Stratégies Interviews Tribunes Dossiers Se connecter Journal de l'agence Se connecter Rechercher Menu Actu Conjoncture Agenda Salons Evénements Nominations A lire Guides Juridique Management Métier Réglementation Marketing Financement Expertise Urbanisme Fiscalité Zoom Stratégies Interviews Tribunes",
-      "url": "https://www.journaldelagence.com/carte-des-prix-immobiliers",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
-    },
-    {
-      "id": "023d818f798302c2",
-      "title": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ?",
-      "summary": "Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interroge sur une question de fond : assistons-nous à une simple réponse conjoncturelle ou à une transformation durable de notre conception",
-      "url": "https://www.journaldelagence.com/1412953-dissocier-le-foncier-du-bati-une-nouveau-levier-pour-recreer-la-solvabilite-des-acquereurs",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
       "category": "marche",
       "audiences": [
         "particulier",
@@ -568,11 +793,11 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "2396897533ee05dc",
-      "title": "Qu’est-ce qui fait une bonne annonce immobilière ? Ce n’est pas sa capacité à faire rêver, mais à inspirer confiance",
-      "summary": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ? Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interroge sur une question de fond : assisto",
-      "url": "https://www.journaldelagence.com/1412978-quest-ce-qui-fait-une-bonne-annonce-immobiliere-ce-nest-pas-sa-capacite-a-faire-rever-mais-a-inspirer-confiance",
-      "source": "Journal de l'Agence",
+      "id": "69565539196cd1c3",
+      "title": "Tous corps d'état",
+      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Té",
+      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
+      "source": "Batiactu",
       "source_level": "C",
       "category": "marche",
       "audiences": [
@@ -580,7 +805,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-02T09:00:00+00:00",
+      "published_at": "2026-07-31T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -589,11 +814,11 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "e4d892665bf36ce2",
-      "title": "Absence de diagnostics immobiliers : la responsabilité du notaire peut être engagée",
-      "summary": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ? Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interroge sur une question de fond : assisto",
-      "url": "https://www.journaldelagence.com/1412418-absence-de-diagnostics-immobiliers-la-responsabilite-du-notaire-peut-etre-engagee",
-      "source": "Journal de l'Agence",
+      "id": "135874d9ef9c7687",
+      "title": "Tous métiers de la construction",
+      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Témoin \"En matiè",
+      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
+      "source": "Batiactu",
       "source_level": "C",
       "category": "marche",
       "audiences": [
@@ -601,7 +826,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-02T09:00:00+00:00",
+      "published_at": "2026-07-31T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -610,11 +835,11 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "efcd52137bf31732",
-      "title": "Assurance emprunteur : les bons conseils à donner à vos clients pour concilier économies et protection",
-      "summary": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ? Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interroge sur une question de fond : assisto",
-      "url": "https://www.journaldelagence.com/1412891-assurance-emprunteur-les-bons-conseils-a-donner-a-vos-clients-pour-concilier-economies-et-protection",
-      "source": "Journal de l'Agence",
+      "id": "b507c4ff7769afdd",
+      "title": "Construction (tous corps d'état)",
+      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Témoin \"En matièr",
+      "url": "https://www.batiactu.com/theme/theme-construction.php",
+      "source": "Batiactu",
       "source_level": "C",
       "category": "marche",
       "audiences": [
@@ -622,247 +847,18 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-02T09:00:00+00:00",
+      "published_at": "2026-07-31T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "5b5814496b59b3bd",
-      "title": "Conflits de voisinage : un guide pratique pour mieux prévenir les litiges",
-      "summary": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ? Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interroge sur une question de fond : assisto",
-      "url": "https://www.journaldelagence.com/1412884-conflits-de-voisinage-un-guide-pratique-pour-mieux-prevenir-les-litiges",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "3d973321dd372c51",
-      "title": "Documenter un bien sans multiplier les fichiers : le pari de PhotoReport",
-      "summary": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ? Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interroge sur une question de fond : assisto",
-      "url": "https://www.journaldelagence.com/1412875-documenter-un-bien-sans-multiplier-les-fichiers-le-pari-de-photoreport",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "e914ba589db71f28",
-      "title": "Immobilier : la blockchain peut-elle vraiment remplacer la confiance ?",
-      "summary": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ? Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interroge sur une question de fond : assisto",
-      "url": "https://www.journaldelagence.com/1412838-immobilier-la-blockchain-peut-elle-vraiment-remplacer-la-confiance",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "b098f11727f825f9",
-      "title": "Location : il est interdit d’utiliser ChatGPT pour automatiser le tri des profils locataires",
-      "summary": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ? Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interroge sur une question de fond : assisto",
-      "url": "https://www.journaldelagence.com/1412633-location-il-est-interdit-dutiliser-chatgpt-pour-automatiser-le-tri-des-profils-locataires",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "8929852ca5dc3634",
-      "title": "Immobilier : que peut-on acheter en France avec 250 000 € ?",
-      "summary": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ? Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interroge sur une question de fond : assisto",
-      "url": "https://www.journaldelagence.com/1412535-immobilier-que-peut-on-acheter-en-france-avec-250-000-e",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "e86c649ef1cbb466",
-      "title": "Aménagements extérieurs : 5 points de vigilance à surveiller avant une vente",
-      "summary": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ? Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interroge sur une question de fond : assisto",
-      "url": "https://www.journaldelagence.com/1412798-amenagements-exterieurs-5-points-de-vigilance-a-surveiller-avant-une-vente",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "469b609a4baf6219",
-      "title": "Gestionnaires de copropriété : la pénurie de talents recule, mais la fidélisation reste un défi",
-      "summary": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ? Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interroge sur une question de fond : assisto",
-      "url": "https://www.journaldelagence.com/1412673-gestionnaires-de-copropriete-la-penurie-de-talents-recule-mais-la-fidelisation-reste-un-defi",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "1b3189d7958c7575",
-      "title": "Syndic de copropriété : bienvenue dans la roue des émotions !",
-      "summary": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ? Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interroge sur une question de fond : assisto",
-      "url": "https://www.journaldelagence.com/1412497-syndics-de-copropriete-bienvenue-dans-la-roue-des-emotions",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
-    },
-    {
-      "id": "b110840e75a770e1",
-      "title": "Location : ce que les agences peuvent (et ne peuvent pas) demander aux candidats",
-      "summary": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ? Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interroge sur une question de fond : assisto",
-      "url": "https://www.journaldelagence.com/1412492-location-ce-que-les-agences-peuvent-et-ne-peuvent-pas-demander-aux-candidats",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "6cf6abe8040be146",
-      "title": "Plongée dans les rouages du blanchiment d’argent : une enquête qui éclaire vos obligations Tracfin",
-      "summary": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ? Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interroge sur une question de fond : assisto",
-      "url": "https://www.journaldelagence.com/1412605-plongee-dans-les-rouages-du-blanchiment-dargent-une-enquete-qui-eclaire-vos-obligations-tracfin",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "55f2860ad63c48b3",
-      "title": "Canicule : le port du short est-il autorisé en agence immobilière ?",
-      "summary": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ? Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interroge sur une question de fond : assisto",
-      "url": "https://www.journaldelagence.com/1412783-canicule-le-port-du-short-est-il-autorise-en-agence-immobiliere",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
       "id": "c97fbcb683b89861",
       "title": "Louer à un travailleur saisonnier : sécurisez votre location avec la garantie Visale",
-      "summary": "30 juillet 2026 Chaque année, de nombreux secteurs recrutent des travailleurs saisonniers, notamment dans le tourisme, l'agriculture ou encore la restauration. Pour ces salariés, trouver un logement à proximité de leur lieu de travail peut être difficile. Lire l'actualité",
+      "summary": "30 juillet 2026 Chaque année, de nombreux secteurs recrutent des travailleurs saisonniers, notamment dans le tourisme, l'agriculture ou encore la restauration. Pour ces salariés, trouver un logement à proximité de leur lieu de travail peut être difficile.",
       "url": "https://www.anil.org/actualites-evenements/details/louer-a-un-travailleur-saisonnier-securisez-votre-location-avec-la-garantie-visale/",
       "source": "ANIL",
       "source_level": "B",
@@ -881,9 +877,30 @@
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
+      "id": "f7da610496535f86",
+      "title": "Agents immobiliers : « La concurrence nous oblige à être meilleurs » Guillaume Martinaud (Orpi)",
+      "summary": "Agents immobiliers : « La concurrence nous oblige à être meilleurs » Guillaume Martinaud (Orpi)",
+      "url": "https://www.mysweetimmo.com/2026/07/30/agents-immobiliers-la-concurrence-nous-oblige-a-etre-meilleurs-guillaume-martinaud-orpi/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
       "id": "49fec611d31a12ca",
       "title": "Incendies en Nouvelle-Aquitaine : Action Logement met en place un dispositif d'urgence",
-      "summary": "29 juillet 2026 À la suite des incendies qui ont durement touché la Nouvelle-Aquitaine, notamment la Gironde et les Landes, Action Logement déploie des mesures exceptionnelles pour accompagner les salariés dont le logement a été endommagé ou est devenu inhabitable. Lire l'actualité",
+      "summary": "29 juillet 2026 À la suite des incendies qui ont durement touché la Nouvelle-Aquitaine, notamment la Gironde et les Landes, Action Logement déploie des mesures exceptionnelles pour accompagner les salariés dont le logement a été endommagé ou est devenu inhabitable.",
       "url": "https://www.anil.org/actualites-evenements/details/incendies-en-nouvelle-aquitaine-action-logement-met-en-place-un-dispositif-durgence/",
       "source": "ANIL",
       "source_level": "B",
@@ -925,7 +942,7 @@
     {
       "id": "091448832a801dbf",
       "title": "Nouvelle Parole d'expert : mon propriétaire peut-il augmenter mon loyer ?",
-      "summary": "28 juillet 2026 Votre bailleur vous demande de payer un loyer plus conséquent ? L'augmentation du loyer dans le parc locatif privé par un bailleur peut être normale, mais elle est soumise à certaines règles. Alors, pourquoi votre bailleur a décidé d’augmenter le… Lire l'actualité",
+      "summary": "28 juillet 2026 Votre bailleur vous demande de payer un loyer plus conséquent ? L'augmentation du loyer dans le parc locatif privé par un bailleur peut être normale, mais elle est soumise à certaines règles. Alors, pourquoi votre bailleur a décidé d’augmenter le…",
       "url": "https://www.anil.org/parole-expert-logement-location-bailleur-augmentation-loyer/",
       "source": "ANIL",
       "source_level": "B",
@@ -967,7 +984,7 @@
     {
       "id": "acc258cba3493eac",
       "title": "Habitat Actualité n° 210",
-      "summary": "27 juillet 2026 Ce bulletin bimestriel fait le point sur l'actualité du secteur du logement : études, propositions, projets et surtout, l’évolution de la réglementation et de la jurisprudence dans tous les domaines intéressant les ADIL : financement du logement,… Lire l'actualité",
+      "summary": "27 juillet 2026 Ce bulletin bimestriel fait le point sur l'actualité du secteur du logement : études, propositions, projets et surtout, l’évolution de la réglementation et de la jurisprudence dans tous les domaines intéressant les ADIL : financement du logement,…",
       "url": "https://www.anil.org/documentation-experte/habitat-actualite/",
       "source": "ANIL",
       "source_level": "B",
@@ -986,31 +1003,10 @@
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "773d75a1499ae3b3",
-      "title": "L'Essentiel Rénovation d'ampleur : les aides CEE se resserrent (encore) dès septembre 2026",
-      "summary": "L'Essentiel CEE, électrification : plusieurs textes clefs retoqués en Conseil supérieur de l'énergie 24/07/2026 Zoom Nouvelle baisse du coefficient d'énergie primaire du DPE : le projet d'arrêté mis en consultation",
-      "url": "https://www.batiactu.com/edito/recentrage-coup-pouce-cee-renovation-ampleur-texte-75002.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-24T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "33bcb06497eb5c91",
-      "title": "Zoom Nouvelle baisse du coefficient d'énergie primaire du DPE : le projet d'arrêté mis en consultation",
-      "summary": "L'Essentiel CEE, électrification : plusieurs textes clefs retoqués en Conseil supérieur de l'énergie 24/07/2026 L'Essentiel Rénovation d'ampleur : les aides CEE se resserrent (encore) dès septembre 2026",
-      "url": "https://www.batiactu.com/edito/baisse-coefficient-energie-primaire-electricite-texte-74982.php",
+      "id": "fe12edbe30439342",
+      "title": "L'Essentiel CEE, électrification : plusieurs textes clefs retoqués en Conseil supérieur de l'énergie 24/07/2026",
+      "summary": "L'Essentiel Rénovation d'ampleur : les aides CEE se resserrent (encore) dès septembre 2026 Zoom Nouvelle baisse du coefficient d'énergie primaire du DPE : le projet d'arrêté mis en consultation",
+      "url": "https://www.batiactu.com/edito/electrification-conseil-superieur-energie-se-penche-75051.php",
       "source": "Batiactu",
       "source_level": "C",
       "category": "marche",
@@ -1030,7 +1026,7 @@
     {
       "id": "7ca85d38f6d0af4e",
       "title": "Nouvelle analyse juridique : Encadrement de l’évolution des loyers en zones tendues à compter du 1er août 2026",
-      "summary": "23 juillet 2026 Le décret fixant pour les zones tendues le montant maximum d'évolution des loyers d'un logement nu ou meublé en cas de relocation ou de renouvellement du bail est reconduit pour une nouvelle année (du 1er août 2026 au 31 juillet 2027). Lire l'actualité",
+      "summary": "23 juillet 2026 Le décret fixant pour les zones tendues le montant maximum d'évolution des loyers d'un logement nu ou meublé en cas de relocation ou de renouvellement du bail est reconduit pour une nouvelle année (du 1er août 2026 au 31 juillet 2027).",
       "url": "https://www.anil.org/analyse-juridique-encadrement-evolution-loyers-zones-tendues/",
       "source": "ANIL",
       "source_level": "B",
@@ -1049,9 +1045,30 @@
       "why_it_matters": "Source institutionnelle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
-      "id": "5041ee2a49ad9e84",
-      "title": "Reportage Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site",
-      "summary": "Reportage A Brest, la construction d'un petit collectif intermédiaire donne la part belle au bois 23/07/2026 Interview \"Nos maisons en bois ne sont pas plus chères que des constructions maçonnées traditionnelles\". Alban Boyé (Trecobat)",
+      "id": "ed022793bdbde69a",
+      "title": "Reportage A Brest, la construction d'un petit collectif intermédiaire donne la part belle au bois 23/07/2026",
+      "summary": "Reportage Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site Interview \"Nos maisons en bois ne sont pas plus chères que des constructions maçonnées traditionnelles\". Alban Boyé (Trecobat)",
+      "url": "https://www.batiactu.com/edito/a-brest-construction-un-petit-collectif-maisons-donne-75043.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "bc5b94bdb9482c12",
+      "title": "Reportage Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site 22/07/2026",
+      "summary": "Interview \"Nos maisons en bois ne sont pas plus chères que des constructions maçonnées traditionnelles\". Alban Boyé (Trecobat)",
       "url": "https://www.batiactu.com/edito/dans-construction-bois-breton-trecobat-joue-coudes-75031.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -1061,7 +1078,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-23T09:00:00+00:00",
+      "published_at": "2026-07-22T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1070,52 +1087,10 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "3be49f1dcf0c0a74",
-      "title": "Interview \"Nos maisons en bois ne sont pas plus chères que des constructions maçonnées traditionnelles\". Alban Boyé (Trecobat)",
-      "summary": "Reportage A Brest, la construction d'un petit collectif intermédiaire donne la part belle au bois 23/07/2026 Reportage Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site",
-      "url": "https://www.batiactu.com/edito/nos-maisons-bois-ne-sont-pas-plus-cheres-que-constructions-74833.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-23T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "bef27e47e5e49a68",
-      "title": "En direct Relance logement : le contre-la-montre pour faire adopter le texte est lancé",
-      "summary": "Économie Marché du bâtiment à horizon 2030 : rebond ou simple sortie de crise ? (étude) 20/07/2026 L'Essentiel \"Le plan Relance logement pose les bases d'un triple choc\", V. Jeanbrun (ministre)",
-      "url": "https://www.batiactu.com/edito/relance-logement-contre-montre-faire-adopter-projet-74825.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-20T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "0b63f4e4a0d9580b",
-      "title": "L'Essentiel \"Le plan Relance logement pose les bases d'un triple choc\", V. Jeanbrun (ministre)",
-      "summary": "Économie Marché du bâtiment à horizon 2030 : rebond ou simple sortie de crise ? (étude) 20/07/2026 En direct Relance logement : le contre-la-montre pour faire adopter le texte est lancé",
-      "url": "https://www.batiactu.com/edito/-74802.php",
+      "id": "818aeb40578e2cb6",
+      "title": "Économie Marché du bâtiment à horizon 2030 : rebond ou simple sortie de crise ? (étude) 20/07/2026",
+      "summary": "En direct Relance logement : le contre-la-montre pour faire adopter le texte est lancé L'Essentiel \"Le plan Relance logement pose les bases d'un triple choc\", V. Jeanbrun (ministre)",
+      "url": "https://www.batiactu.com/edito/marche-batiment-a-horizon-2030-rebond-ou-simple-sortie-75003.php",
       "source": "Batiactu",
       "source_level": "C",
       "category": "marche",
@@ -1261,7 +1236,7 @@
     {
       "id": "835b5e22c72ab043",
       "title": "Nouvelle parole d'expert : Location de vacances : quelles sont les différences entre l’acompte et les arrhes ?",
-      "summary": "14 juillet 2026 Lors de la location d'un logement de vacances, le locataire doit souvent verser une somme pour valider la réservation : un acompte ou des arrhes. Bien que ces termes soient parfois confondus, ils impliquent des engagements et des conséquences… Lire l'actualité",
+      "summary": "14 juillet 2026 Lors de la location d'un logement de vacances, le locataire doit souvent verser une somme pour valider la réservation : un acompte ou des arrhes. Bien que ces termes soient parfois confondus, ils impliquent des engagements et des conséquences…",
       "url": "https://www.anil.org/parole-expert-logement-location-vacances-garanties-contrat/",
       "source": "ANIL",
       "source_level": "B",
@@ -1323,7 +1298,7 @@
     {
       "id": "7b241d7bae5586fc",
       "title": "IRL : le nouvel indice du 2eme trimestre 2026 est publié",
-      "summary": "12 juillet 2026 Le dernier indice de référence des loyers (IRL) a été publié au Journal Officiel du 12 juillet 2026. Lire l'actualité",
+      "summary": "12 juillet 2026 Le dernier indice de référence des loyers (IRL) a été publié au Journal Officiel du 12 juillet 2026.",
       "url": "https://www.anil.org/actualites-evenements/details/irl-le-nouvel-indice-du-2eme-trimestre-2026-est-publie/",
       "source": "ANIL",
       "source_level": "B",
@@ -1344,7 +1319,7 @@
     {
       "id": "46bbdd872668e766",
       "title": "Relance logement : un nouveau dispositif pour faciliter l’achat et la location de logements",
-      "summary": "10 juillet 2026 Le Gouvernement a dévoilé un nouveau plan baptisé Relance logement, avec un objectif clair : répondre à la pénurie de logements en France et relancer la construction. Ce dispositif, qui s'accompagne d'un nouveau mécanisme fiscal destiné aux… Lire l'actualité",
+      "summary": "10 juillet 2026 Le Gouvernement a dévoilé un nouveau plan baptisé Relance logement, avec un objectif clair : répondre à la pénurie de logements en France et relancer la construction. Ce dispositif, qui s'accompagne d'un nouveau mécanisme fiscal destiné aux…",
       "url": "https://www.anil.org/actualites-evenements/details/relance-logement-un-nouveau-dispositif-pour-faciliter-lachat-et-la-location-de-logements/",
       "source": "ANIL",
       "source_level": "B",
@@ -1447,32 +1422,11 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
     },
     {
-      "id": "4e92b6c7f877a985",
-      "title": "Aller au contenu principal",
-      "summary": "Politique du logement Actualité Produithèque Emploi Formation Newsletter Toggle navigation Se connecter BTP Architecture-Aménagement Immobilier Industrie-Énergie Tribune RH Tribune d'experts Produithèque Emploi BTP Formation Rechercher Se connecter S'abonner Se connecter S'abonner BTP Architecture-Aménagement Immobilier Industrie-Énergie Tribune RH Tribune d'experts À la une Saint-Gobain confirme le retour de la croissance de ses ventes en France Logement HLM architecte Tous",
-      "url": "https://www.batiactu.com/theme/theme-logement.php#main-content",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-06-23T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
-    },
-    {
-      "id": "69565539196cd1c3",
-      "title": "Tous corps d'état",
-      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 18/08/2026 Économie Saint-Gobain con",
-      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
-      "source": "Batiactu",
+      "id": "2f69127c3cce2316",
+      "title": "I Loge You, la FNAIM et Cohabilis unissent leurs forces pour développer la cohabitation intergénérationnelle solidaire",
+      "summary": "3 juillet 2026 - Alors que le manque de logements étudiants adaptés engendre des difficultés croissantes pour se loger, la Fondation I Loge You, la Fédération Nationale de l’Immobilier [...]",
+      "url": "https://immo2.pro/actualite-immobilier/i-loge-you-la-fnaim-et-cohabilis-unissent-leurs-forces-pour-developper-la-cohabitation-intergenerationnelle-solidaire/",
+      "source": "Immobilier 2.0",
       "source_level": "C",
       "category": "marche",
       "audiences": [
@@ -1480,49 +1434,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-06-23T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "135874d9ef9c7687",
-      "title": "Tous métiers de la construction",
-      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 18/08/2026 Économie Saint-Gobain confirme le retou",
-      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-06-23T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "b507c4ff7769afdd",
-      "title": "Construction (tous corps d'état)",
-      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 18/08/2026 Économie Saint-Gobain confirme le retour",
-      "url": "https://www.batiactu.com/theme/theme-construction.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-06-23T09:00:00+00:00",
+      "published_at": "2026-07-03T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1552,27 +1464,6 @@
       "why_it_matters": "Source officielle. Cette donnée locale aide à comparer plus précisément les marchés."
     },
     {
-      "id": "bfcdb4203643c1fb",
-      "title": "Page suivante ››",
-      "summary": "You are here Accueil Toutes les actualités Toutes les actualités Baux commerciaux : les nouveautés de la loi n° 2026-403 du 26 mai 2026 de simplification de la vie économique (SVE) 17 août 2026 La loi n°2026-403 de simplification de la vie économique est entrée en vigueur le 28 mai 2026. Cette loi prévoit des dispositions intéressant divers Lire la suite Entreprise Cession de parts de sociétés à prépondérance immobilière : ce qui change depuis le 27 juin 2026 10 août 2026 Dep",
-      "url": "https://www.notaires.fr/fr/actualites?page=1",
-      "source": "Notaires de France",
-      "source_level": "B",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-05-26T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 85,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source institutionnelle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
-    },
-    {
       "id": "47b9fd34b77e2c34",
       "title": "Directive (UE) 2024/1275 sur la performance énergétique des bâtiments",
       "summary": "Le texte européen fixe une trajectoire de performance énergétique et de rénovation du parc immobilier.",
@@ -1593,127 +1484,40 @@
       "topic": "Droit européen",
       "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
       "legal_stage": "jorf"
-    },
-    {
-      "id": "ee8863ab5dda1809",
-      "title": "Gestion locative en ligne",
-      "summary": "Nos services Biens rentables Où investir en 2026 Ressources Horiz PRO Connexion Trouver un bien Conseils Horiz 30 minutes ou plus pour être accompagné par les spécialistes Horiz Application Horiz Alertes Vos alertes immos personnalisées Plugin de rendement Rendement sur LeBonCoin et SeLoger Simuler la performance Simulateur Rendement Locatif Calculs fiables et précis Excel Patrimoine Vue consolidée de tout votre patrimoine Excel Capacité d'emprunt Budget maximum à financer Ex",
-      "url": "https://horiz.io/gestion-locative",
-      "source": "Horiz.io",
-      "source_level": "D",
-      "category": "investir",
-      "audiences": [
-        "investisseur",
-        "pro",
-        "particulier"
-      ],
-      "published_at": "2026-04-22T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 66,
-      "relevance": 66,
-      "territory": "France",
-      "topic": "Investir",
-      "why_it_matters": "Source expert / blog à confronter aux données officielles. Cette information peut modifier le rendement, la fiscalité ou le risque d’un investissement."
-    },
-    {
-      "id": "ef53b80fa011df42",
-      "title": "Expert Comptable LMNP",
-      "summary": "Nos services Biens rentables Où investir en 2026 Ressources Horiz PRO Connexion Trouver un bien Conseils Horiz 30 minutes ou plus pour être accompagné par les spécialistes Horiz Application Horiz Alertes Vos alertes immos personnalisées Plugin de rendement Rendement sur LeBonCoin et SeLoger Simuler la performance Simulateur Rendement Locatif Calculs fiables et précis Excel Patrimoine Vue consolidée de tout votre patrimoine Excel Capacité d'emprunt Budget maximum à financer Ex",
-      "url": "https://horiz.io/ressources/expert-comptable-lmnp",
-      "source": "Horiz.io",
-      "source_level": "D",
-      "category": "investir",
-      "audiences": [
-        "investisseur",
-        "pro",
-        "particulier"
-      ],
-      "published_at": "2026-04-22T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 66,
-      "relevance": 66,
-      "territory": "France",
-      "topic": "Investir",
-      "why_it_matters": "Source expert / blog à confronter aux données officielles. Cette information peut modifier le rendement, la fiscalité ou le risque d’un investissement."
-    },
-    {
-      "id": "0445e4cf01bf7920",
-      "title": "Assurance habitation",
-      "summary": "Nos services Biens rentables Où investir en 2026 Ressources Horiz PRO Connexion Trouver un bien Conseils Horiz 30 minutes ou plus pour être accompagné par les spécialistes Horiz Application Horiz Alertes Vos alertes immos personnalisées Plugin de rendement Rendement sur LeBonCoin et SeLoger Simuler la performance Simulateur Rendement Locatif Calculs fiables et précis Excel Patrimoine Vue consolidée de tout votre patrimoine Excel Capacité d'emprunt Budget maximum à financer Ex",
-      "url": "https://horiz.io/ressources/assurance-mrh",
-      "source": "Horiz.io",
-      "source_level": "D",
-      "category": "investir",
-      "audiences": [
-        "investisseur",
-        "pro",
-        "particulier"
-      ],
-      "published_at": "2026-04-22T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 66,
-      "relevance": 66,
-      "territory": "France",
-      "topic": "Investir",
-      "why_it_matters": "Source expert / blog à confronter aux données officielles. Cette information peut modifier le rendement, la fiscalité ou le risque d’un investissement."
-    },
-    {
-      "id": "f3f05ccc12d724d3",
-      "title": "Interviews de nos experts sur l'investissement post Covid Quatre de nos experts ont donné leurs conseils sur l'investissement après le confinement. 21 Septembre 2022",
-      "summary": "Impacts du coronavirus Tout voir La crise du coronavirus a eu des conséquences sur le marché de l'immobilier et plus particulièrement sur le marché de l'investissement locatif. Qu'elles sont-elles ? Krach immobilier : définition et exemples L’investissement immobilier est depuis quelques années en très forte augmentation, même avec la crise de la Covid-19. Tout cycle de croissance peut conduire à un \"krach immobilier”. Qu’en est-il ? Qu’est-ce que le krach immobilier ? Tant d",
-      "url": "https://horiz.io/investissement-immobilier/interviews-de-nos-experts-sur-l-investissement-post-covid",
-      "source": "Horiz.io",
-      "source_level": "D",
-      "category": "investir",
-      "audiences": [
-        "investisseur",
-        "pro",
-        "particulier"
-      ],
-      "published_at": "2025-03-03T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 66,
-      "relevance": 66,
-      "territory": "France",
-      "topic": "Investir",
-      "why_it_matters": "Source expert / blog à confronter aux données officielles. Cette information peut modifier le rendement, la fiscalité ou le risque d’un investissement."
     }
   ],
   "source_stats": {
+    "Batiactu": 10,
     "MySweetImmo": 16,
+    "Journal de l'Agence": 14,
     "ANIL": 12,
     "Immobilier 2.0": 16,
-    "Journal de l'Agence": 16,
     "SDES / Sitadel": 1,
-    "Batiactu": 12,
     "Insee": 1,
-    "Notaires de France": 1,
-    "EUR-Lex": 1,
-    "Horiz.io": 4
+    "EUR-Lex": 1
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 13,
+    "sources_ok": 14,
     "sources_degraded": 0,
-    "errors": 2,
-    "retained": 80,
-    "rejected": 336,
+    "errors": 1,
+    "retained": 71,
+    "rejected": 393,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
-        "ok": false,
-        "status": "error",
+        "ok": true,
+        "status": "empty",
         "retained": 0,
-        "last_success": null,
-        "fallback": false,
-        "error_type": "RemoteDisconnected"
+        "last_success": "2026-08-19T07:01:11+00:00",
+        "fallback": false
       },
       "Banque de France": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-19T01:55:52+00:00",
+        "last_success": "2026-08-19T07:01:17+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1721,7 +1525,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-19T01:55:53+00:00",
+        "last_success": "2026-08-19T07:01:18+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1729,7 +1533,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-19T01:55:54+00:00",
+        "last_success": "2026-08-19T07:01:19+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1737,7 +1541,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-19T01:56:10+00:00",
+        "last_success": "2026-08-19T07:01:38+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1754,7 +1558,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-19T01:56:12+00:00",
+        "last_success": "2026-08-19T07:01:40+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1762,15 +1566,15 @@
         "ok": true,
         "status": "ok",
         "retained": 12,
-        "last_success": "2026-08-19T01:56:13+00:00",
+        "last_success": "2026-08-19T07:01:41+00:00",
         "fallback": false
       },
       "Notaires de France": {
         "level": "B",
         "ok": true,
-        "status": "ok",
-        "retained": 2,
-        "last_success": "2026-08-19T01:56:13+00:00",
+        "status": "empty",
+        "retained": 0,
+        "last_success": "2026-08-19T07:01:42+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1778,7 +1582,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-19T01:56:15+00:00",
+        "last_success": "2026-08-19T07:01:43+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1786,7 +1590,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-19T01:56:16+00:00",
+        "last_success": "2026-08-19T07:01:44+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1794,15 +1598,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-19T01:56:17+00:00",
+        "last_success": "2026-08-19T07:01:45+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 16,
-        "last_success": "2026-08-19T01:56:18+00:00",
+        "retained": 10,
+        "last_success": "2026-08-19T07:01:46+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1810,25 +1614,20 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-19T01:56:18+00:00",
+        "last_success": "2026-08-19T07:01:47+00:00",
         "fallback": false
       },
       "Horiz.io": {
         "level": "D",
         "ok": true,
         "status": "ok",
-        "retained": 16,
-        "last_success": "2026-08-19T01:56:19+00:00",
+        "retained": 1,
+        "last_success": "2026-08-19T07:01:47+00:00",
         "fallback": false
       }
     }
   },
   "errors": [
-    {
-      "source": "Service-Public.fr",
-      "error": "Remote end closed connection without response",
-      "fallback": false
-    },
     {
       "source": "Légifrance",
       "error": "403 Client Error: Forbidden for url: https://www.legifrance.gouv.fr/",
