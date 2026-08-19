@@ -653,3 +653,203 @@ body{padding-bottom:28px}
   .story-body h3{font-size:20px}
   .territory-market-metric{min-width:86vw}
 }
+
+
+/* ==========================================================
+   V8 — PALETTE PREMIUM IMMO RADAR
+   Bleu nuit + ivoire + champagne
+   Modification visuelle uniquement : aucune structure changée.
+   ========================================================== */
+
+:root{
+  --paper:#F5F2EA;
+  --paper2:#FCFBF7;
+  --ink:#0B1220;
+  --muted:#667085;
+  --line:#D8D2C6;
+
+  /* Les anciens noms de variables sont conservés pour ne rien casser. */
+  --green:#213D5A;
+  --green2:#0B1220;
+  --green3:#E8EEF3;
+
+  --coral:#B85F4B;
+  --blue:#E9EEF3;
+  --gold:#C8A96B;
+  --purple:#7D6F86;
+  --emerald:#2E7D61;
+  --sand:#EEE7DA;
+
+  --shadow:0 22px 60px rgba(11,18,32,.075);
+}
+
+body{
+  background:var(--paper);
+  color:var(--ink);
+}
+
+/* Header / identité */
+.topbar{
+  background:rgba(245,242,234,.96);
+  border-bottom-color:rgba(11,18,32,.12);
+}
+.brand-radar .circle{border-color:var(--gold)}
+.brand-radar .cross{background:var(--gold)}
+.brand-dot{background:var(--gold)}
+.brand-text small{color:var(--green)}
+.nav-btn{color:#667085}
+.nav-btn.active{color:var(--ink)}
+.nav-btn.active:after{background:var(--gold)}
+.icon-btn,.country-btn{background:rgba(252,251,247,.88)}
+.live-dot{background:var(--gold)}
+
+/* Recherche */
+.search-panel{background:var(--paper2)}
+.search-inner button{background:var(--ink);color:#fff}
+
+/* Hero */
+.pulse-dot{
+  background:var(--gold);
+  box-shadow:0 0 0 6px rgba(200,169,107,.18);
+}
+.hero h1 em{color:var(--gold)}
+.hero-pills span{
+  background:rgba(252,251,247,.78);
+  border-color:#D8D2C6;
+  color:#667085;
+}
+.eyebrow{color:var(--green)}
+
+/* Profil */
+.profile-switch{
+  background:#E9E5DD;
+  border-color:rgba(11,18,32,.06);
+}
+.profile-switch button.active{
+  background:var(--ink);
+  color:#fff;
+  box-shadow:0 8px 18px rgba(11,18,32,.16);
+}
+.profile-switch button:hover{background:rgba(255,255,255,.62)}
+
+/* Cartes / baromètre */
+.market-card,.finance-card{
+  border-color:var(--line);
+  background:var(--paper2);
+  box-shadow:var(--shadow);
+}
+.gauge{background:conic-gradient(var(--gold) 0deg,#E3DED3 0deg)}
+.gauge>div{background:var(--paper2)}
+.mini-trend i{background:#AAB6C2}
+.mini-trend i:last-child{background:var(--gold)}
+.market-profile-lens{
+  border-left-color:var(--gold);
+  background:#F1ECE2;
+}
+.underlined-btn{border-bottom-color:rgba(33,61,90,.45)}
+
+/* Les rouges restent réservés aux signaux négatifs / alertes. */
+.status-badge{background:#F2E2DD;color:#9D4E3C}
+.key-figure.negative strong{color:var(--coral)}
+
+/* Cartes fortes : bleu nuit, pas de vert sombre. */
+.force-card,
+.sidebar-card.dark{
+  background:linear-gradient(180deg,#14283E 0%,#0B1220 100%);
+  color:#fff;
+}
+.force-card p,.sidebar-card>p{color:#C7D0DA}
+.overline{color:#AEB9C5}
+.balance-track{background:#53657A}
+.balance-track div{background:var(--gold)}
+.balance-labels{color:#AEB9C5}
+
+/* Panneaux secondaires */
+.explain-panel,
+.legal-column,
+.invest-card,
+.sources-panel-head button,
+.method-grid article,
+.source-row-health,
+.territory-chip,
+.territory-preview span,
+.territory-focus,
+.territory-metric,
+.territory-search-field,
+.territory-search-results,
+.territory-search-result,
+.territory-market-metric,
+.search-global-field,
+.search-result-card,
+.feedback-dialog select,
+.feedback-dialog textarea{
+  background:var(--paper2);
+}
+
+.component{background:#EFF1F2;border-left-color:var(--gold)}
+.legal-column.eu{background:#EDF1F4}
+.invest-card .flag{background:#EEF1F4;color:var(--green)}
+.territory-card,
+.local-cta{background:#E7EDF2}
+.territory-card p,.local-cta p{color:#5E6D7C}
+.territory-intro{background:#E9EEF2}
+.territory-sources{background:#EEF0F2}
+.territory-reading{background:#ECEFF2}
+.territory-search-field button{background:#EEEAE2;color:#5F6974}
+.territory-search-result:hover{background:#F2F0EA}
+.territory-data-badge,
+.territory-source-status-grid a,
+.profile-context-end strong{background:#F9F7F1}
+.market-method-note{background:#F1ECE2;border-left-color:var(--gold)}
+.method-notes article{background:#F7F4ED}
+
+/* Flux / actualités */
+.story{box-shadow:0 10px 28px rgba(11,18,32,.035)}
+.story:before{background:var(--green)}
+.story.level-a:before{background:var(--emerald)}
+.story.level-c:before{background:var(--gold)}
+.story.level-d:before{background:var(--purple)}
+.why-box{background:#EFF1F2;border-left-color:var(--green)}
+.source-check,.shield{background:#E4EAEF}
+
+/* Boutons actifs : bleu nuit. Accent fin : champagne. */
+.filter-btn.active,
+.territory-filter-btn.active,
+.search-period.active{
+  background:var(--ink);
+  border-color:var(--ink);
+  color:#fff;
+}
+.fresh-btn.active{color:var(--green);border-bottom-color:var(--gold)}
+.feed-more{color:var(--ink)}
+.story-expand{border-bottom-color:rgba(33,61,90,.35)}
+
+/* Timeline */
+.timeline-item{border-left-color:#53677A}
+.timeline-item:before{background:var(--emerald)}
+.timeline-item.orange:before{background:var(--coral)}
+.timeline-item.gold:before{background:var(--gold)}
+.timeline-item a{border-bottom-color:#65788B}
+.sidebar-cta{border-color:#53677A}
+
+/* CTA */
+.local-cta button{background:var(--ink);color:#fff}
+.local-cta button span{background:var(--gold)}
+
+/* Bouton feedback */
+.feedback-fab{
+  background:var(--ink);
+  color:#fff;
+  box-shadow:0 12px 30px rgba(11,18,32,.20);
+}
+.feedback-copy{background:var(--ink);color:#fff}
+
+/* Mobile : garder exactement la structure V7.1, seulement adapter les couleurs. */
+@media(max-width:760px){
+  .main-nav{
+    background:rgba(252,251,247,.985);
+    box-shadow:0 18px 48px rgba(11,18,32,.16);
+  }
+  .nav-btn.active{background:var(--green3);color:var(--ink)}
+  .pulse-dot{box-shadow:0 0 0 4px rgba(200,169,107,.18)}
+}
