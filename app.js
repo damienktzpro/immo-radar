@@ -6,9 +6,13 @@ const state={
   items:[],market:null,health:{},sourceStats:{},
   favorites:JSON.parse(localStorage.getItem("radarFavorites")||"[]"),
   feedback:JSON.parse(localStorage.getItem("radarFeedback")||"{}"),
-  archiveItems:[], searchPeriod:"all"
+  archiveItems:[], searchPeriod:"all",
+  mobileFeedLimit:5,
+  expandedStories:{}
 };
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
+const isMobile=()=>window.matchMedia("(max-width:760px)").matches;
+const resetMobileFeed=()=>{state.mobileFeedLimit=5};
 const esc=(v="")=>String(v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
 const dateObj=v=>{if(!v)return null;const d=new Date(v);return Number.isNaN(d.getTime())?null:d};
 const TERRITORY_DEFAULT={
@@ -636,23 +640,47 @@ function renderSidebar(){
   const btn=box.querySelector("[data-sidebar-action]");if(btn)btn.onclick=()=>{const a=btn.dataset.sidebarAction;if(a==="laws")setPage("laws");if(a==="method"){$("#marketExplain").hidden=false;$("#marketExplain").scrollIntoView({behavior:"smooth"})}if(a==="sources")showSources()};
 }
 function story(i,idx){
-  const s=score(i),fav=state.favorites.includes(i.id),fb=state.feedback[i.id],level=(i.source_level||"D").toLowerCase();
-  return `<article class="story level-${level}" data-id="${esc(i.id)}"><div class="story-index">${String(idx+1).padStart(2,"0")}</div><div class="story-body">
+  const s=score(i),fav=state.favorites.includes(i.id),fb=state.feedback[i.id],level=(i.source_level||"D").toLowerCase(),expanded=!!state.expandedStories[i.id];
+  return `<article class="story level-${level} ${expanded?"expanded":""}" data-id="${esc(i.id)}"><div class="story-index">${String(idx+1).padStart(2,"0")}</div><div class="story-body">
     <div class="story-meta"><span class="kind">${esc(kind(i))}</span><span>·</span>${i.status?`<span class="status">${esc(i.status)}</span><span>·</span>`:""}<span>${esc(i.territory||"France")}</span><span>·</span><span>${esc(fmtDate(i.published_at))}</span></div>
     <h3><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
     <p class="story-summary">${esc(i.summary)}</p>
     <div class="why-box"><strong>Pourquoi c’est important</strong><p>${esc(profileWhy(i))}</p></div>
+    <button class="story-expand" data-action="expand">${expanded?"Réduire":"Lire plus"}</button>
     <div class="story-footer"><div class="source-info"><span class="source-check">✓</span><span><strong>${esc(i.source)}</strong><small>${esc(sourceReliability(i))}</small></span></div><div class="score"><span>Pertinence</span><strong>${s}</strong></div><a class="source-arrow" href="${esc(i.url)}" target="_blank" rel="noopener" aria-label="Ouvrir la source">↗</a></div>
     <div class="story-actions"><button data-action="fav" class="${fav?"active":""}">☆ Favori</button><button data-action="more" class="${fb==="more"?"active":""}">↑ Plus comme ça</button><button data-action="less" class="${fb==="less"?"active":""}">↓ Moins comme ça</button></div>
   </div></article>`;
 }
 function renderFeed(){
-  const arr=filteredItems();$("#resultCount").textContent=`${arr.length} information${arr.length>1?"s":""} dans ce fil`;
+  const arr=filteredItems(), mobile=isMobile();
+  $("#resultCount").textContent=`${arr.length} information${arr.length>1?"s":""} dans ce fil`;
   $("#freshnessHint").textContent=state.page==="today"?(state.freshness==="fresh"?"Priorité aux nouveautés des derniers jours":state.freshness==="week"?"Actualités de la semaine":"Contenus utiles, même plus anciens"):state.page==="territories"?`Local : ${territoryLabel()} · national : uniquement les signaux utiles`:"";
-  $("#feed").innerHTML=arr.map(story).join("");$("#emptyState").hidden=arr.length>0;
-  $$(".story").forEach(card=>card.addEventListener("click",e=>{const b=e.target.closest("button[data-action]");if(!b)return;const id=card.dataset.id,a=b.dataset.action;if(a==="fav")state.favorites=state.favorites.includes(id)?state.favorites.filter(x=>x!==id):[...state.favorites,id];else state.feedback[id]=state.feedback[id]===a?null:a;savePrefs();renderFeed()}));
-}
 
+  const visible=mobile?arr.slice(0,state.mobileFeedLimit):arr;
+  $("#feed").innerHTML=visible.map(story).join("");
+  $("#emptyState").hidden=arr.length>0;
+
+  const more=$("#feedMore");
+  if(more){
+    more.hidden=!mobile||arr.length<=visible.length;
+    if(!more.hidden){
+      const remain=arr.length-visible.length;
+      more.textContent=`Afficher ${Math.min(5,remain)} information${Math.min(5,remain)>1?"s":""} supplémentaire${Math.min(5,remain)>1?"s":""} · ${remain} restante${remain>1?"s":""}`;
+    }
+  }
+
+  $$(".story").forEach(card=>card.addEventListener("click",e=>{
+    const b=e.target.closest("button[data-action]");if(!b)return;
+    const id=card.dataset.id,a=b.dataset.action;
+    if(a==="expand"){
+      state.expandedStories[id]=!state.expandedStories[id];
+      renderFeed();return;
+    }
+    if(a==="fav")state.favorites=state.favorites.includes(id)?state.favorites.filter(x=>x!==id):[...state.favorites,id];
+    else state.feedback[id]=state.feedback[id]===a?null:a;
+    savePrefs();renderFeed();
+  }));
+}
 function archivePool(){
   const map=new Map();
   [...state.archiveItems,...state.items].forEach(i=>{
@@ -717,16 +745,22 @@ function renderSystem(){
   }).join(""):`<div class="source-row-health"><strong>Sources actives</strong><span>${Object.keys(state.sourceStats||{}).length}</span><b class="ok">OK</b><span>${state.items.length} infos</span></div>`;
 }
 function showSources(){$("#sourcesPanel").hidden=false;$("#sourcesPanel").scrollIntoView({behavior:"smooth"})}
-function setPage(p){state.page=p;state.filter=p==="laws"?"lois":p==="market"?"all":p==="invest"?"investir":"all";if(p==="territories")state.territoryFilter="overview";$$(".nav-btn").forEach(b=>b.classList.toggle("active",b.dataset.page===p));$$(".filter-btn").forEach(b=>b.classList.toggle("active",b.dataset.filter===state.filter));renderPage();if(p==="territories"&&territoryCurrent()?.code&&!state.territoryLocal&&!state.territoryLocalLoading){state.territoryRequestId+=1;loadTerritoryLocalData(territoryCurrent(),{requestId:state.territoryRequestId});}if(p!=="today")$("#pageIntro").scrollIntoView({behavior:"smooth",block:"start"})}
+function setPage(p){state.page=p;state.filter=p==="laws"?"lois":p==="market"?"all":p==="invest"?"investir":"all";resetMobileFeed();if(p==="territories")state.territoryFilter="overview";$$(".nav-btn").forEach(b=>b.classList.toggle("active",b.dataset.page===p));$$(".filter-btn").forEach(b=>b.classList.toggle("active",b.dataset.filter===state.filter));$(".main-nav")?.classList.remove("mobile-open");$("#mobileMenuBtn")?.setAttribute("aria-expanded","false");renderPage();if(p==="territories"&&territoryCurrent()?.code&&!state.territoryLocal&&!state.territoryLocalLoading){state.territoryRequestId+=1;loadTerritoryLocalData(territoryCurrent(),{requestId:state.territoryRequestId});}if(p!=="today")$("#pageIntro").scrollIntoView({behavior:"smooth",block:"start"})}
 function bind(){
-  $$(".profile-switch button").forEach(b=>{b.classList.toggle("active",b.dataset.profile===state.profile);b.onclick=()=>{state.profile=b.dataset.profile;localStorage.setItem("radarProfile",state.profile);$$(".profile-switch button").forEach(x=>x.classList.toggle("active",x===b));renderProfileContext();renderMarket();renderPage()}});
+  $$(".profile-switch button").forEach(b=>{b.classList.toggle("active",b.dataset.profile===state.profile);b.onclick=()=>{state.profile=b.dataset.profile;resetMobileFeed();localStorage.setItem("radarProfile",state.profile);$$(".profile-switch button").forEach(x=>x.classList.toggle("active",x===b));renderProfileContext();renderMarket();renderPage()}});
   $$(".nav-btn").forEach(b=>b.onclick=()=>setPage(b.dataset.page));
-  $$(".filter-btn").forEach(b=>b.onclick=()=>{state.filter=b.dataset.filter;$$(".filter-btn").forEach(x=>x.classList.toggle("active",x===b));renderFeed()});
-  $$(".fresh-btn").forEach(b=>b.onclick=()=>{state.freshness=b.dataset.freshness;$$(".fresh-btn").forEach(x=>x.classList.toggle("active",x===b));renderFeed()});
-  $("#sortSelect").onchange=e=>{state.sort=e.target.value;renderFeed()};$("#officialOnly").onchange=e=>{state.officialOnly=e.target.checked;renderFeed()};$("#favoritesOnly").onchange=e=>{state.favoritesOnly=e.target.checked;renderFeed()};
+  if($("#mobileMenuBtn"))$("#mobileMenuBtn").onclick=()=>{
+    const nav=$(".main-nav"),open=!nav.classList.contains("mobile-open");
+    nav.classList.toggle("mobile-open",open);
+    $("#mobileMenuBtn").setAttribute("aria-expanded",String(open));
+  };
+  if($("#feedMore"))$("#feedMore").onclick=()=>{state.mobileFeedLimit+=5;renderFeed();};
+  $$(".filter-btn").forEach(b=>b.onclick=()=>{state.filter=b.dataset.filter;resetMobileFeed();$$(".filter-btn").forEach(x=>x.classList.toggle("active",x===b));renderFeed()});
+  $$(".fresh-btn").forEach(b=>b.onclick=()=>{state.freshness=b.dataset.freshness;resetMobileFeed();$$(".fresh-btn").forEach(x=>x.classList.toggle("active",x===b));renderFeed()});
+  $("#sortSelect").onchange=e=>{state.sort=e.target.value;resetMobileFeed();renderFeed()};$("#officialOnly").onchange=e=>{state.officialOnly=e.target.checked;resetMobileFeed();renderFeed()};$("#favoritesOnly").onchange=e=>{state.favoritesOnly=e.target.checked;resetMobileFeed();renderFeed()};
   $("#searchOpen").onclick=()=>{$("#searchPanel").hidden=false;$("#searchInput").focus();renderGlobalSearch()};$("#searchClose").onclick=()=>{$("#searchPanel").hidden=true};$("#searchInput").oninput=()=>renderGlobalSearch();
   $$(".search-period").forEach(b=>b.onclick=()=>{state.searchPeriod=b.dataset.searchPeriod;$$(".search-period").forEach(x=>x.classList.toggle("active",x===b));renderGlobalSearch()});
-  $$(".territory-filter-btn").forEach(b=>b.onclick=()=>{state.territoryFilter=b.dataset.territoryFilter;renderTerritoryFeedControls();renderFeed()});
+  $$(".territory-filter-btn").forEach(b=>b.onclick=()=>{state.territoryFilter=b.dataset.territoryFilter;resetMobileFeed();renderTerritoryFeedControls();renderFeed()});
   if($("#territoryOfficialOnly"))$("#territoryOfficialOnly").onchange=e=>{state.officialOnly=e.target.checked;renderFeed()};
   if($("#territorySearchInput"))$("#territorySearchInput").oninput=e=>{clearTimeout(state.territorySearchTimer);const q=e.target.value;state.territorySearchTimer=setTimeout(async()=>{try{const results=await searchTerritories(q);renderTerritorySearchResults(results)}catch(err){console.error(err)}},250)};
   if($("#territorySearchClear"))$("#territorySearchClear").onclick=()=>{$("#territorySearchInput").value="";$("#territorySearchResults").hidden=true};
@@ -745,6 +779,10 @@ function bind(){
 }
 async function load(){
   bind();
+  window.addEventListener("resize",()=>{
+    if(!isMobile()){$(".main-nav")?.classList.remove("mobile-open");$("#mobileMenuBtn")?.setAttribute("aria-expanded","false")}
+    renderFeed();
+  });
   try{
     const [f,m,a]=await Promise.all([
       fetch("./data/feed.json",{cache:"no-store"}),
