@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-19T07:09:28+00:00",
+  "generated_at": "2026-08-19T13:14:25+00:00",
   "items": [
     {
       "id": "d8a559c7836333f2",
@@ -23,6 +23,27 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "a8c217d413c2c2c6",
+      "title": "Logements vacants : ce qui change à partir de 2027",
+      "summary": "19 août 2026 La fiscalité des logements vacants évoluera à compter de 2027, une nouvelle taxe unique remplacera la taxe sur les logements vacants (TLV) et la taxe d'habitation sur les logements vacants (THLV).",
+      "url": "https://www.anil.org/actualites-evenements/details/logements-vacants-ce-qui-change-a-partir-de-2027/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "0b1756554f4604ab",
@@ -88,6 +109,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
+      "id": "32584c5cbb04171d",
+      "title": "DPE : Votre logement n’est plus une passoire thermique, pouvez-vous augmenter le loyer ?",
+      "summary": "Nouveau Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/08/19/dpe-votre-logement-nest-plus-une-passoire-thermique-pouvez-vous-augmenter-le-loyer/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
       "id": "76a83a15dbf75310",
       "title": "Crédit immobilier : Faut-il emprunter maintenant ou attendre septembre ?",
       "summary": "Investir / Financer",
@@ -132,7 +174,7 @@
     {
       "id": "a93ae8ba6ef6ea51",
       "title": "Diagnostic immobilier : Ce que le DPE européen dira en plus au 1er janvier 2027",
-      "summary": "Nouveau Règlementation",
+      "summary": "Règlementation",
       "url": "https://www.mysweetimmo.com/2026/08/18/diagnostic-immobilier-ce-que-le-dpe-europeen-dira-en-plus-au-1er-janvier-2027/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -198,6 +240,69 @@
       "summary": "à une transformation durable de notre conception de la propriété immobilière ? Le 18/08/2026 à 07H08 Dans une annonce immobilière, la confiance naît de l'alignement entre ce qui est écrit et ce qui peut être vérifié. À l'appui de plusieurs recherches scientifiques, Nathalie Gardes montre que les annonces les plus efficaces ne sont plus celles qui multiplient les superlatifs, mais celles qui donnent aux acquéreurs les éléments",
       "url": "https://www.journaldelagence.com/1412978-quest-ce-qui-fait-une-bonne-annonce-immobiliere-ce-nest-pas-sa-capacite-a-faire-rever-mais-a-inspirer-confiance",
       "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "69565539196cd1c3",
+      "title": "Tous corps d'état",
+      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant",
+      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "135874d9ef9c7687",
+      "title": "Tous métiers de la construction",
+      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le",
+      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "b507c4ff7769afdd",
+      "title": "Construction (tous corps d'état)",
+      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 1",
+      "url": "https://www.batiactu.com/theme/theme-construction.php",
+      "source": "Batiactu",
       "source_level": "C",
       "category": "marche",
       "audiences": [
@@ -464,7 +569,7 @@
     {
       "id": "d933128dfc8724b5",
       "title": "Prospection immobilière : Acheter un lead vendeur ne suffit plus pour pouvoir l’appeler",
-      "summary": "Vie Pro",
+      "summary": "Prospection immobilière : Acheter un lead vendeur ne suffit plus pour pouvoir l’appeler",
       "url": "https://www.mysweetimmo.com/2026/08/11/prospection-immobiliere-acheter-un-lead-vendeur-ne-suffit-plus-pour-pouvoir-lappeler/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -817,11 +922,11 @@
     {
       "id": "a328f2f888d7b7cc",
       "title": "Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026",
-      "summary": "Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026",
+      "summary": "Règlementation",
       "url": "https://www.mysweetimmo.com/2026/08/04/immobilier-ce-que-lai-act-change-vraiment-pour-les-agences-depuis-le-2-aout-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
-      "category": "marche",
+      "category": "lois",
       "audiences": [
         "particulier",
         "investisseur",
@@ -829,11 +934,11 @@
       ],
       "published_at": "2026-08-02T09:00:00+00:00",
       "status": "Publication",
-      "importance": 73,
+      "importance": 76,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
       "id": "b26c4ee2b6aa7dcd",
@@ -940,67 +1045,25 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
-      "id": "69565539196cd1c3",
-      "title": "Tous corps d'état",
-      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Té",
-      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
-      "source": "Batiactu",
+      "id": "61ab494774dfb969",
+      "title": "Règlementation",
+      "summary": "Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026",
+      "url": "https://www.mysweetimmo.com/category/reglementation/",
+      "source": "MySweetImmo",
       "source_level": "C",
-      "category": "marche",
+      "category": "lois",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-31T09:00:00+00:00",
+      "published_at": "2026-08-02T09:00:00+00:00",
       "status": "Publication",
-      "importance": 73,
+      "importance": 76,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "135874d9ef9c7687",
-      "title": "Tous métiers de la construction",
-      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Témoin \"En matiè",
-      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-31T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "b507c4ff7769afdd",
-      "title": "Construction (tous corps d'état)",
-      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Témoin \"En matièr",
-      "url": "https://www.batiactu.com/theme/theme-construction.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-31T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
       "id": "c97fbcb683b89861",
