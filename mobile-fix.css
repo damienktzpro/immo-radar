@@ -58,12 +58,29 @@
 
   /* Le conteneur principal doit toujours correspondre au viewport. */
   .shell {
-    width: calc(100% - 24px) !important;
-    max-width: calc(100% - 24px) !important;
-    margin-left: 12px !important;
-    margin-right: 12px !important;
-    margin-inline: 12px !important;
-  }
+     width: 100% !important;
+     max-width: 100% !important;
+     margin: 0 !important;
+     padding-left: 16px !important;
+     padding-right: 16px !important;
+     padding-inline: 16px !important;
+   }
+.territory-search-card,
+.territory-overview-card,
+.market-card,
+.finance-card,
+.force-card,
+.story,
+.legal-column,
+.invest-card,
+.sidebar-card,
+.local-cta {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  box-sizing: border-box !important;
+}
 
   /* ========================================================
      2. HEADER
