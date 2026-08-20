@@ -1,0 +1,460 @@
+/* ==========================================================
+   IMMO RADAR — MOBILE FIX V1
+   Chargé APRÈS styles.css.
+   Objectif : supprimer les débordements horizontaux et
+   forcer les vraies mises en page téléphone.
+   ========================================================== */
+
+@media (max-width: 760px) {
+
+  /* ========================================================
+     1. GARDE-FOUS GLOBAUX
+     ======================================================== */
+  html,
+  body {
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow-x: clip !important;
+  }
+
+  body {
+    margin: 0 !important;
+    padding-bottom: calc(48px + env(safe-area-inset-bottom, 0px)) !important;
+  }
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  img,
+  svg,
+  canvas,
+  video,
+  iframe {
+    max-width: 100% !important;
+  }
+
+  main,
+  section,
+  header,
+  footer,
+  .shell,
+  .hero,
+  .page-intro,
+  .overview-section,
+  .market-grid,
+  .market-side,
+  .legal-dashboard,
+  .invest-dashboard,
+  .territory-dashboard,
+  .feed-section,
+  .feed-main,
+  .sidebar {
+    min-width: 0 !important;
+    max-width: 100% !important;
+  }
+
+  /* Le conteneur principal doit toujours correspondre au viewport. */
+  .shell {
+    width: calc(100% - 24px) !important;
+    max-width: calc(100% - 24px) !important;
+    margin-left: 12px !important;
+    margin-right: 12px !important;
+    margin-inline: 12px !important;
+  }
+
+  /* ========================================================
+     2. HEADER
+     ======================================================== */
+  .topbar {
+    width: 100% !important;
+    max-width: 100% !important;
+    grid-template-columns: minmax(0, 1fr) auto !important;
+    padding-left: max(11px, env(safe-area-inset-left, 0px)) !important;
+    padding-right: max(11px, env(safe-area-inset-right, 0px)) !important;
+  }
+
+  .brand,
+  .top-actions {
+    min-width: 0 !important;
+  }
+
+  .main-nav {
+    max-width: calc(100vw - 20px) !important;
+  }
+
+  /* ========================================================
+     3. TERRITOIRES — LE CORRECTIF PRINCIPAL
+     ======================================================== */
+  .territory-dashboard,
+  .territory-search-card,
+  .territory-overview-card,
+  .territory-market-section,
+  .territory-reading,
+  .territory-source-status,
+  .territory-overview-head,
+  .territory-search-copy,
+  .territory-search-box {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+  }
+
+  .territory-dashboard {
+    display: block !important;
+    overflow: visible !important;
+  }
+
+  .territory-search-card {
+    display: block !important;
+    grid-template-columns: none !important;
+    padding: 18px 15px !important;
+    overflow: hidden !important;
+  }
+
+  .territory-search-box {
+    margin-top: 18px !important;
+  }
+
+  .territory-search-field {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    grid-template-columns: auto minmax(0, 1fr) auto !important;
+  }
+
+  .territory-search-field input {
+    width: 100% !important;
+    min-width: 0 !important;
+  }
+
+  .territory-popular {
+    width: 100% !important;
+    max-width: 100% !important;
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .territory-popular::-webkit-scrollbar {
+    display: none;
+  }
+
+  .territory-popular > * {
+    flex: 0 0 auto !important;
+  }
+
+  .territory-overview-card {
+    padding: 18px 15px !important;
+    overflow: hidden !important;
+  }
+
+  .territory-overview-head {
+    display: block !important;
+  }
+
+  .territory-overview-head h3 {
+    max-width: 100% !important;
+    font-size: 31px !important;
+    line-height: 1 !important;
+    overflow-wrap: anywhere !important;
+  }
+
+  .territory-data-badge {
+    display: inline-flex !important;
+    max-width: 100% !important;
+    white-space: normal !important;
+    margin-top: 12px !important;
+  }
+
+  /* Identité du territoire : 2 colonnes, jamais 5 colonnes desktop. */
+  .territory-identity-metrics {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    overflow: hidden !important;
+  }
+
+  .territory-identity-metric {
+    width: auto !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    padding: 14px 12px !important;
+  }
+
+  .territory-identity-metric strong {
+    white-space: normal !important;
+    overflow-wrap: anywhere !important;
+  }
+
+  .territory-market-head {
+    display: block !important;
+  }
+
+  .territory-market-head > p {
+    max-width: 100% !important;
+    text-align: left !important;
+    margin-top: 8px !important;
+  }
+
+  /* CRITIQUE :
+     les 6 KPI ne doivent JAMAIS rester sur une ligne desktop. */
+  .territory-market-metrics {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 9px !important;
+    overflow: visible !important;
+    padding: 0 !important;
+    scroll-snap-type: none !important;
+  }
+
+  .territory-market-metric {
+    width: auto !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    flex: initial !important;
+    padding: 14px 12px !important;
+    scroll-snap-align: none !important;
+  }
+
+  .territory-market-metric small,
+  .territory-market-metric strong,
+  .territory-market-metric span,
+  .territory-market-metric em,
+  .territory-market-metric a {
+    max-width: 100% !important;
+    min-width: 0 !important;
+    overflow-wrap: anywhere !important;
+  }
+
+  .territory-market-metric strong {
+    min-height: 0 !important;
+    font-size: 20px !important;
+    line-height: 1.08 !important;
+  }
+
+  .territory-reading {
+    display: block !important;
+    grid-template-columns: none !important;
+    padding: 17px 15px !important;
+  }
+
+  .territory-reading > * {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+  }
+
+  /* Sources locales : une vraie liste mobile. */
+  .territory-source-status-grid {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) !important;
+    gap: 7px !important;
+    overflow: visible !important;
+    padding: 0 !important;
+  }
+
+  .territory-source-status-grid a {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    flex: initial !important;
+  }
+
+  .territory-source-status-grid a span {
+    min-width: 0 !important;
+    overflow-wrap: anywhere !important;
+  }
+
+  /* ========================================================
+     4. VEILLE / FEED — AUCUNE COLONNE DESKTOP
+     ======================================================== */
+  .feed-section {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) !important;
+    gap: 18px !important;
+    overflow: visible !important;
+  }
+
+  .feed-main,
+  .sidebar,
+  .story,
+  .story-body,
+  .story-list {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+  }
+
+  .sidebar {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+
+  .story {
+    overflow: hidden !important;
+  }
+
+  .story-body h3,
+  .story-summary,
+  .why-box p {
+    max-width: 100% !important;
+    overflow-wrap: anywhere !important;
+  }
+
+  .story:not(.expanded) .story-body h3 {
+    display: -webkit-box !important;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden !important;
+  }
+
+  .story.expanded .story-body h3 {
+    display: block !important;
+  }
+
+  /* ========================================================
+     5. FILTRES — SCROLL INTERNE UNIQUEMENT
+     ======================================================== */
+  .feed-controls,
+  .feed-filters,
+  .freshness-tabs,
+  .territory-feed-controls {
+    width: 100% !important;
+    max-width: 100% !important;
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .feed-controls::-webkit-scrollbar,
+  .feed-filters::-webkit-scrollbar,
+  .freshness-tabs::-webkit-scrollbar,
+  .territory-feed-controls::-webkit-scrollbar {
+    display: none;
+  }
+
+  .filter-btn,
+  .fresh-btn,
+  .territory-filter-btn {
+    flex: 0 0 auto !important;
+    white-space: nowrap !important;
+  }
+
+  /* ========================================================
+     6. LOIS — 1 COLONNE + ÉTAPES SCROLLABLES
+     ======================================================== */
+  .legal-dashboard {
+    width: 100% !important;
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) !important;
+    gap: 12px !important;
+  }
+
+  .legal-column {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    padding: 18px 15px !important;
+    overflow: hidden !important;
+  }
+
+  .legal-head {
+    min-width: 0 !important;
+  }
+
+  .legal-stages {
+    width: 100% !important;
+    max-width: 100% !important;
+    display: flex !important;
+    grid-template-columns: none !important;
+    gap: 8px !important;
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-bottom: 5px !important;
+  }
+
+  .legal-stages::-webkit-scrollbar {
+    display: none;
+  }
+
+  .stage-box,
+  .legal-stage {
+    flex: 0 0 124px !important;
+    width: 124px !important;
+    min-width: 124px !important;
+    max-width: 124px !important;
+  }
+
+  /* ========================================================
+     7. TITRES / TYPOGRAPHIE
+     ======================================================== */
+  .page-intro h2 {
+    max-width: 100% !important;
+    font-size: clamp(34px, 10vw, 42px) !important;
+    line-height: .97 !important;
+    overflow-wrap: anywhere !important;
+  }
+
+  .feed-header h2,
+  .section-title h2 {
+    max-width: 100% !important;
+    font-size: clamp(32px, 9.5vw, 39px) !important;
+    line-height: .98 !important;
+    overflow-wrap: anywhere !important;
+  }
+
+  /* ========================================================
+     8. IPHONE : FEEDBACK / BANDEAU BAS
+     ======================================================== */
+  .beta-strip {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    min-height: 28px !important;
+    padding:
+      7px max(8px, env(safe-area-inset-right, 0px))
+      calc(7px + env(safe-area-inset-bottom, 0px))
+      max(8px, env(safe-area-inset-left, 0px)) !important;
+    line-height: 1.2 !important;
+  }
+
+  .feedback-fab {
+    right: max(12px, env(safe-area-inset-right, 0px)) !important;
+    bottom: calc(45px + env(safe-area-inset-bottom, 0px)) !important;
+  }
+}
+
+
+/* Très petits téléphones */
+@media (max-width: 380px) {
+  .territory-identity-metrics,
+  .territory-market-metrics {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+
+  .page-intro h2 {
+    font-size: 34px !important;
+  }
+}
