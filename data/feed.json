@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T01:54:43+00:00",
+  "generated_at": "2026-08-20T07:09:51+00:00",
   "version": "7.1",
   "items": [
     {
@@ -22,6 +22,109 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "50386a9ce24c05ca",
+      "title": "Immobilier : 1 Français sur 5 veut déménager après les vacances",
+      "summary": "Nouveau Société",
+      "url": "https://www.mysweetimmo.com/2026/08/20/immobilier-1-francais-sur-5-veut-demenager-apres-les-vacances/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "5945e72c269c7768",
+      "title": "Les coulisses de l’immobilier d’entreprise, entre anecdotes et leçons de terrain",
+      "summary": "Le 20/08/2026 à 08H21 près 25 ans passés dans l'immobilier d'entreprise, René Moundzika publie 3 allée Vauban – 25 ans dans les coulisses de l'immobilier (Éditions Maïa). À travers ce premier ouvrage, le professionnel livre un témoignage personnel nourri d'expériences de terrain, d'anecdotes et de réflexions sur un secteur qu'il connaît de l'intérieur. Un récit qui retrace son parcours, tout en dressant le portrait d'un métier",
+      "url": "https://www.journaldelagence.com/1413023-les-coulisses-de-limmobilier-dentreprise-entre-anecdotes-et-lecons-de-terrain",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
+    },
+    {
+      "id": "2bbadf24d4518383",
+      "title": "Prix des logements : le retour de la « grande peur » ?",
+      "summary": "xigeant, fait de négociations, de défis quotidiens et de rencontres marquantes. Le 20/08/2026 à 07H36 Les prix sont-ils vraiment responsables de la crise du logement ? Entre Paris et certaines communes de province, le prix au mètre carré peut varier de 1 à 6. Pourtant, acheter son logement n’est pas nécessairement plus facile dans les petites villes que dans les grandes agglomérations. Et ce, alors même que les conditions act",
+      "url": "https://www.journaldelagence.com/1413167-prix-des-logements-le-retour-de-la-grande-peur",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Territoires",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
+    },
+    {
+      "id": "2ad0488c3f4afd57",
+      "title": "Le label Casam mise sur la montée en compétence des éco-conseillers immobiliers",
+      "summary": "sont particulièrement favorables aux acquéreurs. L’analyse de Michel Mouillart. Le 20/08/2026 à 07H24 Casam, spécialiste de l’accompagnement à l’achat immobilier avec travaux, annonce le lancement de nouveaux services destinés aux 280 membres de sa communauté. Avec son nouvel « Espace Avantages », l’entreprise entend aider les professionnels de l’immobilier à construire une offre de services réellement différenciante et à la",
+      "url": "https://www.journaldelagence.com/1413028-le-label-casam-mise-sur-la-montee-en-competence-des-eco-conseillers-immobiliers",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
+    },
+    {
+      "id": "f1b55738cb999f23",
+      "title": "Prospection, organisation, équilibre de vie : le piège qui sabote votre efficacité",
+      "summary": "n, pour répondre aux enjeux d’un marché immobilier toujours plus concurrentiel. Le 20/08/2026 à 07H11 Pourquoi est-il si difficile de prospecter régulièrement, de poser des limites à ses clients ou de préserver son équilibre de vie, alors même que l'on sait ce qu'il faudrait faire ? Fort de son expérience auprès de centaines de conseillers immobiliers, Dominique Piredda, coach et formateur chez Dr House Immo, décrypte un méca",
+      "url": "https://www.journaldelagence.com/1412901-prospection-organisation-equilibre-de-vie-le-piege-qui-sabote-votre-efficacite",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "a8c217d413c2c2c6",
@@ -89,7 +192,7 @@
     {
       "id": "dfd04702a6a69305",
       "title": "Métiers de la transaction et de la gestion : et la RSE bordel !",
-      "summary": "Le 19/08/2026 à 07H24 Les métiers de la transaction et de la gestion n’échappent pas à la réflexion sur l’attractivité. Pour recruter, ils doivent séduire les jeunes — et même les actifs en reconversion. Mais un levier reste encore largement sous-exploité : la RSE. Tribune d'Henry Buzy-Cazaux. Jusqu’à 50 candidats pour un studio : le logement étudiant reste sous tension dans les grandes métropoles Le 19/08/2026 à 06H45 À quelq",
+      "summary": "e nos choix quotidiens… et peut finir par saboter durablement notre efficacité. Le 19/08/2026 à 07H24 Les métiers de la transaction et de la gestion n’échappent pas à la réflexion sur l’attractivité. Pour recruter, ils doivent séduire les jeunes — et même les actifs en reconversion. Mais un levier reste encore largement sous-exploité : la RSE. Tribune d'Henry Buzy-Cazaux. Jusqu’à 50 candidats pour un studio : le logement étud",
       "url": "https://www.journaldelagence.com/1412972-metiers-de-la-transaction-et-de-la-gestion-et-la-rse-bordel",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -300,7 +403,7 @@
     {
       "id": "0595bc3200dd4e10",
       "title": "MaPrimeRénov’, MaPrimeAdapt’ : Ce qui change aujourd’hui avec le nouveau compte France Rénov’",
-      "summary": "Rénovation",
+      "summary": "MaPrimeRénov’, MaPrimeAdapt’ : Ce qui change aujourd’hui avec le nouveau compte France Rénov’",
       "url": "https://www.mysweetimmo.com/2026/08/17/maprimerenov-maprimeadapt-e-qui-change-aujourdhui-avec-le-nouveau-compte-france-renov/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -655,26 +758,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
     },
     {
-      "id": "469b609a4baf6219",
-      "title": "Gestionnaires de copropriété : la pénurie de talents recule, mais la fidélisation reste un défi",
-      "summary": "savoir repérer pour mieux conseiller ses clients et sécuriser ses transactions. Le 11/08/2026 à 07H12 La pénurie de gestionnaires de copropriété s'atténue progressivement en France. Selon la dernière enquête de l'ANGC, la part des cabinets de syndic confrontés à un poste vacant est passée de 56 % en 2022 à 39 % en 2026. Une évolution encourageante qui ne doit toutefois pas masquer une autre réalité : attirer de nouveaux talen",
-      "url": "https://www.journaldelagence.com/1412673-gestionnaires-de-copropriete-la-penurie-de-talents-recule-mais-la-fidelisation-reste-un-defi",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-08-11T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
-    },
-    {
       "id": "6dfb7463508537c9",
       "title": "Décret n° 2026-765 du 9 août 2026 modifiant le dispositif d'agrément des organismes de qualification des professionnels prévu par l'article R. 125-40 du code de la construction et de l'habitation",
       "summary": "Texte officiel concernant la construction, les professionnels du secteur ou le Code de la construction et de l’habitation.",
@@ -740,26 +823,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "1b3189d7958c7575",
-      "title": "Syndic de copropriété : bienvenue dans la roue des émotions !",
-      "summary": "à mieux les fidéliser. Gilles Frémont, président de l'ANGC, livre son analyse. Le 10/08/2026 à 08H04 Du trac avant une assemblée générale à la plénitude d'une boîte mail vide avant les vacances, le quotidien d'un syndic est une véritable montagne russe émotionnelle. Avec humour, Gilles Frémont, président de l'Association nationale des gestionnaires de copropriété (ANGC), a imaginé une \"roue des émotions du syndic\" dans une pu",
-      "url": "https://www.journaldelagence.com/1412497-syndics-de-copropriete-bienvenue-dans-la-roue-des-emotions",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-08-10T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
-    },
-    {
       "id": "bdf8a551019bd962",
       "title": "Licenciement chez Zillow : départ de plus de 500 employés",
       "summary": "10 août 2026 - Une vague de licenciements s’est produite chez Zillow. En effet, le portail immobilier américain a renvoyé plus de 500 employés. Soit un licenciement d’environ 7 % [...]",
@@ -800,26 +863,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "6cf6abe8040be146",
-      "title": "Plongée dans les rouages du blanchiment d’argent : une enquête qui éclaire vos obligations Tracfin",
-      "summary": "rement l'organisation d'une visite de la constitution d'un dossier de location. Le 06/08/2026 à 07H06 Les professionnels de l'immobilier connaissent leurs obligations en matière de lutte contre le blanchiment des capitaux. Mais comprennent-ils réellement les mécanismes qu'elles visent à combattre ? Dans Les Blanchisseurs – Argent sale et cols blancs, Éric Percheron entraîne le lecteur dans les coulisses de l'économie criminel",
-      "url": "https://www.journaldelagence.com/1412605-plongee-dans-les-rouages-du-blanchiment-dargent-une-enquete-qui-eclaire-vos-obligations-tracfin",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-08-06T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
       "id": "5ddc31d852754d7c",
@@ -1050,27 +1093,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "f7da610496535f86",
-      "title": "Agents immobiliers : « La concurrence nous oblige à être meilleurs » Guillaume Martinaud (Orpi)",
-      "summary": "Agents immobiliers : « La concurrence nous oblige à être meilleurs » Guillaume Martinaud (Orpi)",
-      "url": "https://www.mysweetimmo.com/2026/07/30/agents-immobiliers-la-concurrence-nous-oblige-a-etre-meilleurs-guillaume-martinaud-orpi/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-30T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "49fec611d31a12ca",
@@ -1642,9 +1664,9 @@
   ],
   "source_stats": {
     "Batiactu": 10,
-    "ANIL": 12,
     "MySweetImmo": 16,
-    "Journal de l'Agence": 14,
+    "Journal de l'Agence": 15,
+    "ANIL": 12,
     "Légifrance": 7,
     "Immobilier 2.0": 16,
     "SDES / Sitadel": 1,
@@ -1656,15 +1678,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 78,
-    "rejected": 1111,
+    "retained": 79,
+    "rejected": 1107,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-20T01:53:54+00:00",
+        "last_success": "2026-08-20T07:09:12+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1672,7 +1694,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-20T01:53:58+00:00",
+        "last_success": "2026-08-20T07:09:14+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1680,7 +1702,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-20T01:53:59+00:00",
+        "last_success": "2026-08-20T07:09:15+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1688,7 +1710,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-20T01:54:00+00:00",
+        "last_success": "2026-08-20T07:09:17+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1696,7 +1718,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-20T01:54:25+00:00",
+        "last_success": "2026-08-20T07:09:35+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1704,7 +1726,7 @@
         "ok": true,
         "status": "ok",
         "retained": 7,
-        "last_success": "2026-08-20T01:54:35+00:00",
+        "last_success": "2026-08-20T07:09:44+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1712,7 +1734,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-20T01:54:35+00:00",
+        "last_success": "2026-08-20T07:09:44+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1720,7 +1742,7 @@
         "ok": true,
         "status": "ok",
         "retained": 12,
-        "last_success": "2026-08-20T01:54:36+00:00",
+        "last_success": "2026-08-20T07:09:44+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1728,7 +1750,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-20T01:54:37+00:00",
+        "last_success": "2026-08-20T07:09:45+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1736,7 +1758,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-20T01:54:38+00:00",
+        "last_success": "2026-08-20T07:09:46+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1744,7 +1766,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-20T01:54:39+00:00",
+        "last_success": "2026-08-20T07:09:48+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1752,7 +1774,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-20T01:54:40+00:00",
+        "last_success": "2026-08-20T07:09:49+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1760,7 +1782,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-08-20T01:54:42+00:00",
+        "last_success": "2026-08-20T07:09:50+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1768,7 +1790,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-20T01:54:43+00:00",
+        "last_success": "2026-08-20T07:09:51+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1776,7 +1798,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-20T01:54:43+00:00",
+        "last_success": "2026-08-20T07:09:51+00:00",
         "fallback": false
       }
     }

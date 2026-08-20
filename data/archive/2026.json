@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-20T01:54:43+00:00",
+  "generated_at": "2026-08-20T07:09:51+00:00",
   "items": [
     {
       "id": "d8a559c7836333f2",
@@ -23,6 +23,109 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "50386a9ce24c05ca",
+      "title": "Immobilier : 1 Français sur 5 veut déménager après les vacances",
+      "summary": "Nouveau Société",
+      "url": "https://www.mysweetimmo.com/2026/08/20/immobilier-1-francais-sur-5-veut-demenager-apres-les-vacances/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "5945e72c269c7768",
+      "title": "Les coulisses de l’immobilier d’entreprise, entre anecdotes et leçons de terrain",
+      "summary": "Le 20/08/2026 à 08H21 près 25 ans passés dans l'immobilier d'entreprise, René Moundzika publie 3 allée Vauban – 25 ans dans les coulisses de l'immobilier (Éditions Maïa). À travers ce premier ouvrage, le professionnel livre un témoignage personnel nourri d'expériences de terrain, d'anecdotes et de réflexions sur un secteur qu'il connaît de l'intérieur. Un récit qui retrace son parcours, tout en dressant le portrait d'un métier",
+      "url": "https://www.journaldelagence.com/1413023-les-coulisses-de-limmobilier-dentreprise-entre-anecdotes-et-lecons-de-terrain",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
+    },
+    {
+      "id": "2bbadf24d4518383",
+      "title": "Prix des logements : le retour de la « grande peur » ?",
+      "summary": "xigeant, fait de négociations, de défis quotidiens et de rencontres marquantes. Le 20/08/2026 à 07H36 Les prix sont-ils vraiment responsables de la crise du logement ? Entre Paris et certaines communes de province, le prix au mètre carré peut varier de 1 à 6. Pourtant, acheter son logement n’est pas nécessairement plus facile dans les petites villes que dans les grandes agglomérations. Et ce, alors même que les conditions act",
+      "url": "https://www.journaldelagence.com/1413167-prix-des-logements-le-retour-de-la-grande-peur",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Territoires",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
+    },
+    {
+      "id": "2ad0488c3f4afd57",
+      "title": "Le label Casam mise sur la montée en compétence des éco-conseillers immobiliers",
+      "summary": "sont particulièrement favorables aux acquéreurs. L’analyse de Michel Mouillart. Le 20/08/2026 à 07H24 Casam, spécialiste de l’accompagnement à l’achat immobilier avec travaux, annonce le lancement de nouveaux services destinés aux 280 membres de sa communauté. Avec son nouvel « Espace Avantages », l’entreprise entend aider les professionnels de l’immobilier à construire une offre de services réellement différenciante et à la",
+      "url": "https://www.journaldelagence.com/1413028-le-label-casam-mise-sur-la-montee-en-competence-des-eco-conseillers-immobiliers",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
+    },
+    {
+      "id": "f1b55738cb999f23",
+      "title": "Prospection, organisation, équilibre de vie : le piège qui sabote votre efficacité",
+      "summary": "n, pour répondre aux enjeux d’un marché immobilier toujours plus concurrentiel. Le 20/08/2026 à 07H11 Pourquoi est-il si difficile de prospecter régulièrement, de poser des limites à ses clients ou de préserver son équilibre de vie, alors même que l'on sait ce qu'il faudrait faire ? Fort de son expérience auprès de centaines de conseillers immobiliers, Dominique Piredda, coach et formateur chez Dr House Immo, décrypte un méca",
+      "url": "https://www.journaldelagence.com/1412901-prospection-organisation-equilibre-de-vie-le-piege-qui-sabote-votre-efficacite",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "a8c217d413c2c2c6",
@@ -69,7 +172,7 @@
     {
       "id": "dfd04702a6a69305",
       "title": "Métiers de la transaction et de la gestion : et la RSE bordel !",
-      "summary": "Le 19/08/2026 à 07H24 Les métiers de la transaction et de la gestion n’échappent pas à la réflexion sur l’attractivité. Pour recruter, ils doivent séduire les jeunes — et même les actifs en reconversion. Mais un levier reste encore largement sous-exploité : la RSE. Tribune d'Henry Buzy-Cazaux. Jusqu’à 50 candidats pour un studio : le logement étudiant reste sous tension dans les grandes métropoles Le 19/08/2026 à 06H45 À quelq",
+      "summary": "e nos choix quotidiens… et peut finir par saboter durablement notre efficacité. Le 19/08/2026 à 07H24 Les métiers de la transaction et de la gestion n’échappent pas à la réflexion sur l’attractivité. Pour recruter, ils doivent séduire les jeunes — et même les actifs en reconversion. Mais un levier reste encore largement sous-exploité : la RSE. Tribune d'Henry Buzy-Cazaux. Jusqu’à 50 candidats pour un studio : le logement étud",
       "url": "https://www.journaldelagence.com/1412972-metiers-de-la-transaction-et-de-la-gestion-et-la-rse-bordel",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -301,7 +404,7 @@
     {
       "id": "0595bc3200dd4e10",
       "title": "MaPrimeRénov’, MaPrimeAdapt’ : Ce qui change aujourd’hui avec le nouveau compte France Rénov’",
-      "summary": "Rénovation",
+      "summary": "MaPrimeRénov’, MaPrimeAdapt’ : Ce qui change aujourd’hui avec le nouveau compte France Rénov’",
       "url": "https://www.mysweetimmo.com/2026/08/17/maprimerenov-maprimeadapt-e-qui-change-aujourdhui-avec-le-nouveau-compte-france-renov/",
       "source": "MySweetImmo",
       "source_level": "C",
