@@ -871,6 +871,40 @@ body{
     background:rgba(252,251,247,.985);
     box-shadow:0 18px 48px rgba(11,18,32,.16);
   }
+  /* ==========================================================
+   V9.1 — NOUVEAU LOGO RADAR IMMOBILIER
+   ========================================================== */
+
+.brand-logo-link{
+  display:flex;
+  align-items:center;
+  justify-content:flex-start;
+  width:max-content;
+  max-width:100%;
+}
+
+.brand-logo-image{
+  display:block;
+  width:auto;
+  height:58px;
+  max-width:210px;
+  object-fit:contain;
+}
+
+@media(max-width:760px){
+  .brand-logo-image{
+    height:46px;
+    width:auto;
+    max-width:175px;
+  }
+}
+
+@media(max-width:380px){
+  .brand-logo-image{
+    height:43px;
+    max-width:165px;
+  }
+}
   .nav-btn.active{background:var(--green3);color:var(--ink)}
   .pulse-dot{box-shadow:0 0 0 4px rgba(200,169,107,.18)}
 }
