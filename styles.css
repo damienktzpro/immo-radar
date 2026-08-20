@@ -872,39 +872,71 @@ body{
     box-shadow:0 18px 48px rgba(11,18,32,.16);
   }
   /* ==========================================================
-   V9.1 — NOUVEAU LOGO RADAR IMMOBILIER
+   LOGO HEADER — VERSION PETITE EN HAUT À GAUCHE
    ========================================================== */
+
+.topbar{
+  display:grid;
+  grid-template-columns:auto 1fr auto;
+  align-items:center;
+}
+
+.brand{
+  justify-self:start;
+  align-self:center;
+  display:flex;
+  align-items:center;
+  text-decoration:none;
+  flex-shrink:0;
+}
 
 .brand-logo-link{
   display:flex;
   align-items:center;
   justify-content:flex-start;
-  width:max-content;
+  width:auto;
   max-width:100%;
 }
 
 .brand-logo-image{
   display:block;
   width:auto;
-  height:58px;
-  max-width:210px;
+  height:42px;
+  max-width:170px;
   object-fit:contain;
 }
 
-@media(max-width:760px){
+/* Desktop */
+@media (min-width: 761px){
   .brand-logo-image{
-    height:46px;
-    width:auto;
-    max-width:175px;
+    height:42px;
+    max-width:170px;
   }
 }
 
-@media(max-width:380px){
+/* Mobile */
+@media (max-width: 760px){
+  .topbar{
+    display:grid;
+    grid-template-columns:auto auto;
+    align-items:center;
+  }
+
+  .brand{
+    justify-self:start;
+  }
+
   .brand-logo-image{
-    height:43px;
-    max-width:165px;
+    height:34px;
+    max-width:145px;
+    width:auto;
   }
 }
-  .nav-btn.active{background:var(--green3);color:var(--ink)}
-  .pulse-dot{box-shadow:0 0 0 4px rgba(200,169,107,.18)}
+
+/* Très petits écrans */
+@media (max-width: 380px){
+  .brand-logo-image{
+    height:31px;
+    max-width:132px;
+  }
 }
