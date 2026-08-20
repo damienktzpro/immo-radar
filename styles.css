@@ -44,34 +44,13 @@ button,select,input{font:inherit}button{cursor:pointer}.shell{width:min(1460px,c
 .local-cta{background:var(--blue);border-radius:22px;padding:50px 62px;display:flex;justify-content:space-between;align-items:center;margin-bottom:70px}.local-cta h2{font-size:48px;margin:18px 0 10px}.local-cta p{color:#62716e}.local-cta button{border:0;border-radius:12px;background:var(--ink);color:#fff;padding:19px 25px;font-weight:800}.local-cta button span{display:inline-block;width:6px;height:6px;background:var(--coral);border-radius:50%;margin-right:10px}
 footer{border-top:1px solid var(--line);padding:38px 0}.footer-inner{display:grid;grid-template-columns:200px 1fr auto;align-items:center}.footer-brand strong,.footer-brand small{display:block;letter-spacing:.17em}.footer-brand small{font-size:8px;color:var(--green)}.footer-inner>em{font-family:Georgia,serif;color:#6d7773;font-size:18px}.footer-inner button{border:0;background:transparent;color:#69736f;text-transform:uppercase;letter-spacing:.1em;font-size:10px;font-weight:800;margin-left:18px}
 @media(max-width:1100px){
-  .topbar {
-  padding-left: max(16px, env(safe-area-inset-left, 0px)) !important;
-  padding-right: max(16px, env(safe-area-inset-right, 0px)) !important;
-}
+  .topbar{grid-template-columns:205px 1fr 160px}.main-nav{gap:18px}
   .market-grid,.feed-section{grid-template-columns:1fr}.market-side{grid-template-columns:1fr 1fr}
   .sidebar-card.dark{position:static;top:auto;z-index:auto}.sidebar{display:flex;flex-direction:column;gap:24px}.sources-card,.system-card{width:100%;margin:0}
   .component-grid{grid-template-columns:repeat(3,1fr)}.invest-grid{grid-template-columns:repeat(2,1fr)}
 }
 @media(max-width:760px){
-  .shell {
-  width: calc(100% - 32px) !important;
-  max-width: calc(100% - 32px) !important;
-  margin-left: 16px !important;
-  margin-right: 16px !important;
-  margin-inline: 16px !important;
-}
-  .territory-search-card,
-.territory-overview-card,
-.territory-market-section,
-.territory-reading,
-.territory-source-status,
-.feed-section,
-.legal-column {
-  width: 100% !important;
-  max-width: 100% !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-}
+  .shell{width:min(100% - 22px,1460px)}.topbar{height:auto;grid-template-columns:1fr auto;padding:10px 11px}.main-nav{grid-column:1/-1;order:3;justify-content:flex-start;gap:22px;overflow:auto}.nav-btn{padding:14px 0}.top-actions{grid-column:2}.country-btn{display:none}
   .hero{padding-top:40px}.freshness-line{font-size:9px}.system-health-mini{display:none}.hero-grid{grid-template-columns:1fr;gap:22px}.hero h1{font-size:59px}.hero-copy p{font-size:16px}.profile-row{grid-template-columns:1fr;padding:15px 0}.profile-row>em{display:none}.profile-switch{overflow:auto}
   .overview-section{padding-top:25px}.main-market{padding:23px}.card-head{display:block}.period-pill{display:inline-flex;margin-top:12px}.market-body{grid-template-columns:1fr}.gauge-wrap{margin:auto}.key-figures,.pulse-grid{grid-template-columns:1fr}.key-figure,.pulse-card{border-right:0;border-bottom:1px solid var(--line);padding:18px}.market-side{grid-template-columns:1fr}.component-grid{grid-template-columns:1fr}
   .section-title{display:block}.section-title>p{margin-top:12px}.page-intro h2{font-size:40px}.legal-dashboard{grid-template-columns:1fr}.legal-stages{grid-template-columns:repeat(2,1fr)}.invest-grid{grid-template-columns:1fr}.territory-card{display:block;padding:28px}.territory-preview{margin-top:20px}
@@ -146,7 +125,7 @@ footer{border-top:1px solid var(--line);padding:38px 0}.footer-inner{display:gri
   background:#efeee9;
 }
 
-/* Stable KPI layout â€” no broken numbers */
+/* Stable KPI layout — no broken numbers */
 .key-figures{
   align-items:stretch;
 }
@@ -252,7 +231,7 @@ footer{border-top:1px solid var(--line);padding:38px 0}.footer-inner{display:gri
 @media (max-width:760px){.territory-intro h3,.territory-local h3{font-size:30px}.territory-preview,.territory-metrics{grid-template-columns:1fr}.territory-local-head{display:block}.territory-focus{margin-top:14px}.local-cta h2{font-size:40px}.key-figure strong{font-size:22px}}
 
 
-/* ================= V5 â€” Territoires ================= */
+/* ================= V5 — Territoires ================= */
 .territory-dashboard{padding:10px 0 42px;display:grid;gap:18px}
 .territory-search-card,.territory-overview-card{border:1px solid var(--line);border-radius:22px;background:var(--paper2);box-shadow:var(--shadow)}
 .territory-search-card{display:grid;grid-template-columns:.8fr 1.2fr;gap:36px;padding:30px 34px;background:linear-gradient(135deg,#edf2ee 0%,#f8f6f0 100%)}
@@ -313,7 +292,7 @@ footer{border-top:1px solid var(--line);padding:38px 0}.footer-inner{display:gri
   color:var(--coral);
 }
 
-/* V6 â€” full local data */
+/* V6 — full local data */
 .territory-market-metric strong{font-variant-numeric:tabular-nums}
 .territory-market-metric.is-connected{background:linear-gradient(180deg,#fff 0%,#fbfdfb 100%)}
 .territory-market-metric em{min-height:26px}
@@ -419,7 +398,7 @@ body{padding-bottom:28px}
 
 
 /* =========================================================
-   V7.1 â€” MOBILE POLISH
+   V7.1 — MOBILE POLISH
    Desktop intentionally preserved; changes below target phone.
    ========================================================= */
 
@@ -677,9 +656,9 @@ body{padding-bottom:28px}
 
 
 /* ==========================================================
-   V8 â€” PALETTE PREMIUM IMMO RADAR
+   V8 — PALETTE PREMIUM IMMO RADAR
    Bleu nuit + ivoire + champagne
-   Modification visuelle uniquement : aucune structure changÃ©e.
+   Modification visuelle uniquement : aucune structure changée.
    ========================================================== */
 
 :root{
@@ -689,7 +668,7 @@ body{padding-bottom:28px}
   --muted:#667085;
   --line:#D8D2C6;
 
-  /* Les anciens noms de variables sont conservÃ©s pour ne rien casser. */
+  /* Les anciens noms de variables sont conservés pour ne rien casser. */
   --green:#213D5A;
   --green2:#0B1220;
   --green3:#E8EEF3;
@@ -709,7 +688,7 @@ body{
   color:var(--ink);
 }
 
-/* Header / identitÃ© */
+/* Header / identité */
 .topbar{
   background:rgba(245,242,234,.96);
   border-bottom-color:rgba(11,18,32,.12);
@@ -753,7 +732,7 @@ body{
 }
 .profile-switch button:hover{background:rgba(255,255,255,.62)}
 
-/* Cartes / baromÃ¨tre */
+/* Cartes / baromètre */
 .market-card,.finance-card{
   border-color:var(--line);
   background:var(--paper2);
@@ -769,7 +748,7 @@ body{
 }
 .underlined-btn{border-bottom-color:rgba(33,61,90,.45)}
 
-/* Les rouges restent rÃ©servÃ©s aux signaux nÃ©gatifs / alertes. */
+/* Les rouges restent réservés aux signaux négatifs / alertes. */
 .status-badge{background:#F2E2DD;color:#9D4E3C}
 .key-figure.negative strong{color:var(--coral)}
 
@@ -824,7 +803,7 @@ body{
 .market-method-note{background:#F1ECE2;border-left-color:var(--gold)}
 .method-notes article{background:#F7F4ED}
 
-/* Flux / actualitÃ©s */
+/* Flux / actualités */
 .story{box-shadow:0 10px 28px rgba(11,18,32,.035)}
 .story:before{background:var(--green)}
 .story.level-a:before{background:var(--emerald)}
@@ -871,72 +850,120 @@ body{
     background:rgba(252,251,247,.985);
     box-shadow:0 18px 48px rgba(11,18,32,.16);
   }
-  /* ==========================================================
-   LOGO HEADER — VERSION PETITE EN HAUT À GAUCHE
+  .nav-btn.active{background:var(--green3);color:var(--ink)}
+  .pulse-dot{box-shadow:0 0 0 4px rgba(200,169,107,.18)}
+}
+/* ==========================================================
+   V9.2 — LOGO HEADER FINAL
+   Petit, strictement contenu, toujours en haut à gauche.
    ========================================================== */
 
-.topbar{
-  display:grid;
-  grid-template-columns:auto 1fr auto;
-  align-items:center;
-}
-
-.brand{
-  justify-self:start;
-  align-self:center;
-  display:flex;
-  align-items:center;
-  text-decoration:none;
-  flex-shrink:0;
-}
-
 .brand-logo-link{
-  display:flex;
-  align-items:center;
-  justify-content:flex-start;
-  width:auto;
-  max-width:100%;
+  display:flex !important;
+  align-items:center !important;
+  justify-content:flex-start !important;
+  justify-self:start !important;
+  align-self:center !important;
+
+  width:180px !important;
+  min-width:180px !important;
+  max-width:180px !important;
+
+  height:62px !important;
+  min-height:62px !important;
+  max-height:62px !important;
+
+  margin:0 !important;
+  padding:0 !important;
+  overflow:hidden !important;
+
+  position:relative !important;
+  inset:auto !important;
+  transform:none !important;
+
+  text-decoration:none !important;
 }
 
 .brand-logo-image{
-  display:block;
-  width:auto;
-  height:42px;
-  max-width:170px;
-  object-fit:contain;
+  display:block !important;
+
+  width:170px !important;
+  min-width:0 !important;
+  max-width:170px !important;
+
+  height:auto !important;
+  min-height:0 !important;
+  max-height:55px !important;
+
+  margin:0 !important;
+  padding:0 !important;
+
+  object-fit:contain !important;
+  object-position:left center !important;
+
+  position:static !important;
+  inset:auto !important;
+  transform:none !important;
 }
 
-/* Desktop */
-@media (min-width: 761px){
-  .brand-logo-image{
-    height:42px;
-    max-width:170px;
-  }
+/* Le logo ne doit jamais agrandir la première colonne du header. */
+.topbar > .brand-logo-link{
+  grid-column:1 !important;
+  grid-row:1 !important;
 }
 
-/* Mobile */
-@media (max-width: 760px){
+/* TABLETTE / MOBILE */
+@media(max-width:760px){
+
   .topbar{
-    display:grid;
-    grid-template-columns:auto auto;
-    align-items:center;
+    grid-template-columns:minmax(0,1fr) auto !important;
+    align-items:center !important;
   }
 
-  .brand{
-    justify-self:start;
+  .topbar > .brand-logo-link{
+    grid-column:1 !important;
+    grid-row:1 !important;
+    justify-self:start !important;
+
+    width:148px !important;
+    min-width:148px !important;
+    max-width:148px !important;
+
+    height:50px !important;
+    min-height:50px !important;
+    max-height:50px !important;
   }
 
   .brand-logo-image{
-    height:34px;
-    max-width:145px;
-    width:auto;
+    width:142px !important;
+    max-width:142px !important;
+    max-height:46px !important;
+  }
+
+  .top-actions{
+    grid-column:2 !important;
+    grid-row:1 !important;
+    justify-self:end !important;
+  }
+
+  .main-nav{
+    grid-column:1 / -1 !important;
+    grid-row:2 !important;
   }
 }
 
-/* Très petits écrans */
-@media (max-width: 380px){
+@media(max-width:380px){
+
+  .topbar > .brand-logo-link{
+    width:136px !important;
+    min-width:136px !important;
+    max-width:136px !important;
+    height:47px !important;
+  }
+
   .brand-logo-image{
-    height:31px;
-    max-width:132px;
+    width:130px !important;
+    max-width:130px !important;
+    max-height:43px !important;
   }
 }

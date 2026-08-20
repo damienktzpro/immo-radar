@@ -1,22 +1,22 @@
 /* ==========================================================
-   IMMO RADAR â€” MOBILE POLISH V9
-   Ã€ charger APRÃˆS styles.css
+   IMMO RADAR — MOBILE POLISH V9
+   À charger APRÈS styles.css
    Objectifs :
    - centrage mobile propre
-   - aucun dÃ©bordement horizontal
+   - aucun débordement horizontal
    - titres moins massifs
    - suppression des doublons visuels
    - filtres plus compacts
    - Lois en carrousel horizontal
    - Territoires plus lisible
    - Feedback non flottant sur mobile
-   - bandeau BÃŠTA non bloquant
+   - bandeau BÊTA non bloquant
    ========================================================== */
 
 @media (max-width: 760px) {
 
   /* ========================================================
-     1. BASE MOBILE / ANTI-DÃ‰BORDEMENT
+     1. BASE MOBILE / ANTI-DÉBORDEMENT
      ======================================================== */
   html,
   body {
@@ -66,7 +66,7 @@
     max-width: 100% !important;
   }
 
-  /* Centrage validÃ© : largeur 100 % + padding symÃ©trique. */
+  /* Centrage validé : largeur 100 % + padding symétrique. */
   .shell {
     width: 100% !important;
     max-width: 100% !important;
@@ -76,7 +76,7 @@
     padding-inline: 16px !important;
   }
 
-  /* Les vraies cartes restent centrÃ©es dans leur conteneur. */
+  /* Les vraies cartes restent centrées dans leur conteneur. */
   .territory-search-card,
   .territory-overview-card,
   .market-card,
@@ -92,7 +92,7 @@
     margin-right: auto !important;
   }
 
-  /* CTA = carte avec vraie marge extÃ©rieure. */
+  /* CTA = carte avec vraie marge extérieure. */
   .local-cta.shell {
     width: calc(100% - 32px) !important;
     max-width: calc(100% - 32px) !important;
@@ -102,7 +102,7 @@
 
 
   /* ========================================================
-     2. HEADER PLUS COMPACT, SANS TOUCHER Ã€ Lâ€™IDENTITÃ‰
+     2. HEADER PLUS COMPACT, SANS TOUCHER À L’IDENTITÉ
      ======================================================== */
   .topbar {
     width: 100% !important;
@@ -226,8 +226,8 @@
     line-height: 1.02 !important;
   }
 
-  /* Sur MarchÃ© / Lois / Investir :
-     pageIntro porte dÃ©jÃ  le titre, on masque le doublon du feed.
+  /* Sur Marché / Lois / Investir :
+     pageIntro porte déjà le titre, on masque le doublon du feed.
      Territoires est exclu car son titre de veille est utile. */
   body:has(#pageIntro:not([hidden])):not(:has(#territoryDashboard:not([hidden])))
       .feed-header > div:first-child {
@@ -247,7 +247,7 @@
 
 
   /* ========================================================
-     4. TRI + FILTRES = PLUS â€œAPPâ€
+     4. TRI + FILTRES = PLUS “APP”
      ======================================================== */
   .feed-header {
     display: block !important;
@@ -269,7 +269,7 @@
     background: var(--paper2) !important;
   }
 
-  /* CatÃ©gories : scroll tactile au lieu d'un mur de boutons. */
+  /* Catégories : scroll tactile au lieu d'un mur de boutons. */
   #globalFeedControls {
     width: 100% !important;
     max-width: 100% !important;
@@ -414,7 +414,7 @@
 
 
   /* ========================================================
-     6. TERRITOIRES â€” FINITION
+     6. TERRITOIRES — FINITION
      ======================================================== */
   .territory-dashboard,
   .territory-search-card,
@@ -497,8 +497,8 @@
     margin-top: 12px !important;
   }
 
-  /* IdentitÃ© : 2 colonnes.
-     RÃ©gion occupe toute la derniÃ¨re ligne pour Ã©viter la case vide. */
+  /* Identité : 2 colonnes.
+     Région occupe toute la dernière ligne pour éviter la case vide. */
   .territory-identity-metrics {
     width: 100% !important;
     max-width: 100% !important;
@@ -611,7 +611,7 @@
 
 
   /* ========================================================
-     7. FEED / CARTES ACTUALITÃ‰S
+     7. FEED / CARTES ACTUALITÉS
      ======================================================== */
   .feed-section {
     width: 100% !important;
@@ -650,7 +650,7 @@
     overflow-wrap: anywhere !important;
   }
 
-  /* Longs titres LÃ©gifrance : 4 lignes avant Lire plus. */
+  /* Longs titres Légifrance : 4 lignes avant Lire plus. */
   .story:not(.expanded) .story-body h3 {
     display: -webkit-box !important;
     -webkit-line-clamp: 4;
@@ -678,7 +678,7 @@
 
 
   /* ========================================================
-     8. FEEDBACK + BÃŠTA : PLUS RIEN NE MASQUE LES CARTES
+     8. FEEDBACK + BÊTA : PLUS RIEN NE MASQUE LES CARTES
      ======================================================== */
   /* Le feedback reste accessible dans le footer. */
   .feedback-fab {
@@ -723,7 +723,7 @@
 
 
 /* ==========================================================
-   TRÃˆS PETITS TÃ‰LÃ‰PHONES
+   TRÈS PETITS TÉLÉPHONES
    ========================================================== */
 @media (max-width: 380px) {
   .shell {
@@ -757,5 +757,66 @@
     width: 124px !important;
     min-width: 124px !important;
     max-width: 124px !important;
+  }
+}
+/* ==========================================================
+   V9.2 — SÉCURITÉ LOGO MOBILE
+   Doit rester le DERNIER bloc du fichier.
+   ========================================================== */
+@media(max-width:760px){
+
+  .topbar{
+    grid-template-columns:minmax(0,1fr) auto !important;
+  }
+
+  .brand-logo-link{
+    grid-column:1 !important;
+    grid-row:1 !important;
+    justify-self:start !important;
+    align-self:center !important;
+
+    width:148px !important;
+    min-width:148px !important;
+    max-width:148px !important;
+
+    height:50px !important;
+    min-height:50px !important;
+    max-height:50px !important;
+
+    overflow:hidden !important;
+    margin:0 !important;
+    padding:0 !important;
+    transform:none !important;
+  }
+
+  .brand-logo-image{
+    display:block !important;
+
+    width:142px !important;
+    min-width:0 !important;
+    max-width:142px !important;
+
+    height:auto !important;
+    max-height:46px !important;
+
+    margin:0 !important;
+    padding:0 !important;
+
+    object-fit:contain !important;
+    object-position:left center !important;
+
+    position:static !important;
+    transform:none !important;
+  }
+
+  .top-actions{
+    grid-column:2 !important;
+    grid-row:1 !important;
+    justify-self:end !important;
+  }
+
+  .main-nav{
+    grid-column:1 / -1 !important;
+    grid-row:2 !important;
   }
 }

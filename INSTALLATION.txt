@@ -1,0 +1,20 @@
+IMMO RADAR — LOGO FIX V9.2
+
+REMPLACER À LA RACINE DU DÉPÔT :
+- styles.css
+- mobile-fix.css
+- logo-radar-header.png
+- logo-radar-icon.png
+- favicon-radar.png
+
+NE PAS MODIFIER app.js, collect.py, data/ ou le workflow.
+
+Le header HTML doit déjà utiliser :
+<a class="brand brand-logo-link" href="#top" aria-label="Radar Immobilier">
+  <img class="brand-logo-image" src="./logo-radar-header.png?v=2" alt="Radar Immobilier">
+</a>
+
+Après remplacement :
+1. Commit changes
+2. Attendre le workflow GitHub Pages vert
+3. Rechargement forcé / fermer et rouvrir l'onglet
