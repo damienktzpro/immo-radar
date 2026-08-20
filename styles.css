@@ -125,7 +125,7 @@ footer{border-top:1px solid var(--line);padding:38px 0}.footer-inner{display:gri
   background:#efeee9;
 }
 
-/* Stable KPI layout — no broken numbers */
+/* Stable KPI layout â€” no broken numbers */
 .key-figures{
   align-items:stretch;
 }
@@ -231,7 +231,7 @@ footer{border-top:1px solid var(--line);padding:38px 0}.footer-inner{display:gri
 @media (max-width:760px){.territory-intro h3,.territory-local h3{font-size:30px}.territory-preview,.territory-metrics{grid-template-columns:1fr}.territory-local-head{display:block}.territory-focus{margin-top:14px}.local-cta h2{font-size:40px}.key-figure strong{font-size:22px}}
 
 
-/* ================= V5 — Territoires ================= */
+/* ================= V5 â€” Territoires ================= */
 .territory-dashboard{padding:10px 0 42px;display:grid;gap:18px}
 .territory-search-card,.territory-overview-card{border:1px solid var(--line);border-radius:22px;background:var(--paper2);box-shadow:var(--shadow)}
 .territory-search-card{display:grid;grid-template-columns:.8fr 1.2fr;gap:36px;padding:30px 34px;background:linear-gradient(135deg,#edf2ee 0%,#f8f6f0 100%)}
@@ -292,7 +292,7 @@ footer{border-top:1px solid var(--line);padding:38px 0}.footer-inner{display:gri
   color:var(--coral);
 }
 
-/* V6 — full local data */
+/* V6 â€” full local data */
 .territory-market-metric strong{font-variant-numeric:tabular-nums}
 .territory-market-metric.is-connected{background:linear-gradient(180deg,#fff 0%,#fbfdfb 100%)}
 .territory-market-metric em{min-height:26px}
@@ -398,7 +398,7 @@ body{padding-bottom:28px}
 
 
 /* =========================================================
-   V7.1 — MOBILE POLISH
+   V7.1 â€” MOBILE POLISH
    Desktop intentionally preserved; changes below target phone.
    ========================================================= */
 
@@ -656,9 +656,9 @@ body{padding-bottom:28px}
 
 
 /* ==========================================================
-   V8 — PALETTE PREMIUM IMMO RADAR
+   V8 â€” PALETTE PREMIUM IMMO RADAR
    Bleu nuit + ivoire + champagne
-   Modification visuelle uniquement : aucune structure changée.
+   Modification visuelle uniquement : aucune structure changÃ©e.
    ========================================================== */
 
 :root{
@@ -668,7 +668,7 @@ body{padding-bottom:28px}
   --muted:#667085;
   --line:#D8D2C6;
 
-  /* Les anciens noms de variables sont conservés pour ne rien casser. */
+  /* Les anciens noms de variables sont conservÃ©s pour ne rien casser. */
   --green:#213D5A;
   --green2:#0B1220;
   --green3:#E8EEF3;
@@ -688,7 +688,7 @@ body{
   color:var(--ink);
 }
 
-/* Header / identité */
+/* Header / identitÃ© */
 .topbar{
   background:rgba(245,242,234,.96);
   border-bottom-color:rgba(11,18,32,.12);
@@ -732,7 +732,7 @@ body{
 }
 .profile-switch button:hover{background:rgba(255,255,255,.62)}
 
-/* Cartes / baromètre */
+/* Cartes / baromÃ¨tre */
 .market-card,.finance-card{
   border-color:var(--line);
   background:var(--paper2);
@@ -748,7 +748,7 @@ body{
 }
 .underlined-btn{border-bottom-color:rgba(33,61,90,.45)}
 
-/* Les rouges restent réservés aux signaux négatifs / alertes. */
+/* Les rouges restent rÃ©servÃ©s aux signaux nÃ©gatifs / alertes. */
 .status-badge{background:#F2E2DD;color:#9D4E3C}
 .key-figure.negative strong{color:var(--coral)}
 
@@ -803,7 +803,7 @@ body{
 .market-method-note{background:#F1ECE2;border-left-color:var(--gold)}
 .method-notes article{background:#F7F4ED}
 
-/* Flux / actualités */
+/* Flux / actualitÃ©s */
 .story{box-shadow:0 10px 28px rgba(11,18,32,.035)}
 .story:before{background:var(--green)}
 .story.level-a:before{background:var(--emerald)}
