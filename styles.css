@@ -44,13 +44,34 @@ button,select,input{font:inherit}button{cursor:pointer}.shell{width:min(1460px,c
 .local-cta{background:var(--blue);border-radius:22px;padding:50px 62px;display:flex;justify-content:space-between;align-items:center;margin-bottom:70px}.local-cta h2{font-size:48px;margin:18px 0 10px}.local-cta p{color:#62716e}.local-cta button{border:0;border-radius:12px;background:var(--ink);color:#fff;padding:19px 25px;font-weight:800}.local-cta button span{display:inline-block;width:6px;height:6px;background:var(--coral);border-radius:50%;margin-right:10px}
 footer{border-top:1px solid var(--line);padding:38px 0}.footer-inner{display:grid;grid-template-columns:200px 1fr auto;align-items:center}.footer-brand strong,.footer-brand small{display:block;letter-spacing:.17em}.footer-brand small{font-size:8px;color:var(--green)}.footer-inner>em{font-family:Georgia,serif;color:#6d7773;font-size:18px}.footer-inner button{border:0;background:transparent;color:#69736f;text-transform:uppercase;letter-spacing:.1em;font-size:10px;font-weight:800;margin-left:18px}
 @media(max-width:1100px){
-  .topbar{grid-template-columns:205px 1fr 160px}.main-nav{gap:18px}
+  .topbar {
+  padding-left: max(16px, env(safe-area-inset-left, 0px)) !important;
+  padding-right: max(16px, env(safe-area-inset-right, 0px)) !important;
+}
   .market-grid,.feed-section{grid-template-columns:1fr}.market-side{grid-template-columns:1fr 1fr}
   .sidebar-card.dark{position:static;top:auto;z-index:auto}.sidebar{display:flex;flex-direction:column;gap:24px}.sources-card,.system-card{width:100%;margin:0}
   .component-grid{grid-template-columns:repeat(3,1fr)}.invest-grid{grid-template-columns:repeat(2,1fr)}
 }
 @media(max-width:760px){
-  .shell{width:min(100% - 22px,1460px)}.topbar{height:auto;grid-template-columns:1fr auto;padding:10px 11px}.main-nav{grid-column:1/-1;order:3;justify-content:flex-start;gap:22px;overflow:auto}.nav-btn{padding:14px 0}.top-actions{grid-column:2}.country-btn{display:none}
+  .shell {
+  width: calc(100% - 32px) !important;
+  max-width: calc(100% - 32px) !important;
+  margin-left: 16px !important;
+  margin-right: 16px !important;
+  margin-inline: 16px !important;
+}
+  .territory-search-card,
+.territory-overview-card,
+.territory-market-section,
+.territory-reading,
+.territory-source-status,
+.feed-section,
+.legal-column {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
   .hero{padding-top:40px}.freshness-line{font-size:9px}.system-health-mini{display:none}.hero-grid{grid-template-columns:1fr;gap:22px}.hero h1{font-size:59px}.hero-copy p{font-size:16px}.profile-row{grid-template-columns:1fr;padding:15px 0}.profile-row>em{display:none}.profile-switch{overflow:auto}
   .overview-section{padding-top:25px}.main-market{padding:23px}.card-head{display:block}.period-pill{display:inline-flex;margin-top:12px}.market-body{grid-template-columns:1fr}.gauge-wrap{margin:auto}.key-figures,.pulse-grid{grid-template-columns:1fr}.key-figure,.pulse-card{border-right:0;border-bottom:1px solid var(--line);padding:18px}.market-side{grid-template-columns:1fr}.component-grid{grid-template-columns:1fr}
   .section-title{display:block}.section-title>p{margin-top:12px}.page-intro h2{font-size:40px}.legal-dashboard{grid-template-columns:1fr}.legal-stages{grid-template-columns:repeat(2,1fr)}.invest-grid{grid-template-columns:1fr}.territory-card{display:block;padding:28px}.territory-preview{margin-top:20px}
