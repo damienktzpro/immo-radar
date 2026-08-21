@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-21T07:10:35+00:00",
+  "generated_at": "2026-08-21T13:14:12+00:00",
   "items": [
     {
       "id": "d8a559c7836333f2",
@@ -25,11 +25,53 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
+      "id": "ec323fee403f01dc",
+      "title": "Mon locataire se plaint du bruit d'un autre locataire. Comment faire ?",
+      "summary": "21 août 2026 Un propriétaire bailleur peut être sollicité lorsqu'un locataire subit des troubles de voisinage.",
+      "url": "https://www.anil.org/actualites-evenements/details/mon-locataire-se-plaint-du-bruit-dun-autre-locataire-comment-faire/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-08-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
       "id": "ba6c55f88e0b79d5",
       "title": "Immobilier Portugal : Les prix flambent jusqu’à 20 000 € le mètre carré à Comporta",
       "summary": "Nouveau Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/08/21/immobilier-portugal-les-prix-flambent-jusqua-20-000-e-le-metre-carre-a-comporta/",
       "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "f4c5bc0530cfffec",
+      "title": "DPE : de nouveaux changements en vue pour 2027",
+      "summary": "21 août 2026 - À partir du 1er janvier 2027, de nouvelles informations s’ajouteront au diagnostic de performance énergétique (DPE). Il est d’ailleurs important de souligner que [...]",
+      "url": "https://immo2.pro/actualite-immobilier/dpe-de-nouveaux-changements-en-vue-pour-2027/",
+      "source": "Immobilier 2.0",
       "source_level": "C",
       "category": "marche",
       "audiences": [
@@ -87,8 +129,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
-      "id": "2bbadf24d4518383",
-      "title": "Prix des logements : le retour de la « grande peur » ?",
+      "id": "f0790cc9ee08dae9",
+      "title": "Prix des logements en France : le retour de la « grande peur » ?",
       "summary": "xigeant, fait de négociations, de défis quotidiens et de rencontres marquantes. Le 20/08/2026 à 07H36 Les prix sont-ils vraiment responsables de la crise du logement ? Entre Paris et certaines communes de province, le prix au mètre carré peut varier de 1 à 6. Pourtant, acheter son logement n’est pas nécessairement plus facile dans les petites villes que dans les grandes agglomérations. Et ce, alors même que les conditions act",
       "url": "https://www.journaldelagence.com/1413167-prix-des-logements-le-retour-de-la-grande-peur",
       "source": "Journal de l'Agence",

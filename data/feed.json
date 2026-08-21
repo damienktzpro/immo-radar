@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T07:10:35+00:00",
+  "generated_at": "2026-08-21T13:14:12+00:00",
   "version": "7.1",
   "items": [
     {
@@ -24,11 +24,53 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
+      "id": "ec323fee403f01dc",
+      "title": "Mon locataire se plaint du bruit d'un autre locataire. Comment faire ?",
+      "summary": "21 août 2026 Un propriétaire bailleur peut être sollicité lorsqu'un locataire subit des troubles de voisinage.",
+      "url": "https://www.anil.org/actualites-evenements/details/mon-locataire-se-plaint-du-bruit-dun-autre-locataire-comment-faire/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-08-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
       "id": "ba6c55f88e0b79d5",
       "title": "Immobilier Portugal : Les prix flambent jusqu’à 20 000 € le mètre carré à Comporta",
       "summary": "Nouveau Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/08/21/immobilier-portugal-les-prix-flambent-jusqua-20-000-e-le-metre-carre-a-comporta/",
       "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "f4c5bc0530cfffec",
+      "title": "DPE : de nouveaux changements en vue pour 2027",
+      "summary": "21 août 2026 - À partir du 1er janvier 2027, de nouvelles informations s’ajouteront au diagnostic de performance énergétique (DPE). Il est d’ailleurs important de souligner que [...]",
+      "url": "https://immo2.pro/actualite-immobilier/dpe-de-nouveaux-changements-en-vue-pour-2027/",
+      "source": "Immobilier 2.0",
       "source_level": "C",
       "category": "marche",
       "audiences": [
@@ -86,8 +128,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
-      "id": "2bbadf24d4518383",
-      "title": "Prix des logements : le retour de la « grande peur » ?",
+      "id": "f0790cc9ee08dae9",
+      "title": "Prix des logements en France : le retour de la « grande peur » ?",
       "summary": "xigeant, fait de négociations, de défis quotidiens et de rencontres marquantes. Le 20/08/2026 à 07H36 Les prix sont-ils vraiment responsables de la crise du logement ? Entre Paris et certaines communes de province, le prix au mètre carré peut varier de 1 à 6. Pourtant, acheter son logement n’est pas nécessairement plus facile dans les petites villes que dans les grandes agglomérations. Et ce, alors même que les conditions act",
       "url": "https://www.journaldelagence.com/1413167-prix-des-logements-le-retour-de-la-grande-peur",
       "source": "Journal de l'Agence",
@@ -1493,27 +1535,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "7b241d7bae5586fc",
-      "title": "IRL : le nouvel indice du 2eme trimestre 2026 est publié",
-      "summary": "12 juillet 2026 Le dernier indice de référence des loyers (IRL) a été publié au Journal Officiel du 12 juillet 2026.",
-      "url": "https://www.anil.org/actualites-evenements/details/irl-le-nouvel-indice-du-2eme-trimestre-2026-est-publie/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-12T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 85,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source institutionnelle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
-    },
-    {
       "id": "03cec9e3ee1743c9",
       "title": "Des chiffres, l'actu : cette semaine, facture salée pour le logement social 09/07/2026",
       "summary": "À Montpellier, des immeubles inspirés des coquillages pour résister aux fortes chaleurs 06/07/2026",
@@ -1598,27 +1619,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
     },
     {
-      "id": "2f69127c3cce2316",
-      "title": "I Loge You, la FNAIM et Cohabilis unissent leurs forces pour développer la cohabitation intergénérationnelle solidaire",
-      "summary": "3 juillet 2026 - Alors que le manque de logements étudiants adaptés engendre des difficultés croissantes pour se loger, la Fondation I Loge You, la Fédération Nationale de l’Immobilier [...]",
-      "url": "https://immo2.pro/actualite-immobilier/i-loge-you-la-fnaim-et-cohabilis-unissent-leurs-forces-pour-developper-la-cohabitation-intergenerationnelle-solidaire/",
-      "source": "Immobilier 2.0",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-03T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
       "id": "3b2255cb7e8a6f65",
       "title": "Informations Rapides · 28 mai 2026 · n° 130 Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) Indices Notaires-Insee des prix des logements anciens - premier trimestre 2026",
       "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee false Aller au contenu Aide Thèmes Recherche English Presse Menu Menu Blog Presse Aide English Lancer la recherche sur le site Thèmes Statistiques et études Cherchez vos statistiques par… Thèmes Économie - conjoncture - comptes nationaux Démographie Entreprises Plus de thèmes… Niveaux géographiques France Toutes les régions ou tous les départements Toutes les communes Plus de ni",
@@ -1664,11 +1664,11 @@
   ],
   "source_stats": {
     "Batiactu": 10,
-    "MySweetImmo": 16,
-    "Journal de l'Agence": 15,
     "ANIL": 12,
-    "Légifrance": 7,
+    "MySweetImmo": 16,
     "Immobilier 2.0": 16,
+    "Journal de l'Agence": 15,
+    "Légifrance": 7,
     "SDES / Sitadel": 1,
     "Insee": 1,
     "EUR-Lex": 1
@@ -1679,14 +1679,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 79,
-    "rejected": 1072,
+    "rejected": 1073,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-21T07:10:00+00:00",
+        "last_success": "2026-08-21T13:13:31+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1694,7 +1694,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-21T07:10:03+00:00",
+        "last_success": "2026-08-21T13:13:34+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1702,7 +1702,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-21T07:10:03+00:00",
+        "last_success": "2026-08-21T13:13:34+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1710,7 +1710,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-21T07:10:05+00:00",
+        "last_success": "2026-08-21T13:13:36+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1718,7 +1718,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-21T07:10:21+00:00",
+        "last_success": "2026-08-21T13:13:55+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1726,7 +1726,7 @@
         "ok": true,
         "status": "ok",
         "retained": 7,
-        "last_success": "2026-08-21T07:10:29+00:00",
+        "last_success": "2026-08-21T13:14:04+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1734,7 +1734,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-21T07:10:29+00:00",
+        "last_success": "2026-08-21T13:14:04+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1742,7 +1742,7 @@
         "ok": true,
         "status": "ok",
         "retained": 12,
-        "last_success": "2026-08-21T07:10:30+00:00",
+        "last_success": "2026-08-21T13:14:05+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1750,7 +1750,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-21T07:10:30+00:00",
+        "last_success": "2026-08-21T13:14:06+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1758,7 +1758,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-21T07:10:31+00:00",
+        "last_success": "2026-08-21T13:14:07+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1766,7 +1766,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-21T07:10:32+00:00",
+        "last_success": "2026-08-21T13:14:08+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1774,7 +1774,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-21T07:10:33+00:00",
+        "last_success": "2026-08-21T13:14:09+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1782,7 +1782,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-08-21T07:10:35+00:00",
+        "last_success": "2026-08-21T13:14:10+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1790,7 +1790,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-21T07:10:35+00:00",
+        "last_success": "2026-08-21T13:14:11+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1798,7 +1798,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-21T07:10:35+00:00",
+        "last_success": "2026-08-21T13:14:12+00:00",
         "fallback": false
       }
     }
