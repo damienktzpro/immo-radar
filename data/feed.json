@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-08-22T01:53:39+00:00",
+  "generated_at": "2026-08-22T07:02:53+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "d8a559c7836333f2",
+      "title": "Voir tous les événements à venir",
+      "summary": "r avec vos pairs sur les nouvelles boussoles de l’aménagement le 8 octobre 2026 Articles Populaires Les artisans dans \"l'incompréhension\" face à la possible interdiction des chaudières gaz Le ZAN, une potentielle \"aberration\" de plus pour les parcs zoologiques L'Etat envisagerait d'interdire les chaudières gaz, des acteurs réagissent Diagnostic de performance énergétique : le décret certification modifié d'ici l'été Rendement",
+      "url": "https://www.batiactu.com/agenda.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-10-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
     {
       "id": "ec323fee403f01dc",
       "title": "Mon locataire se plaint du bruit d'un autre locataire. Comment faire ?",
@@ -1642,12 +1663,12 @@
     }
   ],
   "source_stats": {
+    "Batiactu": 10,
     "ANIL": 12,
     "MySweetImmo": 16,
     "Immobilier 2.0": 16,
     "Journal de l'Agence": 15,
     "Légifrance": 7,
-    "Batiactu": 9,
     "SDES / Sitadel": 1,
     "Insee": 1,
     "EUR-Lex": 1
@@ -1657,15 +1678,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 78,
-    "rejected": 1069,
+    "retained": 79,
+    "rejected": 1072,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-22T01:52:49+00:00",
+        "last_success": "2026-08-22T07:02:03+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1673,7 +1694,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-22T01:52:54+00:00",
+        "last_success": "2026-08-22T07:02:07+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1681,7 +1702,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-22T01:52:55+00:00",
+        "last_success": "2026-08-22T07:02:08+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1689,7 +1710,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-22T01:52:56+00:00",
+        "last_success": "2026-08-22T07:02:10+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1697,7 +1718,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-22T01:53:20+00:00",
+        "last_success": "2026-08-22T07:02:34+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1705,7 +1726,7 @@
         "ok": true,
         "status": "ok",
         "retained": 7,
-        "last_success": "2026-08-22T01:53:30+00:00",
+        "last_success": "2026-08-22T07:02:45+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1713,7 +1734,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-22T01:53:30+00:00",
+        "last_success": "2026-08-22T07:02:45+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1721,7 +1742,7 @@
         "ok": true,
         "status": "ok",
         "retained": 12,
-        "last_success": "2026-08-22T01:53:31+00:00",
+        "last_success": "2026-08-22T07:02:46+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1729,7 +1750,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-22T01:53:32+00:00",
+        "last_success": "2026-08-22T07:02:46+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1737,7 +1758,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-22T01:53:33+00:00",
+        "last_success": "2026-08-22T07:02:48+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1745,7 +1766,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-22T01:53:34+00:00",
+        "last_success": "2026-08-22T07:02:49+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1753,7 +1774,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-22T01:53:36+00:00",
+        "last_success": "2026-08-22T07:02:50+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1761,7 +1782,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-08-22T01:53:37+00:00",
+        "last_success": "2026-08-22T07:02:52+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1769,7 +1790,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-22T01:53:38+00:00",
+        "last_success": "2026-08-22T07:02:53+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1777,7 +1798,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-22T01:53:39+00:00",
+        "last_success": "2026-08-22T07:02:53+00:00",
         "fallback": false
       }
     }
