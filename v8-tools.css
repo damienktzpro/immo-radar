@@ -194,3 +194,337 @@
   .v8-inline-form .v8-field{max-width:none}
   .v8-score-row,.v8-method{grid-template-columns:1fr}
 }
+
+/* ==========================================================
+   IMMO RADAR — V8.1 · INTÉGRATION VISUELLE
+   Harmonisation avec la DA bleu nuit / or / ivoire du Radar.
+   ========================================================== */
+
+:root{
+  --v81-ink:#081426;
+  --v81-navy:#0d1c31;
+  --v81-gold:#cdaa62;
+  --v81-paper:#f7f3ea;
+  --v81-card:#fffdfa;
+  --v81-line:rgba(8,20,38,.12);
+  --v81-muted:#66706d;
+  --v81-soft:#efe9dc;
+  --v81-blue-soft:#edf2f6;
+}
+
+.v8-page{
+  padding-bottom:72px;
+}
+
+/* ---------- navigation desktop ---------- */
+.main-nav .v8-nav-link{
+  color:#697185;
+  font-weight:750;
+  background:transparent;
+  border-radius:0;
+  padding:10px 12px;
+  position:relative;
+}
+.main-nav .v8-nav-link:hover{
+  background:transparent;
+  color:var(--v81-ink);
+}
+.main-nav .v8-nav-link.active{
+  background:transparent;
+  color:var(--v81-ink);
+}
+@media (min-width:761px){
+  .main-nav .v8-nav-link.active::after{
+    content:"";
+    position:absolute;
+    left:12px;
+    right:12px;
+    bottom:-17px;
+    height:2px;
+    border-radius:99px;
+    background:var(--v81-gold);
+  }
+}
+
+/* ---------- héros V8 ---------- */
+.v8-hero{
+  border:1px solid var(--v81-line);
+  background:
+    radial-gradient(circle at 100% 0%, rgba(205,170,98,.10), transparent 28%),
+    linear-gradient(135deg,rgba(255,255,255,.97),rgba(247,243,234,.88));
+  border-radius:25px;
+  padding:28px 34px;
+}
+.v8-hero:after{
+  width:225px;
+  height:225px;
+  right:-73px;
+  top:-102px;
+  border-color:rgba(8,20,38,.055);
+  box-shadow:
+    0 0 0 35px rgba(8,20,38,.018),
+    0 0 0 70px rgba(205,170,98,.018);
+}
+.v8-kicker,.v8-card-kicker{
+  color:#68736f;
+}
+.v8-hero h2{
+  color:#10201b;
+  font-size:clamp(38px,4vw,58px);
+  line-height:1.02;
+  max-width:900px;
+  letter-spacing:-.035em;
+}
+.v8-hero p{
+  color:#5d6864;
+  max-width:890px;
+}
+.v8-source-row{
+  margin-top:18px;
+}
+.v8-source-row a,.v8-source-chip{
+  border-color:rgba(8,20,38,.13);
+  background:rgba(255,255,255,.78);
+  color:#26332f;
+}
+
+/* ---------- panneaux ---------- */
+.v8-panel{
+  border-color:var(--v81-line);
+  background:rgba(255,255,255,.89);
+}
+.v8-panel-head h3,
+.v8-analysis-card h4{
+  color:var(--v81-ink);
+}
+.v8-search input,.v8-field input,.v8-field select{
+  border-color:rgba(8,20,38,.15);
+  background:#fff;
+  color:var(--v81-ink);
+}
+.v8-search input:focus,.v8-field input:focus,.v8-field select:focus{
+  border-color:var(--v81-gold);
+  box-shadow:0 0 0 3px rgba(205,170,98,.12);
+}
+
+.v8-primary{
+  background:var(--v81-navy);
+  color:#fff;
+}
+.v8-secondary{
+  background:var(--v81-soft);
+  color:var(--v81-ink);
+}
+.v8-quick button{
+  background:#f7f3ea;
+  color:#273630;
+  border-color:rgba(8,20,38,.12);
+}
+.v8-quick button:hover{
+  border-color:rgba(205,170,98,.7);
+}
+
+.v8-status.is-good{
+  background:#edf5f0;
+  color:#32644d;
+}
+.v8-metric{
+  background:#fffdfa;
+  border-color:rgba(8,20,38,.11);
+}
+.v8-metric strong{
+  color:#10201b;
+}
+
+/* ---------- blocs foncés : bleu nuit du Radar ---------- */
+.v8-analysis-card.dark,
+.v8-result-card{
+  background:var(--v81-navy);
+  border-color:var(--v81-navy);
+}
+.v8-analysis-card.dark .v8-card-kicker,
+.v8-result-card .v8-card-kicker{
+  color:#bcc6cf;
+}
+.v8-analysis-card.dark p,
+.v8-result-card p{
+  color:#ccd3d9;
+}
+
+/* ---------- outils ---------- */
+.v8-tool-tabs{
+  margin:6px 0 18px;
+}
+.v8-tab{
+  background:#eee9dd;
+  color:#394640;
+}
+.v8-tab.active{
+  background:var(--v81-navy);
+  color:#fff;
+}
+.v8-form-card,.v8-result-card{
+  border-radius:21px;
+}
+.v8-form-card{
+  background:#fff;
+}
+.v8-result-main{
+  letter-spacing:-.04em;
+}
+.v8-note{
+  background:rgba(255,255,255,.08);
+}
+.v8-result-line{
+  border-bottom-color:rgba(255,255,255,.12);
+}
+.v8-chart{
+  background:rgba(255,255,255,.055);
+}
+.v8-score{
+  border-color:rgba(255,255,255,.13);
+}
+
+/* ---------- bloc typologie local ---------- */
+.v81-local-controls{
+  display:grid;
+  grid-template-columns:minmax(210px,1fr) minmax(130px,.55fr) auto;
+  gap:10px;
+  align-items:end;
+  margin-top:16px;
+}
+.v81-local-controls .v8-field{
+  max-width:none!important;
+}
+.v81-data-line{
+  display:flex;
+  flex-wrap:wrap;
+  gap:7px;
+  margin-top:10px;
+}
+.v81-data-pill{
+  display:inline-flex;
+  align-items:center;
+  min-height:28px;
+  padding:5px 9px;
+  border-radius:999px;
+  background:#f3eee3;
+  border:1px solid rgba(8,20,38,.09);
+  color:#64716c;
+  font-size:11px;
+  font-weight:700;
+}
+
+/* ---------- desktop : un peu plus compact ---------- */
+@media (min-width:1101px){
+  .v8-panel{
+    padding:22px 28px;
+  }
+  .v8-form-card,.v8-result-card{
+    padding:20px 22px;
+  }
+  .v8-field input,.v8-field select{
+    padding:11px 13px;
+  }
+  .v8-result-main{
+    font-size:40px;
+  }
+}
+
+/* ---------- mobile menu : compact, 2 colonnes ---------- */
+@media (max-width:760px){
+  .main-nav.open,
+  .main-nav.active,
+  .main-nav.is-open{
+    display:grid!important;
+    grid-template-columns:repeat(2,minmax(0,1fr))!important;
+    gap:8px!important;
+    left:22px!important;
+    right:22px!important;
+    width:auto!important;
+    max-width:none!important;
+    padding:12px!important;
+    border-radius:22px!important;
+    box-sizing:border-box!important;
+  }
+
+  .main-nav .nav-btn,
+  .main-nav .v8-nav-link{
+    width:100%!important;
+    min-width:0!important;
+    box-sizing:border-box!important;
+    text-align:left!important;
+    justify-content:flex-start!important;
+    padding:13px 14px!important;
+    border-radius:13px!important;
+    line-height:1.15!important;
+    font-size:16px!important;
+    color:#667087!important;
+    background:transparent!important;
+  }
+
+  .main-nav .nav-btn.active,
+  .main-nav .v8-nav-link.active{
+    color:var(--v81-ink)!important;
+    background:var(--v81-blue-soft)!important;
+  }
+
+  .main-nav .v8-nav-link:last-child{
+    grid-column:1 / -1;
+  }
+
+  .v8-page{
+    padding-bottom:82px;
+  }
+  .v8-hero{
+    padding:21px 18px;
+    border-radius:21px;
+  }
+  .v8-hero h2{
+    font-size:35px;
+    line-height:1.02;
+  }
+  .v8-hero p{
+    font-size:14px;
+    line-height:1.55;
+  }
+  .v8-source-row{
+    gap:7px;
+  }
+  .v8-source-row a,.v8-source-chip{
+    padding:8px 10px;
+    font-size:10.5px;
+  }
+  .v8-panel{
+    padding:15px;
+  }
+  .v8-panel-head h3{
+    font-size:22px;
+  }
+  .v8-tool-tabs{
+    display:grid;
+    grid-template-columns:1fr;
+  }
+  .v8-tab{
+    width:100%;
+    text-align:left;
+  }
+  .v81-local-controls{
+    grid-template-columns:1fr;
+  }
+  .v8-local-analysis{
+    gap:11px;
+  }
+  .v8-analysis-card{
+    padding:17px;
+  }
+  .v8-form-card,.v8-result-card{
+    padding:17px;
+  }
+  .v8-result-main{
+    font-size:34px;
+  }
+  .v8-method{
+    gap:14px;
+  }
+}

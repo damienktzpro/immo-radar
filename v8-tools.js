@@ -111,10 +111,19 @@
             <article class="v8-analysis-card">
               <span class="v8-card-kicker">Ordre de grandeur</span>
               <h4>Budget & loyer théoriques</h4>
-              <p>Calcul basé sur le loyer communal modélisé et la médiane DVF des appartements. Ce n’est pas une estimation d’un bien précis.</p>
-              <div class="v8-inline-form">
+              <p>Calcul basé sur la typologie choisie, le loyer communal modélisé et la médiane DVF disponible. Ce n’est pas une estimation d’un bien précis.</p>
+              <div class="v81-local-controls">
                 <div class="v8-field">
-                  <label for="v8LocalSurface">Surface du logement</label>
+                  <label for="v8LocalType">Typologie</label>
+                  <select id="v8LocalType">
+                    <option value="apartment">Appartement · toutes typologies</option>
+                    <option value="small" selected>Appartement · T1–T2</option>
+                    <option value="large">Appartement · T3 et +</option>
+                    <option value="house">Maison</option>
+                  </select>
+                </div>
+                <div class="v8-field">
+                  <label for="v8LocalSurface">Surface</label>
                   <input id="v8LocalSurface" type="number" min="10" max="300" step="1" value="40">
                 </div>
                 <button id="v8LocalRecalc" class="v8-secondary" type="button">Recalculer</button>
@@ -168,11 +177,11 @@
                   <div class="v8-field"><label>Revenus locatifs mensuels</label><input id="capRentIncome" type="number" min="0" step="25" value="0"><small>Ils peuvent être retenus différemment selon la banque.</small></div>
                   <div class="v8-field"><label>Part des loyers retenue</label><input id="capRentShare" type="number" min="0" max="100" step="5" value="70"><small>Hypothèse bancaire modifiable, pas une règle HCSF.</small></div>
                   <div class="v8-field"><label>Crédits en cours / mois</label><input id="capExisting" type="number" min="0" step="25" value="0"></div>
-                  <div class="v8-field"><label>Autres charges fixes après achat</label><input id="capOther" type="number" min="0" step="25" value="0"><small>Ex. loyer conservé après l’opération.</small></div>
+                  <div class="v8-field"><label>Autres mensualités de crédits</label><input id="capOther" type="number" min="0" step="25" value="0"><small>Autres dettes ou emprunts restant à payer après l’opération.</small></div>
                   <div class="v8-field"><label>Apport personnel</label><input id="capDeposit" type="number" min="0" step="1000" value="30000"></div>
                   <div class="v8-field"><label>Durée</label><select id="capYears"><option>15</option><option>20</option><option selected>25</option></select></div>
                   <div class="v8-field"><label>Taux nominal annuel</label><input id="capRate" type="number" min="0" max="15" step=".01" value="${BDF_RATE}"><small>Référence BDF juin 2026, hors frais et assurance.</small></div>
-                  <div class="v8-field"><label>Assurance annuelle / capital initial</label><input id="capInsurance" type="number" min="0" max="5" step=".01" value=".25"></div>
+                  <div class="v8-field"><label>Assurance annuelle / capital initial</label><input id="capInsurance" type="number" min="0" max="5" step=".01" value="0.25"></div>
                 </div>
               </div>
               <div class="v8-result-card">
@@ -193,7 +202,7 @@
                   <div class="v8-field"><label>Capital emprunté</label><input id="loanCapital" type="number" min="0" step="1000" value="250000"></div>
                   <div class="v8-field"><label>Durée</label><select id="loanYears"><option>10</option><option>15</option><option>20</option><option selected>25</option></select></div>
                   <div class="v8-field"><label>Taux nominal annuel</label><input id="loanRate" type="number" min="0" max="15" step=".01" value="${BDF_RATE}"></div>
-                  <div class="v8-field"><label>Assurance annuelle / capital initial</label><input id="loanInsurance" type="number" min="0" max="5" step=".01" value=".25"></div>
+                  <div class="v8-field"><label>Assurance annuelle / capital initial</label><input id="loanInsurance" type="number" min="0" max="5" step=".01" value="0.25"></div>
                 </div>
               </div>
               <div class="v8-result-card">
@@ -225,7 +234,7 @@
                   <div class="v8-field"><label>Montant emprunté</label><input id="yLoan" type="number" min="0" step="1000" value="160000"></div>
                   <div class="v8-field"><label>Durée du prêt</label><select id="yYears"><option>15</option><option>20</option><option selected>25</option></select></div>
                   <div class="v8-field"><label>Taux nominal</label><input id="yRate" type="number" min="0" max="15" step=".01" value="${BDF_RATE}"></div>
-                  <div class="v8-field"><label>Assurance annuelle</label><input id="yInsurance" type="number" min="0" max="5" step=".01" value=".25"></div>
+                  <div class="v8-field"><label>Assurance annuelle</label><input id="yInsurance" type="number" min="0" max="5" step=".01" value="0.25"></div>
                 </div>
               </div>
               <div class="v8-result-card">
@@ -377,12 +386,25 @@
     };
   }
 
-  function rentMetric(title,v,ref){
+  function rentMetric(title,v){
     if(!v?.rent_m2) return `<article class="v8-metric"><small>${esc(title)}</small><strong>—</strong><em>Donnée indisponible</em></article>`;
-    const range=(v.low_m2&&v.high_m2)?`${v.low_m2.toFixed(1).replace(".",",")}–${v.high_m2.toFixed(1).replace(".",",")} €/m²`:"Intervalle non disponible";
-    const obs=v.observations_commune ? `${Math.round(v.observations_commune)} obs. commune` :
-      v.observations_mesh ? `${Math.round(v.observations_mesh)} obs. maille` : "Échantillon non affiché";
-    return `<article class="v8-metric"><small>${esc(title)}</small><strong>${v.rent_m2.toFixed(1).replace(".",",")} €/m²</strong><em>${esc(range)} · ${esc(obs)}${ref?` · ${esc(ref)}`:""}</em></article>`;
+    const range=(v.low_m2&&v.high_m2)
+      ? `${v.low_m2.toFixed(1).replace(".",",")}–${v.high_m2.toFixed(1).replace(".",",")} €/m²`
+      : "Intervalle non disponible";
+    const obs=v.observations_commune
+      ? `${Math.round(v.observations_commune)} observations commune`
+      : v.observations_mesh
+        ? `${Math.round(v.observations_mesh)} observations maille`
+        : "Échantillon non affiché";
+    const method=String(v.prediction_type||"").toLowerCase().includes("mail")
+      ? "modèle par maille"
+      : "modèle communal";
+    return `<article class="v8-metric">
+      <small>${esc(title)}</small>
+      <strong>${v.rent_m2.toFixed(1).replace(".",",")} €/m²</strong>
+      <em>${esc(range)} · ${esc(obs)}</em>
+      <div class="v81-data-line"><span class="v81-data-pill">T3 2025</span><span class="v81-data-pill">${esc(method)}</span></div>
+    </article>`;
   }
 
   function renderRental(){
@@ -391,10 +413,10 @@
     $("#v8RentalTitle").textContent=t.nom||"Commune";
     $("#v8RentalMeta").textContent=[t.departement?.nom,t.region?.nom,`Code INSEE ${t.code}`].filter(Boolean).join(" · ");
     $("#v8RentalMetrics").innerHTML=[
-      rentMetric("Appartement · toutes typologies",rent.apartment,"52 m² réf."),
-      rentMetric("Appartement · T1–T2",rent.small,"37 m² réf."),
-      rentMetric("Appartement · T3 et +",rent.large,"72 m² réf."),
-      rentMetric("Maison",rent.house,"92 m² réf.")
+      rentMetric("Appartement · toutes typologies",rent.apartment),
+      rentMetric("Appartement · T1–T2",rent.small),
+      rentMetric("Appartement · T3 et +",rent.large),
+      rentMetric("Maison",rent.house)
     ].join("");
     $("#v8LocalAnalysis").hidden=false;
     renderLocalYield();
@@ -402,21 +424,41 @@
 
   function renderLocalYield(){
     const surface=Math.max(1,num($("#v8LocalSurface")?.value)||40);
-    const rentM2=rentalState.rent?.apartment?.rent_m2;
-    const priceM2=rentalState.dvf?.apartment?.median_price_m2;
+    const type=$("#v8LocalType")?.value||"small";
+    const rentData=rentalState.rent?.[type];
+    const priceFamily=type==="house"?"house":"apartment";
+    const priceData=rentalState.dvf?.[priceFamily];
+    const rentM2=rentData?.rent_m2;
+    const priceM2=priceData?.median_price_m2;
     const rentMonthly=rentM2?rentM2*surface:null;
     const purchase=priceM2?priceM2*surface:null;
+
+    const typeLabels={
+      apartment:"Appartement · toutes typologies",
+      small:"Appartement · T1–T2",
+      large:"Appartement · T3 et +",
+      house:"Maison"
+    };
+
     $("#v8LocalBudgetMetrics").innerHTML=`
-      <article class="v8-metric"><small>Loyer mensuel indicatif</small><strong>${rentMonthly?euro(rentMonthly):"—"}</strong><em>Charges comprises · modèle communal</em></article>
-      <article class="v8-metric"><small>Valeur locale indicative</small><strong>${purchase?euro(purchase):"—"}</strong><em>${priceM2?`${Math.round(priceM2).toLocaleString("fr-FR")} €/m² médian DVF`:"Prix DVF indisponible"}</em></article>
+      <article class="v8-metric">
+        <small>Loyer mensuel indicatif</small>
+        <strong>${rentMonthly?euro(rentMonthly):"—"}</strong>
+        <em>${esc(typeLabels[type])} · charges comprises · T3 2025</em>
+      </article>
+      <article class="v8-metric">
+        <small>Valeur DVF indicative</small>
+        <strong>${purchase?euro(purchase):"—"}</strong>
+        <em>${priceM2?`${Math.round(priceM2).toLocaleString("fr-FR")} €/m² médian DVF · ${priceFamily==="house"?"maisons":"appartements"}`:"Prix DVF indisponible"}</em>
+      </article>
     `;
     if(rentMonthly&&purchase){
       const y=(rentMonthly*12/purchase)*100;
       $("#v8LocalYield").textContent=pct(y,2);
-      $("#v8LocalYieldText").textContent=`Pour ${surface} m² : loyer indicatif ${euro(rentMonthly)}/mois et valeur locale d’environ ${euro(purchase)}.`;
+      $("#v8LocalYieldText").textContent=`${typeLabels[type]} · ${surface} m² : loyer indicatif ${euro(rentMonthly)}/mois pour une valeur DVF d’environ ${euro(purchase)}.`;
     }else{
       $("#v8LocalYield").textContent="—";
-      $("#v8LocalYieldText").textContent="Le rendement nécessite à la fois un indicateur de loyer et une médiane DVF disponible.";
+      $("#v8LocalYieldText").textContent="Le rendement nécessite un indicateur de loyer et une médiane DVF disponible pour la catégorie choisie.";
     }
   }
 
@@ -541,7 +583,7 @@
     $("#capBorrowing").textContent=euro(borrowing);
     $("#capResults").innerHTML=`
       <div class="v8-result-line"><span>Mensualité nouvelle disponible</span><strong>${euro(available)}</strong></div>
-      <div class="v8-result-line"><span>Budget théorique avec apport</span><strong>${euro(borrowing+deposit)}</strong></div>
+      <div class="v8-result-line"><span>Enveloppe avant frais d’acquisition</span><strong>${euro(borrowing+deposit)}</strong></div>
       <div class="v8-result-line"><span>Revenus retenus dans la simulation</span><strong>${euro(effectiveIncome)}</strong></div>
       <div class="v8-result-line"><span>Taux d’effort simulé</span><strong>${pct(effort,1)}</strong></div>
       <div class="v8-result-line"><span>Durée / taux</span><strong>${years} ans · ${pct(rate,2)}</strong></div>
@@ -658,6 +700,7 @@
     });
     $("#v8LocalRecalc").onclick=renderLocalYield;
     $("#v8LocalSurface").addEventListener("input",renderLocalYield);
+    $("#v8LocalType").addEventListener("change",renderLocalYield);
   }
 
   function init(){
