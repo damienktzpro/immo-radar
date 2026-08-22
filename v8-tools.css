@@ -229,7 +229,6 @@
   padding:10px 12px;
   margin:0;
   position:relative;
-  top:2px;
 }
 
 .main-nav .v8-nav-link:hover{
@@ -566,5 +565,10 @@
   }
   .v8-method{
     gap:14px;
+  }
+}
+@media (min-width: 761px){
+  .main-nav .v8-nav-link{
+    transform: translateY(9px);
   }
 }
