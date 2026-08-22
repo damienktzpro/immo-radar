@@ -217,22 +217,42 @@
 }
 
 /* ---------- navigation desktop ---------- */
+.main-nav{
+  display:flex;
+  align-items:center;
+}
+
+.main-nav .nav-btn,
+.main-nav .v8-nav-link{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  height:44px;
+  line-height:1;
+  padding:0 12px;
+  margin:0;
+  vertical-align:middle;
+  box-sizing:border-box;
+}
+
 .main-nav .v8-nav-link{
   color:#697185;
   font-weight:750;
   background:transparent;
   border-radius:0;
-  padding:10px 12px;
   position:relative;
 }
+
 .main-nav .v8-nav-link:hover{
   background:transparent;
   color:var(--v81-ink);
 }
+
 .main-nav .v8-nav-link.active{
   background:transparent;
   color:var(--v81-ink);
 }
+
 @media (min-width:761px){
   .main-nav .v8-nav-link.active::after{
     content:"";
