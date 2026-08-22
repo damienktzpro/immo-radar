@@ -217,22 +217,42 @@
 }
 
 /* ---------- navigation desktop ---------- */
-.main-nav{
-  display:flex;
-  align-items:center;
-}
-
-.main-nav .nav-btn,
+/* Alignement Location / Outils avec le menu d'origine */
 .main-nav .v8-nav-link{
   display:inline-flex;
   align-items:center;
   justify-content:center;
-  height:44px;
-  line-height:1;
-  padding:0 12px;
+  color:#697185;
+  font-weight:750;
+  background:transparent;
+  border-radius:0;
+  padding:10px 12px;
   margin:0;
-  vertical-align:middle;
-  box-sizing:border-box;
+  position:relative;
+  top:2px;
+}
+
+.main-nav .v8-nav-link:hover{
+  background:transparent;
+  color:var(--v81-ink);
+}
+
+.main-nav .v8-nav-link.active{
+  background:transparent;
+  color:var(--v81-ink);
+}
+
+@media (min-width:761px){
+  .main-nav .v8-nav-link.active::after{
+    content:"";
+    position:absolute;
+    left:12px;
+    right:12px;
+    bottom:-17px;
+    height:2px;
+    border-radius:99px;
+    background:var(--v81-gold);
+  }
 }
 
 .main-nav .v8-nav-link{
