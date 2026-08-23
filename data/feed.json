@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T13:04:51+00:00",
+  "generated_at": "2026-08-23T18:51:05+00:00",
   "version": "7.1",
   "items": [
     {
@@ -1642,7 +1642,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-23T13:04:15+00:00",
+        "last_success": "2026-08-23T18:50:27+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1650,7 +1650,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-23T13:04:17+00:00",
+        "last_success": "2026-08-23T18:50:30+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1658,7 +1658,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-23T13:04:18+00:00",
+        "last_success": "2026-08-23T18:50:31+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1666,7 +1666,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-23T13:04:20+00:00",
+        "last_success": "2026-08-23T18:50:32+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1674,7 +1674,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-23T13:04:37+00:00",
+        "last_success": "2026-08-23T18:50:51+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1682,7 +1682,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-08-23T13:04:44+00:00",
+        "last_success": "2026-08-23T18:50:58+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1690,7 +1690,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-23T13:04:44+00:00",
+        "last_success": "2026-08-23T18:50:58+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1698,7 +1698,7 @@
         "ok": true,
         "status": "ok",
         "retained": 12,
-        "last_success": "2026-08-23T13:04:45+00:00",
+        "last_success": "2026-08-23T18:50:59+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1706,7 +1706,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-23T13:04:45+00:00",
+        "last_success": "2026-08-23T18:51:00+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1714,7 +1714,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-23T13:04:46+00:00",
+        "last_success": "2026-08-23T18:51:01+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1722,7 +1722,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-23T13:04:47+00:00",
+        "last_success": "2026-08-23T18:51:02+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1730,7 +1730,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-23T13:04:48+00:00",
+        "last_success": "2026-08-23T18:51:03+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1738,7 +1738,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-08-23T13:04:49+00:00",
+        "last_success": "2026-08-23T18:51:05+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1746,7 +1746,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-23T13:04:50+00:00",
+        "last_success": "2026-08-23T18:51:05+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1754,7 +1754,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-23T13:04:51+00:00",
+        "last_success": "2026-08-23T18:51:05+00:00",
         "fallback": false
       }
     }
