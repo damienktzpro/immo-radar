@@ -567,8 +567,21 @@
     gap:14px;
   }
 }
+/* ALIGNEMENT FINAL NAVIGATION DESKTOP */
 @media (min-width: 761px){
-  .main-nav .v8-nav-link{
-    transform: translateY(9px);
+
+  .topbar .main-nav .nav-btn,
+  .topbar .main-nav .v8-nav-link{
+    display:flex !important;
+    align-items:center !important;
+
+    margin:0 !important;
+    transform:none !important;
+    top:auto !important;
+
+    padding-top:33px !important;
+    padding-bottom:29px !important;
+
+    line-height:1 !important;
   }
 }
