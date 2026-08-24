@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-24T07:31:44+00:00",
+  "generated_at": "2026-08-24T13:16:43+00:00",
   "items": [
     {
       "id": "d8a559c7836333f2",
@@ -17,48 +17,6 @@
         "particulier"
       ],
       "published_at": "2026-10-08T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
-    },
-    {
-      "id": "da47bfeec94f4059",
-      "title": "5 choses à savoir avant de se lancer dans la gestion locative",
-      "summary": "Le 24/08/2026 à 06H53 La location et la gestion sont des services connexes qui répondent aux attentes des clients, mais qui présentent des risques juridiques et financiers importants. Enjeux, risques, cadre réglementaire et externalisation… Les clés pour bien se lancer avec Locagestion. Loi RIPOST : encore une nouvelle mission de service public que les syndics vont mener gratuitement ! Le 24/08/2026 à 06H41 Au départ, le gouve",
-      "url": "https://www.journaldelagence.com/1413200-5-choses-a-savoir-avant-de-se-lancer-dans-la-gestion-locative",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-24T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
-    },
-    {
-      "id": "e294e09b5f571c74",
-      "title": "Loi RIPOST : encore une nouvelle mission de service public que les syndics vont mener gratuitement !",
-      "summary": "églementaire et externalisation… Les clés pour bien se lancer avec Locagestion. Le 24/08/2026 à 06H41 Au départ, le gouvernement voulait lutter contre les rodéos urbains. La loi RIPOST confie désormais aux gestionnaires de copropriété une nouvelle mission de service public… sans rémunération supplémentaire. Ne manquez pas l’éclairage d’Olivier BEDDELEEM, formateur en immobilier. Les coulisses de l’immobilier d’entreprise, ent",
-      "url": "https://www.journaldelagence.com/1413194-loi-ripost-encore-une-nouvelle-mission-de-service-public-que-les-syndics-vont-mener-gratuitement",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-24T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -153,7 +111,7 @@
     {
       "id": "5945e72c269c7768",
       "title": "Les coulisses de l’immobilier d’entreprise, entre anecdotes et leçons de terrain",
-      "summary": "taire. Ne manquez pas l’éclairage d’Olivier BEDDELEEM, formateur en immobilier. Le 20/08/2026 à 08H21 près 25 ans passés dans l'immobilier d'entreprise, René Moundzika publie 3 allée Vauban – 25 ans dans les coulisses de l'immobilier (Éditions Maïa). À travers ce premier ouvrage, le professionnel livre un témoignage personnel nourri d'expériences de terrain, d'anecdotes et de réflexions sur un secteur qu'il connaît de l'intér",
+      "summary": "d’intérêt général assumées par la profession… sans rémunération supplémentaire. Le 20/08/2026 à 08H21 près 25 ans passés dans l'immobilier d'entreprise, René Moundzika publie 3 allée Vauban – 25 ans dans les coulisses de l'immobilier (Éditions Maïa). À travers ce premier ouvrage, le professionnel livre un témoignage personnel nourri d'expériences de terrain, d'anecdotes et de réflexions sur un secteur qu'il connaît de l'intér",
       "url": "https://www.journaldelagence.com/1413023-les-coulisses-de-limmobilier-dentreprise-entre-anecdotes-et-lecons-de-terrain",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -252,6 +210,48 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "da47bfeec94f4059",
+      "title": "5 choses à savoir avant de se lancer dans la gestion locative",
+      "summary": "Le 24/08/2026 à 06H53 La location et la gestion sont des services connexes qui répondent aux attentes des clients, mais qui présentent des risques juridiques et financiers importants. Enjeux, risques, cadre réglementaire et externalisation… Les clés pour bien se lancer avec Locagestion. Rodéos urbains : une nouvelle mission inattendue pour les syndics de copropriété Le 24/08/2026 à 06H41 Depuis le 19 août 2026, la loi RIPOST i",
+      "url": "https://www.journaldelagence.com/1413200-5-choses-a-savoir-avant-de-se-lancer-dans-la-gestion-locative",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "371a081076b815a4",
+      "title": "Rodéos urbains : une nouvelle mission inattendue pour les syndics de copropriété",
+      "summary": "églementaire et externalisation… Les clés pour bien se lancer avec Locagestion. Le 24/08/2026 à 06H41 Depuis le 19 août 2026, la loi RIPOST interdit le remisage d’engins motorisés dans les parties communes, caves et sous-sols des copropriétés, sauf espaces spécialement aménagés. Une mesure pensée notamment pour lutter contre les rodéos urbains, mais qui confie de fait une nouvelle tâche aux syndics. Pour Olivier Bedeleem, ell",
+      "url": "https://www.journaldelagence.com/1413194-loi-ripost-encore-une-nouvelle-mission-de-service-public-que-les-syndics-vont-mener-gratuitement",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
       "id": "0b1756554f4604ab",
@@ -470,6 +470,69 @@
       "summary": "à une transformation durable de notre conception de la propriété immobilière ? Le 18/08/2026 à 07H08 Dans une annonce immobilière, la confiance naît de l'alignement entre ce qui est écrit et ce qui peut être vérifié. À l'appui de plusieurs recherches scientifiques, Nathalie Gardes montre que les annonces les plus efficaces ne sont plus celles qui multiplient les superlatifs, mais celles qui donnent aux acquéreurs les éléments",
       "url": "https://www.journaldelagence.com/1412978-quest-ce-qui-fait-une-bonne-annonce-immobiliere-ce-nest-pas-sa-capacite-a-faire-rever-mais-a-inspirer-confiance",
       "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "69565539196cd1c3",
+      "title": "Tous corps d'état",
+      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant",
+      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "135874d9ef9c7687",
+      "title": "Tous métiers de la construction",
+      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le",
+      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "b507c4ff7769afdd",
+      "title": "Construction (tous corps d'état)",
+      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 1",
+      "url": "https://www.batiactu.com/theme/theme-construction.php",
+      "source": "Batiactu",
       "source_level": "C",
       "category": "marche",
       "audiences": [
@@ -1407,69 +1470,6 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
-    },
-    {
-      "id": "69565539196cd1c3",
-      "title": "Tous corps d'état",
-      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Té",
-      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-31T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "135874d9ef9c7687",
-      "title": "Tous métiers de la construction",
-      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Témoin \"En matiè",
-      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-31T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "b507c4ff7769afdd",
-      "title": "Construction (tous corps d'état)",
-      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Économie Saint-Gobain confirme le retour de la croissance de ses ventes en France RÉSULTATS SEMESTRIELS. Le groupe, qui vient de divulguer ses résultats portant sur le premier semestre 2026, a enregistré une légère baisse de son chiffre d'affaires, avec toutefois une amélioration de la croissance de ses ... Publié le 31/07/2026 Grand Témoin \"En matièr",
-      "url": "https://www.batiactu.com/theme/theme-construction.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-31T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "c97fbcb683b89861",
