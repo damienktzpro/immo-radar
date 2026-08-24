@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T02:00:43+00:00",
+  "generated_at": "2026-08-24T07:31:44+00:00",
   "version": "7.1",
   "items": [
     {
@@ -16,6 +16,48 @@
         "particulier"
       ],
       "published_at": "2026-10-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "da47bfeec94f4059",
+      "title": "5 choses à savoir avant de se lancer dans la gestion locative",
+      "summary": "Le 24/08/2026 à 06H53 La location et la gestion sont des services connexes qui répondent aux attentes des clients, mais qui présentent des risques juridiques et financiers importants. Enjeux, risques, cadre réglementaire et externalisation… Les clés pour bien se lancer avec Locagestion. Loi RIPOST : encore une nouvelle mission de service public que les syndics vont mener gratuitement ! Le 24/08/2026 à 06H41 Au départ, le gouve",
+      "url": "https://www.journaldelagence.com/1413200-5-choses-a-savoir-avant-de-se-lancer-dans-la-gestion-locative",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "e294e09b5f571c74",
+      "title": "Loi RIPOST : encore une nouvelle mission de service public que les syndics vont mener gratuitement !",
+      "summary": "églementaire et externalisation… Les clés pour bien se lancer avec Locagestion. Le 24/08/2026 à 06H41 Au départ, le gouvernement voulait lutter contre les rodéos urbains. La loi RIPOST confie désormais aux gestionnaires de copropriété une nouvelle mission de service public… sans rémunération supplémentaire. Ne manquez pas l’éclairage d’Olivier BEDDELEEM, formateur en immobilier. Les coulisses de l’immobilier d’entreprise, ent",
+      "url": "https://www.journaldelagence.com/1413194-loi-ripost-encore-une-nouvelle-mission-de-service-public-que-les-syndics-vont-mener-gratuitement",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -110,7 +152,7 @@
     {
       "id": "5945e72c269c7768",
       "title": "Les coulisses de l’immobilier d’entreprise, entre anecdotes et leçons de terrain",
-      "summary": "Le 20/08/2026 à 08H21 près 25 ans passés dans l'immobilier d'entreprise, René Moundzika publie 3 allée Vauban – 25 ans dans les coulisses de l'immobilier (Éditions Maïa). À travers ce premier ouvrage, le professionnel livre un témoignage personnel nourri d'expériences de terrain, d'anecdotes et de réflexions sur un secteur qu'il connaît de l'intérieur. Un récit qui retrace son parcours, tout en dressant le portrait d'un métier",
+      "summary": "taire. Ne manquez pas l’éclairage d’Olivier BEDDELEEM, formateur en immobilier. Le 20/08/2026 à 08H21 près 25 ans passés dans l'immobilier d'entreprise, René Moundzika publie 3 allée Vauban – 25 ans dans les coulisses de l'immobilier (Éditions Maïa). À travers ce premier ouvrage, le professionnel livre un témoignage personnel nourri d'expériences de terrain, d'anecdotes et de réflexions sur un secteur qu'il connaît de l'intér",
       "url": "https://www.journaldelagence.com/1413023-les-coulisses-de-limmobilier-dentreprise-entre-anecdotes-et-lecons-de-terrain",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -777,48 +819,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "8929852ca5dc3634",
-      "title": "Immobilier : que peut-on acheter en France avec 250 000 € ?",
-      "summary": "r leurs fournisseurs d'IA dans leur gouvernance de l'intelligence artificielle. Le 11/08/2026 à 07H49 Un budget ne raconte jamais toute l'histoire d'un projet immobilier. Les 250 000 € qui permettent d'acquérir un studio dans certaines villes ouvrent parfois les portes d'une maison familiale ailleurs. Une récente étude de SeLoger illustre, chiffres à l'appui, l'ampleur des écarts de pouvoir d'achat immobilier sur le territoir",
-      "url": "https://www.journaldelagence.com/1412535-immobilier-que-peut-on-acheter-en-france-avec-250-000-e",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-11T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "e86c649ef1cbb466",
-      "title": "Aménagements extérieurs : 5 points de vigilance à surveiller avant une vente",
-      "summary": "s en quête du meilleur compromis entre surface, localisation et qualité de vie. Le 11/08/2026 à 07H28 Les aménagements extérieurs constituent un véritable atout commercial… à condition qu'ils soient parfaitement régularisés. Urbanisme, fiscalité, PLU, revente : autant de sujets sur lesquels les propriétaires commettent encore des erreurs. Voici cinq situations que tout agent immobilier a intérêt à savoir repérer pour mieux co",
-      "url": "https://www.journaldelagence.com/1412798-amenagements-exterieurs-5-points-de-vigilance-a-surveiller-avant-une-vente",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "territoires",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-11T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Territoires",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
     },
     {
       "id": "8cf0647c90452195",
@@ -1641,10 +1641,10 @@
   ],
   "source_stats": {
     "Batiactu": 10,
+    "Journal de l'Agence": 15,
     "ANIL": 12,
     "MySweetImmo": 16,
     "Immobilier 2.0": 16,
-    "Journal de l'Agence": 15,
     "Légifrance": 5,
     "SDES / Sitadel": 1,
     "Insee": 1,
@@ -1664,7 +1664,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-24T01:59:55+00:00",
+        "last_success": "2026-08-24T07:31:01+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1672,7 +1672,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-24T01:59:59+00:00",
+        "last_success": "2026-08-24T07:31:05+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1680,7 +1680,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-24T02:00:00+00:00",
+        "last_success": "2026-08-24T07:31:06+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1688,7 +1688,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-24T02:00:02+00:00",
+        "last_success": "2026-08-24T07:31:07+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1696,7 +1696,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-24T02:00:25+00:00",
+        "last_success": "2026-08-24T07:31:27+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1704,7 +1704,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-08-24T02:00:34+00:00",
+        "last_success": "2026-08-24T07:31:35+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1712,7 +1712,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-24T02:00:34+00:00",
+        "last_success": "2026-08-24T07:31:35+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1720,7 +1720,7 @@
         "ok": true,
         "status": "ok",
         "retained": 12,
-        "last_success": "2026-08-24T02:00:35+00:00",
+        "last_success": "2026-08-24T07:31:36+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1728,7 +1728,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-24T02:00:36+00:00",
+        "last_success": "2026-08-24T07:31:36+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1736,7 +1736,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-24T02:00:37+00:00",
+        "last_success": "2026-08-24T07:31:38+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1744,7 +1744,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-24T02:00:39+00:00",
+        "last_success": "2026-08-24T07:31:39+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1752,7 +1752,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-24T02:00:40+00:00",
+        "last_success": "2026-08-24T07:31:40+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1760,7 +1760,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-08-24T02:00:42+00:00",
+        "last_success": "2026-08-24T07:31:42+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1768,7 +1768,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-24T02:00:43+00:00",
+        "last_success": "2026-08-24T07:31:42+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1776,7 +1776,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-24T02:00:43+00:00",
+        "last_success": "2026-08-24T07:31:44+00:00",
         "fallback": false
       }
     }

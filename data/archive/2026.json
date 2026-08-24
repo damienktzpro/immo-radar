@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-24T02:00:43+00:00",
+  "generated_at": "2026-08-24T07:31:44+00:00",
   "items": [
     {
       "id": "d8a559c7836333f2",
@@ -17,6 +17,48 @@
         "particulier"
       ],
       "published_at": "2026-10-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "da47bfeec94f4059",
+      "title": "5 choses à savoir avant de se lancer dans la gestion locative",
+      "summary": "Le 24/08/2026 à 06H53 La location et la gestion sont des services connexes qui répondent aux attentes des clients, mais qui présentent des risques juridiques et financiers importants. Enjeux, risques, cadre réglementaire et externalisation… Les clés pour bien se lancer avec Locagestion. Loi RIPOST : encore une nouvelle mission de service public que les syndics vont mener gratuitement ! Le 24/08/2026 à 06H41 Au départ, le gouve",
+      "url": "https://www.journaldelagence.com/1413200-5-choses-a-savoir-avant-de-se-lancer-dans-la-gestion-locative",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "e294e09b5f571c74",
+      "title": "Loi RIPOST : encore une nouvelle mission de service public que les syndics vont mener gratuitement !",
+      "summary": "églementaire et externalisation… Les clés pour bien se lancer avec Locagestion. Le 24/08/2026 à 06H41 Au départ, le gouvernement voulait lutter contre les rodéos urbains. La loi RIPOST confie désormais aux gestionnaires de copropriété une nouvelle mission de service public… sans rémunération supplémentaire. Ne manquez pas l’éclairage d’Olivier BEDDELEEM, formateur en immobilier. Les coulisses de l’immobilier d’entreprise, ent",
+      "url": "https://www.journaldelagence.com/1413194-loi-ripost-encore-une-nouvelle-mission-de-service-public-que-les-syndics-vont-mener-gratuitement",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -111,7 +153,7 @@
     {
       "id": "5945e72c269c7768",
       "title": "Les coulisses de l’immobilier d’entreprise, entre anecdotes et leçons de terrain",
-      "summary": "Le 20/08/2026 à 08H21 près 25 ans passés dans l'immobilier d'entreprise, René Moundzika publie 3 allée Vauban – 25 ans dans les coulisses de l'immobilier (Éditions Maïa). À travers ce premier ouvrage, le professionnel livre un témoignage personnel nourri d'expériences de terrain, d'anecdotes et de réflexions sur un secteur qu'il connaît de l'intérieur. Un récit qui retrace son parcours, tout en dressant le portrait d'un métier",
+      "summary": "taire. Ne manquez pas l’éclairage d’Olivier BEDDELEEM, formateur en immobilier. Le 20/08/2026 à 08H21 près 25 ans passés dans l'immobilier d'entreprise, René Moundzika publie 3 allée Vauban – 25 ans dans les coulisses de l'immobilier (Éditions Maïa). À travers ce premier ouvrage, le professionnel livre un témoignage personnel nourri d'expériences de terrain, d'anecdotes et de réflexions sur un secteur qu'il connaît de l'intér",
       "url": "https://www.journaldelagence.com/1413023-les-coulisses-de-limmobilier-dentreprise-entre-anecdotes-et-lecons-de-terrain",
       "source": "Journal de l'Agence",
       "source_level": "C",
