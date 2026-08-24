@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T13:16:43+00:00",
+  "generated_at": "2026-08-24T19:03:35+00:00",
   "version": "7.1",
   "items": [
     {
@@ -22,6 +22,69 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "69565539196cd1c3",
+      "title": "Tous corps d'état",
+      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 Grand Té",
+      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "135874d9ef9c7687",
+      "title": "Tous métiers de la construction",
+      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 Grand Témoin \"En matiè",
+      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "b507c4ff7769afdd",
+      "title": "Construction (tous corps d'état)",
+      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 Grand Témoin \"En matièr",
+      "url": "https://www.batiactu.com/theme/theme-construction.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "ec323fee403f01dc",
@@ -469,69 +532,6 @@
       "summary": "à une transformation durable de notre conception de la propriété immobilière ? Le 18/08/2026 à 07H08 Dans une annonce immobilière, la confiance naît de l'alignement entre ce qui est écrit et ce qui peut être vérifié. À l'appui de plusieurs recherches scientifiques, Nathalie Gardes montre que les annonces les plus efficaces ne sont plus celles qui multiplient les superlatifs, mais celles qui donnent aux acquéreurs les éléments",
       "url": "https://www.journaldelagence.com/1412978-quest-ce-qui-fait-une-bonne-annonce-immobiliere-ce-nest-pas-sa-capacite-a-faire-rever-mais-a-inspirer-confiance",
       "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "69565539196cd1c3",
-      "title": "Tous corps d'état",
-      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant",
-      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "135874d9ef9c7687",
-      "title": "Tous métiers de la construction",
-      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le",
-      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "b507c4ff7769afdd",
-      "title": "Construction (tous corps d'état)",
-      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 1",
-      "url": "https://www.batiactu.com/theme/theme-construction.php",
-      "source": "Batiactu",
       "source_level": "C",
       "category": "marche",
       "audiences": [
@@ -1303,6 +1303,48 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
+      "id": "f69cece18ac6ddd0",
+      "title": "Des chiffres, l'actu : cette semaine, facture salée pour les TPE 16/07/2026",
+      "summary": "Des chiffres, l'actu : cette semaine, facture salée pour le logement social 09/07/2026",
+      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-tpe-74984.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "03cec9e3ee1743c9",
+      "title": "Des chiffres, l'actu : cette semaine, facture salée pour le logement social 09/07/2026",
+      "summary": "Des chiffres, l'actu : cette semaine, facture salée pour les TPE 16/07/2026",
+      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-logement-74943.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
       "id": "7f53bedcbc1d04f9",
       "title": "Promotion : Nexity et BPCE souhaitent créer une entreprise commune dédiée à l’immobilier neuf",
       "summary": "16 juillet 2026 - Nexity et le Groupe BPCE ont annoncé être entrés en négociations exclusives en vue d’une double opération concernant leurs activités de distribution. Leur objectif : [...]",
@@ -1491,48 +1533,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "03cec9e3ee1743c9",
-      "title": "Des chiffres, l'actu : cette semaine, facture salée pour le logement social 09/07/2026",
-      "summary": "À Montpellier, des immeubles inspirés des coquillages pour résister aux fortes chaleurs 06/07/2026",
-      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-logement-74943.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-09T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "5a36eac4b950b84c",
-      "title": "À Montpellier, des immeubles inspirés des coquillages pour résister aux fortes chaleurs 06/07/2026",
-      "summary": "Des chiffres, l'actu : cette semaine, facture salée pour le logement social 09/07/2026",
-      "url": "https://www.batiactu.com/edito/a-montpellier-immeubles-inspires-coquillages-resister-74894.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-09T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
       "id": "9f43e84d36106b95",
       "title": "Canicule : le confort climatique s’insère parmi les critères de recherche immobilière",
       "summary": "7 juillet 2026 - La plateforme leboncoin a sorti une nouvelle étude avec des données pertinentes pour les pros de l’immobilier. Intitulée « Canicule & Immobilier 2026 », cette étude [...]",
@@ -1657,14 +1657,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 78,
-    "rejected": 1082,
+    "rejected": 1081,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-24T13:16:03+00:00",
+        "last_success": "2026-08-24T19:02:58+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1672,7 +1672,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-24T13:16:06+00:00",
+        "last_success": "2026-08-24T19:03:01+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1680,7 +1680,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-24T13:16:07+00:00",
+        "last_success": "2026-08-24T19:03:02+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1688,7 +1688,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-24T13:16:08+00:00",
+        "last_success": "2026-08-24T19:03:03+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1696,7 +1696,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-24T13:16:25+00:00",
+        "last_success": "2026-08-24T19:03:20+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1704,7 +1704,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-08-24T13:16:33+00:00",
+        "last_success": "2026-08-24T19:03:27+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1712,7 +1712,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-24T13:16:33+00:00",
+        "last_success": "2026-08-24T19:03:27+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1720,7 +1720,7 @@
         "ok": true,
         "status": "ok",
         "retained": 12,
-        "last_success": "2026-08-24T13:16:33+00:00",
+        "last_success": "2026-08-24T19:03:30+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1728,7 +1728,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-24T13:16:34+00:00",
+        "last_success": "2026-08-24T19:03:30+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1736,7 +1736,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-24T13:16:35+00:00",
+        "last_success": "2026-08-24T19:03:31+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1744,7 +1744,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-24T13:16:36+00:00",
+        "last_success": "2026-08-24T19:03:33+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1752,7 +1752,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-24T13:16:37+00:00",
+        "last_success": "2026-08-24T19:03:33+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1760,7 +1760,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-08-24T13:16:38+00:00",
+        "last_success": "2026-08-24T19:03:35+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1768,7 +1768,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-24T13:16:42+00:00",
+        "last_success": "2026-08-24T19:03:35+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1776,7 +1776,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-24T13:16:43+00:00",
+        "last_success": "2026-08-24T19:03:35+00:00",
         "fallback": false
       }
     }

@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-24T13:16:43+00:00",
+  "generated_at": "2026-08-24T19:03:35+00:00",
   "items": [
     {
       "id": "d8a559c7836333f2",
@@ -23,6 +23,69 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "69565539196cd1c3",
+      "title": "Tous corps d'état",
+      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 Grand Té",
+      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "135874d9ef9c7687",
+      "title": "Tous métiers de la construction",
+      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 Grand Témoin \"En matiè",
+      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "b507c4ff7769afdd",
+      "title": "Construction (tous corps d'état)",
+      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 Grand Témoin \"En matièr",
+      "url": "https://www.batiactu.com/theme/theme-construction.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "ec323fee403f01dc",
@@ -470,69 +533,6 @@
       "summary": "à une transformation durable de notre conception de la propriété immobilière ? Le 18/08/2026 à 07H08 Dans une annonce immobilière, la confiance naît de l'alignement entre ce qui est écrit et ce qui peut être vérifié. À l'appui de plusieurs recherches scientifiques, Nathalie Gardes montre que les annonces les plus efficaces ne sont plus celles qui multiplient les superlatifs, mais celles qui donnent aux acquéreurs les éléments",
       "url": "https://www.journaldelagence.com/1412978-quest-ce-qui-fait-une-bonne-annonce-immobiliere-ce-nest-pas-sa-capacite-a-faire-rever-mais-a-inspirer-confiance",
       "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "69565539196cd1c3",
-      "title": "Tous corps d'état",
-      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant",
-      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "135874d9ef9c7687",
-      "title": "Tous métiers de la construction",
-      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le",
-      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "b507c4ff7769afdd",
-      "title": "Construction (tous corps d'état)",
-      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 1",
-      "url": "https://www.batiactu.com/theme/theme-construction.php",
-      "source": "Batiactu",
       "source_level": "C",
       "category": "marche",
       "audiences": [
@@ -1892,6 +1892,48 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
+      "id": "03cec9e3ee1743c9",
+      "title": "Des chiffres, l'actu : cette semaine, facture salée pour le logement social 09/07/2026",
+      "summary": "Des chiffres, l'actu : cette semaine, facture salée pour les TPE 16/07/2026",
+      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-logement-74943.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "f69cece18ac6ddd0",
+      "title": "Des chiffres, l'actu : cette semaine, facture salée pour les TPE 16/07/2026",
+      "summary": "Des chiffres, l'actu : cette semaine, facture salée pour le logement social 09/07/2026",
+      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-tpe-74984.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
       "id": "4c1970be64377870",
       "title": "« C’est frais chez Guy Hoquet » : face à la canicule, le réseau immobilier accueille les Français dans ses agences",
       "summary": "15 juillet 2026 - Avec les nombreux épisodes de fortes chaleurs et canicules en France, les agences Guy Hoquet et les cabinets Hoquet Business participants ont lancé l’opération [...]",
@@ -2078,27 +2120,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "03cec9e3ee1743c9",
-      "title": "Des chiffres, l'actu : cette semaine, facture salée pour le logement social 09/07/2026",
-      "summary": "À Montpellier, des immeubles inspirés des coquillages pour résister aux fortes chaleurs 06/07/2026",
-      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-logement-74943.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-09T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "5a36eac4b950b84c",
