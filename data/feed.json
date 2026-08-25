@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:03:35+00:00",
+  "generated_at": "2026-08-25T01:55:31+00:00",
   "version": "7.1",
   "items": [
     {
@@ -1657,14 +1657,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 78,
-    "rejected": 1081,
+    "rejected": 1004,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-24T19:02:58+00:00",
+        "last_success": "2026-08-25T01:54:53+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1672,7 +1672,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-24T19:03:01+00:00",
+        "last_success": "2026-08-25T01:54:59+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1680,7 +1680,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-24T19:03:02+00:00",
+        "last_success": "2026-08-25T01:55:00+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1688,7 +1688,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-24T19:03:03+00:00",
+        "last_success": "2026-08-25T01:55:02+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1696,7 +1696,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-24T19:03:20+00:00",
+        "last_success": "2026-08-25T01:55:17+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1704,7 +1704,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-08-24T19:03:27+00:00",
+        "last_success": "2026-08-25T01:55:25+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1712,7 +1712,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-24T19:03:27+00:00",
+        "last_success": "2026-08-25T01:55:25+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1720,7 +1720,7 @@
         "ok": true,
         "status": "ok",
         "retained": 12,
-        "last_success": "2026-08-24T19:03:30+00:00",
+        "last_success": "2026-08-25T01:55:26+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1728,7 +1728,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-24T19:03:30+00:00",
+        "last_success": "2026-08-25T01:55:26+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1736,7 +1736,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-24T19:03:31+00:00",
+        "last_success": "2026-08-25T01:55:27+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1744,7 +1744,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-24T19:03:33+00:00",
+        "last_success": "2026-08-25T01:55:28+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1752,7 +1752,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-24T19:03:33+00:00",
+        "last_success": "2026-08-25T01:55:29+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1760,7 +1760,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-08-24T19:03:35+00:00",
+        "last_success": "2026-08-25T01:55:30+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1768,7 +1768,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-24T19:03:35+00:00",
+        "last_success": "2026-08-25T01:55:31+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1776,7 +1776,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-24T19:03:35+00:00",
+        "last_success": "2026-08-25T01:55:31+00:00",
         "fallback": false
       }
     }
