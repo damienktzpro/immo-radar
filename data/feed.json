@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:11:35+00:00",
+  "generated_at": "2026-08-25T13:14:37+00:00",
   "version": "7.1",
   "items": [
     {
@@ -22,6 +22,27 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "c374b6141a66baa5",
+      "title": "Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d'euros",
+      "summary": "Nouveau Luxe",
+      "url": "https://www.mysweetimmo.com/2026/08/25/immobilier-provence-1-000-m%c2%b2-et-600-ans-dhistoire-a-vendre-44-millions-deuros/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "cb40731a15edc9e3",
@@ -83,6 +104,90 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
+    },
+    {
+      "id": "662b4ceb706a5224",
+      "title": "En débat Le logement abordable doit être la \"grande politique sociale de la prochaine mandature\" 25/08/2026",
+      "summary": "En débat Logement : le candidat Bruno Retailleau propose un choc d'offre dès 2027",
+      "url": "https://www.batiactu.com/edito/bruno-maire-le-logement-abordable-doit-etre-grande-75139.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "69565539196cd1c3",
+      "title": "Tous corps d'état",
+      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 Grand Té",
+      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "135874d9ef9c7687",
+      "title": "Tous métiers de la construction",
+      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 Grand Témoin \"En matiè",
+      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "b507c4ff7769afdd",
+      "title": "Construction (tous corps d'état)",
+      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 Grand Témoin \"En matièr",
+      "url": "https://www.batiactu.com/theme/theme-construction.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "ec323fee403f01dc",
@@ -464,7 +569,7 @@
     {
       "id": "d7de534a824dac0f",
       "title": "Incendies dans le Sud-Ouest : Bien’ici se mobilise pour aider au relogement des sinistrés",
-      "summary": "Vie Pro",
+      "summary": "Incendies dans le Sud-Ouest : Bien’ici se mobilise pour aider au relogement des sinistrés",
       "url": "https://www.mysweetimmo.com/2026/08/18/incendies-dans-le-sud-ouest-bienici-se-mobilise-pour-aider-au-relogement-des-sinistres/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -530,69 +635,6 @@
       "summary": "à une transformation durable de notre conception de la propriété immobilière ? Le 18/08/2026 à 07H08 Dans une annonce immobilière, la confiance naît de l'alignement entre ce qui est écrit et ce qui peut être vérifié. À l'appui de plusieurs recherches scientifiques, Nathalie Gardes montre que les annonces les plus efficaces ne sont plus celles qui multiplient les superlatifs, mais celles qui donnent aux acquéreurs les éléments",
       "url": "https://www.journaldelagence.com/1412978-quest-ce-qui-fait-une-bonne-annonce-immobiliere-ce-nest-pas-sa-capacite-a-faire-rever-mais-a-inspirer-confiance",
       "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "69565539196cd1c3",
-      "title": "Tous corps d'état",
-      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant",
-      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "135874d9ef9c7687",
-      "title": "Tous métiers de la construction",
-      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le",
-      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "b507c4ff7769afdd",
-      "title": "Construction (tous corps d'état)",
-      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 1",
-      "url": "https://www.batiactu.com/theme/theme-construction.php",
-      "source": "Batiactu",
       "source_level": "C",
       "category": "marche",
       "audiences": [
@@ -919,27 +961,6 @@
         "pro"
       ],
       "published_at": "2026-08-10T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "88dfb213383334d0",
-      "title": "Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire",
-      "summary": "Immobilier : Acheter près d’une forêt, ce que le vendeur est obligé de vous dire",
-      "url": "https://www.mysweetimmo.com/2026/08/06/immobilier-acheter-pres-dune-foret-ce-que-le-vendeur-est-oblige-de-vous-dire/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-06T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1619,8 +1640,8 @@
       "legal_stage": "jorf"
     },
     {
-      "id": "3c6d38ba2d74b3f6",
-      "title": "Taxe foncière : quel niveau de revenus pour être exonéré ou bénéficié d’une réduction ?",
+      "id": "6e86b5fc91d50b7c",
+      "title": "Taxe foncière : quel niveau de revenus pour être exonéré ou bénéficier d’une réduction ?",
       "summary": "Les avis de taxe foncière sur les propriétés bâties vous sont transmis à compter du 24 août. Si vous êtes propriétaire ou usufruitier d'un logement, vous devez en règle générale vous acquitter de cet impôt local. Des cas d’exonération et de réduction existent ; ils sont notamment liés à votre âge et au montant de vos ressources financières.",
       "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19047?xtor=RSS-111",
       "source": "Service-Public.fr",
@@ -1641,10 +1662,10 @@
     }
   ],
   "source_stats": {
-    "Batiactu": 10,
+    "Batiactu": 11,
+    "MySweetImmo": 16,
     "Journal de l'Agence": 15,
     "ANIL": 12,
-    "MySweetImmo": 16,
     "Immobilier 2.0": 16,
     "Légifrance": 5,
     "SDES / Sitadel": 1,
@@ -1657,7 +1678,7 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 78,
+    "retained": 79,
     "rejected": 1004,
     "by_source": {
       "Service-Public.fr": {
@@ -1665,7 +1686,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-25T07:10:59+00:00",
+        "last_success": "2026-08-25T13:13:54+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1673,7 +1694,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-25T07:11:03+00:00",
+        "last_success": "2026-08-25T13:13:58+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1681,7 +1702,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-25T07:11:04+00:00",
+        "last_success": "2026-08-25T13:13:59+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1689,7 +1710,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-25T07:11:05+00:00",
+        "last_success": "2026-08-25T13:14:00+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1697,7 +1718,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-25T07:11:21+00:00",
+        "last_success": "2026-08-25T13:14:20+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1705,7 +1726,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-08-25T07:11:29+00:00",
+        "last_success": "2026-08-25T13:14:28+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1713,7 +1734,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-25T07:11:29+00:00",
+        "last_success": "2026-08-25T13:14:28+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1721,7 +1742,7 @@
         "ok": true,
         "status": "ok",
         "retained": 12,
-        "last_success": "2026-08-25T07:11:30+00:00",
+        "last_success": "2026-08-25T13:14:29+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1729,7 +1750,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-25T07:11:30+00:00",
+        "last_success": "2026-08-25T13:14:30+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1737,7 +1758,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-25T07:11:31+00:00",
+        "last_success": "2026-08-25T13:14:31+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1745,7 +1766,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-25T07:11:32+00:00",
+        "last_success": "2026-08-25T13:14:32+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1753,15 +1774,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-25T07:11:33+00:00",
+        "last_success": "2026-08-25T13:14:33+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 10,
-        "last_success": "2026-08-25T07:11:34+00:00",
+        "retained": 11,
+        "last_success": "2026-08-25T13:14:35+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1769,7 +1790,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-25T07:11:35+00:00",
+        "last_success": "2026-08-25T13:14:35+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1777,7 +1798,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-25T07:11:35+00:00",
+        "last_success": "2026-08-25T13:14:37+00:00",
         "fallback": false
       }
     }
