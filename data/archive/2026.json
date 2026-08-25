@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-25T01:55:31+00:00",
+  "generated_at": "2026-08-25T07:11:35+00:00",
   "items": [
     {
       "id": "d8a559c7836333f2",
@@ -25,11 +25,11 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
-      "id": "69565539196cd1c3",
-      "title": "Tous corps d'état",
-      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 Grand Té",
-      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
-      "source": "Batiactu",
+      "id": "cb40731a15edc9e3",
+      "title": "Risque sécheresse, consommation, équipements : l’eau, un nouveau critère de valeur pour les biens immobiliers",
+      "summary": "Le 25/08/2026 à 08H17 Restrictions généralisées à l'été 2026, prix de l'eau en hausse durable, extension du zonage argiles depuis le 1er juillet : la question de l'eau s'invite dans les transactions. Points de vigilance à la mise en vente, équipements à valoriser, chiffres à connaître ; tour d'horizon de ce qui change pour les agents immobiliers, et de ce qui peut devenir un argument. Par Quentin Lagallarde. Choisir un locatai",
+      "url": "https://www.journaldelagence.com/1413222-risque-secheresse-consommation-equipements-leau-un-nouveau-critere-de-valeur-pour-les-biens-immobiliers",
+      "source": "Journal de l'Agence",
       "source_level": "C",
       "category": "marche",
       "audiences": [
@@ -37,7 +37,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-24T09:00:00+00:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -46,46 +46,44 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "135874d9ef9c7687",
-      "title": "Tous métiers de la construction",
-      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 Grand Témoin \"En matiè",
-      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
-      "source": "Batiactu",
+      "id": "24bc2dcd6683c134",
+      "title": "Choisir un locataire sans discriminer : les réflexes à adopter en agence",
+      "summary": "nts immobiliers, et de ce qui peut devenir un argument. Par Quentin Lagallarde. Le 25/08/2026 à 07H29 Malgré l’obligation de formation des professionnels, les discriminations à la location restent une réalité : selon la campagne de testing 2025 de SOS Racisme, 48 % des 198 agences testées ont accepté ou facilité une discrimination raciale. Un constat qui rappelle que connaître la règle ne suffit pas. De la sélection des dossi",
+      "url": "https://www.journaldelagence.com/1413216-choisir-un-locataire-sans-discriminer-les-reflexes-a-adopter-en-agence",
+      "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "marche",
+      "category": "pro",
       "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
+        "pro",
+        "investisseur"
       ],
-      "published_at": "2026-08-24T09:00:00+00:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
-      "id": "b507c4ff7769afdd",
-      "title": "Construction (tous corps d'état)",
-      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 Grand Témoin \"En matièr",
-      "url": "https://www.batiactu.com/theme/theme-construction.php",
-      "source": "Batiactu",
+      "id": "e7218a3ddaae4ef8",
+      "title": "Comment se réapproprier le marketing de proximité ?",
+      "summary": "ues et leurs critères que les professionnels peuvent sécuriser leurs décisions. Le 25/08/2026 à 07H02 Depuis l’entrée en vigueur le 11 août de l’interdiction du démarchage téléphonique non sollicité, les professionnels de l’immobilier sont contraints de repenser en profondeur leur approche commerciale. Fini le temps où le volume d’appels tenait lieu de stratégie marketing, place désormais à une nouvelle ère : celle du marketi",
+      "url": "https://www.journaldelagence.com/1413211-comment-se-reapproprier-le-marketing-de-proximite",
+      "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "marche",
+      "category": "pro",
       "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
+        "pro",
+        "investisseur"
       ],
-      "published_at": "2026-08-24T09:00:00+00:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
       "id": "ec323fee403f01dc",
@@ -277,7 +275,7 @@
     {
       "id": "da47bfeec94f4059",
       "title": "5 choses à savoir avant de se lancer dans la gestion locative",
-      "summary": "Le 24/08/2026 à 06H53 La location et la gestion sont des services connexes qui répondent aux attentes des clients, mais qui présentent des risques juridiques et financiers importants. Enjeux, risques, cadre réglementaire et externalisation… Les clés pour bien se lancer avec Locagestion. Rodéos urbains : une nouvelle mission inattendue pour les syndics de copropriété Le 24/08/2026 à 06H41 Depuis le 19 août 2026, la loi RIPOST i",
+      "summary": "celle du marketing local. Le point sur les bonnes pratiques à mettre en place. Le 24/08/2026 à 06H53 La location et la gestion sont des services connexes qui répondent aux attentes des clients, mais qui présentent des risques juridiques et financiers importants. Enjeux, risques, cadre réglementaire et externalisation… Les clés pour bien se lancer avec Locagestion. Rodéos urbains : une nouvelle mission inattendue pour les synd",
       "url": "https://www.journaldelagence.com/1413200-5-choses-a-savoir-avant-de-se-lancer-dans-la-gestion-locative",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -421,6 +419,69 @@
       "topic": "Patrimoine immobilier",
       "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
       "legal_stage": "jorf"
+    },
+    {
+      "id": "69565539196cd1c3",
+      "title": "Tous corps d'état",
+      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant",
+      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "135874d9ef9c7687",
+      "title": "Tous métiers de la construction",
+      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le",
+      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "b507c4ff7769afdd",
+      "title": "Construction (tous corps d'état)",
+      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 1",
+      "url": "https://www.batiactu.com/theme/theme-construction.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "76a83a15dbf75310",

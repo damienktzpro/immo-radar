@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T01:55:31+00:00",
+  "generated_at": "2026-08-25T07:11:35+00:00",
   "version": "7.1",
   "items": [
     {
@@ -24,11 +24,11 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
     },
     {
-      "id": "69565539196cd1c3",
-      "title": "Tous corps d'état",
-      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 Grand Té",
-      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
-      "source": "Batiactu",
+      "id": "cb40731a15edc9e3",
+      "title": "Risque sécheresse, consommation, équipements : l’eau, un nouveau critère de valeur pour les biens immobiliers",
+      "summary": "Le 25/08/2026 à 08H17 Restrictions généralisées à l'été 2026, prix de l'eau en hausse durable, extension du zonage argiles depuis le 1er juillet : la question de l'eau s'invite dans les transactions. Points de vigilance à la mise en vente, équipements à valoriser, chiffres à connaître ; tour d'horizon de ce qui change pour les agents immobiliers, et de ce qui peut devenir un argument. Par Quentin Lagallarde. Choisir un locatai",
+      "url": "https://www.journaldelagence.com/1413222-risque-secheresse-consommation-equipements-leau-un-nouveau-critere-de-valeur-pour-les-biens-immobiliers",
+      "source": "Journal de l'Agence",
       "source_level": "C",
       "category": "marche",
       "audiences": [
@@ -36,7 +36,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-24T09:00:00+00:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -45,46 +45,44 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "135874d9ef9c7687",
-      "title": "Tous métiers de la construction",
-      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 Grand Témoin \"En matiè",
-      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
-      "source": "Batiactu",
+      "id": "24bc2dcd6683c134",
+      "title": "Choisir un locataire sans discriminer : les réflexes à adopter en agence",
+      "summary": "nts immobiliers, et de ce qui peut devenir un argument. Par Quentin Lagallarde. Le 25/08/2026 à 07H29 Malgré l’obligation de formation des professionnels, les discriminations à la location restent une réalité : selon la campagne de testing 2025 de SOS Racisme, 48 % des 198 agences testées ont accepté ou facilité une discrimination raciale. Un constat qui rappelle que connaître la règle ne suffit pas. De la sélection des dossi",
+      "url": "https://www.journaldelagence.com/1413216-choisir-un-locataire-sans-discriminer-les-reflexes-a-adopter-en-agence",
+      "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "marche",
+      "category": "pro",
       "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
+        "pro",
+        "investisseur"
       ],
-      "published_at": "2026-08-24T09:00:00+00:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
-      "id": "b507c4ff7769afdd",
-      "title": "Construction (tous corps d'état)",
-      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 Grand Témoin \"En matièr",
-      "url": "https://www.batiactu.com/theme/theme-construction.php",
-      "source": "Batiactu",
+      "id": "e7218a3ddaae4ef8",
+      "title": "Comment se réapproprier le marketing de proximité ?",
+      "summary": "ues et leurs critères que les professionnels peuvent sécuriser leurs décisions. Le 25/08/2026 à 07H02 Depuis l’entrée en vigueur le 11 août de l’interdiction du démarchage téléphonique non sollicité, les professionnels de l’immobilier sont contraints de repenser en profondeur leur approche commerciale. Fini le temps où le volume d’appels tenait lieu de stratégie marketing, place désormais à une nouvelle ère : celle du marketi",
+      "url": "https://www.journaldelagence.com/1413211-comment-se-reapproprier-le-marketing-de-proximite",
+      "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "marche",
+      "category": "pro",
       "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
+        "pro",
+        "investisseur"
       ],
-      "published_at": "2026-08-24T09:00:00+00:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
       "id": "ec323fee403f01dc",
@@ -318,7 +316,7 @@
     {
       "id": "da47bfeec94f4059",
       "title": "5 choses à savoir avant de se lancer dans la gestion locative",
-      "summary": "Le 24/08/2026 à 06H53 La location et la gestion sont des services connexes qui répondent aux attentes des clients, mais qui présentent des risques juridiques et financiers importants. Enjeux, risques, cadre réglementaire et externalisation… Les clés pour bien se lancer avec Locagestion. Rodéos urbains : une nouvelle mission inattendue pour les syndics de copropriété Le 24/08/2026 à 06H41 Depuis le 19 août 2026, la loi RIPOST i",
+      "summary": "celle du marketing local. Le point sur les bonnes pratiques à mettre en place. Le 24/08/2026 à 06H53 La location et la gestion sont des services connexes qui répondent aux attentes des clients, mais qui présentent des risques juridiques et financiers importants. Enjeux, risques, cadre réglementaire et externalisation… Les clés pour bien se lancer avec Locagestion. Rodéos urbains : une nouvelle mission inattendue pour les synd",
       "url": "https://www.journaldelagence.com/1413200-5-choses-a-savoir-avant-de-se-lancer-dans-la-gestion-locative",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -548,6 +546,69 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
+      "id": "69565539196cd1c3",
+      "title": "Tous corps d'état",
+      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant",
+      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "135874d9ef9c7687",
+      "title": "Tous métiers de la construction",
+      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le",
+      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "b507c4ff7769afdd",
+      "title": "Construction (tous corps d'état)",
+      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Grand Témoin \"En matière de transition écologique, il n'y a pas de compétition\", Benoît de Ruffray, P-DG du groupe Eiffage GRAND TÉMOIN. Depuis 2016, Benoît de Ruffray préside le groupe de BTP et d'immobilier, de services à l'énergie et de concessions, Eiffage. Il y maintient le cap de la réussite, en visant le long terme et en prônant ... Publié le 1",
+      "url": "https://www.batiactu.com/theme/theme-construction.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
       "id": "31c82e6b8fcdf1d2",
       "title": "Urbanisme, voisinage, construction : quelles questions ont préoccupé les ménages en 2025 ?",
       "summary": "17 août 2026 En 2025, les ADIL ont réalisé plus de 26 000 consultations sur les questions d'urbanisme, de droit notarial et de relations de voisinage.",
@@ -739,26 +800,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "3d973321dd372c51",
-      "title": "Documenter un bien sans multiplier les fichiers : le pari de PhotoReport",
-      "summary": "ture utile pour les professionnels de l'immobilier confrontés à ces situations. Le 13/08/2026 à 07H22 Photos dans le téléphone, commentaires dans un carnet, captures d'écran envoyées par WhatsApp, rapport à refaire au bureau… Pour de nombreux professionnels de l'immobilier, documenter l'avancement d'un bien relève encore du bricolage numérique. C'est ce constat de terrain qui a donné naissance à l'application française PhotoR",
-      "url": "https://www.journaldelagence.com/1412875-documenter-un-bien-sans-multiplier-les-fichiers-le-pari-de-photoreport",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-08-13T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
-    },
-    {
       "id": "289a96a9e912d895",
       "title": "Arrêté du 11 juin 2026 portant diverses dispositions d'adaptation au droit de l'Union européenne sur le diagnostic de performance énergétique",
       "summary": "Texte officiel concernant la performance énergétique, le DPE ou la rénovation du parc immobilier.",
@@ -800,46 +841,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
-      "id": "e914ba589db71f28",
-      "title": "Immobilier : la blockchain peut-elle vraiment remplacer la confiance ?",
-      "summary": "constat de terrain qui a donné naissance à l'application française PhotoReport. Le 12/08/2026 à 08H05 La blockchain promet de démocratiser l’accès à l’immobilier et d’accélérer les transactions. Mais que sait-on vraiment des effets de cette technologie ? Location : il est interdit d’utiliser ChatGPT pour automatiser le tri des profils locataires Le 12/08/2026 à 07H57 Les professionnels de l'immobilier qui utilisent l'intellig",
-      "url": "https://www.journaldelagence.com/1412838-immobilier-la-blockchain-peut-elle-vraiment-remplacer-la-confiance",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-08-12T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
-    },
-    {
-      "id": "b098f11727f825f9",
-      "title": "Location : il est interdit d’utiliser ChatGPT pour automatiser le tri des profils locataires",
-      "summary": "r les transactions. Mais que sait-on vraiment des effets de cette technologie ? Le 12/08/2026 à 07H57 Les professionnels de l'immobilier qui utilisent l'intelligence artificielle pour analyser des dossiers locatifs doivent rester vigilants. Le RGPD et les politiques d'utilisation d'OpenAI convergent sur un même principe : une décision ayant des conséquences importantes pour une personne ne peut pas être entièrement automatisé",
-      "url": "https://www.journaldelagence.com/1412633-location-il-est-interdit-dutiliser-chatgpt-pour-automatiser-le-tri-des-profils-locataires",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-08-12T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
       "id": "554aa5802fa13bcf",
@@ -1641,10 +1642,10 @@
   ],
   "source_stats": {
     "Batiactu": 10,
+    "Journal de l'Agence": 15,
     "ANIL": 12,
     "MySweetImmo": 16,
     "Immobilier 2.0": 16,
-    "Journal de l'Agence": 15,
     "Légifrance": 5,
     "SDES / Sitadel": 1,
     "Insee": 1,
@@ -1664,7 +1665,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-25T01:54:53+00:00",
+        "last_success": "2026-08-25T07:10:59+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1672,7 +1673,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-25T01:54:59+00:00",
+        "last_success": "2026-08-25T07:11:03+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1680,7 +1681,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-25T01:55:00+00:00",
+        "last_success": "2026-08-25T07:11:04+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1688,7 +1689,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-25T01:55:02+00:00",
+        "last_success": "2026-08-25T07:11:05+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1696,7 +1697,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-25T01:55:17+00:00",
+        "last_success": "2026-08-25T07:11:21+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1704,7 +1705,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-08-25T01:55:25+00:00",
+        "last_success": "2026-08-25T07:11:29+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1712,7 +1713,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-25T01:55:25+00:00",
+        "last_success": "2026-08-25T07:11:29+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1720,7 +1721,7 @@
         "ok": true,
         "status": "ok",
         "retained": 12,
-        "last_success": "2026-08-25T01:55:26+00:00",
+        "last_success": "2026-08-25T07:11:30+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1728,7 +1729,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-25T01:55:26+00:00",
+        "last_success": "2026-08-25T07:11:30+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1736,7 +1737,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-25T01:55:27+00:00",
+        "last_success": "2026-08-25T07:11:31+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1744,7 +1745,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-25T01:55:28+00:00",
+        "last_success": "2026-08-25T07:11:32+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1752,7 +1753,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-25T01:55:29+00:00",
+        "last_success": "2026-08-25T07:11:33+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1760,7 +1761,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-08-25T01:55:30+00:00",
+        "last_success": "2026-08-25T07:11:34+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1768,7 +1769,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-25T01:55:31+00:00",
+        "last_success": "2026-08-25T07:11:35+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1776,7 +1777,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-25T01:55:31+00:00",
+        "last_success": "2026-08-25T07:11:35+00:00",
         "fallback": false
       }
     }
