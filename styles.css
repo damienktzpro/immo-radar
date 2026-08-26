@@ -23,7 +23,25 @@ body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,ui-sans
 button,select,input{font:inherit}button{cursor:pointer}.shell{width:min(1460px,calc(100% - 44px));margin-inline:auto}
 .topbar{height:88px;display:grid;grid-template-columns:245px 1fr 245px;align-items:center;padding:0 max(22px,calc((100vw - 1460px)/2));border-bottom:1px solid var(--line);background:rgba(243,240,232,.95);backdrop-filter:blur(14px);position:sticky;top:0;z-index:100}
 .brand{display:flex;align-items:center;gap:13px;text-decoration:none;color:var(--ink)}.brand-radar{position:relative;width:52px;height:52px;display:block}.brand-radar .circle{position:absolute;left:50%;top:50%;border:1.4px solid #65a391;border-radius:50%;transform:translate(-50%,-50%)}.brand-radar .c1{width:42px;height:42px}.brand-radar .c2{width:23px;height:23px}.brand-radar .cross{position:absolute;background:#65a391}.brand-radar .h{height:1px;width:52px;left:0;top:26px}.brand-radar .v{width:1px;height:52px;left:26px;top:0}.brand-dot{position:absolute;width:7px;height:7px;background:var(--coral);border-radius:50%;bottom:0;left:23px}.brand-text strong,.brand-text small{display:block;letter-spacing:.19em}.brand-text strong{font-size:21px}.brand-text small{font-size:9px;color:var(--green);font-weight:900}
-.main-nav{display:flex;justify-content:center;gap:36px}.nav-btn{border:0;background:transparent;padding:33px 0 29px;color:#646d69;font-weight:750;position:relative}.nav-btn.active{color:var(--ink)}.nav-btn.active:after{content:"";height:2px;background:var(--coral);position:absolute;left:0;right:0;bottom:-1px}.top-actions{display:flex;justify-content:flex-end;align-items:center;gap:12px}.icon-btn{width:54px;height:54px;border:1px solid var(--line);border-radius:14px;background:var(--paper2);font-size:26px;color:var(--ink)}.country-btn{height:54px;border:1px solid var(--line);border-radius:12px;background:var(--paper2);padding:0 17px;display:flex;gap:11px;align-items:center;font-weight:750}.live-dot{width:6px;height:6px;border-radius:50%;background:var(--coral)}
+.main-nav{
+  display:grid;
+  grid-template-columns:repeat(7,minmax(0,1fr));
+  align-items:stretch;
+  justify-content:center;
+  gap:0;
+  width:100%;
+}
+.nav-btn{
+  width:100%;
+  border:0;
+  background:transparent;
+  padding:33px 8px 29px;
+  color:#646d69;
+  font-weight:750;
+  position:relative;
+  text-align:center;
+  white-space:nowrap;
+}.nav-btn.active{color:var(--ink)}.nav-btn.active:after{content:"";height:2px;background:var(--coral);position:absolute;left:0;right:0;bottom:-1px}.top-actions{display:flex;justify-content:flex-end;align-items:center;gap:12px}.icon-btn{width:54px;height:54px;border:1px solid var(--line);border-radius:14px;background:var(--paper2);font-size:26px;color:var(--ink)}.country-btn{height:54px;border:1px solid var(--line);border-radius:12px;background:var(--paper2);padding:0 17px;display:flex;gap:11px;align-items:center;font-weight:750}.live-dot{width:6px;height:6px;border-radius:50%;background:var(--coral)}
 .search-panel{border-bottom:1px solid var(--line);background:#fff}.search-panel[hidden]{display:none}.search-inner{min-height:74px;display:flex;align-items:center;gap:12px}.search-inner span{font-size:22px;color:var(--green)}.search-inner input{flex:1;border:0;background:transparent;outline:0;font-size:17px;color:var(--ink)}.search-inner button{border:0;background:var(--green2);color:#fff;border-radius:9px;padding:10px 15px}
 .hero{padding:62px 0 36px}.freshness-line{display:flex;align-items:center;gap:10px;color:#6d7773;font-size:11px;letter-spacing:.16em}.pulse-dot{width:10px;height:10px;border-radius:50%;background:var(--coral);box-shadow:0 0 0 6px #f6ddd6}.system-health-mini{margin-left:auto;letter-spacing:0;color:#87908c;font-size:11px}.hero-grid{display:grid;grid-template-columns:1.28fr .72fr;gap:70px;align-items:end;margin:34px 0 36px}.eyebrow{display:block;text-transform:uppercase;letter-spacing:.2em;color:var(--green);font-size:11px;font-weight:850}.hero h1,.market-card h2,.section-title h2,.feed-header h2,.page-intro h2,.local-cta h2,.sources-panel h2{font-family:Georgia,"Times New Roman",serif;font-weight:500;letter-spacing:-.045em}.hero h1{font-size:clamp(58px,7.4vw,108px);line-height:.84;margin:18px 0 0}.hero h1 em{color:var(--coral);font-weight:400}.hero-copy p{font-size:19px;line-height:1.6;color:var(--muted);margin:0 0 18px}.hero-pills{display:flex;gap:7px;flex-wrap:wrap}.hero-pills span{border:1px solid var(--line);border-radius:999px;padding:7px 10px;font-size:10px;color:#6f7874;background:rgba(255,255,255,.38)}
 .profile-row{border-top:1px solid var(--line);border-bottom:1px solid var(--line);min-height:82px;display:grid;grid-template-columns:76px auto 1fr;align-items:center;gap:15px}.profile-row>span{font-weight:750;color:#64706b}.profile-row>em{text-align:right;color:#89918d;font-size:11px}.profile-switch{display:flex;background:#e7e4de;border-radius:10px;padding:3px}.profile-switch button{border:0;background:transparent;border-radius:8px;padding:13px 18px;color:var(--ink);font-weight:750}.profile-switch button.active{background:var(--green2);color:#fff;box-shadow:0 3px 10px rgba(0,0,0,.08)}
@@ -44,7 +62,7 @@ button,select,input{font:inherit}button{cursor:pointer}.shell{width:min(1460px,c
 .local-cta{background:var(--blue);border-radius:22px;padding:50px 62px;display:flex;justify-content:space-between;align-items:center;margin-bottom:70px}.local-cta h2{font-size:48px;margin:18px 0 10px}.local-cta p{color:#62716e}.local-cta button{border:0;border-radius:12px;background:var(--ink);color:#fff;padding:19px 25px;font-weight:800}.local-cta button span{display:inline-block;width:6px;height:6px;background:var(--coral);border-radius:50%;margin-right:10px}
 footer{border-top:1px solid var(--line);padding:38px 0}.footer-inner{display:grid;grid-template-columns:200px 1fr auto;align-items:center}.footer-brand strong,.footer-brand small{display:block;letter-spacing:.17em}.footer-brand small{font-size:8px;color:var(--green)}.footer-inner>em{font-family:Georgia,serif;color:#6d7773;font-size:18px}.footer-inner button{border:0;background:transparent;color:#69736f;text-transform:uppercase;letter-spacing:.1em;font-size:10px;font-weight:800;margin-left:18px}
 @media(max-width:1100px){
-  .topbar{grid-template-columns:205px 1fr 160px}.main-nav{gap:18px}
+  .topbar{grid-template-columns:205px 1fr 160px}.main-nav{gap:0}
   .market-grid,.feed-section{grid-template-columns:1fr}.market-side{grid-template-columns:1fr 1fr}
   .sidebar-card.dark{position:static;top:auto;z-index:auto}.sidebar{display:flex;flex-direction:column;gap:24px}.sources-card,.system-card{width:100%;margin:0}
   .component-grid{grid-template-columns:repeat(3,1fr)}.invest-grid{grid-template-columns:repeat(2,1fr)}
@@ -125,7 +143,7 @@ footer{border-top:1px solid var(--line);padding:38px 0}.footer-inner{display:gri
   background:#efeee9;
 }
 
-/* Stable KPI layout — no broken numbers */
+/* Stable KPI layout â€” no broken numbers */
 .key-figures{
   align-items:stretch;
 }
@@ -231,7 +249,7 @@ footer{border-top:1px solid var(--line);padding:38px 0}.footer-inner{display:gri
 @media (max-width:760px){.territory-intro h3,.territory-local h3{font-size:30px}.territory-preview,.territory-metrics{grid-template-columns:1fr}.territory-local-head{display:block}.territory-focus{margin-top:14px}.local-cta h2{font-size:40px}.key-figure strong{font-size:22px}}
 
 
-/* ================= V5 — Territoires ================= */
+/* ================= V5 â€” Territoires ================= */
 .territory-dashboard{padding:10px 0 42px;display:grid;gap:18px}
 .territory-search-card,.territory-overview-card{border:1px solid var(--line);border-radius:22px;background:var(--paper2);box-shadow:var(--shadow)}
 .territory-search-card{display:grid;grid-template-columns:.8fr 1.2fr;gap:36px;padding:30px 34px;background:linear-gradient(135deg,#edf2ee 0%,#f8f6f0 100%)}
@@ -292,7 +310,7 @@ footer{border-top:1px solid var(--line);padding:38px 0}.footer-inner{display:gri
   color:var(--coral);
 }
 
-/* V6 — full local data */
+/* V6 â€” full local data */
 .territory-market-metric strong{font-variant-numeric:tabular-nums}
 .territory-market-metric.is-connected{background:linear-gradient(180deg,#fff 0%,#fbfdfb 100%)}
 .territory-market-metric em{min-height:26px}
@@ -398,7 +416,7 @@ body{padding-bottom:28px}
 
 
 /* =========================================================
-   V7.1 — MOBILE POLISH
+   V7.1 â€” MOBILE POLISH
    Desktop intentionally preserved; changes below target phone.
    ========================================================= */
 
@@ -447,7 +465,10 @@ body{padding-bottom:28px}
     box-shadow:0 18px 48px rgba(28,39,34,.16);padding:7px;z-index:120;
     overflow:visible;gap:2px
   }
-  .main-nav.mobile-open{display:grid}
+  .main-nav.mobile-open{
+    display:grid;
+    grid-template-columns:1fr;
+  }
   .nav-btn{
     width:100%;padding:12px 13px;text-align:left;border-radius:9px;font-size:13px
   }
@@ -656,9 +677,9 @@ body{padding-bottom:28px}
 
 
 /* ==========================================================
-   V8 — PALETTE PREMIUM IMMO RADAR
+   V8 â€” PALETTE PREMIUM IMMO RADAR
    Bleu nuit + ivoire + champagne
-   Modification visuelle uniquement : aucune structure changée.
+   Modification visuelle uniquement : aucune structure changÃ©e.
    ========================================================== */
 
 :root{
@@ -668,7 +689,7 @@ body{padding-bottom:28px}
   --muted:#667085;
   --line:#D8D2C6;
 
-  /* Les anciens noms de variables sont conservés pour ne rien casser. */
+  /* Les anciens noms de variables sont conservÃ©s pour ne rien casser. */
   --green:#213D5A;
   --green2:#0B1220;
   --green3:#E8EEF3;
@@ -688,7 +709,7 @@ body{
   color:var(--ink);
 }
 
-/* Header / identité */
+/* Header / identitÃ© */
 .topbar{
   background:rgba(245,242,234,.96);
   border-bottom-color:rgba(11,18,32,.12);
@@ -732,7 +753,7 @@ body{
 }
 .profile-switch button:hover{background:rgba(255,255,255,.62)}
 
-/* Cartes / baromètre */
+/* Cartes / baromÃ¨tre */
 .market-card,.finance-card{
   border-color:var(--line);
   background:var(--paper2);
@@ -748,7 +769,7 @@ body{
 }
 .underlined-btn{border-bottom-color:rgba(33,61,90,.45)}
 
-/* Les rouges restent réservés aux signaux négatifs / alertes. */
+/* Les rouges restent rÃ©servÃ©s aux signaux nÃ©gatifs / alertes. */
 .status-badge{background:#F2E2DD;color:#9D4E3C}
 .key-figure.negative strong{color:var(--coral)}
 
@@ -803,7 +824,7 @@ body{
 .market-method-note{background:#F1ECE2;border-left-color:var(--gold)}
 .method-notes article{background:#F7F4ED}
 
-/* Flux / actualités */
+/* Flux / actualitÃ©s */
 .story{box-shadow:0 10px 28px rgba(11,18,32,.035)}
 .story:before{background:var(--green)}
 .story.level-a:before{background:var(--emerald)}
@@ -854,8 +875,8 @@ body{
   .pulse-dot{box-shadow:0 0 0 4px rgba(200,169,107,.18)}
 }
 /* ==========================================================
-   V9.2 — LOGO HEADER FINAL
-   Petit, strictement contenu, toujours en haut à gauche.
+   V9.2 â€” LOGO HEADER FINAL
+   Petit, strictement contenu, toujours en haut Ã  gauche.
    ========================================================== */
 
 .brand-logo-link{
@@ -906,7 +927,7 @@ body{
   transform:none !important;
 }
 
-/* Le logo ne doit jamais agrandir la première colonne du header. */
+/* Le logo ne doit jamais agrandir la premiÃ¨re colonne du header. */
 .topbar > .brand-logo-link{
   grid-column:1 !important;
   grid-row:1 !important;
@@ -968,7 +989,7 @@ body{
   }
 }
 /* ==========================================================
-   V10.2 — ACTIONS HEADER PLUS COMPACTES
+   V10.2 â€” ACTIONS HEADER PLUS COMPACTES
    ========================================================== */
 
 .topbar .top-actions{
@@ -1010,7 +1031,7 @@ body{
 }
 
 /* ==========================================================
-   V9 — TRANSPARENCE, PÉRIMÈTRE ET ACCESSIBILITÉ
+   V9 â€” TRANSPARENCE, PÃ‰RIMÃˆTRE ET ACCESSIBILITÃ‰
    ========================================================== */
 .sr-only{
   position:absolute!important;
