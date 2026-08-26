@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:24:43-04:00",
+  "generated_at": "2026-08-26T21:24:00+00:00",
   "version": "7.1",
   "items": [
     {
@@ -15,7 +15,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-26T05:00:00-04:00",
+      "published_at": "2026-08-26T09:00:00+00:00",
       "status": "Publication",
       "importance": 82,
       "relevance": 82,
@@ -36,7 +36,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-26T05:00:00-04:00",
+      "published_at": "2026-08-26T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -56,7 +56,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-08-26T05:00:00-04:00",
+      "published_at": "2026-08-26T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -76,7 +76,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-08-26T05:00:00-04:00",
+      "published_at": "2026-08-26T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -103,7 +103,7 @@
       "relevance": 88,
       "territory": "France",
       "topic": "Énergie / DPE",
-      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "why_it_matters": "Source officielle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Arrêté du 19 août 2026 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au d….",
       "legal_stage": "jorf"
     },
     {
@@ -119,7 +119,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-25T05:00:00-04:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -140,7 +140,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-25T05:00:00-04:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -161,7 +161,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-25T05:00:00-04:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -181,7 +181,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-08-25T05:00:00-04:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -201,7 +201,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-08-25T05:00:00-04:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -210,9 +210,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Comment se réapproprier le marketing de proximité ?."
     },
     {
-      "id": "72376e7e3981b09a",
+      "id": "7c7bbb3a9cfb07e1",
       "title": "Le logement abordable doit être la \"grande politique sociale de la prochaine mandature\"",
-      "summary": "25/08/2026 En débat Logement : le candidat Bruno Retailleau propose un choc d'offre dès 2027",
+      "summary": "En débat 25/08/2026 En débat Logement : le candidat Bruno Retailleau propose un choc d'offre dès 2027",
       "url": "https://www.batiactu.com/edito/bruno-maire-le-logement-abordable-doit-etre-grande-75139.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -222,13 +222,13 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-25T05:00:00-04:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : En débat Le logement abordable doit être la \"grande politique sociale de la prochaine mandature\"."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le logement abordable doit être la \"grande politique sociale de la prochaine mandature\"."
     },
     {
       "id": "ec323fee403f01dc",
@@ -243,7 +243,7 @@
         "pro",
         "particulier"
       ],
-      "published_at": "2026-08-21T05:00:00-04:00",
+      "published_at": "2026-08-21T09:00:00+00:00",
       "status": "Publication",
       "importance": 82,
       "relevance": 82,
@@ -264,7 +264,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-21T05:00:00-04:00",
+      "published_at": "2026-08-21T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -285,7 +285,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-21T05:00:00-04:00",
+      "published_at": "2026-08-21T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -306,7 +306,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-20T05:00:00-04:00",
+      "published_at": "2026-08-20T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -326,7 +326,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-08-20T05:00:00-04:00",
+      "published_at": "2026-08-20T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -347,7 +347,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-20T05:00:00-04:00",
+      "published_at": "2026-08-20T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -367,7 +367,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-08-20T05:00:00-04:00",
+      "published_at": "2026-08-20T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -388,7 +388,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-20T05:00:00-04:00",
+      "published_at": "2026-08-20T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -409,7 +409,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-19T05:00:00-04:00",
+      "published_at": "2026-08-19T09:00:00+00:00",
       "status": "Publication",
       "importance": 82,
       "relevance": 82,
@@ -430,7 +430,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-19T05:00:00-04:00",
+      "published_at": "2026-08-19T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -451,7 +451,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-19T05:00:00-04:00",
+      "published_at": "2026-08-19T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -472,7 +472,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-19T05:00:00-04:00",
+      "published_at": "2026-08-19T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -493,7 +493,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-19T05:00:00-04:00",
+      "published_at": "2026-08-19T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -514,7 +514,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-19T05:00:00-04:00",
+      "published_at": "2026-08-19T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -535,7 +535,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-19T05:00:00-04:00",
+      "published_at": "2026-08-19T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -562,7 +562,7 @@
       "relevance": 88,
       "territory": "France",
       "topic": "Patrimoine immobilier",
-      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : LOI n° 2026-795 du 18 août 2026 visant à moderniser la gestion du patrimoine immobilier de l'Etat (1).",
       "legal_stage": "jorf"
     },
     {
@@ -578,7 +578,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-18T05:00:00-04:00",
+      "published_at": "2026-08-18T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -599,7 +599,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-18T05:00:00-04:00",
+      "published_at": "2026-08-18T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -620,7 +620,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-18T05:00:00-04:00",
+      "published_at": "2026-08-18T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -641,7 +641,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-18T05:00:00-04:00",
+      "published_at": "2026-08-18T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -662,7 +662,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-18T05:00:00-04:00",
+      "published_at": "2026-08-18T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -683,7 +683,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-18T05:00:00-04:00",
+      "published_at": "2026-08-18T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -704,7 +704,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-17T05:00:00-04:00",
+      "published_at": "2026-08-17T09:00:00+00:00",
       "status": "Publication",
       "importance": 82,
       "relevance": 82,
@@ -725,7 +725,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-17T05:00:00-04:00",
+      "published_at": "2026-08-17T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -746,7 +746,7 @@
         "pro",
         "particulier"
       ],
-      "published_at": "2026-08-17T05:00:00-04:00",
+      "published_at": "2026-08-17T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -773,7 +773,7 @@
       "relevance": 88,
       "territory": "France",
       "topic": "Urbanisme / Territoires",
-      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Arrêté du 27 juillet 2026 prorogeant les effets de l'arrêté du 2 septembre 2021 déclarant d'utilité publique les travaux d'amén….",
       "legal_stage": "jorf"
     },
     {
@@ -795,7 +795,7 @@
       "relevance": 88,
       "territory": "France",
       "topic": "Urbanisme / Territoires",
-      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Décret n° 2026-790 du 13 août 2026 adoptant la mise en compatibilité du schéma de cohérence territoriale de la région Flandre-D….",
       "legal_stage": "jorf"
     },
     {
@@ -810,7 +810,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-08-14T05:00:00-04:00",
+      "published_at": "2026-08-14T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -837,7 +837,7 @@
       "relevance": 88,
       "territory": "France",
       "topic": "Logement social / Habitat",
-      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Avis relatif à l'extension d'un accord conclu dans le cadre de la convention collective nationale de l'habitat et logement acco….",
       "legal_stage": "jorf"
     },
     {
@@ -853,7 +853,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-13T05:00:00-04:00",
+      "published_at": "2026-08-13T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -874,7 +874,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-12T05:00:00-04:00",
+      "published_at": "2026-08-12T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -895,7 +895,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-11T05:00:00-04:00",
+      "published_at": "2026-08-11T09:00:00+00:00",
       "status": "Publication",
       "importance": 82,
       "relevance": 82,
@@ -916,7 +916,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-11T05:00:00-04:00",
+      "published_at": "2026-08-11T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -937,7 +937,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-10T05:00:00-04:00",
+      "published_at": "2026-08-10T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -958,7 +958,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-04T05:00:00-04:00",
+      "published_at": "2026-08-04T09:00:00+00:00",
       "status": "Publication",
       "importance": 82,
       "relevance": 82,
@@ -978,7 +978,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-08-04T05:00:00-04:00",
+      "published_at": "2026-08-04T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -999,7 +999,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-04T05:00:00-04:00",
+      "published_at": "2026-08-04T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1020,7 +1020,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-03T05:00:00-04:00",
+      "published_at": "2026-08-03T09:00:00+00:00",
       "status": "Publication",
       "importance": 82,
       "relevance": 82,
@@ -1041,7 +1041,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-02T05:00:00-04:00",
+      "published_at": "2026-08-02T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -1062,7 +1062,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-30T05:00:00-04:00",
+      "published_at": "2026-07-30T09:00:00+00:00",
       "status": "Publication",
       "importance": 82,
       "relevance": 82,
@@ -1083,7 +1083,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-29T05:00:00-04:00",
+      "published_at": "2026-07-29T09:00:00+00:00",
       "status": "Publication",
       "importance": 85,
       "relevance": 82,
@@ -1110,7 +1110,7 @@
       "relevance": 88,
       "territory": "France",
       "topic": "Construction",
-      "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin juin 2026 (France entière)."
     },
     {
       "id": "091448832a801dbf",
@@ -1125,7 +1125,7 @@
         "pro",
         "particulier"
       ],
-      "published_at": "2026-07-28T05:00:00-04:00",
+      "published_at": "2026-07-28T09:00:00+00:00",
       "status": "Publication",
       "importance": 82,
       "relevance": 82,
@@ -1146,7 +1146,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-28T05:00:00-04:00",
+      "published_at": "2026-07-28T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1155,9 +1155,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Belles Demeures : deux nouvelles offres pour garantir une meilleure visibilité aux agences."
     },
     {
-      "id": "babf654472c097fa",
+      "id": "5478dad3f3433e03",
       "title": "CEE, électrification : plusieurs textes clefs retoqués en Conseil supérieur de l'énergie",
-      "summary": "24/07/2026 L'Essentiel Rénovation d'ampleur : les aides CEE se resserrent (encore) dès septembre 2026 Zoom Nouvelle baisse du coefficient d'énergie primaire du DPE : le projet d'arrêté mis en consultation",
+      "summary": "L'Essentiel 24/07/2026 L'Essentiel Rénovation d'ampleur : les aides CEE se resserrent (encore) dès septembre 2026 Zoom Nouvelle baisse du coefficient d'énergie primaire du DPE : le projet d'arrêté mis en consultation",
       "url": "https://www.batiactu.com/edito/electrification-conseil-superieur-energie-se-penche-75051.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -1167,13 +1167,13 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-24T05:00:00-04:00",
+      "published_at": "2026-07-24T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
       "territory": "France",
       "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : L'Essentiel CEE, électrification : plusieurs textes clefs retoqués en Conseil supérieur de l'énergie."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : CEE, électrification : plusieurs textes clefs retoqués en Conseil supérieur de l'énergie."
     },
     {
       "id": "7ca85d38f6d0af4e",
@@ -1188,7 +1188,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-23T05:00:00-04:00",
+      "published_at": "2026-07-23T09:00:00+00:00",
       "status": "Publication",
       "importance": 85,
       "relevance": 82,
@@ -1197,9 +1197,9 @@
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Nouvelle analyse juridique : Encadrement de l’évolution des loyers en zones tendues à compter du 1er août 2026."
     },
     {
-      "id": "0d8119805d97d43f",
-      "title": "À Brest, la construction d'un petit collectif intermédiaire donne la part belle au bois",
-      "summary": "23/07/2026 Reportage Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site Interview \"Nos maisons en bois ne sont pas plus chères que des constructions maçonnées traditionnelles\". Alban Boyé (Trecobat)",
+      "id": "12695a943896f23a",
+      "title": "A Brest, la construction d'un petit collectif intermédiaire donne la part belle au bois",
+      "summary": "Reportage 23/07/2026 Reportage Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site Interview \"Nos maisons en bois ne sont pas plus chères que des constructions maçonnées traditionnelles\". Alban Boyé (Trecobat)",
       "url": "https://www.batiactu.com/edito/a-brest-construction-un-petit-collectif-maisons-donne-75043.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -1209,18 +1209,39 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-23T05:00:00-04:00",
+      "published_at": "2026-07-23T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Reportage A Brest, la construction d'un petit collectif intermédiaire donne la part belle au bois."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : A Brest, la construction d'un petit collectif intermédiaire donne la part belle au bois."
     },
     {
-      "id": "5041ee2a49ad9e84",
+      "id": "cdf59226118be2f5",
+      "title": "Logement : la mission Grataloup va jouer les prolongations POLITIQUE DU LOGEMENT. La mission confiée au président de l'Union des propriétaires immobiliers (Unpi) est loin d'être achevée.",
+      "summary": "En débat 22/07/2026",
+      "url": "https://www.batiactu.com/edito/logement-mission-grataloup-joue-prolongations-75034.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Logement : la mission Grataloup va jouer les prolongations POLITIQUE DU LOGEMENT. La mission confiée au président de l'Union de…."
+    },
+    {
+      "id": "f760ca2d05bbe5a2",
       "title": "Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site",
-      "summary": "22/07/2026 Interview \"Nos maisons en bois ne sont pas plus chères que des constructions maçonnées traditionnelles\". Alban Boyé (Trecobat)",
+      "summary": "Reportage 22/07/2026 Interview \"Nos maisons en bois ne sont pas plus chères que des constructions maçonnées traditionnelles\". Alban Boyé (Trecobat)",
       "url": "https://www.batiactu.com/edito/dans-construction-bois-breton-trecobat-joue-coudes-75031.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -1230,13 +1251,13 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-22T05:00:00-04:00",
+      "published_at": "2026-07-22T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Reportage Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site."
     },
     {
       "id": "1a3a801fc9468c6f",
@@ -1251,7 +1272,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-16T05:00:00-04:00",
+      "published_at": "2026-07-16T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1272,7 +1293,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-16T05:00:00-04:00",
+      "published_at": "2026-07-16T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1293,7 +1314,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-16T05:00:00-04:00",
+      "published_at": "2026-07-16T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1314,7 +1335,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-16T05:00:00-04:00",
+      "published_at": "2026-07-16T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1335,7 +1356,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-16T05:00:00-04:00",
+      "published_at": "2026-07-16T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1356,7 +1377,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-15T05:00:00-04:00",
+      "published_at": "2026-07-15T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1377,7 +1398,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-15T05:00:00-04:00",
+      "published_at": "2026-07-15T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1398,7 +1419,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-15T05:00:00-04:00",
+      "published_at": "2026-07-15T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1418,7 +1439,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-07-14T05:00:00-04:00",
+      "published_at": "2026-07-14T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1439,7 +1460,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-14T05:00:00-04:00",
+      "published_at": "2026-07-14T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1460,7 +1481,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-07T05:00:00-04:00",
+      "published_at": "2026-07-07T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1481,7 +1502,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-05-28T05:00:00-04:00",
+      "published_at": "2026-05-28T09:00:00+00:00",
       "status": "Chiffre officiel",
       "importance": 88,
       "relevance": 88,
@@ -1559,7 +1580,7 @@
     "MySweetImmo": 16,
     "Journal de l'Agence": 16,
     "Légifrance": 5,
-    "Batiactu": 6,
+    "Batiactu": 7,
     "Immobilier 2.0": 15,
     "SDES / Sitadel": 1,
     "Insee": 1,
@@ -1568,18 +1589,18 @@
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 13,
-    "sources_degraded": 2,
+    "sources_ok": 15,
+    "sources_degraded": 0,
     "errors": 0,
-    "retained": 74,
-    "rejected": 407,
+    "retained": 75,
+    "rejected": 1026,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-26T16:21:25-04:00",
+        "last_success": "2026-08-26T21:23:10+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1587,7 +1608,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-26T16:21:34-04:00",
+        "last_success": "2026-08-26T21:23:13+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1595,41 +1616,39 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-26T16:21:44-04:00",
+        "last_success": "2026-08-26T21:23:14+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
         "level": "A",
-        "ok": false,
-        "status": "degraded",
+        "ok": true,
+        "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-26T16:15:51-04:00",
-        "fallback": true,
-        "error_type": "RetryError"
+        "last_success": "2026-08-26T21:23:15+00:00",
+        "fallback": false
       },
       "Sénat / DOSLEG": {
         "level": "A",
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-26T16:23:36-04:00",
+        "last_success": "2026-08-26T21:23:39+00:00",
         "fallback": false
       },
       "Légifrance": {
         "level": "A",
-        "ok": false,
-        "status": "degraded",
+        "ok": true,
+        "status": "ok",
         "retained": 5,
-        "last_success": "2026-08-26T16:15:51-04:00",
-        "fallback": true,
-        "error_type": "RuntimeError"
+        "last_success": "2026-08-26T21:23:49+00:00",
+        "fallback": false
       },
       "EUR-Lex": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-26T16:23:38-04:00",
+        "last_success": "2026-08-26T21:23:49+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1637,7 +1656,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-08-26T16:23:45-04:00",
+        "last_success": "2026-08-26T21:23:50+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1645,7 +1664,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-26T16:23:53-04:00",
+        "last_success": "2026-08-26T21:23:51+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1653,7 +1672,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-26T16:24:01-04:00",
+        "last_success": "2026-08-26T21:23:53+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1661,7 +1680,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-26T16:24:08-04:00",
+        "last_success": "2026-08-26T21:23:54+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1669,15 +1688,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-26T16:24:16-04:00",
+        "last_success": "2026-08-26T21:23:56+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 6,
-        "last_success": "2026-08-26T16:24:26-04:00",
+        "retained": 7,
+        "last_success": "2026-08-26T21:23:58+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1685,7 +1704,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-08-26T16:24:35-04:00",
+        "last_success": "2026-08-26T21:23:59+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1693,21 +1712,10 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-26T16:24:42-04:00",
+        "last_success": "2026-08-26T21:23:59+00:00",
         "fallback": false
       }
     }
   },
-  "errors": [
-    {
-      "source": "SDES / Sitadel",
-      "error": "HTTPSConnectionPool(host='www.statistiques.developpement-durable.gouv.fr', port=443): Max retries exceeded with url: /la-construction-neuve (Caused by ResponseError('too many 502 error responses'))",
-      "fallback": true
-    },
-    {
-      "source": "Légifrance",
-      "error": "Identifiants PISTE absents : PISTE_CLIENT_ID / PISTE_CLIENT_SECRET",
-      "fallback": true
-    }
-  ]
+  "errors": []
 }

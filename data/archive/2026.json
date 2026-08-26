@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-26T16:24:44-04:00",
+  "generated_at": "2026-08-26T21:24:02+00:00",
   "items": [
     {
       "id": "2182d63921f42b7c",
@@ -16,7 +16,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-26T05:00:00-04:00",
+      "published_at": "2026-08-26T09:00:00+00:00",
       "status": "Publication",
       "importance": 82,
       "relevance": 82,
@@ -36,7 +36,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-08-26T05:00:00-04:00",
+      "published_at": "2026-08-26T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -56,7 +56,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-08-26T05:00:00-04:00",
+      "published_at": "2026-08-26T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -77,7 +77,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-26T05:00:00-04:00",
+      "published_at": "2026-08-26T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -104,7 +104,7 @@
       "relevance": 88,
       "territory": "France",
       "topic": "Énergie / DPE",
-      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "why_it_matters": "Source officielle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Arrêté du 19 août 2026 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au d….",
       "legal_stage": "jorf"
     },
     {
@@ -120,7 +120,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-25T05:00:00-04:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -140,7 +140,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-08-25T05:00:00-04:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -160,7 +160,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-08-25T05:00:00-04:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -181,7 +181,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-25T05:00:00-04:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -190,9 +190,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d’euros."
     },
     {
-      "id": "72376e7e3981b09a",
+      "id": "7c7bbb3a9cfb07e1",
       "title": "Le logement abordable doit être la \"grande politique sociale de la prochaine mandature\"",
-      "summary": "25/08/2026 En débat Logement : le candidat Bruno Retailleau propose un choc d'offre dès 2027",
+      "summary": "En débat 25/08/2026 En débat Logement : le candidat Bruno Retailleau propose un choc d'offre dès 2027",
       "url": "https://www.batiactu.com/edito/bruno-maire-le-logement-abordable-doit-etre-grande-75139.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -202,13 +202,13 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-25T05:00:00-04:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : En débat Le logement abordable doit être la \"grande politique sociale de la prochaine mandature\"."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le logement abordable doit être la \"grande politique sociale de la prochaine mandature\"."
     },
     {
       "id": "5e1010a8936eaca7",
@@ -223,7 +223,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-25T05:00:00-04:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -244,7 +244,7 @@
         "pro",
         "particulier"
       ],
-      "published_at": "2026-08-21T05:00:00-04:00",
+      "published_at": "2026-08-21T09:00:00+00:00",
       "status": "Publication",
       "importance": 82,
       "relevance": 82,
@@ -265,7 +265,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-21T05:00:00-04:00",
+      "published_at": "2026-08-21T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -286,7 +286,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-21T05:00:00-04:00",
+      "published_at": "2026-08-21T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -307,7 +307,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-20T05:00:00-04:00",
+      "published_at": "2026-08-20T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -327,7 +327,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-08-20T05:00:00-04:00",
+      "published_at": "2026-08-20T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -348,7 +348,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-20T05:00:00-04:00",
+      "published_at": "2026-08-20T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -368,7 +368,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-08-20T05:00:00-04:00",
+      "published_at": "2026-08-20T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -389,7 +389,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-20T05:00:00-04:00",
+      "published_at": "2026-08-20T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -410,7 +410,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-19T05:00:00-04:00",
+      "published_at": "2026-08-19T09:00:00+00:00",
       "status": "Publication",
       "importance": 82,
       "relevance": 82,
@@ -431,7 +431,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-19T05:00:00-04:00",
+      "published_at": "2026-08-19T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -452,7 +452,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-19T05:00:00-04:00",
+      "published_at": "2026-08-19T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -473,7 +473,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-19T05:00:00-04:00",
+      "published_at": "2026-08-19T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -494,7 +494,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-19T05:00:00-04:00",
+      "published_at": "2026-08-19T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -515,7 +515,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-19T05:00:00-04:00",
+      "published_at": "2026-08-19T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -536,7 +536,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-19T05:00:00-04:00",
+      "published_at": "2026-08-19T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -563,7 +563,7 @@
       "relevance": 88,
       "territory": "France",
       "topic": "Patrimoine immobilier",
-      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : LOI n° 2026-795 du 18 août 2026 visant à moderniser la gestion du patrimoine immobilier de l'Etat (1).",
       "legal_stage": "jorf"
     },
     {
@@ -579,7 +579,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-18T05:00:00-04:00",
+      "published_at": "2026-08-18T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -600,7 +600,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-18T05:00:00-04:00",
+      "published_at": "2026-08-18T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -621,7 +621,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-18T05:00:00-04:00",
+      "published_at": "2026-08-18T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
@@ -642,7 +642,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-18T05:00:00-04:00",
+      "published_at": "2026-08-18T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -663,7 +663,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-18T05:00:00-04:00",
+      "published_at": "2026-08-18T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -684,13 +684,34 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-18T05:00:00-04:00",
+      "published_at": "2026-08-18T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Qu’est-ce qui fait une bonne annonce immobilière ? Ce n’est pas sa capacité à faire rêver, mais à inspirer confiance."
+    },
+    {
+      "id": "31c82e6b8fcdf1d2",
+      "title": "Urbanisme, voisinage, construction : quelles questions ont préoccupé les ménages en 2025 ?",
+      "summary": "17 août 2026 En 2025, les ADIL ont réalisé plus de 26 000 consultations sur les questions d'urbanisme, de droit notarial et de relations de voisinage.",
+      "url": "https://www.anil.org/actualites-evenements/details/urbanisme-voisinage-construction-quelles-questions-ont-preoccupe-les-menages-en-2025/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Urbanisme, voisinage, construction : quelles questions ont préoccupé les ménages en 2025 ?."
     },
     {
       "id": "efcd52137bf31732",
@@ -714,27 +735,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "31c82e6b8fcdf1d2",
-      "title": "Urbanisme, voisinage, construction : quelles questions ont préoccupé les ménages en 2025 ?",
-      "summary": "17 août 2026 En 2025, les ADIL ont réalisé plus de 26 000 consultations sur les questions d'urbanisme, de droit notarial et de relations de voisinage.",
-      "url": "https://www.anil.org/actualites-evenements/details/urbanisme-voisinage-construction-quelles-questions-ont-preoccupe-les-menages-en-2025/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-17T05:00:00-04:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Urbanisme, voisinage, construction : quelles questions ont préoccupé les ménages en 2025 ?."
-    },
-    {
       "id": "0595bc3200dd4e10",
       "title": "MaPrimeRénov’, MaPrimeAdapt’ : Ce qui change aujourd’hui avec le nouveau compte France Rénov’",
       "summary": "MaPrimeRénov’, MaPrimeAdapt’ : Ce qui change aujourd’hui avec le nouveau compte France Rénov’",
@@ -747,7 +747,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-17T05:00:00-04:00",
+      "published_at": "2026-08-17T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -768,7 +768,7 @@
         "pro",
         "particulier"
       ],
-      "published_at": "2026-08-17T05:00:00-04:00",
+      "published_at": "2026-08-17T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -795,7 +795,7 @@
       "relevance": 88,
       "territory": "France",
       "topic": "Urbanisme / Territoires",
-      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Arrêté du 27 juillet 2026 prorogeant les effets de l'arrêté du 2 septembre 2021 déclarant d'utilité publique les travaux d'amén….",
       "legal_stage": "jorf"
     },
     {
@@ -817,7 +817,7 @@
       "relevance": 88,
       "territory": "France",
       "topic": "Urbanisme / Territoires",
-      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Décret n° 2026-790 du 13 août 2026 adoptant la mise en compatibilité du schéma de cohérence territoriale de la région Flandre-D….",
       "legal_stage": "jorf"
     },
     {
@@ -853,7 +853,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-08-14T05:00:00-04:00",
+      "published_at": "2026-08-14T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -880,7 +880,7 @@
       "relevance": 88,
       "territory": "France",
       "topic": "Logement social / Habitat",
-      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Avis relatif à l'extension d'un accord conclu dans le cadre de la convention collective nationale de l'habitat et logement acco….",
       "legal_stage": "jorf"
     },
     {
@@ -916,7 +916,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-13T05:00:00-04:00",
+      "published_at": "2026-08-13T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -999,13 +999,34 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-12T05:00:00-04:00",
+      "published_at": "2026-08-12T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros."
+    },
+    {
+      "id": "554aa5802fa13bcf",
+      "title": "Nouvelle Parole d'expert : Ma maison se fissure : puis-je bénéficier du Fonds de prévention argile ?",
+      "summary": "11 août 2026 Des fissures apparaissent sur les murs de votre maison ? Elles peuvent être liées au phénomène de retrait-gonflement des argiles ( RGA ), qui s'accentue avec les épisodes de sécheresse suivis de fortes pluies. Avec le changement climatique, ce…",
+      "url": "https://www.anil.org/parole-expert-logement-habiter-vie-pratique/ma-maison-se-fissure-puis-je-beneficier-du-fonds-de-prevention-argile/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Nouvelle Parole d'expert : Ma maison se fissure : puis-je bénéficier du Fonds de prévention argile ?."
     },
     {
       "id": "8929852ca5dc3634",
@@ -1070,27 +1091,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
-      "id": "554aa5802fa13bcf",
-      "title": "Nouvelle Parole d'expert : Ma maison se fissure : puis-je bénéficier du Fonds de prévention argile ?",
-      "summary": "11 août 2026 Des fissures apparaissent sur les murs de votre maison ? Elles peuvent être liées au phénomène de retrait-gonflement des argiles ( RGA ), qui s'accentue avec les épisodes de sécheresse suivis de fortes pluies. Avec le changement climatique, ce…",
-      "url": "https://www.anil.org/parole-expert-logement-habiter-vie-pratique/ma-maison-se-fissure-puis-je-beneficier-du-fonds-de-prevention-argile/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-11T05:00:00-04:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Nouvelle Parole d'expert : Ma maison se fissure : puis-je bénéficier du Fonds de prévention argile ?."
-    },
-    {
       "id": "d933128dfc8724b5",
       "title": "Prospection immobilière : Acheter un lead vendeur ne suffit plus pour pouvoir l’appeler",
       "summary": "Prospection immobilière : Acheter un lead vendeur ne suffit plus pour pouvoir l’appeler",
@@ -1103,7 +1103,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-11T05:00:00-04:00",
+      "published_at": "2026-08-11T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1230,7 +1230,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-10T05:00:00-04:00",
+      "published_at": "2026-08-10T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1357,7 +1357,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-04T05:00:00-04:00",
+      "published_at": "2026-08-04T09:00:00+00:00",
       "status": "Publication",
       "importance": 82,
       "relevance": 82,
@@ -1377,7 +1377,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-08-04T05:00:00-04:00",
+      "published_at": "2026-08-04T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1398,7 +1398,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-04T05:00:00-04:00",
+      "published_at": "2026-08-04T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1419,7 +1419,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-03T05:00:00-04:00",
+      "published_at": "2026-08-03T09:00:00+00:00",
       "status": "Publication",
       "importance": 82,
       "relevance": 82,
@@ -1565,13 +1565,34 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-02T05:00:00-04:00",
+      "published_at": "2026-08-02T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026."
+    },
+    {
+      "id": "c97fbcb683b89861",
+      "title": "Louer à un travailleur saisonnier : sécurisez votre location avec la garantie Visale",
+      "summary": "30 juillet 2026 Chaque année, de nombreux secteurs recrutent des travailleurs saisonniers, notamment dans le tourisme, l'agriculture ou encore la restauration. Pour ces salariés, trouver un logement à proximité de leur lieu de travail peut être difficile.",
+      "url": "https://www.anil.org/actualites-evenements/details/louer-a-un-travailleur-saisonnier-securisez-votre-location-avec-la-garantie-visale/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Louer à un travailleur saisonnier : sécurisez votre location avec la garantie Visale."
     },
     {
       "id": "f7da610496535f86",
@@ -1595,27 +1616,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "c97fbcb683b89861",
-      "title": "Louer à un travailleur saisonnier : sécurisez votre location avec la garantie Visale",
-      "summary": "30 juillet 2026 Chaque année, de nombreux secteurs recrutent des travailleurs saisonniers, notamment dans le tourisme, l'agriculture ou encore la restauration. Pour ces salariés, trouver un logement à proximité de leur lieu de travail peut être difficile.",
-      "url": "https://www.anil.org/actualites-evenements/details/louer-a-un-travailleur-saisonnier-securisez-votre-location-avec-la-garantie-visale/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-30T05:00:00-04:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Louer à un travailleur saisonnier : sécurisez votre location avec la garantie Visale."
-    },
-    {
       "id": "49fec611d31a12ca",
       "title": "Incendies en Nouvelle-Aquitaine : Action Logement met en place un dispositif d'urgence",
       "summary": "29 juillet 2026 À la suite des incendies qui ont durement touché la Nouvelle-Aquitaine, notamment la Gironde et les Landes, Action Logement déploie des mesures exceptionnelles pour accompagner les salariés dont le logement a été endommagé ou est devenu inhabitable.",
@@ -1628,7 +1628,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-29T05:00:00-04:00",
+      "published_at": "2026-07-29T09:00:00+00:00",
       "status": "Publication",
       "importance": 85,
       "relevance": 82,
@@ -1655,7 +1655,7 @@
       "relevance": 88,
       "territory": "France",
       "topic": "Construction",
-      "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin juin 2026 (France entière)."
     },
     {
       "id": "091448832a801dbf",
@@ -1670,7 +1670,7 @@
         "pro",
         "particulier"
       ],
-      "published_at": "2026-07-28T05:00:00-04:00",
+      "published_at": "2026-07-28T09:00:00+00:00",
       "status": "Publication",
       "importance": 82,
       "relevance": 82,
@@ -1691,7 +1691,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-28T05:00:00-04:00",
+      "published_at": "2026-07-28T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1742,9 +1742,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "babf654472c097fa",
+      "id": "5478dad3f3433e03",
       "title": "CEE, électrification : plusieurs textes clefs retoqués en Conseil supérieur de l'énergie",
-      "summary": "24/07/2026 L'Essentiel Rénovation d'ampleur : les aides CEE se resserrent (encore) dès septembre 2026 Zoom Nouvelle baisse du coefficient d'énergie primaire du DPE : le projet d'arrêté mis en consultation",
+      "summary": "L'Essentiel 24/07/2026 L'Essentiel Rénovation d'ampleur : les aides CEE se resserrent (encore) dès septembre 2026 Zoom Nouvelle baisse du coefficient d'énergie primaire du DPE : le projet d'arrêté mis en consultation",
       "url": "https://www.batiactu.com/edito/electrification-conseil-superieur-energie-se-penche-75051.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -1754,13 +1754,34 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-24T05:00:00-04:00",
+      "published_at": "2026-07-24T09:00:00+00:00",
       "status": "Publication",
       "importance": 76,
       "relevance": 73,
       "territory": "France",
       "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : L'Essentiel CEE, électrification : plusieurs textes clefs retoqués en Conseil supérieur de l'énergie."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : CEE, électrification : plusieurs textes clefs retoqués en Conseil supérieur de l'énergie."
+    },
+    {
+      "id": "7ca85d38f6d0af4e",
+      "title": "Nouvelle analyse juridique : Encadrement de l’évolution des loyers en zones tendues à compter du 1er août 2026",
+      "summary": "23 juillet 2026 Le décret fixant pour les zones tendues le montant maximum d'évolution des loyers d'un logement nu ou meublé en cas de relocation ou de renouvellement du bail est reconduit pour une nouvelle année (du 1er août 2026 au 31 juillet 2027).",
+      "url": "https://www.anil.org/analyse-juridique-encadrement-evolution-loyers-zones-tendues/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 85,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Nouvelle analyse juridique : Encadrement de l’évolution des loyers en zones tendues à compter du 1er août 2026."
     },
     {
       "id": "3be49f1dcf0c0a74",
@@ -1784,30 +1805,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "7ca85d38f6d0af4e",
-      "title": "Nouvelle analyse juridique : Encadrement de l’évolution des loyers en zones tendues à compter du 1er août 2026",
-      "summary": "23 juillet 2026 Le décret fixant pour les zones tendues le montant maximum d'évolution des loyers d'un logement nu ou meublé en cas de relocation ou de renouvellement du bail est reconduit pour une nouvelle année (du 1er août 2026 au 31 juillet 2027).",
-      "url": "https://www.anil.org/analyse-juridique-encadrement-evolution-loyers-zones-tendues/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-23T05:00:00-04:00",
-      "status": "Publication",
-      "importance": 85,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Nouvelle analyse juridique : Encadrement de l’évolution des loyers en zones tendues à compter du 1er août 2026."
-    },
-    {
-      "id": "0d8119805d97d43f",
-      "title": "À Brest, la construction d'un petit collectif intermédiaire donne la part belle au bois",
-      "summary": "23/07/2026 Reportage Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site Interview \"Nos maisons en bois ne sont pas plus chères que des constructions maçonnées traditionnelles\". Alban Boyé (Trecobat)",
+      "id": "12695a943896f23a",
+      "title": "A Brest, la construction d'un petit collectif intermédiaire donne la part belle au bois",
+      "summary": "Reportage 23/07/2026 Reportage Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site Interview \"Nos maisons en bois ne sont pas plus chères que des constructions maçonnées traditionnelles\". Alban Boyé (Trecobat)",
       "url": "https://www.batiactu.com/edito/a-brest-construction-un-petit-collectif-maisons-donne-75043.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -1817,18 +1817,18 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-23T05:00:00-04:00",
+      "published_at": "2026-07-23T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Reportage A Brest, la construction d'un petit collectif intermédiaire donne la part belle au bois."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : A Brest, la construction d'un petit collectif intermédiaire donne la part belle au bois."
     },
     {
-      "id": "5041ee2a49ad9e84",
+      "id": "f760ca2d05bbe5a2",
       "title": "Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site",
-      "summary": "22/07/2026 Interview \"Nos maisons en bois ne sont pas plus chères que des constructions maçonnées traditionnelles\". Alban Boyé (Trecobat)",
+      "summary": "Reportage 22/07/2026 Interview \"Nos maisons en bois ne sont pas plus chères que des constructions maçonnées traditionnelles\". Alban Boyé (Trecobat)",
       "url": "https://www.batiactu.com/edito/dans-construction-bois-breton-trecobat-joue-coudes-75031.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -1838,13 +1838,34 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-22T05:00:00-04:00",
+      "published_at": "2026-07-22T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Reportage Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site."
+    },
+    {
+      "id": "cdf59226118be2f5",
+      "title": "Logement : la mission Grataloup va jouer les prolongations POLITIQUE DU LOGEMENT. La mission confiée au président de l'Union des propriétaires immobiliers (Unpi) est loin d'être achevée.",
+      "summary": "En débat 22/07/2026",
+      "url": "https://www.batiactu.com/edito/logement-mission-grataloup-joue-prolongations-75034.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Logement : la mission Grataloup va jouer les prolongations POLITIQUE DU LOGEMENT. La mission confiée au président de l'Union de…."
     },
     {
       "id": "bef27e47e5e49a68",
@@ -1922,7 +1943,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-16T05:00:00-04:00",
+      "published_at": "2026-07-16T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1943,7 +1964,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-16T05:00:00-04:00",
+      "published_at": "2026-07-16T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1964,7 +1985,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-16T05:00:00-04:00",
+      "published_at": "2026-07-16T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -1985,7 +2006,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-16T05:00:00-04:00",
+      "published_at": "2026-07-16T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -2006,7 +2027,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-16T05:00:00-04:00",
+      "published_at": "2026-07-16T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -2027,7 +2048,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-15T05:00:00-04:00",
+      "published_at": "2026-07-15T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -2048,7 +2069,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-15T05:00:00-04:00",
+      "published_at": "2026-07-15T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -2069,7 +2090,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-15T05:00:00-04:00",
+      "published_at": "2026-07-15T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -2110,7 +2131,7 @@
         "pro",
         "investisseur"
       ],
-      "published_at": "2026-07-14T05:00:00-04:00",
+      "published_at": "2026-07-14T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -2131,7 +2152,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-14T05:00:00-04:00",
+      "published_at": "2026-07-14T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -2257,7 +2278,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-07-07T05:00:00-04:00",
+      "published_at": "2026-07-07T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -2320,7 +2341,7 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-05-28T05:00:00-04:00",
+      "published_at": "2026-05-28T09:00:00+00:00",
       "status": "Chiffre officiel",
       "importance": 88,
       "relevance": 88,
