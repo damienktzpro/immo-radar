@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-26T13:19:48+00:00",
+  "generated_at": "2026-08-26T20:06:27+00:00",
   "items": [
     {
       "id": "d8a559c7836333f2",
@@ -84,6 +84,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
+    },
+    {
+      "id": "86bedc8e39b7a18d",
+      "title": "Facturation électronique : Votre agence immobilière est-elle prête pour le 1er septembre ?",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/08/26/facturation-electronique-votre-agence-immobiliere-est-elle-prete-pour-le-1er-septembre/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "6e58f03496d3c03d",
@@ -169,8 +190,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
-      "id": "c374b6141a66baa5",
-      "title": "Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d'euros",
+      "id": "cce7be701e9b0584",
+      "title": "Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d’euros",
       "summary": "Luxe",
       "url": "https://www.mysweetimmo.com/2026/08/25/immobilier-provence-1-000-m%c2%b2-et-600-ans-dhistoire-a-vendre-44-millions-deuros/",
       "source": "MySweetImmo",
@@ -339,7 +360,7 @@
     {
       "id": "50386a9ce24c05ca",
       "title": "Immobilier : 1 Français sur 5 veut déménager après les vacances",
-      "summary": "Société",
+      "summary": "Immobilier : 1 Français sur 5 veut déménager après les vacances",
       "url": "https://www.mysweetimmo.com/2026/08/20/immobilier-1-francais-sur-5-veut-demenager-apres-les-vacances/",
       "source": "MySweetImmo",
       "source_level": "C",

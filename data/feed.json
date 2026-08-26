@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:19:48+00:00",
+  "generated_at": "2026-08-26T20:06:27+00:00",
   "version": "7.1",
   "items": [
     {
@@ -43,6 +43,27 @@
       "territory": "France",
       "topic": "Credit",
       "why_it_matters": "Source institutionnelle. Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets."
+    },
+    {
+      "id": "86bedc8e39b7a18d",
+      "title": "Facturation électronique : Votre agence immobilière est-elle prête pour le 1er septembre ?",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/08/26/facturation-electronique-votre-agence-immobiliere-est-elle-prete-pour-le-1er-septembre/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "9187a6d7fbe4037e",
@@ -107,8 +128,8 @@
       "legal_stage": "jorf"
     },
     {
-      "id": "c374b6141a66baa5",
-      "title": "Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d'euros",
+      "id": "cce7be701e9b0584",
+      "title": "Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d’euros",
       "summary": "Luxe",
       "url": "https://www.mysweetimmo.com/2026/08/25/immobilier-provence-1-000-m%c2%b2-et-600-ans-dhistoire-a-vendre-44-millions-deuros/",
       "source": "MySweetImmo",
@@ -338,7 +359,7 @@
     {
       "id": "50386a9ce24c05ca",
       "title": "Immobilier : 1 Français sur 5 veut déménager après les vacances",
-      "summary": "Société",
+      "summary": "Immobilier : 1 Français sur 5 veut déménager après les vacances",
       "url": "https://www.mysweetimmo.com/2026/08/20/immobilier-1-francais-sur-5-veut-demenager-apres-les-vacances/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -967,27 +988,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "8cf0647c90452195",
-      "title": "Immobilier : Quand la canicule pèse sur le choix du logement",
-      "summary": "Immobilier : Quand la canicule pèse sur le choix du logement",
-      "url": "https://www.mysweetimmo.com/2026/08/10/immobilier-quand-la-canicule-pese-sur-le-choix-du-logement/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-10T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
       "id": "bdf8a551019bd962",
       "title": "Licenciement chez Zillow : départ de plus de 500 employés",
       "summary": "10 août 2026 - Une vague de licenciements s’est produite chez Zillow. En effet, le portail immobilier américain a renvoyé plus de 500 employés. Soit un licenciement d’environ 7 % [...]",
@@ -1344,27 +1344,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "818aeb40578e2cb6",
-      "title": "Économie Marché du bâtiment à horizon 2030 : rebond ou simple sortie de crise ? (étude) 20/07/2026",
-      "summary": "En direct Relance logement : le contre-la-montre pour faire adopter le texte est lancé L'Essentiel \"Le plan Relance logement pose les bases d'un triple choc\", V. Jeanbrun (ministre)",
-      "url": "https://www.batiactu.com/edito/marche-batiment-a-horizon-2030-rebond-ou-simple-sortie-75003.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-20T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
       "id": "f69cece18ac6ddd0",
       "title": "Des chiffres, l'actu : cette semaine, facture salée pour les TPE 16/07/2026",
       "summary": "Des chiffres, l'actu : cette semaine, facture salée pour le logement social 09/07/2026",
@@ -1595,27 +1574,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "b3cb8744072e6419",
-      "title": "GEO immobilier : devenez le professionnel que les IA recommandent",
-      "summary": "6 juillet 2026 - Dans l’immobilier, rien n’est plus essentiel que la visibilité locale. C’est elle qui vous permet d’être connu puis reconnu comme l’expert [...]",
-      "url": "https://immo2.pro/actualite-immobilier/geo-immobilier-devenez-le-professionnel-que-les-ia-recommandent/",
-      "source": "Immobilier 2.0",
-      "source_level": "C",
-      "category": "territoires",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-06T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Territoires",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
-    },
-    {
       "id": "3b2255cb7e8a6f65",
       "title": "Informations Rapides · 28 mai 2026 · n° 130 Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) Indices Notaires-Insee des prix des logements anciens - premier trimestre 2026",
       "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee false Aller au contenu Aide Thèmes Recherche English Presse Menu Menu Blog Presse Aide English Lancer la recherche sur le site Thèmes Statistiques et études Cherchez vos statistiques par… Thèmes Économie - conjoncture - comptes nationaux Démographie Entreprises Plus de thèmes… Niveaux géographiques France Toutes les régions ou tous les départements Toutes les communes Plus de ni",
@@ -1702,12 +1660,12 @@
     }
   ],
   "source_stats": {
-    "Batiactu": 11,
+    "Batiactu": 10,
     "ANIL": 12,
+    "MySweetImmo": 16,
     "Journal de l'Agence": 16,
     "Légifrance": 5,
-    "MySweetImmo": 16,
-    "Immobilier 2.0": 16,
+    "Immobilier 2.0": 15,
     "SDES / Sitadel": 1,
     "Insee": 1,
     "EUR-Lex": 1,
@@ -1715,26 +1673,27 @@
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 15,
-    "sources_degraded": 0,
+    "sources_ok": 14,
+    "sources_degraded": 1,
     "errors": 0,
-    "retained": 81,
-    "rejected": 1014,
+    "retained": 79,
+    "rejected": 1041,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
-        "ok": true,
-        "status": "ok",
+        "ok": false,
+        "status": "degraded",
         "retained": 2,
-        "last_success": "2026-08-26T13:19:05+00:00",
-        "fallback": false
+        "last_success": "2026-08-26T13:19:48+00:00",
+        "fallback": true,
+        "error_type": "RemoteDisconnected"
       },
       "Banque de France": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-26T13:19:09+00:00",
+        "last_success": "2026-08-26T20:05:50+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1742,7 +1701,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-26T13:19:10+00:00",
+        "last_success": "2026-08-26T20:05:50+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1750,7 +1709,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-26T13:19:11+00:00",
+        "last_success": "2026-08-26T20:05:52+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1758,7 +1717,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-26T13:19:31+00:00",
+        "last_success": "2026-08-26T20:06:07+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1766,7 +1725,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-08-26T13:19:40+00:00",
+        "last_success": "2026-08-26T20:06:15+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1774,7 +1733,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-26T13:19:40+00:00",
+        "last_success": "2026-08-26T20:06:15+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1782,7 +1741,7 @@
         "ok": true,
         "status": "ok",
         "retained": 12,
-        "last_success": "2026-08-26T13:19:40+00:00",
+        "last_success": "2026-08-26T20:06:15+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1790,7 +1749,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-26T13:19:41+00:00",
+        "last_success": "2026-08-26T20:06:19+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1798,7 +1757,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-26T13:19:42+00:00",
+        "last_success": "2026-08-26T20:06:20+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1806,7 +1765,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-26T13:19:44+00:00",
+        "last_success": "2026-08-26T20:06:22+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1814,23 +1773,23 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-26T13:19:45+00:00",
+        "last_success": "2026-08-26T20:06:23+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 11,
-        "last_success": "2026-08-26T13:19:46+00:00",
+        "retained": 10,
+        "last_success": "2026-08-26T20:06:24+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 16,
-        "last_success": "2026-08-26T13:19:47+00:00",
+        "retained": 15,
+        "last_success": "2026-08-26T20:06:24+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1838,10 +1797,16 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-26T13:19:48+00:00",
+        "last_success": "2026-08-26T20:06:27+00:00",
         "fallback": false
       }
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "source": "Service-Public.fr",
+      "error": "Remote end closed connection without response",
+      "fallback": true
+    }
+  ]
 }
