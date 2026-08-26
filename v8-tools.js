@@ -78,6 +78,7 @@
             <a href="https://explore.data.gouv.fr/fr/immobilier" target="_blank" rel="noopener">DVF · ventes réelles ↗</a>
             <span class="v8-source-chip">Loyers : charges comprises · annonces non meublées</span>
           </div>
+          <div class="v8-freshness-banner"><strong>Dernières données locatives disponibles : T3 2025</strong><span>Estimations ANIL publiées en décembre 2025 · période et prudence affichées pour chaque commune.</span></div>
         </div>
 
         <div class="v8-panel">
@@ -91,6 +92,7 @@
 
           <div class="v8-search-wrap">
             <div class="v8-search">
+              <label class="sr-only" for="v8RentalSearch">Rechercher une commune ou un code postal</label>
               <input id="v8RentalSearch" type="search" autocomplete="off" placeholder="Paris 11e, Bordeaux, Nantes, 92100…">
               <button id="v8RentalSearchBtn" class="v8-primary" type="button">Rechercher</button>
             </div>
@@ -137,6 +139,7 @@
               <div id="v8LocalYield" class="v8-big-number">—</div>
               <p id="v8LocalYieldText">Sélectionnez un territoire disposant à la fois d’un indicateur de loyer et d’un prix DVF exploitable.</p>
               <div class="v8-note">Le rendement affiché ne déduit ni fiscalité, ni charges, ni travaux, ni vacance. Utilisez ensuite le simulateur de rentabilité pour une analyse plus complète.</div>
+              <button id="v8UseInSimulator" class="v8-primary v8-simulator-cta" type="button" disabled>Simuler cet investissement →</button>
             </article>
           </div>
 
@@ -158,13 +161,14 @@
             <a href="https://www.banque-france.fr/fr/statistiques/credit/credits-aux-particuliers-2026-06" target="_blank" rel="noopener">Banque de France · juin 2026 ↗</a>
             <span class="v8-source-chip">Taux prérempli : ${String(BDF_RATE).replace(".",",")} % · modifiable</span>
           </div>
+          <div class="v8-privacy-note">Calculs effectués uniquement dans votre navigateur · aucune donnée financière n’est envoyée ni conservée.</div>
         </div>
 
         <div class="v8-panel">
-          <div class="v8-tool-tabs" role="tablist">
-            <button class="v8-tab active" data-v8-tool="capacity" type="button">Capacité d’emprunt</button>
-            <button class="v8-tab" data-v8-tool="loan" type="button">Prêt immobilier</button>
-            <button class="v8-tab" data-v8-tool="yield" type="button">Rentabilité locative</button>
+          <div class="v8-tool-tabs" role="tablist" aria-label="Simulateurs immobiliers">
+            <button class="v8-tab active" data-v8-tool="capacity" type="button" role="tab" aria-selected="true">Capacité d’emprunt</button>
+            <button class="v8-tab" data-v8-tool="loan" type="button" role="tab" aria-selected="false">Prêt immobilier</button>
+            <button class="v8-tab" data-v8-tool="yield" type="button" role="tab" aria-selected="false">Rentabilité locative</button>
           </div>
 
           <div id="v8ToolCapacity" class="v8-tool active">
@@ -172,16 +176,16 @@
               <div class="v8-form-card">
                 <span class="v8-card-kicker">Capacité d’emprunt</span>
                 <div class="v8-form-grid">
-                  <div class="v8-field"><label>Revenus nets mensuels avant impôt</label><input id="capIncome1" type="number" min="0" step="50" value="3000"></div>
-                  <div class="v8-field"><label>Revenus co-emprunteur</label><input id="capIncome2" type="number" min="0" step="50" value="0"></div>
-                  <div class="v8-field"><label>Revenus locatifs mensuels</label><input id="capRentIncome" type="number" min="0" step="25" value="0"><small>Ils peuvent être retenus différemment selon la banque.</small></div>
-                  <div class="v8-field"><label>Part des loyers retenue</label><input id="capRentShare" type="number" min="0" max="100" step="5" value="70"><small>Hypothèse bancaire modifiable, pas une règle HCSF.</small></div>
-                  <div class="v8-field"><label>Crédits en cours / mois</label><input id="capExisting" type="number" min="0" step="25" value="0"></div>
-                  <div class="v8-field"><label>Autres mensualités de crédits</label><input id="capOther" type="number" min="0" step="25" value="0"><small>Autres dettes ou emprunts restant à payer après l’opération.</small></div>
-                  <div class="v8-field"><label>Apport personnel</label><input id="capDeposit" type="number" min="0" step="1000" value="30000"></div>
-                  <div class="v8-field"><label>Durée</label><select id="capYears"><option>15</option><option>20</option><option selected>25</option></select></div>
-                  <div class="v8-field"><label>Taux nominal annuel</label><input id="capRate" type="number" min="0" max="15" step=".01" value="${BDF_RATE}"><small>Référence BDF juin 2026, hors frais et assurance.</small></div>
-                  <div class="v8-field"><label>Assurance annuelle / capital initial</label><input id="capInsurance" type="number" min="0" max="5" step=".01" value="0.25"></div>
+                  <div class="v8-field"><label for="capIncome1">Revenus nets mensuels avant impôt</label><input id="capIncome1" type="number" min="0" step="50" value="3000"></div>
+                  <div class="v8-field"><label for="capIncome2">Revenus co-emprunteur</label><input id="capIncome2" type="number" min="0" step="50" value="0"></div>
+                  <div class="v8-field"><label for="capRentIncome">Revenus locatifs mensuels</label><input id="capRentIncome" type="number" min="0" step="25" value="0"><small>Ils peuvent être retenus différemment selon la banque.</small></div>
+                  <div class="v8-field"><label for="capRentShare">Part des loyers retenue</label><input id="capRentShare" type="number" min="0" max="100" step="5" value="70"><small>Hypothèse bancaire modifiable, pas une règle HCSF.</small></div>
+                  <div class="v8-field"><label for="capExisting">Crédits en cours / mois</label><input id="capExisting" type="number" min="0" step="25" value="0"></div>
+                  <div class="v8-field"><label for="capOther">Autres mensualités de crédits</label><input id="capOther" type="number" min="0" step="25" value="0"><small>Autres dettes ou emprunts restant à payer après l’opération.</small></div>
+                  <div class="v8-field"><label for="capDeposit">Apport personnel</label><input id="capDeposit" type="number" min="0" step="1000" value="30000"></div>
+                  <div class="v8-field"><label for="capYears">Durée</label><select id="capYears"><option>15</option><option>20</option><option selected>25</option></select></div>
+                  <div class="v8-field"><label for="capRate">Taux nominal annuel</label><input id="capRate" type="number" min="0" max="15" step=".01" value="${BDF_RATE}"><small>Référence BDF juin 2026, hors frais et assurance.</small></div>
+                  <div class="v8-field"><label for="capInsurance">Assurance annuelle / capital initial</label><input id="capInsurance" type="number" min="0" max="5" step=".01" value="0.25"></div>
                 </div>
               </div>
               <div class="v8-result-card">
@@ -199,10 +203,10 @@
               <div class="v8-form-card">
                 <span class="v8-card-kicker">Prêt immobilier</span>
                 <div class="v8-form-grid">
-                  <div class="v8-field"><label>Capital emprunté</label><input id="loanCapital" type="number" min="0" step="1000" value="250000"></div>
-                  <div class="v8-field"><label>Durée</label><select id="loanYears"><option>10</option><option>15</option><option>20</option><option selected>25</option></select></div>
-                  <div class="v8-field"><label>Taux nominal annuel</label><input id="loanRate" type="number" min="0" max="15" step=".01" value="${BDF_RATE}"></div>
-                  <div class="v8-field"><label>Assurance annuelle / capital initial</label><input id="loanInsurance" type="number" min="0" max="5" step=".01" value="0.25"></div>
+                  <div class="v8-field"><label for="loanCapital">Capital emprunté</label><input id="loanCapital" type="number" min="0" step="1000" value="250000"></div>
+                  <div class="v8-field"><label for="loanYears">Durée</label><select id="loanYears"><option>10</option><option>15</option><option>20</option><option selected>25</option></select></div>
+                  <div class="v8-field"><label for="loanRate">Taux nominal annuel</label><input id="loanRate" type="number" min="0" max="15" step=".01" value="${BDF_RATE}"></div>
+                  <div class="v8-field"><label for="loanInsurance">Assurance annuelle / capital initial</label><input id="loanInsurance" type="number" min="0" max="5" step=".01" value="0.25"></div>
                 </div>
               </div>
               <div class="v8-result-card">
@@ -221,24 +225,27 @@
               <div class="v8-form-card">
                 <span class="v8-card-kicker">Rentabilité locative</span>
                 <div class="v8-form-grid">
-                  <div class="v8-field"><label>Prix du bien</label><input id="yPrice" type="number" min="0" step="1000" value="180000"></div>
-                  <div class="v8-field"><label>Frais d’acquisition</label><input id="yFees" type="number" min="0" step="500" value="14000"></div>
-                  <div class="v8-field"><label>Travaux</label><input id="yWorks" type="number" min="0" step="500" value="10000"></div>
-                  <div class="v8-field"><label>Mobilier</label><input id="yFurniture" type="number" min="0" step="250" value="3000"></div>
-                  <div class="v8-field"><label>Loyer mensuel hors charges</label><input id="yRent" type="number" min="0" step="10" value="950"></div>
-                  <div class="v8-field"><label>Vacance locative</label><input id="yVacancy" type="number" min="0" max="100" step=".5" value="5"><small>Part du loyer annuel non encaissée.</small></div>
-                  <div class="v8-field"><label>Taxe foncière / an</label><input id="yTax" type="number" min="0" step="50" value="1100"></div>
-                  <div class="v8-field"><label>Charges non récupérables / an</label><input id="yCharges" type="number" min="0" step="50" value="900"></div>
-                  <div class="v8-field"><label>PNO + autres assurances / an</label><input id="yPno" type="number" min="0" step="25" value="180"></div>
-                  <div class="v8-field"><label>Gestion locative</label><input id="yManagement" type="number" min="0" max="30" step=".5" value="0"><small>% des loyers encaissés.</small></div>
-                  <div class="v8-field"><label>Montant emprunté</label><input id="yLoan" type="number" min="0" step="1000" value="160000"></div>
-                  <div class="v8-field"><label>Durée du prêt</label><select id="yYears"><option>15</option><option>20</option><option selected>25</option></select></div>
-                  <div class="v8-field"><label>Taux nominal</label><input id="yRate" type="number" min="0" max="15" step=".01" value="${BDF_RATE}"></div>
-                  <div class="v8-field"><label>Assurance annuelle</label><input id="yInsurance" type="number" min="0" max="5" step=".01" value="0.25"></div>
+                  <div class="v8-field"><label for="yPrice">Prix du bien</label><input id="yPrice" type="number" min="0" step="1000" value="180000"></div>
+                  <div class="v8-field"><label for="yFeesPreset">Estimation des frais d’acquisition</label><select id="yFeesPreset"><option value="7.5" selected>Ancien · 7,5 %</option><option value="2.5">Neuf · 2,5 %</option><option value="manual">Saisie manuelle</option></select></div>
+                  <div class="v8-field"><label for="yFees">Frais d’acquisition</label><input id="yFees" type="number" min="0" step="500" value="13500"><small>Estimation modifiable, à confirmer avec un notaire.</small></div>
+                  <div class="v8-field"><label for="yWorks">Travaux</label><input id="yWorks" type="number" min="0" step="500" value="10000"></div>
+                  <div class="v8-field"><label for="yFurniture">Mobilier</label><input id="yFurniture" type="number" min="0" step="250" value="3000"></div>
+                  <div class="v8-field"><label for="yRent">Loyer mensuel hors charges</label><input id="yRent" type="number" min="0" step="10" value="950"></div>
+                  <div class="v8-field"><label for="yTargetGross">Objectif de rendement brut</label><input id="yTargetGross" type="number" min=".1" max="30" step=".1" value="5"><small>Utilisé pour calculer le prix maximal indicatif.</small></div>
+                  <div class="v8-field"><label for="yVacancy">Vacance locative</label><input id="yVacancy" type="number" min="0" max="100" step=".5" value="5"><small>Part du loyer annuel non encaissée.</small></div>
+                  <div class="v8-field"><label for="yTax">Taxe foncière / an</label><input id="yTax" type="number" min="0" step="50" value="1100"></div>
+                  <div class="v8-field"><label for="yCharges">Charges non récupérables / an</label><input id="yCharges" type="number" min="0" step="50" value="900"></div>
+                  <div class="v8-field"><label for="yPno">PNO + autres assurances / an</label><input id="yPno" type="number" min="0" step="25" value="180"></div>
+                  <div class="v8-field"><label for="yManagement">Gestion locative</label><input id="yManagement" type="number" min="0" max="30" step=".5" value="0"><small>% des loyers encaissés.</small></div>
+                  <div class="v8-field"><label for="yLoan">Montant emprunté</label><input id="yLoan" type="number" min="0" step="1000" value="160000"></div>
+                  <div class="v8-field"><label for="yYears">Durée du prêt</label><select id="yYears"><option>15</option><option>20</option><option selected>25</option></select></div>
+                  <div class="v8-field"><label for="yRate">Taux nominal</label><input id="yRate" type="number" min="0" max="15" step=".01" value="${BDF_RATE}"></div>
+                  <div class="v8-field"><label for="yInsurance">Assurance annuelle</label><input id="yInsurance" type="number" min="0" max="5" step=".01" value="0.25"></div>
                 </div>
               </div>
               <div class="v8-result-card">
                 <span class="v8-card-kicker">Performance avant fiscalité</span>
+                <div id="yPrefillNotice" class="v8-prefill-notice" hidden></div>
                 <div id="yieldNet" class="v8-result-main">—</div>
                 <p class="v8-result-sub">Rentabilité nette de charges avant impôt sur les revenus locatifs.</p>
                 <div id="yieldResults" class="v8-result-list"></div>
@@ -460,6 +467,57 @@
       $("#v8LocalYield").textContent="—";
       $("#v8LocalYieldText").textContent="Le rendement nécessite un indicateur de loyer et une médiane DVF disponible pour la catégorie choisie.";
     }
+    const cta=$("#v8UseInSimulator");
+    if(cta)cta.disabled=!(rentMonthly&&purchase);
+  }
+
+  function openTool(id){
+    $$(".v8-tab").forEach(b=>{
+      const active=b.dataset.v8Tool===id;
+      b.classList.toggle("active",active);
+      b.setAttribute("aria-selected",String(active));
+    });
+    $$(".v8-tool").forEach(x=>x.classList.remove("active"));
+    const panel=$(`#v8Tool${id[0].toUpperCase()+id.slice(1)}`);
+    panel?.classList.add("active");
+    return panel;
+  }
+
+  function updateAcquisitionFees(){
+    const preset=$("#yFeesPreset")?.value;
+    if(!preset||preset==="manual")return;
+    const fees=Math.round(num($("#yPrice")?.value)*num(preset)/100);
+    if($("#yFees"))$("#yFees").value=fees;
+  }
+
+  function prefillYieldFromLocal(){
+    const surface=Math.max(1,num($("#v8LocalSurface")?.value)||40);
+    const type=$("#v8LocalType")?.value||"small";
+    const rentM2=rentalState.rent?.[type]?.rent_m2;
+    const priceFamily=type==="house"?"house":"apartment";
+    const priceM2=rentalState.dvf?.[priceFamily]?.median_price_m2;
+    if(!rentM2||!priceM2)return;
+    const price=Math.round(priceM2*surface);
+    const rent=Math.round(rentM2*surface);
+
+    $("#yPrice").value=price;
+    $("#yRent").value=rent;
+    $("#yLoan").value=price;
+    $("#yWorks").value=0;
+    $("#yFurniture").value=0;
+    $("#yFeesPreset").value="7.5";
+    updateAcquisitionFees();
+
+    const notice=$("#yPrefillNotice");
+    if(notice){
+      notice.hidden=false;
+      notice.innerHTML=`<strong>Prérempli depuis ${esc(rentalState.territory?.nom||"la commune")}</strong><span>${surface} m² · prix médian DVF ${Math.round(priceM2).toLocaleString("fr-FR")} €/m² · loyer ANIL T3 2025 ${rentM2.toFixed(1).replace(".",",")} €/m².</span><em>Attention : le loyer ANIL est charges comprises. Il est transféré comme hypothèse provisoire ; remplacez-le par le loyer hors charges du bien étudié.</em>`;
+    }
+
+    openV8Page("tools");
+    const panel=openTool("yield");
+    calcYield();
+    setTimeout(()=>panel?.scrollIntoView({behavior:"smooth",block:"start"}),80);
   }
 
   async function selectRentalTerritory(t){
@@ -633,7 +691,7 @@
 
   function calcYield(){
     const price=num($("#yPrice").value),fees=num($("#yFees").value),works=num($("#yWorks").value),furniture=num($("#yFurniture").value);
-    const rent=num($("#yRent").value),vacancy=Math.min(100,Math.max(0,num($("#yVacancy").value)))/100;
+    const rent=num($("#yRent").value),targetGross=Math.max(.1,num($("#yTargetGross").value)||5),vacancy=Math.min(100,Math.max(0,num($("#yVacancy").value)))/100;
     const tax=num($("#yTax").value),charges=num($("#yCharges").value),pno=num($("#yPno").value);
     const management=Math.min(100,Math.max(0,num($("#yManagement").value)))/100;
     const loan=num($("#yLoan").value),years=num($("#yYears").value),rate=num($("#yRate").value),insurance=num($("#yInsurance").value);
@@ -647,6 +705,10 @@
     const netYield=project>0?annualNetBeforeDebt/project*100:0;
     const debt=paymentDetails(loan,rate,years,insurance);
     const cashflow=(annualNetBeforeDebt-debt.total*12)/12;
+    const preset=$("#yFeesPreset")?.value||"manual";
+    const feeRate=preset==="manual"?null:num(preset)/100;
+    const maxProject=annualGross/(targetGross/100);
+    const maxPrice=Math.max(0,feeRate===null?maxProject-fees-works-furniture:(maxProject-works-furniture)/(1+feeRate));
 
     $("#yieldNet").textContent=pct(netYield,2);
     $("#yieldGross").textContent=pct(grossYield,2);
@@ -659,23 +721,22 @@
       <div class="v8-result-line"><span>Charges annuelles propriétaire</span><strong>${euro(tax+charges+pno+managementCost)}</strong></div>
       <div class="v8-result-line"><span>Mensualité crédit + assurance</span><strong>${euro(debt.total)}</strong></div>
       <div class="v8-result-line"><span>Cash-flow avant fiscalité</span><strong>${cashflow>=0?"+":""}${euro(cashflow)}/mois</strong></div>
+      <div class="v8-result-line is-target"><span>Prix maximal du bien pour ${pct(targetGross,1)} brut</span><strong>${euro(maxPrice)}</strong></div>
     `;
   }
 
   function bindTools(){
-    $$(".v8-tab").forEach(b=>b.onclick=()=>{
-      $$(".v8-tab").forEach(x=>x.classList.toggle("active",x===b));
-      $$(".v8-tool").forEach(x=>x.classList.remove("active"));
-      const id=b.dataset.v8Tool;
-      $(`#v8Tool${id[0].toUpperCase()+id.slice(1)}`)?.classList.add("active");
-    });
+    $$(".v8-tab").forEach(b=>b.onclick=()=>openTool(b.dataset.v8Tool));
 
     [
       "#capIncome1","#capIncome2","#capRentIncome","#capRentShare","#capExisting","#capOther","#capDeposit","#capYears","#capRate","#capInsurance"
     ].forEach(s=>$(s)?.addEventListener("input",calcCapacity));
     ["#loanCapital","#loanYears","#loanRate","#loanInsurance"].forEach(s=>$(s)?.addEventListener("input",calcLoan));
-    ["#yPrice","#yFees","#yWorks","#yFurniture","#yRent","#yVacancy","#yTax","#yCharges","#yPno","#yManagement","#yLoan","#yYears","#yRate","#yInsurance"]
+    ["#yWorks","#yFurniture","#yRent","#yTargetGross","#yVacancy","#yTax","#yCharges","#yPno","#yManagement","#yLoan","#yYears","#yRate","#yInsurance"]
       .forEach(s=>$(s)?.addEventListener("input",calcYield));
+    $("#yPrice")?.addEventListener("input",()=>{updateAcquisitionFees();calcYield()});
+    $("#yFeesPreset")?.addEventListener("change",()=>{updateAcquisitionFees();calcYield()});
+    $("#yFees")?.addEventListener("input",()=>{$("#yFeesPreset").value="manual";calcYield()});
 
     calcCapacity();calcLoan();calcYield();
   }
@@ -701,6 +762,7 @@
     $("#v8LocalRecalc").onclick=renderLocalYield;
     $("#v8LocalSurface").addEventListener("input",renderLocalYield);
     $("#v8LocalType").addEventListener("change",renderLocalYield);
+    $("#v8UseInSimulator").onclick=prefillYieldFromLocal;
   }
 
   function init(){

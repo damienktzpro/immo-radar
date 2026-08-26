@@ -4,18 +4,55 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#f3f0e8" />
-  <meta name="description" content="Radar Immobilier — l’essentiel du marché, des lois et de l’investissement immobilier." />
-  <title>Radar Immobilier</title>
+  <meta name="description" content="Radar Immobilier rassemble les données, lois, loyers et outils utiles pour comprendre le marché immobilier français et simuler un projet." />
+  <meta name="robots" content="index,follow,max-image-preview:large" />
+  <link rel="canonical" href="https://damienktzpro.github.io/immo-radar/" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="fr_FR" />
+  <meta property="og:site_name" content="Radar Immobilier" />
+  <meta property="og:title" content="Radar Immobilier — le marché enfin lisible" />
+  <meta property="og:description" content="Actualités sourcées, lois, données locales, loyers et simulateurs immobiliers réunis dans un même radar." />
+  <meta property="og:url" content="https://damienktzpro.github.io/immo-radar/" />
+  <meta property="og:image" content="https://damienktzpro.github.io/immo-radar/logo-radar-header.png" />
+  <meta property="og:image:width" content="800" />
+  <meta property="og:image:height" content="249" />
+  <meta property="og:image:alt" content="Radar Immobilier" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Radar Immobilier — le marché enfin lisible" />
+  <meta name="twitter:description" content="Actualités sourcées, données locales et simulateurs pour éclairer un projet immobilier." />
+  <meta name="twitter:image" content="https://damienktzpro.github.io/immo-radar/logo-radar-header.png" />
+
+  <title>Radar Immobilier — Actualités, données locales et simulateurs</title>
   <link rel="icon" type="image/png" href="./favicon-radar.png?v=1">
   <link rel="apple-touch-icon" href="./logo-radar-icon.png?v=1">
-  <link rel="stylesheet" href="./styles.css?v=9.2" />
-  <link rel="stylesheet" href="./mobile-fix.css?v=9.0">
-  <link rel="stylesheet" href="./header-fix-v10.css?v=10.2">
+  <link rel="stylesheet" href="./styles.css?v=9.3" />
+  <link rel="stylesheet" href="./mobile-fix.css?v=9.1">
+  <link rel="stylesheet" href="./v8-tools.css?v=9.0">
+  <link rel="stylesheet" href="./header-fix-v10.css?v=10.3">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Radar Immobilier",
+    "url": "https://damienktzpro.github.io/immo-radar/",
+    "description": "Veille immobilière française, données locales, loyers et simulateurs de financement et de rentabilité.",
+    "applicationCategory": "FinanceApplication",
+    "operatingSystem": "Web",
+    "inLanguage": "fr-FR",
+    "isAccessibleForFree": true,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Radar Immobilier",
+      "logo": "https://damienktzpro.github.io/immo-radar/logo-radar-icon.png"
+    }
+  }
+  </script>
 </head>
 <body>
   <header class="topbar">
-    <a class="brand" href="#top" aria-label="Radar Immobilier">
-      <a class="brand brand-logo-link" href="#top" aria-label="Radar Immobilier">
+    <a class="brand brand-logo-link" href="#top" aria-label="Radar Immobilier — retour à l’accueil">
       <img
         class="brand-logo-image"
         src="./logo-radar-header.png?v=2"
@@ -32,11 +69,19 @@
     </nav>
 
     <div class="top-actions">
-      <button id="searchOpen" class="icon-btn" aria-label="Rechercher">⌕</button>
+      <button id="searchOpen" class="icon-btn" type="button" aria-label="Rechercher">⌕</button>
       <button id="mobileMenuBtn" class="mobile-menu-btn" aria-label="Ouvrir le menu" aria-expanded="false">
         <span></span><span></span><span></span>
       </button>
-      <button id="sourcesOpen" class="country-btn"><span class="live-dot"></span>France <span>⌄</span></button>
+      <button id="sourcesOpen" class="country-btn" type="button" aria-haspopup="menu" aria-controls="scopeMenu" aria-expanded="false"><span class="live-dot"></span>France <span>⌄</span></button>
+    </div>
+
+    <div id="scopeMenu" class="scope-menu" role="menu" hidden>
+      <span class="scope-menu-title">Périmètre du Radar</span>
+      <button type="button" role="menuitem" data-scope-action="today"><strong>France</strong><small>Vue nationale active</small><span aria-hidden="true">✓</span></button>
+      <button type="button" role="menuitem" data-scope-action="laws"><strong>Union européenne</strong><small>Textes immobiliers applicables ou à transposer</small><span aria-hidden="true">→</span></button>
+      <button type="button" role="menuitem" data-scope-action="territories"><strong>Commune ou arrondissement</strong><small>Prix, loyers, DPE et risques locaux</small><span aria-hidden="true">→</span></button>
+      <p>Le Radar reste centré sur le marché français. Les textes européens sont intégrés lorsqu’ils peuvent l’affecter.</p>
     </div>
   </header>
 
@@ -52,6 +97,7 @@
         </div>
         <div class="search-global-field">
           <span>⌕</span>
+          <label class="sr-only" for="searchInput">Rechercher un sujet immobilier</label>
           <input id="searchInput" type="search" placeholder="LMNP, DPE, encadrement des loyers, Bordeaux, crédit…" autocomplete="off" />
         </div>
         <div class="search-global-tools">
@@ -328,6 +374,18 @@
         <article><span class="eyebrow">Territoires</span><h3>Les périodes ne sont pas mélangées silencieusement.</h3><p>DVF couvre plusieurs semestres, la carte des loyers correspond au T3 2025, et les DPE ADEME ne représentent pas exhaustivement tout le parc.</p></article>
         <article><span class="eyebrow">Archive 2026</span><h3>Un historique progressif, non exhaustif.</h3><p>Le Radar conserve les collectes et peut lancer un backfill best-effort. Une absence dans l’archive ne prouve pas qu’une publication n’existe pas.</p></article>
       </div>
+      <div class="ranking-method">
+        <div class="ranking-method-head">
+          <span class="eyebrow">Classement du fil</span>
+          <h3>Ce que signifie « Pertinence ».</h3>
+          <p>La note classe les contenus pour votre profil. Elle ne mesure ni la véracité absolue d’un article ni la qualité scientifique d’une source.</p>
+        </div>
+        <div class="ranking-method-grid">
+          <article><strong>Point de départ</strong><p>A : 88 · B : 82 · C : 73 · D : 66 points, selon la nature de la source.</p></article>
+          <article><strong>Votre profil</strong><p>Un bonus thématique adapte le classement à Particulier, Investisseur ou Professionnel.</p></article>
+          <article><strong>Votre contexte</strong><p>Le territoire sélectionné et vos choix « Plus/Moins comme ça » ajustent ensuite la note.</p></article>
+        </div>
+      </div>
       <div id="sourceHealthTable" class="source-health-table"></div>
     </section>
 
@@ -373,8 +431,8 @@
   <button id="feedbackFab" class="feedback-fab">Feedback</button>
   <div class="beta-strip">BÊTA · Données sourcées · À vérifier auprès de la source avant décision</div>
 
-  <script src="./app.js"></script>
+  <script src="./app.js?v=9.0"></script>
+  <script src="./v8-tools.js?v=9.0"></script>
+  <script src="./menu-fix-v10.1.js?v=10.2"></script>
 </body>
 </html>
-<script src="./app.js"></script>
-<script src="./menu-fix-v10.1.js?v=10.1"></script>

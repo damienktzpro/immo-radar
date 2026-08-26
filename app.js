@@ -302,22 +302,26 @@ function connectionClass(status){
 function fmtDate(v){const d=dateObj(v);return d?new Intl.DateTimeFormat("fr-FR",{day:"2-digit",month:"short",year:"numeric"}).format(d).toUpperCase():"DATE NON DISPONIBLE"}
 function fmtUpdate(v){const d=dateObj(v);return d?`VEILLE MISE À JOUR LE ${new Intl.DateTimeFormat("fr-FR",{day:"2-digit",month:"long",year:"numeric"}).format(d).toUpperCase()}`:"VEILLE MISE À JOUR"}
 function ageDays(v){const d=dateObj(v);return d?Math.floor((Date.now()-d.getTime())/86400000):9999}
-function score(i){
-  let n=Number(i.relevance||0);
-  if((i.audiences||[]).includes(state.profile))n+=5;
-
+function scoreBreakdown(i){
   const weights={
     particulier:{lois:7,credit:11,marche:7,territoires:5,investir:1,pro:-8},
     investisseur:{lois:8,credit:9,marche:7,territoires:7,investir:14,pro:3},
     pro:{lois:10,credit:4,marche:9,territoires:8,investir:4,pro:15}
   };
-  n+=(weights[state.profile]?.[i.category]||0);
-
+  const parts=[{label:`Base source ${i.source_level||"D"}`,value:Number(i.relevance||0)}];
+  if((i.audiences||[]).includes(state.profile))parts.push({label:"Sujet adapté au profil",value:5});
+  const profileWeight=weights[state.profile]?.[i.category]||0;
+  if(profileWeight)parts.push({label:"Priorité thématique",value:profileWeight});
   const fb=state.feedback[i.id];
-  if(fb==="more")n+=7;
-  if(fb==="less")n-=12;
-  n+=territoryBoost(i);
-  return Math.max(0,Math.min(100,n));
+  if(fb==="more")parts.push({label:"Votre choix « Plus comme ça »",value:7});
+  if(fb==="less")parts.push({label:"Votre choix « Moins comme ça »",value:-12});
+  const localBoost=territoryBoost(i);
+  if(localBoost)parts.push({label:"Proximité avec le territoire",value:localBoost});
+  const raw=parts.reduce((sum,p)=>sum+p.value,0);
+  return {parts,raw,total:Math.max(0,Math.min(100,raw))};
+}
+function score(i){
+  return scoreBreakdown(i).total;
 }
 function savePrefs(){localStorage.setItem("radarFavorites",JSON.stringify(state.favorites));localStorage.setItem("radarFeedback",JSON.stringify(state.feedback))}
 
@@ -379,7 +383,7 @@ function renderProfileContext(){
   }
   if($("#marketProfileLens"))$("#marketProfileLens").innerHTML=`<strong>Lecture ${state.profile==="pro"?"professionnelle":state.profile} :</strong> ${esc(c.lens)}`;
 }
-function sourceReliability(i){return i.source_level==="A"?"Officielle · Fiabilité 100/100":i.source_level==="B"?"Institutionnelle · Fiabilité 96/100":i.source_level==="C"?"Média spécialisé · Fiabilité 78/100":"Blog / expert · Fiabilité 68/100"}
+function sourceReliability(i){return i.source_level==="A"?"Source officielle · Niveau A":i.source_level==="B"?"Source institutionnelle · Niveau B":i.source_level==="C"?"Média spécialisé · Niveau C":"Blog / expert · Niveau D"}
 function kind(i){if(i.category==="lois")return i.legal_stage?"NOUVELLE RÈGLE":"ACTUALITÉ JURIDIQUE";if(i.category==="credit")return"CRÉDIT IMMOBILIER";if(i.category==="investir")return"INVESTISSEMENT";if(i.category==="territoires")return"DONNÉES LOCALES";if(i.category==="pro")return"PROFESSIONNELS";if(i.source_level==="A")return"CHIFFRE OFFICIEL";if(i.source_level==="C")return"ANALYSE MÉDIA";if(i.source_level==="D")return"ANALYSE EXPERT";return"ACTUALITÉ IMMOBILIÈRE"}
 function filterMatches(i){
   if(state.filter==="all")return true;
@@ -475,17 +479,24 @@ function renderMarket(){
   $("#marketKeyFigures").innerHTML=(m.key_figures||[]).slice(0,3).map(k=>`<div class="key-figure ${k.negative?"negative":""}"><small>${esc(k.label)}</small><strong>${esc(k.value)}</strong></div>`).join("");
 
   const comps=m.score_components||m.components||[];
+  const totalWeight=comps.reduce((sum,c)=>sum+Number(c.weight||0),0);
   $("#marketComponents").innerHTML=comps.map(c=>`<div class="component">
     <small>${esc(c.label)}</small>
     <strong>${c.score!=null?`${esc(c.score)}/100`:esc(c.value)}</strong>
     ${c.score!=null?`<span class="component-value">${esc(c.value||"")}</span>`:""}
     <span>${esc(c.source||"")} · ${esc(c.period||"")}</span>
     ${c.weight!=null?`<span class="component-weight">Poids ${esc(c.weight)} %</span>`:""}
+    ${c.score!=null&&c.weight!=null&&totalWeight?`<span class="component-contribution">Contribution : ${String((Number(c.score)*Number(c.weight)/totalWeight).toFixed(1)).replace(".",",")} points</span>`:""}
     ${c.reason?`<span class="component-reason">${esc(c.reason)}</span>`:""}
     <span class="trend">${esc(c.trend||"→")}</span>
   </div>`).join("");
   $("#marketConfidence").textContent=`${m.confidence||0}/100`;
-  if($("#marketMethodNote"))$("#marketMethodNote").textContent=m.methodology_note||"";
+  if($("#marketMethodNote")){
+    const formula=comps.every(c=>c.score!=null&&c.weight!=null)&&totalWeight
+      ? ` Calcul affiché : somme des (scores × poids) ÷ ${totalWeight} = ${s}/100.`
+      : "";
+    $("#marketMethodNote").textContent=(m.methodology_note||"")+formula+" La confiance reflète la fraîcheur, la couverture et le caractère officiel des données utilisées ; elle ne constitue pas une probabilité de prévision.";
+  }
 
   const nxt=(m.next_publications||[])[0];
   if($("#marketNextPublication"))$("#marketNextPublication").innerHTML=nxt?`<strong>Prochaine échéance :</strong> ${esc(nxt.date)} · ${esc(nxt.label)} <span>${esc(nxt.source)}</span>`:"";
@@ -542,9 +553,15 @@ function renderLegalDashboard(){
   const fr=state.items.filter(i=>i.category==="lois"&&(i.territory||"France")!=="Union européenne"),eu=state.items.filter(i=>i.category==="lois"&&i.territory==="Union européenne");
   $("#frLegalCount").textContent=`${fr.length} texte${fr.length>1?"s":""}`;$("#euLegalCount").textContent=`${eu.length} texte${eu.length>1?"s":""}`;
   const counts=(items,euMode=false)=>{
-    const defs=euMode?[["proposal","Proposition"],["discussion","Discussion"],["adopte","Adopté"],["jorf","Publié"],["transposition","À transposer / applicable"]]:[["depot","Déposé"],["discussion","Discussion"],["adopte","Adopté"],["promulgue","Promulgué"],["jorf","Publié / en vigueur"]];
+    const defs=euMode?[["proposal","Proposition"],["discussion","Discussion"],["adopte","Adopté"],["jorf","Publié"],["transposition","À transposer / applicable"],["unclassified","À qualifier"]]:[["depot","Déposé"],["discussion","Discussion"],["adopte","Adopté"],["promulgue","Promulgué"],["jorf","Publié / en vigueur"],["unclassified","À qualifier"]];
+    const known=new Set(defs.map(d=>d[0]).filter(x=>x!=="unclassified"));
+    const bucket=i=>{
+      if(known.has(i.legal_stage))return i.legal_stage;
+      if(euMode&&/transpos|applicable/i.test(i.status||""))return "transposition";
+      return "unclassified";
+    };
     return defs.map(([key,label])=>{
-      let n=items.filter(i=>euMode?(key==="transposition"?/directive|règlement|reglement/i.test(i.status||""):i.legal_stage===key):i.legal_stage===key).length;
+      const n=items.filter(i=>bucket(i)===key).length;
       return `<div class="stage-box"><small>Étape</small><strong>${n}</strong><span>${esc(label)}</span></div>`;
     }).join("");
   };
@@ -640,14 +657,16 @@ function renderSidebar(){
   const btn=box.querySelector("[data-sidebar-action]");if(btn)btn.onclick=()=>{const a=btn.dataset.sidebarAction;if(a==="laws")setPage("laws");if(a==="method"){$("#marketExplain").hidden=false;$("#marketExplain").scrollIntoView({behavior:"smooth"})}if(a==="sources")showSources()};
 }
 function story(i,idx){
-  const s=score(i),fav=state.favorites.includes(i.id),fb=state.feedback[i.id],level=(i.source_level||"D").toLowerCase(),expanded=!!state.expandedStories[i.id];
+  const scoreData=scoreBreakdown(i),s=scoreData.total,fav=state.favorites.includes(i.id),fb=state.feedback[i.id],level=(i.source_level||"D").toLowerCase(),expanded=!!state.expandedStories[i.id];
+  const scoreLine=scoreData.parts.map(p=>`${p.label} ${p.value>=0?"+":""}${p.value}`).join(" · ");
   return `<article class="story level-${level} ${expanded?"expanded":""}" data-id="${esc(i.id)}"><div class="story-index">${String(idx+1).padStart(2,"0")}</div><div class="story-body">
     <div class="story-meta"><span class="kind">${esc(kind(i))}</span><span>·</span>${i.status?`<span class="status">${esc(i.status)}</span><span>·</span>`:""}<span>${esc(i.territory||"France")}</span><span>·</span><span>${esc(fmtDate(i.published_at))}</span></div>
     <h3><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
     <p class="story-summary">${esc(i.summary)}</p>
     <div class="why-box"><strong>Pourquoi c’est important</strong><p>${esc(profileWhy(i))}</p></div>
     <button class="story-expand" data-action="expand">${expanded?"Réduire":"Lire plus"}</button>
-    <div class="story-footer"><div class="source-info"><span class="source-check">✓</span><span><strong>${esc(i.source)}</strong><small>${esc(sourceReliability(i))}</small></span></div><div class="score"><span>Pertinence</span><strong>${s}</strong></div><a class="source-arrow" href="${esc(i.url)}" target="_blank" rel="noopener" aria-label="Ouvrir la source">↗</a></div>
+    <div class="story-score-method"><strong>Calcul de la pertinence</strong><p>${esc(scoreLine)}${scoreData.raw!==s?` · note plafonnée à ${s}`:""}.</p><small>Cette note personnalise le classement ; elle ne certifie pas le contenu.</small></div>
+    <div class="story-footer"><div class="source-info"><span class="source-check">✓</span><span><strong>${esc(i.source)}</strong><small>${esc(sourceReliability(i))}</small></span></div><div class="score" title="${esc(scoreLine)}"><span>Pertinence pour vous</span><strong>${s}</strong></div><a class="source-arrow" href="${esc(i.url)}" target="_blank" rel="noopener" aria-label="Ouvrir la source">↗</a></div>
     <div class="story-actions"><button data-action="fav" class="${fav?"active":""}">☆ Favori</button><button data-action="more" class="${fb==="more"?"active":""}">↑ Plus comme ça</button><button data-action="less" class="${fb==="less"?"active":""}">↓ Moins comme ça</button></div>
   </div></article>`;
 }
@@ -734,7 +753,8 @@ function renderSystem(){
     <div class="system-row"><span>Sources dégradées</span><strong class="${degraded?"warn":"ok"}">${degraded}</strong></div>
     <div class="system-row"><span>Informations retenues</span><strong>${retained}</strong></div>
     <div class="system-row"><span>Rejetées par les filtres</span><strong>${rejected}</strong></div>
-    <div class="system-row"><span>Erreurs sans repli</span><strong class="${errors?"warn":"ok"}">${errors}</strong></div>`;
+    <div class="system-row"><span>Erreurs sans repli</span><strong class="${errors?"warn":"ok"}">${errors}</strong></div>
+    <p class="system-filter-note">Les rejets comprennent les pages de rubrique ou d’agenda, les titres trop vagues, les doublons, les contenus hors immobilier et les publications sans date exploitable. Un rejet est un contrôle éditorial, pas une erreur de source.</p>`;
   const entries=Object.entries(h.by_source||{});
   $("#sourceHealthTable").innerHTML=entries.length?entries.map(([name,v])=>{
     const status=v.status||((v.ok===false)?"error":"ok");
@@ -745,15 +765,11 @@ function renderSystem(){
   }).join(""):`<div class="source-row-health"><strong>Sources actives</strong><span>${Object.keys(state.sourceStats||{}).length}</span><b class="ok">OK</b><span>${state.items.length} infos</span></div>`;
 }
 function showSources(){$("#sourcesPanel").hidden=false;$("#sourcesPanel").scrollIntoView({behavior:"smooth"})}
-function setPage(p){state.page=p;state.filter=p==="laws"?"lois":p==="market"?"all":p==="invest"?"investir":"all";resetMobileFeed();if(p==="territories")state.territoryFilter="overview";$$(".nav-btn").forEach(b=>b.classList.toggle("active",b.dataset.page===p));$$(".filter-btn").forEach(b=>b.classList.toggle("active",b.dataset.filter===state.filter));$(".main-nav")?.classList.remove("mobile-open");$("#mobileMenuBtn")?.setAttribute("aria-expanded","false");renderPage();if(p==="territories"&&territoryCurrent()?.code&&!state.territoryLocal&&!state.territoryLocalLoading){state.territoryRequestId+=1;loadTerritoryLocalData(territoryCurrent(),{requestId:state.territoryRequestId});}if(p!=="today")$("#pageIntro").scrollIntoView({behavior:"smooth",block:"start"})}
+function closeScopeMenu(){const menu=$("#scopeMenu"),button=$("#sourcesOpen");if(menu)menu.hidden=true;if(button)button.setAttribute("aria-expanded","false")}
+function setPage(p){state.page=p;state.filter=p==="laws"?"lois":p==="market"?"all":p==="invest"?"investir":"all";resetMobileFeed();if(p==="territories")state.territoryFilter="overview";$$(".nav-btn").forEach(b=>b.classList.toggle("active",b.dataset.page===p));$$(".filter-btn").forEach(b=>b.classList.toggle("active",b.dataset.filter===state.filter));$(".main-nav")?.classList.remove("mobile-open","open","active","is-open");document.documentElement.classList.remove("mobile-nav-open");$("#mobileMenuBtn")?.setAttribute("aria-expanded","false");closeScopeMenu();renderPage();if(p==="territories"&&territoryCurrent()?.code&&!state.territoryLocal&&!state.territoryLocalLoading){state.territoryRequestId+=1;loadTerritoryLocalData(territoryCurrent(),{requestId:state.territoryRequestId});}if(p!=="today")$("#pageIntro").scrollIntoView({behavior:"smooth",block:"start"})}
 function bind(){
   $$(".profile-switch button").forEach(b=>{b.classList.toggle("active",b.dataset.profile===state.profile);b.onclick=()=>{state.profile=b.dataset.profile;resetMobileFeed();localStorage.setItem("radarProfile",state.profile);$$(".profile-switch button").forEach(x=>x.classList.toggle("active",x===b));renderProfileContext();renderMarket();renderPage()}});
   $$(".nav-btn").forEach(b=>b.onclick=()=>setPage(b.dataset.page));
-  if($("#mobileMenuBtn"))$("#mobileMenuBtn").onclick=()=>{
-    const nav=$(".main-nav"),open=!nav.classList.contains("mobile-open");
-    nav.classList.toggle("mobile-open",open);
-    $("#mobileMenuBtn").setAttribute("aria-expanded",String(open));
-  };
   if($("#feedMore"))$("#feedMore").onclick=()=>{state.mobileFeedLimit+=5;renderFeed();};
   $$(".filter-btn").forEach(b=>b.onclick=()=>{state.filter=b.dataset.filter;resetMobileFeed();$$(".filter-btn").forEach(x=>x.classList.toggle("active",x===b));renderFeed()});
   $$(".fresh-btn").forEach(b=>b.onclick=()=>{state.freshness=b.dataset.freshness;resetMobileFeed();$$(".fresh-btn").forEach(x=>x.classList.toggle("active",x===b));renderFeed()});
@@ -766,7 +782,11 @@ function bind(){
   if($("#territorySearchClear"))$("#territorySearchClear").onclick=()=>{$("#territorySearchInput").value="";$("#territorySearchResults").hidden=true};
   $$('[data-territory-code]').forEach(b=>b.onclick=async()=>{try{const t=await fetchTerritoryByCode(b.dataset.territoryCode);await selectTerritory(t)}catch(e){console.error(e)}});
   $("#marketExplainBtn").onclick=()=>{$("#marketExplain").hidden=false};$("#marketExplainClose").onclick=()=>{$("#marketExplain").hidden=true};
-  $("#sourcesDetailsBtn").onclick=showSources;$("#sourcesOpen").onclick=showSources;$("#footerSources").onclick=showSources;$("#footerMethod").onclick=()=>{$("#marketExplain").hidden=false;$("#marketExplain").scrollIntoView({behavior:"smooth"})};$("#sourcesClose").onclick=()=>{$("#sourcesPanel").hidden=true};
+  $("#sourcesDetailsBtn").onclick=showSources;
+  $("#sourcesOpen").onclick=()=>{const menu=$("#scopeMenu"),open=menu?.hidden!==false;if(menu)menu.hidden=!open;$("#sourcesOpen").setAttribute("aria-expanded",String(open))};
+  $$("[data-scope-action]").forEach(b=>b.onclick=()=>setPage(b.dataset.scopeAction));
+  document.addEventListener("click",e=>{if(!e.target.closest("#scopeMenu, #sourcesOpen"))closeScopeMenu()});
+  $("#footerSources").onclick=showSources;$("#footerMethod").onclick=()=>{$("#marketExplain").hidden=false;$("#marketExplain").scrollIntoView({behavior:"smooth"})};$("#sourcesClose").onclick=()=>{$("#sourcesPanel").hidden=true};
   $("#territoryJump").onclick=()=>setPage("territories");
   if($("#feedbackOpen"))$("#feedbackOpen").onclick=()=>{$("#feedbackPanel").hidden=false};
   if($("#feedbackFab"))$("#feedbackFab").onclick=()=>{$("#feedbackPanel").hidden=false};

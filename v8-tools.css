@@ -40,6 +40,14 @@
   border:1px solid rgba(31,43,39,.14);background:rgba(255,255,255,.72);
   color:#26312d;border-radius:999px;padding:9px 12px;font-size:12px;font-weight:700;
 }
+.v8-freshness-banner,.v8-privacy-note{
+  position:relative;z-index:1;margin-top:12px;padding:11px 13px;border-radius:13px;
+  background:rgba(255,255,255,.72);border:1px solid rgba(31,43,39,.11);
+  color:#5e6964;font-size:11px;line-height:1.45;
+}
+.v8-freshness-banner strong{display:block;color:#26332f;font-size:12px;margin-bottom:2px}
+.v8-freshness-banner span{display:block}
+.v8-privacy-note{display:inline-flex;color:#53605b}
 
 .v8-panel{
   margin-top:18px;border:1px solid rgba(31,43,39,.12);border-radius:24px;
@@ -67,6 +75,7 @@
   border:0;border-radius:14px;padding:12px 16px;font:inherit;font-weight:800;cursor:pointer;
 }
 .v8-primary{background:#1f2b27;color:#fff}
+.v8-primary:disabled{opacity:.5;cursor:not-allowed}
 .v8-secondary{background:#efeade;color:#1f2b27}
 .v8-quick{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
 .v8-quick button{
@@ -115,6 +124,8 @@
 .v8-analysis-card h4{font-size:21px;margin:0 0 7px}
 .v8-analysis-card p{font-size:13px;color:#68746f;line-height:1.55;margin:0}
 .v8-big-number{font-size:38px;font-weight:850;letter-spacing:-.04em;margin:14px 0 4px}
+.v8-simulator-cta{width:100%;margin-top:13px}
+.v8-analysis-card.dark .v8-simulator-cta{background:#cdaa62;color:#081426}
 .v8-inline-form{display:flex;align-items:end;gap:10px;margin-top:16px}
 .v8-inline-form .v8-field{max-width:180px}
 
@@ -145,6 +156,13 @@
 }
 .v8-result-line:last-child{border-bottom:0}
 .v8-result-line span{color:#c6cfcb}.v8-result-line strong{text-align:right}
+.v8-result-line.is-target{margin-top:4px;padding:13px 10px;border:1px solid rgba(205,170,98,.35);border-radius:12px;background:rgba(205,170,98,.08)}
+.v8-result-line.is-target span{color:#ead9b4}
+.v8-prefill-notice{display:grid;gap:4px;margin:10px 0 16px;padding:12px;border-radius:13px;background:rgba(205,170,98,.12);border:1px solid rgba(205,170,98,.28)}
+.v8-prefill-notice[hidden]{display:none}
+.v8-prefill-notice strong{color:#fff;font-size:12px}
+.v8-prefill-notice span{color:#d7dee2;font-size:10px;line-height:1.4}
+.v8-prefill-notice em{color:#f0dcae;font-size:10px;line-height:1.4}
 .v8-note{
   margin-top:14px;border-radius:14px;padding:12px 13px;background:rgba(255,255,255,.08);
   color:#d5ddd9;font-size:11px;line-height:1.5;
@@ -534,6 +552,7 @@
     padding:8px 10px;
     font-size:10.5px;
   }
+  .v8-freshness-banner,.v8-privacy-note{font-size:10px}
   .v8-panel{
     padding:15px;
   }
