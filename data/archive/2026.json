@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-25T19:00:16+00:00",
+  "generated_at": "2026-08-26T02:01:37+00:00",
   "items": [
     {
       "id": "d8a559c7836333f2",
@@ -23,6 +23,28 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+    },
+    {
+      "id": "6e58f03496d3c03d",
+      "title": "Arrêté du 19 août 2026 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique",
+      "summary": "Texte officiel concernant la performance énergétique, le DPE ou la rénovation du parc immobilier.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054747079",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-26T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Énergie / DPE",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
     },
     {
       "id": "cb40731a15edc9e3",
@@ -88,7 +110,7 @@
     {
       "id": "c374b6141a66baa5",
       "title": "Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d'euros",
-      "summary": "Nouveau Luxe",
+      "summary": "Luxe",
       "url": "https://www.mysweetimmo.com/2026/08/25/immobilier-provence-1-000-m%c2%b2-et-600-ans-dhistoire-a-vendre-44-millions-deuros/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -130,65 +152,65 @@
     {
       "id": "69565539196cd1c3",
       "title": "Tous corps d'état",
-      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier L'Essentiel La France se dote d'une nouvelle stratégie pour s'adapter au recul du trait de côte TERRITOIRE. De nouvelles mesures pour adapter les territoires à l'érosion côtière ont été adoptées par le gouvernement. Le nouveau plan vise à mieux cartographier les risques et à accompagner les collectivités pour ... Publié le 25/08/2026 Dé",
+      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 L'Essent",
       "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
       "source": "Batiactu",
       "source_level": "C",
-      "category": "territoires",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-25T09:00:00+00:00",
+      "published_at": "2026-08-24T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Territoires",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "135874d9ef9c7687",
       "title": "Tous métiers de la construction",
-      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier L'Essentiel La France se dote d'une nouvelle stratégie pour s'adapter au recul du trait de côte TERRITOIRE. De nouvelles mesures pour adapter les territoires à l'érosion côtière ont été adoptées par le gouvernement. Le nouveau plan vise à mieux cartographier les risques et à accompagner les collectivités pour ... Publié le 25/08/2026 Décryptage À Par",
+      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 L'Essentiel La France",
       "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
       "source": "Batiactu",
       "source_level": "C",
-      "category": "territoires",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-25T09:00:00+00:00",
+      "published_at": "2026-08-24T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Territoires",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "b507c4ff7769afdd",
       "title": "Construction (tous corps d'état)",
-      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier L'Essentiel La France se dote d'une nouvelle stratégie pour s'adapter au recul du trait de côte TERRITOIRE. De nouvelles mesures pour adapter les territoires à l'érosion côtière ont été adoptées par le gouvernement. Le nouveau plan vise à mieux cartographier les risques et à accompagner les collectivités pour ... Publié le 25/08/2026 Décryptage À Pari",
+      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 L'Essentiel La France s",
       "url": "https://www.batiactu.com/theme/theme-construction.php",
       "source": "Batiactu",
       "source_level": "C",
-      "category": "territoires",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-25T09:00:00+00:00",
+      "published_at": "2026-08-24T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Territoires",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
       "id": "ec323fee403f01dc",

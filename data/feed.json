@@ -1,32 +1,33 @@
 {
-  "generated_at": "2026-08-25T19:00:16+00:00",
+  "generated_at": "2026-08-26T02:01:37+00:00",
   "version": "7.1",
   "items": [
     {
-      "id": "d8a559c7836333f2",
-      "title": "Voir tous les événements à venir",
-      "summary": "r avec vos pairs sur les nouvelles boussoles de l’aménagement le 8 octobre 2026 Articles Populaires Les artisans dans \"l'incompréhension\" face à la possible interdiction des chaudières gaz Le ZAN, une potentielle \"aberration\" de plus pour les parcs zoologiques L'Etat envisagerait d'interdire les chaudières gaz, des acteurs réagissent Diagnostic de performance énergétique : le décret certification modifié d'ici l'été Rendement",
-      "url": "https://www.batiactu.com/agenda.php",
-      "source": "Batiactu",
-      "source_level": "C",
+      "id": "6e58f03496d3c03d",
+      "title": "Arrêté du 19 août 2026 modifiant le facteur de conversion de l'énergie finale en énergie primaire de l'électricité relatif au diagnostic de performance énergétique",
+      "summary": "Texte officiel concernant la performance énergétique, le DPE ou la rénovation du parc immobilier.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054747079",
+      "source": "Légifrance",
+      "source_level": "A",
       "category": "lois",
       "audiences": [
+        "particulier",
         "investisseur",
-        "pro",
-        "particulier"
+        "pro"
       ],
-      "published_at": "2026-10-08T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
+      "published_at": "2026-08-26T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
       "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
+      "topic": "Énergie / DPE",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
+      "legal_stage": "jorf"
     },
     {
       "id": "c374b6141a66baa5",
       "title": "Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d'euros",
-      "summary": "Nouveau Luxe",
+      "summary": "Luxe",
       "url": "https://www.mysweetimmo.com/2026/08/25/immobilier-provence-1-000-m%c2%b2-et-600-ans-dhistoire-a-vendre-44-millions-deuros/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -106,69 +107,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal peut faire évoluer les pratiques et outils des professionnels de l’immobilier."
     },
     {
-      "id": "69565539196cd1c3",
-      "title": "Tous corps d'état",
-      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier L'Essentiel La France se dote d'une nouvelle stratégie pour s'adapter au recul du trait de côte TERRITOIRE. De nouvelles mesures pour adapter les territoires à l'érosion côtière ont été adoptées par le gouvernement. Le nouveau plan vise à mieux cartographier les risques et à accompagner les collectivités pour ... Publié le 25/08/2026 Dé",
-      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "territoires",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-25T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Territoires",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
-    },
-    {
-      "id": "135874d9ef9c7687",
-      "title": "Tous métiers de la construction",
-      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier L'Essentiel La France se dote d'une nouvelle stratégie pour s'adapter au recul du trait de côte TERRITOIRE. De nouvelles mesures pour adapter les territoires à l'érosion côtière ont été adoptées par le gouvernement. Le nouveau plan vise à mieux cartographier les risques et à accompagner les collectivités pour ... Publié le 25/08/2026 Décryptage À Par",
-      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "territoires",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-25T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Territoires",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
-    },
-    {
-      "id": "b507c4ff7769afdd",
-      "title": "Construction (tous corps d'état)",
-      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier L'Essentiel La France se dote d'une nouvelle stratégie pour s'adapter au recul du trait de côte TERRITOIRE. De nouvelles mesures pour adapter les territoires à l'érosion côtière ont été adoptées par le gouvernement. Le nouveau plan vise à mieux cartographier les risques et à accompagner les collectivités pour ... Publié le 25/08/2026 Décryptage À Pari",
-      "url": "https://www.batiactu.com/theme/theme-construction.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "territoires",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-25T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Territoires",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
-    },
-    {
       "id": "662b4ceb706a5224",
       "title": "En débat Le logement abordable doit être la \"grande politique sociale de la prochaine mandature\" 25/08/2026",
       "summary": "En débat Logement : le candidat Bruno Retailleau propose un choc d'offre dès 2027",
@@ -182,6 +120,69 @@
         "pro"
       ],
       "published_at": "2026-08-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "69565539196cd1c3",
+      "title": "Tous corps d'état",
+      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 L'Essent",
+      "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "135874d9ef9c7687",
+      "title": "Tous métiers de la construction",
+      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 L'Essentiel La France",
+      "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "b507c4ff7769afdd",
+      "title": "Construction (tous corps d'état)",
+      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 L'Essentiel La France s",
+      "url": "https://www.batiactu.com/theme/theme-construction.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
@@ -842,28 +843,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "289a96a9e912d895",
-      "title": "Arrêté du 11 juin 2026 portant diverses dispositions d'adaptation au droit de l'Union européenne sur le diagnostic de performance énergétique",
-      "summary": "Texte officiel concernant la performance énergétique, le DPE ou la rénovation du parc immobilier.",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054673312",
-      "source": "Légifrance",
-      "source_level": "A",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-13T00:00:00+00:00",
-      "status": "Publié au JORF",
-      "importance": 91,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Énergie / DPE",
-      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels.",
-      "legal_stage": "jorf"
-    },
-    {
       "id": "9be7878ebb0f5a8f",
       "title": "Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros",
       "summary": "Immobilier Alpilles : 17 chambres, 4,5 hectares… ce mas de 1679 est à vendre 5,75 millions d’euros",
@@ -1493,27 +1472,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     },
     {
-      "id": "835b5e22c72ab043",
-      "title": "Nouvelle parole d'expert : Location de vacances : quelles sont les différences entre l’acompte et les arrhes ?",
-      "summary": "14 juillet 2026 Lors de la location d'un logement de vacances, le locataire doit souvent verser une somme pour valider la réservation : un acompte ou des arrhes. Bien que ces termes soient parfois confondus, ils impliquent des engagements et des conséquences…",
-      "url": "https://www.anil.org/parole-expert-logement-location-vacances-garanties-contrat/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-14T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
-    },
-    {
       "id": "c2d1c4f04da749ff",
       "title": "Proptech : Rivage lève 1,5 million d’euros pour simplifier la gestion locative",
       "summary": "14 juillet 2026 - La proptech française Rivage a annoncé une levée de fonds de 1,5 million d’euros. Grâce à ce tour de table mené par Kima Ventures, la jeune pousse souhaite faire de son [...]",
@@ -1683,12 +1641,12 @@
     }
   ],
   "source_stats": {
-    "Batiactu": 11,
+    "Légifrance": 5,
     "MySweetImmo": 16,
     "Journal de l'Agence": 15,
-    "ANIL": 12,
+    "Batiactu": 10,
+    "ANIL": 11,
     "Immobilier 2.0": 16,
-    "Légifrance": 5,
     "SDES / Sitadel": 1,
     "Insee": 1,
     "EUR-Lex": 1,
@@ -1699,15 +1657,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 80,
-    "rejected": 1005,
+    "retained": 78,
+    "rejected": 1010,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-25T18:59:39+00:00",
+        "last_success": "2026-08-26T02:00:58+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1715,7 +1673,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-25T18:59:43+00:00",
+        "last_success": "2026-08-26T02:01:02+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1723,7 +1681,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-25T18:59:44+00:00",
+        "last_success": "2026-08-26T02:01:02+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1731,7 +1689,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-25T18:59:45+00:00",
+        "last_success": "2026-08-26T02:01:04+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1739,7 +1697,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-25T19:00:01+00:00",
+        "last_success": "2026-08-26T02:01:23+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1747,7 +1705,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-08-25T19:00:09+00:00",
+        "last_success": "2026-08-26T02:01:30+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1755,15 +1713,15 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-25T19:00:09+00:00",
+        "last_success": "2026-08-26T02:01:30+00:00",
         "fallback": false
       },
       "ANIL": {
         "level": "B",
         "ok": true,
         "status": "ok",
-        "retained": 12,
-        "last_success": "2026-08-25T19:00:10+00:00",
+        "retained": 11,
+        "last_success": "2026-08-26T02:01:31+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1771,7 +1729,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-25T19:00:10+00:00",
+        "last_success": "2026-08-26T02:01:32+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1779,7 +1737,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-25T19:00:11+00:00",
+        "last_success": "2026-08-26T02:01:33+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1787,7 +1745,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-25T19:00:12+00:00",
+        "last_success": "2026-08-26T02:01:34+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1795,7 +1753,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-25T19:00:13+00:00",
+        "last_success": "2026-08-26T02:01:35+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1803,7 +1761,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-08-25T19:00:15+00:00",
+        "last_success": "2026-08-26T02:01:36+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1811,7 +1769,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-25T19:00:15+00:00",
+        "last_success": "2026-08-26T02:01:37+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1819,7 +1777,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-25T19:00:16+00:00",
+        "last_success": "2026-08-26T02:01:37+00:00",
         "fallback": false
       }
     }
