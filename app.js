@@ -784,7 +784,14 @@ function bind(){
   $("#marketExplainBtn").onclick=()=>{$("#marketExplain").hidden=false};$("#marketExplainClose").onclick=()=>{$("#marketExplain").hidden=true};
   $("#sourcesDetailsBtn").onclick=showSources;
   $("#sourcesOpen").onclick=()=>{const menu=$("#scopeMenu"),open=menu?.hidden!==false;if(menu)menu.hidden=!open;$("#sourcesOpen").setAttribute("aria-expanded",String(open))};
-  $$("[data-scope-action]").forEach(b=>b.onclick=()=>setPage(b.dataset.scopeAction));
+  $$("[data-scope-action]").forEach(b=>b.onclick=()=>{
+    if(b.dataset.scopeAction==="sources"){
+      closeScopeMenu();
+      showSources();
+      return;
+    }
+    setPage(b.dataset.scopeAction);
+  });
   document.addEventListener("click",e=>{if(!e.target.closest("#scopeMenu, #sourcesOpen"))closeScopeMenu()});
   $("#footerSources").onclick=showSources;$("#footerMethod").onclick=()=>{$("#marketExplain").hidden=false;$("#marketExplain").scrollIntoView({behavior:"smooth"})};$("#sourcesClose").onclick=()=>{$("#sourcesPanel").hidden=true};
   $("#territoryJump").onclick=()=>setPage("territories");
