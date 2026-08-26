@@ -2,6 +2,7 @@
 from __future__ import annotations
 import unicodedata
 import hashlib, html, io, json, os, re, zipfile, time
+from difflib import SequenceMatcher
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urljoin, urlsplit, urlunsplit
@@ -414,7 +415,7 @@ def legifrance_presentation(title):
 def direct(url):
     if not url:return False
     p=urlsplit(norm_url(url));path=p.path.rstrip("/")
-    return path not in (
+    if path in (
         "",
         "/fr",
         "/actualites",
@@ -422,7 +423,11 @@ def direct(url):
         "/centre-de-ressources",
         "/dossiers-legislatifs",
         "/actualite-immobilier"
-    )
+    ):
+        return False
+    if re.search(r"/(?:category|categorie|tag|theme|rubrique|agenda|evenements?)(?:/[^/]+)?$",path,re.I):
+        return False
+    return True
 
 
 def parse_date(text,url=""):
@@ -547,7 +552,7 @@ def audiences(text,c):
     return ["particulier","investisseur","pro"]
 
 
-def why(c,level):
+def why(c,level,title="",summary=""):
     prefix=(
         "Source officielle. "
         if level=="A"
@@ -556,6 +561,25 @@ def why(c,level):
         else "Source éditoriale immobilière sélectionnée. "
         if level=="C"
         else "Source expert / blog à confronter aux données officielles. "
+    )
+
+    text=normalize_editorial_text(f"{title} {summary}")
+    contextual=(
+        "Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs."
+        if any(x in text for x in ("credit","pret immobilier","taux d interet","emprunt"))
+        else "Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité."
+        if any(x in text for x in ("dpe","performance energetique","passoire thermique","renovation energetique"))
+        else "Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire."
+        if any(x in text for x in ("loyer","location","locataire","bailleur","bail d habitation"))
+        else "Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net."
+        if any(x in text for x in ("taxe fonciere","fiscal","plus value","impot"))
+        else "L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux."
+        if any(x in text for x in ("construction","permis de construire","mise en chantier","logement neuf"))
+        else "Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation."
+        if any(x in text for x in ("prix","transaction","vente","volume","marche"))
+        else "Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier."
+        if any(x in text for x in ("proptech","agence immobiliere","agent immobilier","syndic","professionnel"))
+        else None
     )
 
     tails={
@@ -573,7 +597,11 @@ def why(c,level):
             "Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
     }
 
-    return prefix+tails.get(c,tails["marche"])
+    subject=clean(title).strip().rstrip(".")
+    if len(subject)>130:
+        subject=subject[:127].rstrip()+"…"
+    detail=f" Point suivi : {subject}." if subject else ""
+    return prefix+(contextual or tails.get(c,tails["marche"]))+detail
 
 
 def make(
@@ -594,7 +622,7 @@ def make(
 
     d={
         "id":sid(source,title,url),
-        "title":clean(title),
+        "title":clean_editorial_title(title),
         "summary":clean(summary)[:540],
         "url":url,
         "source":source,
@@ -607,7 +635,7 @@ def make(
         "relevance":min(100,base+6),
         "territory":territory,
         "topic":topic or c.capitalize(),
-        "why_it_matters":why(c,level)
+        "why_it_matters":why(c,level,title,summary)
     }
 
     if legal_stage:
@@ -667,27 +695,124 @@ BAD_TITLES=(
     "en savoir plus",
     "lire la suite",
     "voir plus",
+    "voir tous les événements",
+    "voir tous les evenements",
+    "tous les événements",
+    "tous les evenements",
+    "tous corps d’état",
+    "tous corps d'etat",
+    "règlementation",
+    "réglementation",
+    "reglementation",
+    "nos dossiers",
+    "nos événements",
+    "nos evenements",
+    "à la une",
+    "a la une",
     "menu",
     "rechercher"
 )
 
+def normalize_editorial_text(value):
+    value=clean(value or "").lower()
+    value=unicodedata.normalize("NFD",value)
+    value="".join(ch for ch in value if unicodedata.category(ch)!="Mn")
+    return re.sub(r"\s+"," ",value).strip(" ›»:-")
+
+
+def clean_editorial_title(title):
+    title=clean(title)
+    title=re.sub(r"^(?:actualité|actualite|reportage|décryptage|decryptage|en débat|en debat|économie|economie|l'essentiel)\s+(?=[A-ZÀ-ÖØ-Ý])","",title,flags=re.I)
+    title=re.sub(r"\s+\d{1,2}/\d{1,2}/20\d{2}\s*$","",title)
+    return title.strip(" ›»:-")
+
 
 def bad_editorial_title(title):
-    t=clean(title).lower().strip(" ›»:-")
+    t=normalize_editorial_text(title)
+    bad={normalize_editorial_text(x) for x in BAD_TITLES}
 
     if len(t)<14:
         return True
 
-    if t in BAD_TITLES:
+    if t in bad:
         return True
 
     if any(
         t.startswith(x) and len(t)<55
-        for x in BAD_TITLES
+        for x in bad
     ):
         return True
 
+    if re.fullmatch(r"(?:voir|lire|découvrir|decouvrir|retrouver)\s+(?:tous?|toutes?)\s+.{0,35}",t):
+        return True
+
+    if re.fullmatch(r"(?:actualités?|actualites?|événements?|evenements?|dossiers?|conseils?|guides?|réglementation|reglementation)(?:\s+immobiliers?)?",t):
+        return True
+
+    if re.fullmatch(r"habitat actualite n(?:o|°)?\s*\d+",t):
+        return True
+
     return False
+
+
+TITLE_STOPWORDS={
+    "actualite","immobilier","immobiliere","logement","logements","france",
+    "dans","avec","pour","des","les","une","sur","aux","par","qui","que",
+    "est","sont","plus","moins","vers","apres","avant","chez","entre"
+}
+
+
+def title_fingerprint(title):
+    text=normalize_editorial_text(title)
+    text=re.sub(r"\b20\d{2}\b"," ",text)
+    tokens=[
+        x for x in re.findall(r"[a-z0-9]+",text)
+        if len(x)>2 and x not in TITLE_STOPWORDS
+    ]
+    return " ".join(tokens)
+
+
+def quasi_duplicate_title(a,b):
+    fa,fb=title_fingerprint(a),title_fingerprint(b)
+    if not fa or not fb:return False
+    ta,tb=set(fa.split()),set(fb.split())
+    if min(len(ta),len(tb))<4:return False
+    jaccard=len(ta&tb)/max(1,len(ta|tb))
+    sequence=SequenceMatcher(None,fa,fb).ratio()
+    return sequence>=.91 or jaccard>=.84
+
+
+def future_publication(pub):
+    if not pub:return False
+    try:
+        value=datetime.fromisoformat(str(pub).replace("Z","+00:00")).astimezone(timezone.utc)
+        return value>datetime.now(timezone.utc)+timedelta(days=1)
+    except Exception:
+        return False
+
+
+def dedupe_quasi_titles(items,rank):
+    ordered=sorted(
+        items,
+        key=lambda i:(
+            rank.get(i.get("source_level"),0),
+            i.get("published_at") or "",
+            i.get("relevance",0)
+        ),
+        reverse=True
+    )
+    kept=[]
+    for item in ordered:
+        duplicate=next(
+            (
+                existing for existing in kept
+                if quasi_duplicate_title(item.get("title",""),existing.get("title",""))
+            ),
+            None
+        )
+        if duplicate is None:
+            kept.append(item)
+    return kept
 
 
 def editorial_context(a,title):
@@ -730,7 +855,7 @@ def generic(page,source,level,require_date=True):
     rejected=0
 
     for a in s.find_all("a",href=True):
-        title=clean(a.get_text(" ",strip=True))
+        title=clean_editorial_title(a.get_text(" ",strip=True))
         url=urljoin(page,a.get("href",""))
 
         if (
@@ -756,17 +881,21 @@ def generic(page,source,level,require_date=True):
         if require_date and not pub:
             rejected+=1
             continue
+        if future_publication(pub):
+            rejected+=1
+            continue
 
         seen.add(url)
 
         summary=context.replace(title,"",1).strip()
 
         summary=re.sub(
-            r"\s+(Lire l'actualité|Lire la suite|En savoir plus)\s*$",
+            r"\s+(Lire l'actualité|Lire la suite|En savoir plus|Voir l'article|Découvrir)\s*$",
             "",
             summary,
             flags=re.I
         )
+        summary=re.sub(r"\s*(?:Partager\s*:.*|Newsletter|Abonnez-vous|Tous droits réservés).*$","",summary,flags=re.I)
 
         summary=(summary[:430] or title).strip()
 
@@ -1494,6 +1623,13 @@ def _merge_archive(items):
         ):
             continue
 
+        if (
+            bad_editorial_title(i.get("title",""))
+            or not direct(i.get("url",""))
+            or future_publication(i.get("published_at"))
+        ):
+            continue
+
         key=(
             norm_url(
                 i.get("url","")
@@ -1527,6 +1663,7 @@ def _merge_archive(items):
     vals=list(
         dedup.values()
     )
+    vals=dedupe_quasi_titles(vals,rank)
 
     vals.sort(
         key=lambda x:(
@@ -1811,6 +1948,10 @@ def main():
             rejected_total+=1
             continue
 
+        if bad_editorial_title(i.get("title","")):
+            rejected_total+=1
+            continue
+
         if not is_immo(
             i.get("title","")
             +" "
@@ -1822,6 +1963,10 @@ def main():
         if not direct(
             i.get("url","")
         ):
+            rejected_total+=1
+            continue
+
+        if future_publication(i.get("published_at")):
             rejected_total+=1
             continue
 
@@ -1872,6 +2017,9 @@ def main():
     vals=list(
         dedup.values()
     )
+    before_quasi=len(vals)
+    vals=dedupe_quasi_titles(vals,rank)
+    rejected_total+=before_quasi-len(vals)
 
     vals.sort(
         key=lambda x:(
