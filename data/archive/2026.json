@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-26T07:11:42+00:00",
+  "generated_at": "2026-08-26T13:19:48+00:00",
   "items": [
     {
       "id": "d8a559c7836333f2",
@@ -213,65 +213,65 @@
     {
       "id": "69565539196cd1c3",
       "title": "Tous corps d'état",
-      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 L'Essent",
+      "summary": "HLM architecte Tous métiers de la construction Construction (tous corps d'état) Immobilier L'Essentiel La France se dote d'une nouvelle stratégie pour s'adapter au recul du trait de côte TERRITOIRE. De nouvelles mesures pour adapter les territoires à l'érosion côtière ont été adoptées par le gouvernement. Le nouveau plan vise à mieux cartographier les risques et à accompagner les collectivités pour ... Publié le 25/08/2026 L'",
       "url": "https://www.batiactu.com/theme/theme-tous-corps-etat.php",
       "source": "Batiactu",
       "source_level": "C",
-      "category": "marche",
+      "category": "territoires",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-24T09:00:00+00:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+      "topic": "Territoires",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
     },
     {
       "id": "135874d9ef9c7687",
       "title": "Tous métiers de la construction",
-      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 L'Essentiel La France",
+      "summary": "HLM architecte Tous corps d'état Construction (tous corps d'état) Immobilier L'Essentiel La France se dote d'une nouvelle stratégie pour s'adapter au recul du trait de côte TERRITOIRE. De nouvelles mesures pour adapter les territoires à l'érosion côtière ont été adoptées par le gouvernement. Le nouveau plan vise à mieux cartographier les risques et à accompagner les collectivités pour ... Publié le 25/08/2026 L'Essentiel DPE",
       "url": "https://www.batiactu.com/theme/theme-tous-metiers.php",
       "source": "Batiactu",
       "source_level": "C",
-      "category": "marche",
+      "category": "territoires",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-24T09:00:00+00:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+      "topic": "Territoires",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
     },
     {
       "id": "b507c4ff7769afdd",
       "title": "Construction (tous corps d'état)",
-      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules PATRIMOINE. Face à la multiplication des vagues de chaleur, les appartements situés sous les couvertures en zinc sont particulièrement exposés. Professionnels et chercheurs explorent plusieurs pistes d'adaptation, avec une ... Publié le 24/08/2026 L'Essentiel La France s",
+      "summary": "HLM architecte Tous corps d'état Tous métiers de la construction Immobilier L'Essentiel La France se dote d'une nouvelle stratégie pour s'adapter au recul du trait de côte TERRITOIRE. De nouvelles mesures pour adapter les territoires à l'érosion côtière ont été adoptées par le gouvernement. Le nouveau plan vise à mieux cartographier les risques et à accompagner les collectivités pour ... Publié le 25/08/2026 L'Essentiel DPE :",
       "url": "https://www.batiactu.com/theme/theme-construction.php",
       "source": "Batiactu",
       "source_level": "C",
-      "category": "marche",
+      "category": "territoires",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-08-24T09:00:00+00:00",
+      "published_at": "2026-08-25T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+      "topic": "Territoires",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés."
     },
     {
       "id": "ec323fee403f01dc",
