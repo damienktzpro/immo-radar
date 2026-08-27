@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-08-26T21:24:00+00:00",
+  "generated_at": "2026-08-27T09:55:30+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "f0fa527440b9f22f",
+      "title": "DPE immobilier 2027 : 300 000 logements pourraient sortir des classes F ou G",
+      "summary": "Nouveau Rénovation",
+      "url": "https://www.mysweetimmo.com/2026/08/27/dpe-immobilier-2027-300-000-logements-pourraient-sortir-de-f-ou-g/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : DPE immobilier 2027 : 300 000 logements pourraient sortir des classes F ou G."
+    },
     {
       "id": "2182d63921f42b7c",
       "title": "Indicateur des taux : une remontée contenue des taux dans un contexte plus incertain",
@@ -26,7 +47,7 @@
     {
       "id": "86bedc8e39b7a18d",
       "title": "Facturation électronique : Votre agence immobilière est-elle prête pour le 1er septembre ?",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/08/26/facturation-electronique-votre-agence-immobiliere-est-elle-prete-pour-le-1er-septembre/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -47,7 +68,7 @@
     {
       "id": "9187a6d7fbe4037e",
       "title": "Médiateur, juriste, négociateur… les 7 casquettes du gestionnaire de copropriété",
-      "summary": "Le 26/08/2026 à 07H31 Médiateur le matin, gestionnaire de crise à midi, négociateur ou juriste l’après-midi… Le métier de gestionnaire de copropriété ne se résume pas aux assemblées générales et aux appels de charges. Aurore Rinck, passionnée par son métier, passe en revue ces multiples casquettes, souvent invisibles mais indispensables, que les professionnels enfilent chaque jour sans même y penser. Frais kilométriques déduct",
+      "summary": "les professionnels de la gestion locative, décryptée par Maître Cyril Sabatié. Le 26/08/2026 à 07H31 Médiateur le matin, gestionnaire de crise à midi, négociateur ou juriste l’après-midi… Le métier de gestionnaire de copropriété ne se résume pas aux assemblées générales et aux appels de charges. Aurore Rinck, passionnée par son métier, passe en revue ces multiples casquettes, souvent invisibles mais indispensables, que les pr",
       "url": "https://www.journaldelagence.com/1413236-mediateur-juriste-negociateur-les-7-casquettes-du-gestionnaire-de-copropriete",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -107,8 +128,8 @@
       "legal_stage": "jorf"
     },
     {
-      "id": "cce7be701e9b0584",
-      "title": "Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d’euros",
+      "id": "c374b6141a66baa5",
+      "title": "Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d'euros",
       "summary": "Luxe",
       "url": "https://www.mysweetimmo.com/2026/08/25/immobilier-provence-1-000-m%c2%b2-et-600-ans-dhistoire-a-vendre-44-millions-deuros/",
       "source": "MySweetImmo",
@@ -125,7 +146,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d’euros."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d'euros."
     },
     {
       "id": "5e1010a8936eaca7",
@@ -296,7 +317,7 @@
     {
       "id": "50386a9ce24c05ca",
       "title": "Immobilier : 1 Français sur 5 veut déménager après les vacances",
-      "summary": "Immobilier : 1 Français sur 5 veut déménager après les vacances",
+      "summary": "Société",
       "url": "https://www.mysweetimmo.com/2026/08/20/immobilier-1-francais-sur-5-veut-demenager-apres-les-vacances/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -587,27 +608,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Diagnostic immobilier : Ce que le DPE européen dira en plus au 1er janvier 2027."
     },
     {
-      "id": "76a83a15dbf75310",
-      "title": "Crédit immobilier : Faut-il emprunter maintenant ou attendre septembre ?",
-      "summary": "Investir / Financer",
-      "url": "https://www.mysweetimmo.com/2026/08/18/credit-immobilier-faut-il-emprunter-maintenant-ou-attendre-septembre/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "credit",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Credit",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Faut-il emprunter maintenant ou attendre septembre ?."
-    },
-    {
       "id": "d7de534a824dac0f",
       "title": "Incendies dans le Sud-Ouest : Bien’ici se mobilise pour aider au relogement des sinistrés",
       "summary": "Incendies dans le Sud-Ouest : Bien’ici se mobilise pour aider au relogement des sinistrés",
@@ -650,13 +650,13 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Trop de biens à vendre, les prix affichés reculent en Grande-Bretagne."
     },
     {
-      "id": "023d818f798302c2",
-      "title": "Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ?",
-      "summary": "e petites surfaces ne suffit plus à répondre à une demande toujours plus forte. Le 18/08/2026 à 07H36 Face à une crise du logement qui fragilise l'accession à la propriété, de nouveaux modèles émergent pour redonner du pouvoir d'achat immobilier aux ménages. En dissociant le foncier du bâti, certains dispositifs rebattent les cartes de l'acquisition. Sophie Droller-Bolela décrypte les ressorts de cette évolution et s'interrog",
-      "url": "https://www.journaldelagence.com/1412953-dissocier-le-foncier-du-bati-une-nouveau-levier-pour-recreer-la-solvabilite-des-acquereurs",
-      "source": "Journal de l'Agence",
+      "id": "76a83a15dbf75310",
+      "title": "Crédit immobilier : Faut-il emprunter maintenant ou attendre septembre ?",
+      "summary": "Crédit immobilier : Faut-il emprunter maintenant ou attendre septembre ?",
+      "url": "https://www.mysweetimmo.com/2026/08/18/credit-immobilier-faut-il-emprunter-maintenant-ou-attendre-septembre/",
+      "source": "MySweetImmo",
       "source_level": "C",
-      "category": "marche",
+      "category": "credit",
       "audiences": [
         "particulier",
         "investisseur",
@@ -667,29 +667,8 @@
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Dissocier le foncier du bâti : une nouveau levier pour recréer la solvabilité des acquéreurs ?."
-    },
-    {
-      "id": "2396897533ee05dc",
-      "title": "Qu’est-ce qui fait une bonne annonce immobilière ? Ce n’est pas sa capacité à faire rêver, mais à inspirer confiance",
-      "summary": "à une transformation durable de notre conception de la propriété immobilière ? Le 18/08/2026 à 07H08 Dans une annonce immobilière, la confiance naît de l'alignement entre ce qui est écrit et ce qui peut être vérifié. À l'appui de plusieurs recherches scientifiques, Nathalie Gardes montre que les annonces les plus efficaces ne sont plus celles qui multiplient les superlatifs, mais celles qui donnent aux acquéreurs les éléments",
-      "url": "https://www.journaldelagence.com/1412978-quest-ce-qui-fait-une-bonne-annonce-immobiliere-ce-nest-pas-sa-capacite-a-faire-rever-mais-a-inspirer-confiance",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Qu’est-ce qui fait une bonne annonce immobilière ? Ce n’est pas sa capacité à faire rêver, mais à inspirer confiance."
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Faut-il emprunter maintenant ou attendre septembre ?."
     },
     {
       "id": "31c82e6b8fcdf1d2",
@@ -732,27 +711,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : MaPrimeRénov’, MaPrimeAdapt’ : Ce qui change aujourd’hui avec le nouveau compte France Rénov’."
-    },
-    {
-      "id": "e4d892665bf36ce2",
-      "title": "Absence de diagnostics immobiliers : la responsabilité du notaire peut être engagée",
-      "summary": "donnent aux acquéreurs les éléments nécessaires pour se projeter… en confiance. Le 17/08/2026 à 07H36 Saviez-vous que le devoir de conseil du notaire ne se limite pas à la rédaction de l'acte authentique ? La Cour de cassation a rappellé dans un arrêt récent que lorsqu'un acquéreur devient bailleur d'un immeuble déjà loué, il doit également être informé des risques qu'il encourt si certains diagnostics n'ont pas été réalisés.",
-      "url": "https://www.journaldelagence.com/1412418-absence-de-diagnostics-immobiliers-la-responsabilite-du-notaire-peut-etre-engagee",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "investisseur",
-        "pro",
-        "particulier"
-      ],
-      "published_at": "2026-08-17T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Absence de diagnostics immobiliers : la responsabilité du notaire peut être engagée."
     },
     {
       "id": "9cba8bce7f79eaa0",
@@ -817,28 +775,6 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : HeyGen lance un générateur de vidéos IA dédié aux pros de l’immobilier."
-    },
-    {
-      "id": "9bb584338a870f9b",
-      "title": "Avis relatif à l'extension d'un accord conclu dans le cadre de la convention collective nationale de l'habitat et logement accompagnés",
-      "summary": "Texte officiel concernant le logement social, l’habitat ou les organismes du secteur.",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054678694",
-      "source": "Légifrance",
-      "source_level": "A",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-14T00:00:00+00:00",
-      "status": "Publié au JORF",
-      "importance": 91,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Logement social / Habitat",
-      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Avis relatif à l'extension d'un accord conclu dans le cadre de la convention collective nationale de l'habitat et logement acco….",
-      "legal_stage": "jorf"
     },
     {
       "id": "08b1588075d7e3f3",
@@ -923,6 +859,48 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Prospection immobilière : Acheter un lead vendeur ne suffit plus pour pouvoir l’appeler."
+    },
+    {
+      "id": "c4cfa5e9bb863ccc",
+      "title": "DPE 2027 : les évolutions au 1er janvier sont connues",
+      "summary": "Le 27/08/2026 à 08H01 L’été 2026 aura été riche en évolutions pour le DPE. Deux arrêtés le modifieront dès le 1er janvier 2027 : l’électricité sera une nouvelle fois favorisée dans le calcul et les logements les plus décarbonés seront mieux identifiés. Les professionnels de l’immobilier peuvent dès aujourd’hui anticiper l’impact sur le DPE de leurs biens via le simulateur gratuit proposé par Casam. Prospection téléphonique : l",
+      "url": "https://www.journaldelagence.com/1413279-dpe-2027-les-evolutions-au-1er-janvier-2027-sont-connues",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : DPE 2027 : les évolutions au 1er janvier sont connues."
+    },
+    {
+      "id": "ba6ee2947f458dc9",
+      "title": "Prospection téléphonique : les nouvelles règles du consentement à ne pas manquer et à maîtriser !",
+      "summary": "l’impact sur le DPE de leurs biens via le simulateur gratuit proposé par Casam. Le 27/08/2026 à 07H04 Si vous l'avez manqué cet été, une petite révolution est en cours en matière de pige immobilière ! Depuis le 11 août 2026, la prospection téléphonique est soumise au consentement préalable des consommateurs, sauf exceptions. Décryptage avec Maître Caroline Dubuis-Talayrach, Olivier Beddeleem et Dominique Piredda. Préavis du l",
+      "url": "https://www.journaldelagence.com/1413251-prospection-telephonique-la-nouvelles-regle-du-consentement-a-ne-pas-manquer-et-a-maitriser",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Prospection téléphonique : les nouvelles règles du consentement à ne pas manquer et à maîtriser !."
     },
     {
       "id": "bdf8a551019bd962",
@@ -1027,27 +1005,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Location d'un logement : de la signature du bail à la fin de la location."
-    },
-    {
-      "id": "a328f2f888d7b7cc",
-      "title": "Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026",
-      "summary": "Règlementation",
-      "url": "https://www.mysweetimmo.com/2026/08/04/immobilier-ce-que-lai-act-change-vraiment-pour-les-agences-depuis-le-2-aout-2026/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Immobilier : Ce que l’AI Act change vraiment pour les agences depuis le 2 août 2026."
     },
     {
       "id": "c97fbcb683b89861",
@@ -1490,6 +1447,26 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Canicule : le confort climatique s’insère parmi les critères de recherche immobilière."
     },
     {
+      "id": "bbc054ca08d5498f",
+      "title": "Préavis du locataire : la remise des clés met-elle fin au paiement des loyers ?",
+      "summary": "avec Maître Caroline Dubuis-Talayrach, Olivier Beddeleem et Dominique Piredda. Le 27/08/2026 à 06H30 Clés rendues, état des lieux signé… mais loyers toujours dus ! Dans un arrêt du 4 juin 2026, la Cour de cassation rappelle qu’un départ anticipé ne met pas automatiquement fin aux obligations du locataire pendant son préavis. Une décision à connaître pour les professionnels de la gestion locative, décryptée par Maître Cyril Sa",
+      "url": "https://www.journaldelagence.com/1413258-preavis-du-locataire-la-remise-des-cles-met-elle-fin-au-paiement-du-loyer-2",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-06-04T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Préavis du locataire : la remise des clés met-elle fin au paiement des loyers ?."
+    },
+    {
       "id": "3b2255cb7e8a6f65",
       "title": "Informations Rapides · 28 mai 2026 · n° 130 Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) Indices Notaires-Insee des prix des logements anciens - premier trimestre 2026",
       "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee false Aller au contenu Aide Thèmes Recherche English Presse Menu Menu Blog Presse Aide English Lancer la recherche sur le site Thèmes Statistiques et études Cherchez vos statistiques par… Thèmes Économie - conjoncture - comptes nationaux Démographie Entreprises Plus de thèmes… Niveaux géographiques France Toutes les régions ou tous les départements Toutes les communes Plus de ni",
@@ -1535,7 +1512,7 @@
     {
       "id": "e2374dc054a3e2a2",
       "title": "MaPrimeRénov’ : certains projets de travaux bientôt exclus du dispositif",
-      "summary": "L’aide versée via MaPrimeRénov’ pour une rénovation d’ampleur d’un logement ne pourra plus être attribuée dans certains cas, à compter du 1 er septembre. Service Public vous présente les évolutions de cette aide destinée à la rénovation énergétique de votre habitation.",
+      "summary": "L’aide versée via MaPrimeRénov’ pour la rénovation d’ampleur d’un logement ne pourra plus être attribuée dans certains cas, à compter du 1 er septembre. Service Public vous présente les évolutions de cette aide destinée à la rénovation énergétique de votre habitation.",
       "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18332?xtor=RSS-111",
       "source": "Service-Public.fr",
       "source_level": "A",
@@ -1576,10 +1553,10 @@
     }
   ],
   "source_stats": {
-    "ANIL": 11,
     "MySweetImmo": 16,
+    "ANIL": 11,
     "Journal de l'Agence": 16,
-    "Légifrance": 5,
+    "Légifrance": 4,
     "Batiactu": 7,
     "Immobilier 2.0": 15,
     "SDES / Sitadel": 1,
@@ -1592,15 +1569,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 75,
-    "rejected": 1026,
+    "retained": 74,
+    "rejected": 1078,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-26T21:23:10+00:00",
+        "last_success": "2026-08-27T09:54:46+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1608,7 +1585,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-26T21:23:13+00:00",
+        "last_success": "2026-08-27T09:54:49+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1616,7 +1593,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-26T21:23:14+00:00",
+        "last_success": "2026-08-27T09:54:50+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1624,7 +1601,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-26T21:23:15+00:00",
+        "last_success": "2026-08-27T09:54:51+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1632,15 +1609,15 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-26T21:23:39+00:00",
+        "last_success": "2026-08-27T09:55:11+00:00",
         "fallback": false
       },
       "Légifrance": {
         "level": "A",
         "ok": true,
         "status": "ok",
-        "retained": 5,
-        "last_success": "2026-08-26T21:23:49+00:00",
+        "retained": 4,
+        "last_success": "2026-08-27T09:55:19+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1648,7 +1625,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-26T21:23:49+00:00",
+        "last_success": "2026-08-27T09:55:19+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1656,7 +1633,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-08-26T21:23:50+00:00",
+        "last_success": "2026-08-27T09:55:20+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1664,7 +1641,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-26T21:23:51+00:00",
+        "last_success": "2026-08-27T09:55:22+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1672,7 +1649,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-26T21:23:53+00:00",
+        "last_success": "2026-08-27T09:55:23+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1680,7 +1657,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-26T21:23:54+00:00",
+        "last_success": "2026-08-27T09:55:25+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1688,7 +1665,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-26T21:23:56+00:00",
+        "last_success": "2026-08-27T09:55:26+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1696,7 +1673,7 @@
         "ok": true,
         "status": "ok",
         "retained": 7,
-        "last_success": "2026-08-26T21:23:58+00:00",
+        "last_success": "2026-08-27T09:55:27+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1704,7 +1681,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-08-26T21:23:59+00:00",
+        "last_success": "2026-08-27T09:55:28+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1712,7 +1689,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-26T21:23:59+00:00",
+        "last_success": "2026-08-27T09:55:29+00:00",
         "fallback": false
       }
     }

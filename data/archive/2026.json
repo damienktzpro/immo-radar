@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-26T21:24:02+00:00",
+  "generated_at": "2026-08-27T09:55:32+00:00",
   "items": [
+    {
+      "id": "f0fa527440b9f22f",
+      "title": "DPE immobilier 2027 : 300 000 logements pourraient sortir des classes F ou G",
+      "summary": "Nouveau Rénovation",
+      "url": "https://www.mysweetimmo.com/2026/08/27/dpe-immobilier-2027-300-000-logements-pourraient-sortir-de-f-ou-g/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : DPE immobilier 2027 : 300 000 logements pourraient sortir des classes F ou G."
+    },
     {
       "id": "2182d63921f42b7c",
       "title": "Indicateur des taux : une remontée contenue des taux dans un contexte plus incertain",
@@ -27,7 +48,7 @@
     {
       "id": "9187a6d7fbe4037e",
       "title": "Médiateur, juriste, négociateur… les 7 casquettes du gestionnaire de copropriété",
-      "summary": "Le 26/08/2026 à 07H31 Médiateur le matin, gestionnaire de crise à midi, négociateur ou juriste l’après-midi… Le métier de gestionnaire de copropriété ne se résume pas aux assemblées générales et aux appels de charges. Aurore Rinck, passionnée par son métier, passe en revue ces multiples casquettes, souvent invisibles mais indispensables, que les professionnels enfilent chaque jour sans même y penser. Frais kilométriques déduct",
+      "summary": "les professionnels de la gestion locative, décryptée par Maître Cyril Sabatié. Le 26/08/2026 à 07H31 Médiateur le matin, gestionnaire de crise à midi, négociateur ou juriste l’après-midi… Le métier de gestionnaire de copropriété ne se résume pas aux assemblées générales et aux appels de charges. Aurore Rinck, passionnée par son métier, passe en revue ces multiples casquettes, souvent invisibles mais indispensables, que les pr",
       "url": "https://www.journaldelagence.com/1413236-mediateur-juriste-negociateur-les-7-casquettes-du-gestionnaire-de-copropriete",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -67,7 +88,7 @@
     {
       "id": "86bedc8e39b7a18d",
       "title": "Facturation électronique : Votre agence immobilière est-elle prête pour le 1er septembre ?",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/08/26/facturation-electronique-votre-agence-immobiliere-est-elle-prete-pour-le-1er-septembre/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -169,8 +190,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Comment se réapproprier le marketing de proximité ?."
     },
     {
-      "id": "cce7be701e9b0584",
-      "title": "Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d’euros",
+      "id": "c374b6141a66baa5",
+      "title": "Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d'euros",
       "summary": "Luxe",
       "url": "https://www.mysweetimmo.com/2026/08/25/immobilier-provence-1-000-m%c2%b2-et-600-ans-dhistoire-a-vendre-44-millions-deuros/",
       "source": "MySweetImmo",
@@ -187,7 +208,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d’euros."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d'euros."
     },
     {
       "id": "7c7bbb3a9cfb07e1",
@@ -297,7 +318,7 @@
     {
       "id": "50386a9ce24c05ca",
       "title": "Immobilier : 1 Français sur 5 veut déménager après les vacances",
-      "summary": "Immobilier : 1 Français sur 5 veut déménager après les vacances",
+      "summary": "Société",
       "url": "https://www.mysweetimmo.com/2026/08/20/immobilier-1-francais-sur-5-veut-demenager-apres-les-vacances/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -569,7 +590,7 @@
     {
       "id": "76a83a15dbf75310",
       "title": "Crédit immobilier : Faut-il emprunter maintenant ou attendre septembre ?",
-      "summary": "Investir / Financer",
+      "summary": "Crédit immobilier : Faut-il emprunter maintenant ou attendre septembre ?",
       "url": "https://www.mysweetimmo.com/2026/08/18/credit-immobilier-faut-il-emprunter-maintenant-ou-attendre-septembre/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -1110,6 +1131,48 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Prospection immobilière : Acheter un lead vendeur ne suffit plus pour pouvoir l’appeler."
+    },
+    {
+      "id": "c4cfa5e9bb863ccc",
+      "title": "DPE 2027 : les évolutions au 1er janvier sont connues",
+      "summary": "Le 27/08/2026 à 08H01 L’été 2026 aura été riche en évolutions pour le DPE. Deux arrêtés le modifieront dès le 1er janvier 2027 : l’électricité sera une nouvelle fois favorisée dans le calcul et les logements les plus décarbonés seront mieux identifiés. Les professionnels de l’immobilier peuvent dès aujourd’hui anticiper l’impact sur le DPE de leurs biens via le simulateur gratuit proposé par Casam. Prospection téléphonique : l",
+      "url": "https://www.journaldelagence.com/1413279-dpe-2027-les-evolutions-au-1er-janvier-2027-sont-connues",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : DPE 2027 : les évolutions au 1er janvier sont connues."
+    },
+    {
+      "id": "ba6ee2947f458dc9",
+      "title": "Prospection téléphonique : les nouvelles règles du consentement à ne pas manquer et à maîtriser !",
+      "summary": "l’impact sur le DPE de leurs biens via le simulateur gratuit proposé par Casam. Le 27/08/2026 à 07H04 Si vous l'avez manqué cet été, une petite révolution est en cours en matière de pige immobilière ! Depuis le 11 août 2026, la prospection téléphonique est soumise au consentement préalable des consommateurs, sauf exceptions. Décryptage avec Maître Caroline Dubuis-Talayrach, Olivier Beddeleem et Dominique Piredda. Préavis du l",
+      "url": "https://www.journaldelagence.com/1413251-prospection-telephonique-la-nouvelles-regle-du-consentement-a-ne-pas-manquer-et-a-maitriser",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Prospection téléphonique : les nouvelles règles du consentement à ne pas manquer et à maîtriser !."
     },
     {
       "id": "6dfb7463508537c9",
@@ -2327,6 +2390,26 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "bbc054ca08d5498f",
+      "title": "Préavis du locataire : la remise des clés met-elle fin au paiement des loyers ?",
+      "summary": "avec Maître Caroline Dubuis-Talayrach, Olivier Beddeleem et Dominique Piredda. Le 27/08/2026 à 06H30 Clés rendues, état des lieux signé… mais loyers toujours dus ! Dans un arrêt du 4 juin 2026, la Cour de cassation rappelle qu’un départ anticipé ne met pas automatiquement fin aux obligations du locataire pendant son préavis. Une décision à connaître pour les professionnels de la gestion locative, décryptée par Maître Cyril Sa",
+      "url": "https://www.journaldelagence.com/1413258-preavis-du-locataire-la-remise-des-cles-met-elle-fin-au-paiement-du-loyer-2",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-06-04T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Préavis du locataire : la remise des clés met-elle fin au paiement des loyers ?."
     },
     {
       "id": "3b2255cb7e8a6f65",
