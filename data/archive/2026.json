@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-27T22:19:09+00:00",
+  "generated_at": "2026-08-28T11:29:34+00:00",
   "items": [
+    {
+      "id": "0cbc5f28ae84efd7",
+      "title": "Construction de logements : résultats à fin juillet 2026 (France entière)",
+      "summary": "Construction de logements : résultats à fin juillet 2026 (France entière) | Données et études statistiques Aller au menu principal Aller à la recherche Aller au contenu principal Recherche Rechercher Rechercher Menu Fermer le menu Changement climatique Ouvrir le menu Changement climatique Chiffres clés du climat Émissions nationales de gaz à effet de serre Émissions mondiales de gaz à effet de serre Empreinte carbone Climat et société Énergie Ouvrir le menu Énergie Bilan et chiffres clés de l’én",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/construction-de-logements-resultats-fin-juillet-2026-france-entiere?rubrique=&dossier=1047",
+      "source": "SDES / Sitadel",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-28T09:00:00+00:00",
+      "status": "Donnée officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Construction",
+      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin juillet 2026 (France entière)."
+    },
     {
       "id": "e4dc03dc96f1e3b1",
       "title": "Ce qu’un chasseur immobilier change dans le quotidien d’une agence parisienne",
@@ -48,7 +69,7 @@
     {
       "id": "13bbf7817689a3d6",
       "title": "Immobilier : Le marché ralentit mais le luxe ne connaît pas la crise selon Engel & Völkers",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/08/27/immobilier-le-marche-ralentit-mais-le-luxe-ne-connait-pas-la-crise-selon-engel-volkers/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -1761,27 +1782,6 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source institutionnelle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Incendies en Nouvelle-Aquitaine : Action Logement met en place un dispositif d'urgence."
-    },
-    {
-      "id": "1334da1f949c7767",
-      "title": "Construction de logements : résultats à fin juin 2026 (France entière)",
-      "summary": "Construction de logements : résultats à fin juin 2026 (France entière) | Données et études statistiques Aller au menu principal Aller à la recherche Aller au contenu principal Recherche Rechercher Rechercher Menu Fermer le menu Changement climatique Ouvrir le menu Changement climatique Chiffres clés du climat Émissions nationales de gaz à effet de serre Émissions mondiales de gaz à effet de serre Empreinte carbone Climat et société Énergie Ouvrir le menu Énergie Bilan et chiffres clés de l’énerg",
-      "url": "https://www.statistiques.developpement-durable.gouv.fr/construction-de-logements-resultats-fin-juin-2026-france-entiere?rubrique=&dossier=1047",
-      "source": "SDES / Sitadel",
-      "source_level": "A",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-28T09:00:00+00:00",
-      "status": "Donnée officielle",
-      "importance": 88,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Construction",
-      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin juin 2026 (France entière)."
     },
     {
       "id": "091448832a801dbf",
