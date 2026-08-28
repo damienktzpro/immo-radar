@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T11:29:32+00:00",
+  "generated_at": "2026-08-28T22:25:30+00:00",
   "version": "7.1",
   "items": [
     {
@@ -1152,27 +1152,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Logement : la mission Grataloup va jouer les prolongations POLITIQUE DU LOGEMENT. La mission confiée au président de l'Union de…."
     },
     {
-      "id": "f760ca2d05bbe5a2",
-      "title": "Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site",
-      "summary": "Reportage 22/07/2026 Interview \"Nos maisons en bois ne sont pas plus chères que des constructions maçonnées traditionnelles\". Alban Boyé (Trecobat)",
-      "url": "https://www.batiactu.com/edito/dans-construction-bois-breton-trecobat-joue-coudes-75031.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-22T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site."
-    },
-    {
       "id": "1a3a801fc9468c6f",
       "title": "Des chiffres, l'actu : cette semaine, facture salée pour les TPE",
       "summary": "16/07/2026 Des chiffres, l'actu : cette semaine, facture salée pour le logement social 09/07/2026",
@@ -1597,7 +1576,7 @@
     "Journal de l'Agence": 16,
     "MySweetImmo": 16,
     "ANIL": 10,
-    "Batiactu": 8,
+    "Batiactu": 7,
     "Légifrance": 2,
     "Immobilier 2.0": 15,
     "Immo Matin": 4,
@@ -1610,15 +1589,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 76,
-    "rejected": 1053,
+    "retained": 75,
+    "rejected": 1051,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-28T11:28:44+00:00",
+        "last_success": "2026-08-28T22:24:53+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1626,7 +1605,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-28T11:28:47+00:00",
+        "last_success": "2026-08-28T22:24:55+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1634,7 +1613,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-28T11:28:47+00:00",
+        "last_success": "2026-08-28T22:24:55+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1642,7 +1621,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-28T11:28:48+00:00",
+        "last_success": "2026-08-28T22:24:56+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1650,7 +1629,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-28T11:29:16+00:00",
+        "last_success": "2026-08-28T22:25:13+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1658,7 +1637,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-28T11:29:24+00:00",
+        "last_success": "2026-08-28T22:25:20+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1666,7 +1645,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-28T11:29:24+00:00",
+        "last_success": "2026-08-28T22:25:20+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1674,7 +1653,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-08-28T11:29:25+00:00",
+        "last_success": "2026-08-28T22:25:21+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1682,7 +1661,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-28T11:29:25+00:00",
+        "last_success": "2026-08-28T22:25:22+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1690,7 +1669,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-28T11:29:26+00:00",
+        "last_success": "2026-08-28T22:25:23+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1698,7 +1677,7 @@
         "ok": true,
         "status": "ok",
         "retained": 4,
-        "last_success": "2026-08-28T11:29:27+00:00",
+        "last_success": "2026-08-28T22:25:24+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1706,15 +1685,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-28T11:29:28+00:00",
+        "last_success": "2026-08-28T22:25:25+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 8,
-        "last_success": "2026-08-28T11:29:30+00:00",
+        "retained": 7,
+        "last_success": "2026-08-28T22:25:26+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1722,7 +1701,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-08-28T11:29:31+00:00",
+        "last_success": "2026-08-28T22:25:27+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1730,7 +1709,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-28T11:29:31+00:00",
+        "last_success": "2026-08-28T22:25:29+00:00",
         "fallback": false
       }
     }
