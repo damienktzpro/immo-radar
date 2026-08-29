@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-29T07:09:31+00:00",
+  "generated_at": "2026-08-29T16:46:18+00:00",
   "items": [
+    {
+      "id": "f4d2d62b6e399a0a",
+      "title": "MaPrimeRénov’ : Isolation, fenêtres, chauffage… les nouvelles règles au 1er septembre 2026",
+      "summary": "Nouveau Rénovation",
+      "url": "https://www.mysweetimmo.com/2026/08/29/maprimerenov-isolation-fenetres-chauffage-les-nouvelles-regles-au-1er-septembre-2026/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : MaPrimeRénov’ : Isolation, fenêtres, chauffage… les nouvelles règles au 1er septembre 2026."
+    },
     {
       "id": "0cbc5f28ae84efd7",
       "title": "Construction de logements : résultats à fin juillet 2026 (France entière)",
@@ -716,11 +737,11 @@
     {
       "id": "a93ae8ba6ef6ea51",
       "title": "Diagnostic immobilier : Ce que le DPE européen dira en plus au 1er janvier 2027",
-      "summary": "Règlementation",
+      "summary": "Diagnostic immobilier : Ce que le DPE européen dira en plus au 1er janvier 2027",
       "url": "https://www.mysweetimmo.com/2026/08/18/diagnostic-immobilier-ce-que-le-dpe-europeen-dira-en-plus-au-1er-janvier-2027/",
       "source": "MySweetImmo",
       "source_level": "C",
-      "category": "lois",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
@@ -728,10 +749,10 @@
       ],
       "published_at": "2026-08-18T09:00:00+00:00",
       "status": "Publication",
-      "importance": 76,
+      "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Lois",
+      "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Diagnostic immobilier : Ce que le DPE européen dira en plus au 1er janvier 2027."
     },
     {
