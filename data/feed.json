@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T20:58:42+00:00",
+  "generated_at": "2026-08-30T05:29:30+00:00",
   "version": "7.1",
   "items": [
     {
@@ -647,28 +647,6 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Métiers de la transaction et de la gestion : et la RSE bordel !."
-    },
-    {
-      "id": "2ee8368242bde0d8",
-      "title": "LOI n° 2026-795 du 18 août 2026 visant à moderniser la gestion du patrimoine immobilier de l'Etat (1)",
-      "summary": "Texte officiel concernant la gestion, la détention ou l’évolution du patrimoine immobilier.",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054706983",
-      "source": "Légifrance",
-      "source_level": "A",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-19T00:00:00+00:00",
-      "status": "Publié au JORF",
-      "importance": 91,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Patrimoine immobilier",
-      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : LOI n° 2026-795 du 18 août 2026 visant à moderniser la gestion du patrimoine immobilier de l'Etat (1).",
-      "legal_stage": "jorf"
     },
     {
       "id": "a93ae8ba6ef6ea51",
@@ -1577,7 +1555,7 @@
     "Journal de l'Agence": 16,
     "ANIL": 10,
     "Batiactu": 7,
-    "Légifrance": 2,
+    "Légifrance": 1,
     "Immobilier 2.0": 15,
     "Immo Matin": 4,
     "Insee": 1,
@@ -1589,15 +1567,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 75,
-    "rejected": 1067,
+    "retained": 74,
+    "rejected": 1032,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-29T20:58:05+00:00",
+        "last_success": "2026-08-30T05:28:53+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1605,7 +1583,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-29T20:58:08+00:00",
+        "last_success": "2026-08-30T05:28:57+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1613,7 +1591,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-29T20:58:09+00:00",
+        "last_success": "2026-08-30T05:28:58+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1621,7 +1599,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-29T20:58:10+00:00",
+        "last_success": "2026-08-30T05:28:59+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1629,15 +1607,15 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-29T20:58:26+00:00",
+        "last_success": "2026-08-30T05:29:15+00:00",
         "fallback": false
       },
       "Légifrance": {
         "level": "A",
         "ok": true,
         "status": "ok",
-        "retained": 2,
-        "last_success": "2026-08-29T20:58:33+00:00",
+        "retained": 1,
+        "last_success": "2026-08-30T05:29:22+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1645,7 +1623,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-29T20:58:33+00:00",
+        "last_success": "2026-08-30T05:29:22+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1653,7 +1631,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-08-29T20:58:34+00:00",
+        "last_success": "2026-08-30T05:29:23+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1661,7 +1639,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-29T20:58:35+00:00",
+        "last_success": "2026-08-30T05:29:24+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1669,7 +1647,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-29T20:58:36+00:00",
+        "last_success": "2026-08-30T05:29:25+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1677,7 +1655,7 @@
         "ok": true,
         "status": "ok",
         "retained": 4,
-        "last_success": "2026-08-29T20:58:37+00:00",
+        "last_success": "2026-08-30T05:29:26+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1685,7 +1663,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-29T20:58:38+00:00",
+        "last_success": "2026-08-30T05:29:27+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1693,7 +1671,7 @@
         "ok": true,
         "status": "ok",
         "retained": 7,
-        "last_success": "2026-08-29T20:58:40+00:00",
+        "last_success": "2026-08-30T05:29:28+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1701,7 +1679,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-08-29T20:58:41+00:00",
+        "last_success": "2026-08-30T05:29:29+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1709,7 +1687,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-29T20:58:41+00:00",
+        "last_success": "2026-08-30T05:29:30+00:00",
         "fallback": false
       }
     }
