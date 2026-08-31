@@ -1,8 +1,49 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-30T21:11:15+00:00",
+  "generated_at": "2026-08-31T05:42:46+00:00",
   "items": [
+    {
+      "id": "00c0ffc086d97231",
+      "title": "Du nouveau pour MaPrimeRénov’ : quel discours tenir au 1er septembre ?",
+      "summary": "Le 31/08/2026 à 07H25 Dès le 1er septembre, MaPrimeRénov’ se recentre sur le soutien à la sortie du gaz et du fioul, à travers les deux parcours d’aides : MaPrimeRénov’ par geste et d’ampleur. La majorité des travaux sans parcours d’ampleur ne seront donc plus éligibles, sauf pour les biens F et G. Pour un conseiller immobilier, le discours devient donc plus simple, à l’exception peut-être des grosses rénovations énergétiques",
+      "url": "https://www.journaldelagence.com/1413298-du-nouveau-pour-maprimerenov-quel-discours-tenir-au-1er-septembre",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-31T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Du nouveau pour MaPrimeRénov’ : quel discours tenir au 1er septembre ?."
+    },
+    {
+      "id": "51b65a8e680cc678",
+      "title": "Facturation électronique obligatoire : quels impacts pour les agences immobilières et les syndics ?",
+      "summary": "sur les aides à la rénovation et les évolutions du parcours de demande d’aide. Le 31/08/2026 à 07H04 A partir du 1er septembre 2026, la facturation électronique devient obligatoire pour toutes les entreprises assujetties à la TVA. Décryptage de cette réforme qui concerne les agences immobilières, les professionnels indépendants et les syndics ! Avec l'éclairage de VILOGI, éditeur de logiciels de syndic de copropriété et de ge",
+      "url": "https://www.journaldelagence.com/1413291-facturation-electronique-obligatoire-quels-impacts-pour-les-agences-immobilieres-et-les-syndics",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-08-31T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Facturation électronique obligatoire : quels impacts pour les agences immobilières et les syndics ?."
+    },
     {
       "id": "f4d2d62b6e399a0a",
       "title": "MaPrimeRénov’ : Isolation, fenêtres, chauffage… les nouvelles règles au 1er septembre 2026",
@@ -48,22 +89,21 @@
     {
       "id": "e4dc03dc96f1e3b1",
       "title": "Ce qu’un chasseur immobilier change dans le quotidien d’une agence parisienne",
-      "summary": "Le 28/08/2026 à 00H00 Longtemps regardé comme un intrus, le chasseur immobilier s'installe comme un partenaire des agences. À Paris, où le stock se raréfie et où les visites non converties pèsent sur la rentabilité, il apporte ce qui manque le plus aux mandats de vente : un acquéreur décidé, financé et prêt à signer. DPE 2027 : les évolutions au 1er janvier sont connues Le 27/08/2026 à 08H01 L’été 2026 aura été riche en évolut",
+      "summary": "e VILOGI, éditeur de logiciels de syndic de copropriété et de gestion locative. Le 28/08/2026 à 00H00 Longtemps regardé comme un intrus, le chasseur immobilier s'installe comme un partenaire des agences. À Paris, où le stock se raréfie et où les visites non converties pèsent sur la rentabilité, il apporte ce qui manque le plus aux mandats de vente : un acquéreur décidé, financé et prêt à signer. DPE 2027 : les évolutions au 1",
       "url": "https://www.journaldelagence.com/1413272-ce-quun-chasseur-immobilier-change-dans-le-quotidien-dune-agence-parisienne",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "marche",
+      "category": "pro",
       "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
+        "pro",
+        "investisseur"
       ],
       "published_at": "2026-08-28T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
+      "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Ce qu’un chasseur immobilier change dans le quotidien d’une agence parisienne."
     },
     {
