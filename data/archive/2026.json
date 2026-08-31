@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-31T13:59:05+00:00",
+  "generated_at": "2026-08-31T22:54:38+00:00",
   "items": [
     {
       "id": "00c0ffc086d97231",
@@ -47,7 +47,7 @@
     {
       "id": "1e02a27b8a734002",
       "title": "Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/08/31/logement-etudiant-jusqua-1-638-demandes-pour-un-studio-la-folle-course-de-la-rentree/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -126,6 +126,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Ce qu’un chasseur immobilier change dans le quotidien d’une agence parisienne."
+    },
+    {
+      "id": "a57b0ae9a3777793",
+      "title": "En chiffres Malgré les vagues de chaleur, le marché des volets peine à décoller HABITAT. Alors que les pics de chaleur se multiplient, le marché des volets reste paradoxalement atone.",
+      "summary": "En chiffres Construction de logements : les permis reculent, mais les mises en chantier progressent CONJONCTURE. Les chiffres de juillet 2026 enregistrent une nouvelle baisse des permis de construire accordés pour les logements, tandis que les ... 28/08/2026 31/08/2026",
+      "url": "https://www.batiactu.com/edito/marche-volets-peine-a-decoller-malgre-urgence-adaptation-75200.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : En chiffres Malgré les vagues de chaleur, le marché des volets peine à décoller HABITAT. Alors que les pics de chaleur se multi…."
     },
     {
       "id": "f0fa527440b9f22f",

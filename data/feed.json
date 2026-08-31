@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T13:59:02+00:00",
+  "generated_at": "2026-08-31T22:54:36+00:00",
   "version": "7.1",
   "items": [
     {
       "id": "1e02a27b8a734002",
       "title": "Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/08/31/logement-etudiant-jusqua-1-638-demandes-pour-un-studio-la-folle-course-de-la-rentree/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -125,6 +125,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Ce qu’un chasseur immobilier change dans le quotidien d’une agence parisienne."
+    },
+    {
+      "id": "a57b0ae9a3777793",
+      "title": "En chiffres Malgré les vagues de chaleur, le marché des volets peine à décoller HABITAT. Alors que les pics de chaleur se multiplient, le marché des volets reste paradoxalement atone.",
+      "summary": "En chiffres Construction de logements : les permis reculent, mais les mises en chantier progressent CONJONCTURE. Les chiffres de juillet 2026 enregistrent une nouvelle baisse des permis de construire accordés pour les logements, tandis que les ... 28/08/2026 31/08/2026",
+      "url": "https://www.batiactu.com/edito/marche-volets-peine-a-decoller-malgre-urgence-adaptation-75200.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : En chiffres Malgré les vagues de chaleur, le marché des volets peine à décoller HABITAT. Alors que les pics de chaleur se multi…."
     },
     {
       "id": "f0fa527440b9f22f",
@@ -1086,27 +1107,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : CEE, électrification : plusieurs textes clefs retoqués en Conseil supérieur de l'énergie."
     },
     {
-      "id": "12695a943896f23a",
-      "title": "A Brest, la construction d'un petit collectif intermédiaire donne la part belle au bois",
-      "summary": "Reportage 23/07/2026 Reportage Dans la construction bois, le breton Trecobat joue des coudes pour convertir au hors-site Interview \"Nos maisons en bois ne sont pas plus chères que des constructions maçonnées traditionnelles\". Alban Boyé (Trecobat)",
-      "url": "https://www.batiactu.com/edito/a-brest-construction-un-petit-collectif-maisons-donne-75043.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-23T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : A Brest, la construction d'un petit collectif intermédiaire donne la part belle au bois."
-    },
-    {
       "id": "1a3a801fc9468c6f",
       "title": "Des chiffres, l'actu : cette semaine, facture salée pour les TPE",
       "summary": "16/07/2026 Des chiffres, l'actu : cette semaine, facture salée pour le logement social 09/07/2026",
@@ -1530,8 +1530,8 @@
     "MySweetImmo": 16,
     "Journal de l'Agence": 16,
     "SDES / Sitadel": 1,
-    "ANIL": 10,
     "Batiactu": 6,
+    "ANIL": 10,
     "Légifrance": 1,
     "Immobilier 2.0": 15,
     "Immo Matin": 4,
@@ -1541,27 +1541,26 @@
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 14,
-    "sources_degraded": 1,
+    "sources_ok": 15,
+    "sources_degraded": 0,
     "errors": 0,
     "retained": 73,
-    "rejected": 1031,
+    "rejected": 1019,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
-        "ok": false,
-        "status": "degraded",
+        "ok": true,
+        "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-31T05:42:43+00:00",
-        "fallback": true,
-        "error_type": "RemoteDisconnected"
+        "last_success": "2026-08-31T22:54:00+00:00",
+        "fallback": false
       },
       "Banque de France": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-31T13:58:23+00:00",
+        "last_success": "2026-08-31T22:54:02+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1569,7 +1568,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-31T13:58:24+00:00",
+        "last_success": "2026-08-31T22:54:03+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1577,7 +1576,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-31T13:58:25+00:00",
+        "last_success": "2026-08-31T22:54:04+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1585,7 +1584,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-31T13:58:45+00:00",
+        "last_success": "2026-08-31T22:54:20+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1593,7 +1592,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-31T13:58:53+00:00",
+        "last_success": "2026-08-31T22:54:27+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1601,7 +1600,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-31T13:58:53+00:00",
+        "last_success": "2026-08-31T22:54:27+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1609,7 +1608,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-08-31T13:58:54+00:00",
+        "last_success": "2026-08-31T22:54:28+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1617,7 +1616,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-31T13:58:55+00:00",
+        "last_success": "2026-08-31T22:54:29+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1625,7 +1624,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-31T13:58:56+00:00",
+        "last_success": "2026-08-31T22:54:30+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1633,7 +1632,7 @@
         "ok": true,
         "status": "ok",
         "retained": 4,
-        "last_success": "2026-08-31T13:58:58+00:00",
+        "last_success": "2026-08-31T22:54:31+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1641,7 +1640,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-31T13:58:59+00:00",
+        "last_success": "2026-08-31T22:54:33+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1649,7 +1648,7 @@
         "ok": true,
         "status": "ok",
         "retained": 6,
-        "last_success": "2026-08-31T13:59:00+00:00",
+        "last_success": "2026-08-31T22:54:34+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1657,7 +1656,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-08-31T13:59:01+00:00",
+        "last_success": "2026-08-31T22:54:35+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1665,16 +1664,10 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-31T13:59:02+00:00",
+        "last_success": "2026-08-31T22:54:35+00:00",
         "fallback": false
       }
     }
   },
-  "errors": [
-    {
-      "source": "Service-Public.fr",
-      "error": "Remote end closed connection without response",
-      "fallback": true
-    }
-  ]
+  "errors": []
 }
