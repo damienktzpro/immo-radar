@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-08-31T05:42:43+00:00",
+  "generated_at": "2026-08-31T13:59:02+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "1e02a27b8a734002",
+      "title": "Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/08/31/logement-etudiant-jusqua-1-638-demandes-pour-un-studio-la-folle-course-de-la-rentree/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-31T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée."
+    },
     {
       "id": "00c0ffc086d97231",
       "title": "Du nouveau pour MaPrimeRénov’ : quel discours tenir au 1er septembre ?",
@@ -294,27 +315,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d’euros."
     },
     {
-      "id": "5e1010a8936eaca7",
-      "title": "Agents immobiliers : « Ne payez que les annonces que vous diffusez » Jonathan Le Corronc-Clady et Didier Bertrand (FNAIM Région Sud)",
-      "summary": "Agents immobiliers : « Ne payez que les annonces que vous diffusez » Jonathan Le Corronc-Clady et Didier Bertrand (FNAIM Région Sud)",
-      "url": "https://www.mysweetimmo.com/2026/08/25/agents-immobiliers-ne-payez-que-les-annonces-que-vous-diffusez-jonathan-le-corronc-clady-et-didier-bertrand-fnaim-region-sud/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-25T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : « Ne payez que les annonces que vous diffusez » Jonathan Le Corronc-Clady et Didier Bertrand (FNAIM Région…."
-    },
-    {
       "id": "cb40731a15edc9e3",
       "title": "Risque sécheresse, consommation, équipements : l’eau, un nouveau critère de valeur pour les biens immobiliers",
       "summary": "les oublis et disposer d’un relevé exploitable au moment de faire ses comptes. Le 25/08/2026 à 08H17 Restrictions généralisées à l'été 2026, prix de l'eau en hausse durable, extension du zonage argiles depuis le 1er juillet : la question de l'eau s'invite dans les transactions. Points de vigilance à la mise en vente, équipements à valoriser, chiffres à connaître ; tour d'horizon de ce qui change pour les agents immobiliers, e",
@@ -420,7 +420,7 @@
     {
       "id": "ba6c55f88e0b79d5",
       "title": "Immobilier Portugal : Les prix flambent jusqu’à 20 000 € le mètre carré à Comporta",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier Portugal : Les prix flambent jusqu’à 20 000 € le mètre carré à Comporta",
       "url": "https://www.mysweetimmo.com/2026/08/21/immobilier-portugal-les-prix-flambent-jusqua-20-000-e-le-metre-carre-a-comporta/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -1107,27 +1107,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : A Brest, la construction d'un petit collectif intermédiaire donne la part belle au bois."
     },
     {
-      "id": "cdf59226118be2f5",
-      "title": "Logement : la mission Grataloup va jouer les prolongations POLITIQUE DU LOGEMENT. La mission confiée au président de l'Union des propriétaires immobiliers (Unpi) est loin d'être achevée.",
-      "summary": "En débat 22/07/2026",
-      "url": "https://www.batiactu.com/edito/logement-mission-grataloup-joue-prolongations-75034.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-22T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Logement : la mission Grataloup va jouer les prolongations POLITIQUE DU LOGEMENT. La mission confiée au président de l'Union de…."
-    },
-    {
       "id": "1a3a801fc9468c6f",
       "title": "Des chiffres, l'actu : cette semaine, facture salée pour les TPE",
       "summary": "16/07/2026 Des chiffres, l'actu : cette semaine, facture salée pour le logement social 09/07/2026",
@@ -1548,11 +1527,11 @@
     }
   ],
   "source_stats": {
-    "Journal de l'Agence": 16,
     "MySweetImmo": 16,
+    "Journal de l'Agence": 16,
     "SDES / Sitadel": 1,
     "ANIL": 10,
-    "Batiactu": 7,
+    "Batiactu": 6,
     "Légifrance": 1,
     "Immobilier 2.0": 15,
     "Immo Matin": 4,
@@ -1562,26 +1541,27 @@
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 15,
-    "sources_degraded": 0,
+    "sources_ok": 14,
+    "sources_degraded": 1,
     "errors": 0,
-    "retained": 74,
-    "rejected": 1023,
+    "retained": 73,
+    "rejected": 1031,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
-        "ok": true,
-        "status": "ok",
+        "ok": false,
+        "status": "degraded",
         "retained": 2,
-        "last_success": "2026-08-31T05:42:04+00:00",
-        "fallback": false
+        "last_success": "2026-08-31T05:42:43+00:00",
+        "fallback": true,
+        "error_type": "RemoteDisconnected"
       },
       "Banque de France": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-31T05:42:06+00:00",
+        "last_success": "2026-08-31T13:58:23+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1589,7 +1569,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-31T05:42:07+00:00",
+        "last_success": "2026-08-31T13:58:24+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1597,7 +1577,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-31T05:42:08+00:00",
+        "last_success": "2026-08-31T13:58:25+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1605,7 +1585,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-31T05:42:26+00:00",
+        "last_success": "2026-08-31T13:58:45+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1613,7 +1593,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-31T05:42:34+00:00",
+        "last_success": "2026-08-31T13:58:53+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1621,7 +1601,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-08-31T05:42:34+00:00",
+        "last_success": "2026-08-31T13:58:53+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1629,7 +1609,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-08-31T05:42:35+00:00",
+        "last_success": "2026-08-31T13:58:54+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1637,7 +1617,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-08-31T05:42:36+00:00",
+        "last_success": "2026-08-31T13:58:55+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1645,7 +1625,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-31T05:42:37+00:00",
+        "last_success": "2026-08-31T13:58:56+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1653,7 +1633,7 @@
         "ok": true,
         "status": "ok",
         "retained": 4,
-        "last_success": "2026-08-31T05:42:38+00:00",
+        "last_success": "2026-08-31T13:58:58+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1661,15 +1641,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-08-31T05:42:39+00:00",
+        "last_success": "2026-08-31T13:58:59+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 7,
-        "last_success": "2026-08-31T05:42:41+00:00",
+        "retained": 6,
+        "last_success": "2026-08-31T13:59:00+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1677,7 +1657,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-08-31T05:42:42+00:00",
+        "last_success": "2026-08-31T13:59:01+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1685,10 +1665,16 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-08-31T05:42:42+00:00",
+        "last_success": "2026-08-31T13:59:02+00:00",
         "fallback": false
       }
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "source": "Service-Public.fr",
+      "error": "Remote end closed connection without response",
+      "fallback": true
+    }
+  ]
 }
