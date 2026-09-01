@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-01T16:43:48+00:00",
+  "generated_at": "2026-09-01T21:06:11+00:00",
   "items": [
     {
       "id": "41dbd997e10cb8a4",
@@ -48,7 +48,7 @@
     {
       "id": "1065cdff76c644e5",
       "title": "Immobilier Paris 6 : « Notre-Dame-des-Champs séduit les familles », Century 21 Fine Homes & Estates",
-      "summary": "Nouveau 1 ville, 1 agent",
+      "summary": "1 ville, 1 agent",
       "url": "https://www.mysweetimmo.com/2026/09/01/immobilier-paris-6-notre-dame-des-champs-seduit-les-familles-century-21-fine-homes-estates/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -90,7 +90,7 @@
     {
       "id": "b6f985ce399a73c4",
       "title": "Crédit immobilier : Les taux en hausse en septembre",
-      "summary": "Nouveau Dans l'actu",
+      "summary": "Dans l'actu",
       "url": "https://www.mysweetimmo.com/2026/09/01/credit-immobilier-les-taux-en-hausse-en-septembre/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -172,6 +172,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Portail immobilier : idealista débarque en France avec 1 an de diffusion gratuite."
     },
     {
+      "id": "16b41bb757fb7f38",
+      "title": "Crédit immobilier : Le prêt à 1,99 % que les banques accordent encore, alors que les taux remontent",
+      "summary": "Nouveau Dans l'actu",
+      "url": "https://www.mysweetimmo.com/2026/09/01/credit-immobilier-le-pret-a-199-que-les-banques-accordent-encore-alors-que-les-taux-remontent/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Le prêt à 1,99 % que les banques accordent encore, alors que les taux remontent."
+    },
+    {
       "id": "00c0ffc086d97231",
       "title": "Du nouveau pour MaPrimeRénov’ : quel discours tenir au 1er septembre ?",
       "summary": "ur d'un bien, on la déplace, du prix qu'il affiche vers le projet qu'il permet. Le 31/08/2026 à 07H25 Dès le 1er septembre, MaPrimeRénov’ se recentre sur le soutien à la sortie du gaz et du fioul, à travers les deux parcours d’aides : MaPrimeRénov’ par geste et d’ampleur. La majorité des travaux sans parcours d’ampleur ne seront donc plus éligibles, sauf pour les biens F et G. Pour un conseiller immobilier, le discours devien",
@@ -215,7 +236,7 @@
     {
       "id": "1e02a27b8a734002",
       "title": "Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée",
-      "summary": "Marché immobilier",
+      "summary": "Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée",
       "url": "https://www.mysweetimmo.com/2026/08/31/logement-etudiant-jusqua-1-638-demandes-pour-un-studio-la-folle-course-de-la-rentree/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -231,7 +252,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée."
     },
     {
       "id": "f4d2d62b6e399a0a",
@@ -441,8 +462,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Frais kilométriques déductibles : comment ne plus perdre le compte de vos déplacements ?."
     },
     {
-      "id": "86bedc8e39b7a18d",
-      "title": "Facturation électronique : Votre agence immobilière est-elle prête pour le 1er septembre ?",
+      "id": "ff0d9f9cd366f2b8",
+      "title": "Facturation électronique : Votre agence immobilière est-elle en règle depuis 1er septembre ?",
       "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/08/26/facturation-electronique-votre-agence-immobiliere-est-elle-prete-pour-le-1er-septembre/",
       "source": "MySweetImmo",
@@ -459,7 +480,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Facturation électronique : Votre agence immobilière est-elle prête pour le 1er septembre ?."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Facturation électronique : Votre agence immobilière est-elle en règle depuis 1er septembre ?."
     },
     {
       "id": "841e711c1e59c440",

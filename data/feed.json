@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T16:43:45+00:00",
+  "generated_at": "2026-09-01T21:06:08+00:00",
   "version": "7.1",
   "items": [
     {
@@ -26,7 +26,7 @@
     {
       "id": "1065cdff76c644e5",
       "title": "Immobilier Paris 6 : « Notre-Dame-des-Champs séduit les familles », Century 21 Fine Homes & Estates",
-      "summary": "Nouveau 1 ville, 1 agent",
+      "summary": "1 ville, 1 agent",
       "url": "https://www.mysweetimmo.com/2026/09/01/immobilier-paris-6-notre-dame-des-champs-seduit-les-familles-century-21-fine-homes-estates/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -66,6 +66,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Amanda : Comment accélérer la vente de son bien dans un marché immobilier plus exigeant ?."
     },
     {
+      "id": "16b41bb757fb7f38",
+      "title": "Crédit immobilier : Le prêt à 1,99 % que les banques accordent encore, alors que les taux remontent",
+      "summary": "Nouveau Dans l'actu",
+      "url": "https://www.mysweetimmo.com/2026/09/01/credit-immobilier-le-pret-a-199-que-les-banques-accordent-encore-alors-que-les-taux-remontent/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Le prêt à 1,99 % que les banques accordent encore, alors que les taux remontent."
+    },
+    {
       "id": "888eda51b330376d",
       "title": "Taxe foncière 2026 : Les 11 villes où le taux augmente",
       "summary": "Nouveau Règlementation",
@@ -89,7 +110,7 @@
     {
       "id": "b6f985ce399a73c4",
       "title": "Crédit immobilier : Les taux en hausse en septembre",
-      "summary": "Nouveau Dans l'actu",
+      "summary": "Dans l'actu",
       "url": "https://www.mysweetimmo.com/2026/09/01/credit-immobilier-les-taux-en-hausse-en-septembre/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -173,7 +194,7 @@
     {
       "id": "1e02a27b8a734002",
       "title": "Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée",
-      "summary": "Marché immobilier",
+      "summary": "Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée",
       "url": "https://www.mysweetimmo.com/2026/08/31/logement-etudiant-jusqua-1-638-demandes-pour-un-studio-la-folle-course-de-la-rentree/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -189,7 +210,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée."
     },
     {
       "id": "00c0ffc086d97231",
@@ -379,8 +400,8 @@
       "why_it_matters": "Source institutionnelle. Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets. Point suivi : Indicateur des taux : une remontée contenue des taux dans un contexte plus incertain."
     },
     {
-      "id": "86bedc8e39b7a18d",
-      "title": "Facturation électronique : Votre agence immobilière est-elle prête pour le 1er septembre ?",
+      "id": "ff0d9f9cd366f2b8",
+      "title": "Facturation électronique : Votre agence immobilière est-elle en règle depuis 1er septembre ?",
       "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/08/26/facturation-electronique-votre-agence-immobiliere-est-elle-prete-pour-le-1er-septembre/",
       "source": "MySweetImmo",
@@ -397,7 +418,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Facturation électronique : Votre agence immobilière est-elle prête pour le 1er septembre ?."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Facturation électronique : Votre agence immobilière est-elle en règle depuis 1er septembre ?."
     },
     {
       "id": "9187a6d7fbe4037e",
@@ -793,27 +814,6 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Rodéos urbains : une nouvelle mission inattendue pour les syndics de copropriété."
-    },
-    {
-      "id": "a93ae8ba6ef6ea51",
-      "title": "Diagnostic immobilier : Ce que le DPE européen dira en plus au 1er janvier 2027",
-      "summary": "Diagnostic immobilier : Ce que le DPE européen dira en plus au 1er janvier 2027",
-      "url": "https://www.mysweetimmo.com/2026/08/18/diagnostic-immobilier-ce-que-le-dpe-europeen-dira-en-plus-au-1er-janvier-2027/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Diagnostic immobilier : Ce que le DPE européen dira en plus au 1er janvier 2027."
     },
     {
       "id": "31c82e6b8fcdf1d2",
@@ -1525,14 +1525,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 72,
-    "rejected": 1017,
+    "rejected": 1016,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-01T16:42:52+00:00",
+        "last_success": "2026-09-01T21:05:17+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1540,7 +1540,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-01T16:42:57+00:00",
+        "last_success": "2026-09-01T21:05:21+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1548,7 +1548,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-01T16:42:58+00:00",
+        "last_success": "2026-09-01T21:05:22+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1556,7 +1556,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-01T16:42:59+00:00",
+        "last_success": "2026-09-01T21:05:23+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1564,7 +1564,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-01T16:43:23+00:00",
+        "last_success": "2026-09-01T21:05:46+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1572,7 +1572,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-01T16:43:34+00:00",
+        "last_success": "2026-09-01T21:05:58+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1580,7 +1580,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-01T16:43:34+00:00",
+        "last_success": "2026-09-01T21:05:58+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1588,7 +1588,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-01T16:43:35+00:00",
+        "last_success": "2026-09-01T21:05:59+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1596,7 +1596,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-01T16:43:36+00:00",
+        "last_success": "2026-09-01T21:06:00+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1604,7 +1604,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-01T16:43:38+00:00",
+        "last_success": "2026-09-01T21:06:02+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1612,7 +1612,7 @@
         "ok": true,
         "status": "ok",
         "retained": 4,
-        "last_success": "2026-09-01T16:43:40+00:00",
+        "last_success": "2026-09-01T21:06:03+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1620,7 +1620,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-01T16:43:41+00:00",
+        "last_success": "2026-09-01T21:06:04+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1628,7 +1628,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-09-01T16:43:43+00:00",
+        "last_success": "2026-09-01T21:06:06+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1636,7 +1636,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-09-01T16:43:44+00:00",
+        "last_success": "2026-09-01T21:06:07+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1644,7 +1644,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-01T16:43:44+00:00",
+        "last_success": "2026-09-01T21:06:08+00:00",
         "fallback": false
       }
     }
