@@ -1,12 +1,12 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-01T05:16:05+00:00",
+  "generated_at": "2026-09-01T11:44:03+00:00",
   "items": [
     {
       "id": "41dbd997e10cb8a4",
       "title": "Rentrée immobilière : comment désarmorcer un prix vendeur trop élevé ?",
-      "summary": "Le 01/09/2026 à 06H54 Chaque rentrée, trois agents sur quatre prennent un mandat qu'ils savent au-dessus du marché. Non par manque de lucidité, ils l'ont vu, mais parce que le marché de septembre, encombré des invendus du printemps, ne leur montre que des prix que personne n'a payés, et parce que le seul outil qu'on leur a appris pour tenir la ligne, le comparable, se retourne contre eux. Nordine Mouaouia explique pourquoi, et",
+      "summary": "et ses idées pour faire de ce mois de septembre un véritable levier commercial. Le 01/09/2026 à 06H54 Chaque rentrée, trois agents sur quatre prennent un mandat qu'ils savent au-dessus du marché. Non par manque de lucidité, ils l'ont vu, mais parce que le marché de septembre, encombré des invendus du printemps, ne leur montre que des prix que personne n'a payés, et parce que le seul outil qu'on leur a appris pour tenir la lig",
       "url": "https://www.journaldelagence.com/1413316-rentree-immobiliere-comment-desarmorcer-un-prix-vendeur-trop-eleve",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -23,6 +23,111 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Rentrée immobilière : comment désarmorcer un prix vendeur trop élevé ?."
+    },
+    {
+      "id": "ef5f7f4454aa7c76",
+      "title": "Immobilier : Il faut désormais 110 jours pour vendre son bien selon Orpi",
+      "summary": "Nouveau Vente",
+      "url": "https://www.mysweetimmo.com/2026/09/01/immobilier-il-faut-desormais-110-jours-pour-vendre-son-bien-selon-orpi/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Il faut désormais 110 jours pour vendre son bien selon Orpi."
+    },
+    {
+      "id": "1065cdff76c644e5",
+      "title": "Immobilier Paris 6 : « Notre-Dame-des-Champs séduit les familles », Century 21 Fine Homes & Estates",
+      "summary": "Nouveau 1 ville, 1 agent",
+      "url": "https://www.mysweetimmo.com/2026/09/01/immobilier-paris-6-notre-dame-des-champs-seduit-les-familles-century-21-fine-homes-estates/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Paris 6 : « Notre-Dame-des-Champs séduit les familles », Century 21 Fine Homes & Estates."
+    },
+    {
+      "id": "abb1c85815a88585",
+      "title": "Amanda : Comment accélérer la vente de son bien dans un marché immobilier plus exigeant ?",
+      "summary": "Dans un marché plus exigeant, vendre rapidement suppose de partir au juste prix, de toucher les bons acquéreurs et de s’appuyer sur une diffusion efficace. Amanda mise notamment sur le partage des mandats exclusifs.",
+      "url": "https://www.mysweetimmo.com/2026/09/01/amanda-comment-accelerer-la-vente-de-son-bien-dans-un-marche-immobilier-plus-exigeant/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Amanda : Comment accélérer la vente de son bien dans un marché immobilier plus exigeant ?."
+    },
+    {
+      "id": "b6f985ce399a73c4",
+      "title": "Crédit immobilier : Les taux en hausse en septembre",
+      "summary": "Nouveau Dans l'actu",
+      "url": "https://www.mysweetimmo.com/2026/09/01/credit-immobilier-les-taux-en-hausse-en-septembre/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Les taux en hausse en septembre."
+    },
+    {
+      "id": "65e48adda71470bd",
+      "title": "Agents immobiliers : et si votre meilleure prospection de rentrée était un événement ?",
+      "summary": "Le 01/09/2026 à 07H19 La rentrée est un temps fort pour renouer avec son secteur, retrouver de la visibilité et relancer sa prospection. Et pour reprendre contact avec clients et prospects, rien de tel que de créer l’événement ! Jonathan Voogt livre ses conseils et ses idées pour faire de ce mois de septembre un véritable levier commercial. Rentrée immobilière : comment désarmorcer un prix vendeur trop élevé ? Le 01/09/2026 à",
+      "url": "https://www.journaldelagence.com/1413327-agents-immobiliers-et-si-votre-meilleure-prospection-de-rentree-etait-un-evenement",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Agents immobiliers : et si votre meilleure prospection de rentrée était un événement ?."
     },
     {
       "id": "00c0ffc086d97231",
@@ -193,7 +298,7 @@
     {
       "id": "13bbf7817689a3d6",
       "title": "Immobilier : Le marché ralentit mais le luxe ne connaît pas la crise selon Engel & Völkers",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier : Le marché ralentit mais le luxe ne connaît pas la crise selon Engel & Völkers",
       "url": "https://www.mysweetimmo.com/2026/08/27/immobilier-le-marche-ralentit-mais-le-luxe-ne-connait-pas-la-crise-selon-engel-volkers/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -400,7 +505,7 @@
     {
       "id": "cce7be701e9b0584",
       "title": "Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d’euros",
-      "summary": "Luxe",
+      "summary": "Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d’euros",
       "url": "https://www.mysweetimmo.com/2026/08/25/immobilier-provence-1-000-m%c2%b2-et-600-ans-dhistoire-a-vendre-44-millions-deuros/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -692,7 +797,7 @@
     {
       "id": "0b1756554f4604ab",
       "title": "Immobilier de luxe : Jusqu’à 113 000 €/m² à Saint-Jean-Cap-Ferrat, en tête du classement européen",
-      "summary": "Luxe",
+      "summary": "Immobilier de luxe : Jusqu’à 113 000 €/m² à Saint-Jean-Cap-Ferrat, en tête du classement européen",
       "url": "https://www.mysweetimmo.com/2026/08/19/113-000-euros-le-m%c2%b2-la-cote-dazur-domine-limmobilier-de-luxe-en-europe/",
       "source": "MySweetImmo",
       "source_level": "C",
