@@ -1,12 +1,33 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-08-31T22:54:38+00:00",
+  "generated_at": "2026-09-01T05:16:05+00:00",
   "items": [
+    {
+      "id": "41dbd997e10cb8a4",
+      "title": "Rentrée immobilière : comment désarmorcer un prix vendeur trop élevé ?",
+      "summary": "Le 01/09/2026 à 06H54 Chaque rentrée, trois agents sur quatre prennent un mandat qu'ils savent au-dessus du marché. Non par manque de lucidité, ils l'ont vu, mais parce que le marché de septembre, encombré des invendus du printemps, ne leur montre que des prix que personne n'a payés, et parce que le seul outil qu'on leur a appris pour tenir la ligne, le comparable, se retourne contre eux. Nordine Mouaouia explique pourquoi, et",
+      "url": "https://www.journaldelagence.com/1413316-rentree-immobiliere-comment-desarmorcer-un-prix-vendeur-trop-eleve",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Rentrée immobilière : comment désarmorcer un prix vendeur trop élevé ?."
+    },
     {
       "id": "00c0ffc086d97231",
       "title": "Du nouveau pour MaPrimeRénov’ : quel discours tenir au 1er septembre ?",
-      "summary": "Le 31/08/2026 à 07H25 Dès le 1er septembre, MaPrimeRénov’ se recentre sur le soutien à la sortie du gaz et du fioul, à travers les deux parcours d’aides : MaPrimeRénov’ par geste et d’ampleur. La majorité des travaux sans parcours d’ampleur ne seront donc plus éligibles, sauf pour les biens F et G. Pour un conseiller immobilier, le discours devient donc plus simple, à l’exception peut-être des grosses rénovations énergétiques",
+      "summary": "ur d'un bien, on la déplace, du prix qu'il affiche vers le projet qu'il permet. Le 31/08/2026 à 07H25 Dès le 1er septembre, MaPrimeRénov’ se recentre sur le soutien à la sortie du gaz et du fioul, à travers les deux parcours d’aides : MaPrimeRénov’ par geste et d’ampleur. La majorité des travaux sans parcours d’ampleur ne seront donc plus éligibles, sauf pour les biens F et G. Pour un conseiller immobilier, le discours devien",
       "url": "https://www.journaldelagence.com/1413298-du-nouveau-pour-maprimerenov-quel-discours-tenir-au-1er-septembre",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -22,7 +43,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Du nouveau pour MaPrimeRénov’ : quel discours tenir au 1er septembre ?."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Du nouveau pour MaPrimeRénov’ : quel discours tenir au 1er septembre ?."
     },
     {
       "id": "51b65a8e680cc678",
@@ -130,7 +151,7 @@
     {
       "id": "a57b0ae9a3777793",
       "title": "En chiffres Malgré les vagues de chaleur, le marché des volets peine à décoller HABITAT. Alors que les pics de chaleur se multiplient, le marché des volets reste paradoxalement atone.",
-      "summary": "En chiffres Construction de logements : les permis reculent, mais les mises en chantier progressent CONJONCTURE. Les chiffres de juillet 2026 enregistrent une nouvelle baisse des permis de construire accordés pour les logements, tandis que les ... 28/08/2026 31/08/2026",
+      "summary": "En débat Présidentielle et logement : G. Attal, B. Retailleau et J-L. Mélenchon avancent leurs propositions PRÉSIDENTIELLE 2027. Pendant plus de 2h30, au grand débat de clôture de la Rencontre des entrepreneurs de France (Ref 26), les candidats à la ... 28/08/2026 31/08/2026",
       "url": "https://www.batiactu.com/edito/marche-volets-peine-a-decoller-malgre-urgence-adaptation-75200.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -146,7 +167,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : En chiffres Malgré les vagues de chaleur, le marché des volets peine à décoller HABITAT. Alors que les pics de chaleur se multi…."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : En chiffres Malgré les vagues de chaleur, le marché des volets peine à décoller HABITAT. Alors que les pics de chaleur se multi…."
     },
     {
       "id": "f0fa527440b9f22f",
