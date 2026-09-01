@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-01T11:44:03+00:00",
+  "generated_at": "2026-09-01T16:43:48+00:00",
   "items": [
     {
       "id": "41dbd997e10cb8a4",
@@ -130,6 +130,48 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Agents immobiliers : et si votre meilleure prospection de rentrée était un événement ?."
     },
     {
+      "id": "888eda51b330376d",
+      "title": "Taxe foncière 2026 : Les 11 villes où le taux augmente",
+      "summary": "Nouveau Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/09/01/taxe-fonciere-2026-les-11-villes-ou-le-taux-augmente/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Taxe foncière 2026 : Les 11 villes où le taux augmente."
+    },
+    {
+      "id": "a7d1528ad67700a4",
+      "title": "Portail immobilier : idealista débarque en France avec 1 an de diffusion gratuite",
+      "summary": "1 septembre 2026 - Le portail immobilier espagnol idealista arrive en France avec une politique commerciale offensive. En effet, il offre un an de diffusion gratuite, afin de gagner rapidement [...]",
+      "url": "https://immo2.pro/actualite-immobilier/portail-immobilier-idealista-debarque-en-france-avec-1-an-de-diffusion-gratuite/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Portail immobilier : idealista débarque en France avec 1 an de diffusion gratuite."
+    },
+    {
       "id": "00c0ffc086d97231",
       "title": "Du nouveau pour MaPrimeRénov’ : quel discours tenir au 1er septembre ?",
       "summary": "ur d'un bien, on la déplace, du prix qu'il affiche vers le projet qu'il permet. Le 31/08/2026 à 07H25 Dès le 1er septembre, MaPrimeRénov’ se recentre sur le soutien à la sortie du gaz et du fioul, à travers les deux parcours d’aides : MaPrimeRénov’ par geste et d’ampleur. La majorité des travaux sans parcours d’ampleur ne seront donc plus éligibles, sauf pour les biens F et G. Pour un conseiller immobilier, le discours devien",
@@ -194,7 +236,7 @@
     {
       "id": "f4d2d62b6e399a0a",
       "title": "MaPrimeRénov’ : Isolation, fenêtres, chauffage… les nouvelles règles au 1er septembre 2026",
-      "summary": "Rénovation",
+      "summary": "MaPrimeRénov’ : Isolation, fenêtres, chauffage… les nouvelles règles au 1er septembre 2026",
       "url": "https://www.mysweetimmo.com/2026/08/29/maprimerenov-isolation-fenetres-chauffage-les-nouvelles-regles-au-1er-septembre-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -273,6 +315,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : En chiffres Malgré les vagues de chaleur, le marché des volets peine à décoller HABITAT. Alors que les pics de chaleur se multi…."
+    },
+    {
+      "id": "fb6c7a1c5117df3f",
+      "title": "Présidentielle et logement : G. Attal, B. Retailleau et J-L. Mélenchon avancent leurs propositions",
+      "summary": "En débat 28/08/2026 En débat Logement : le candidat Bruno Retailleau propose un choc d'offre dès 2027",
+      "url": "https://www.batiactu.com/edito/presidentielle-2027-gabriel-attal-et-bruno-retailleau-75182.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Présidentielle et logement : G. Attal, B. Retailleau et J-L. Mélenchon avancent leurs propositions."
     },
     {
       "id": "f0fa527440b9f22f",
