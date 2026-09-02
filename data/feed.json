@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T16:39:03+00:00",
+  "generated_at": "2026-09-02T21:06:53+00:00",
   "version": "7.1",
   "items": [
     {
@@ -68,7 +68,7 @@
     {
       "id": "ac0a2c0c37c1a8cd",
       "title": "Stéphane Plaza Immobilier et We Invest : deux réseaux désormais réunis au sein de WIF Group",
-      "summary": "Le 02/09/2026 à 10H00 Moins de deux ans après sa création, WIF Group franchit une nouvelle étape de son développement avec l’arrivée du réseau Stéphane Plaza Immobilier. Le groupe réunit désormais deux marques, We Invest et Stéphane Plaza Immobilier, représentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Le marché immobilier résiste, mais la reprise se heurte encore à des prix trop élevés Le 02/09/",
+      "summary": "Le 02/09/2026 à 10H00 Moins de deux ans après sa création, WIF Group franchit une nouvelle étape de son développement avec l’arrivée du réseau Stéphane Plaza Immobilier. Le groupe réunit désormais deux marques, We Invest et Stéphane Plaza Immobilier, représentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Le marché immobilier résiste, la reprise se heurte encore à des prix trop élevés Le 02/09/2026",
       "url": "https://www.journaldelagence.com/1413344-stephane-plaza-immobilier-et-we-invest-deux-reseaux-desormais-reunis-au-sein-de-wif-group",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -87,9 +87,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Stéphane Plaza Immobilier et We Invest : deux réseaux désormais réunis au sein de WIF Group."
     },
     {
-      "id": "59b66bc170bde89a",
-      "title": "Le marché immobilier résiste, mais la reprise se heurte encore à des prix trop élevés",
-      "summary": "ésentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Le 02/09/2026 à 07H13 Il y a quelques jours, Michel Mouillart s’interrogeait dans les colonnes du Journal de l'Agence : « Les prix sont-ils vraiment responsables de la crise du logement ? » À l’heure de dresser le bilan de l’été, Orpi apporte sa réponse : pour le réseau, des prix encore trop élevés continuent bel et bien de gripper le marché. Zoom",
+      "id": "9227ccf09daa1358",
+      "title": "Le marché immobilier résiste, la reprise se heurte encore à des prix trop élevés",
+      "summary": "ésentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Le 02/09/2026 à 07H13 Les prix sont-ils vraiment responsables de la crise du logement ? C'est la question que soulevait Michel Mouillart il y a quelques jours dans les colonnes du Journal de l'Agence. À l’heure de dresser le bilan de l’été, Orpi apporte sa réponse : pour le réseau, des prix encore trop élevés continuent bel et bien de gripper le m",
       "url": "https://www.journaldelagence.com/1413339-le-marche-immobilier-resiste-mais-la-reprise-se-heurte-encore-a-des-prix-trop-eleves",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -105,7 +105,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Le marché immobilier résiste, mais la reprise se heurte encore à des prix trop élevés."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Le marché immobilier résiste, la reprise se heurte encore à des prix trop élevés."
     },
     {
       "id": "e093c3cb14d5394e",
@@ -1108,6 +1108,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Belles Demeures : deux nouvelles offres pour garantir une meilleure visibilité aux agences."
     },
     {
+      "id": "bdaf988e795f2c87",
+      "title": "Les réseaux Stéphane Plaza Immobilier et Sixième Avenue actent leur séparation",
+      "summary": "17 juillet 2026 - Les réseaux Stéphane Plaza Immobilier et Sixième Avenue ont officialisé leur séparation. En effet, Stéphane Plaza reprendra le contrôle de son réseau alors que le groupe M6 [...]",
+      "url": "https://immo2.pro/actualite-immobilier/les-reseaux-stephane-plaza-immobilier-et-sixieme-avenue-actent-leur-separation/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Les réseaux Stéphane Plaza Immobilier et Sixième Avenue actent leur séparation."
+    },
+    {
       "id": "1a3a801fc9468c6f",
       "title": "Des chiffres, l'actu : cette semaine, facture salée pour les TPE",
       "summary": "16/07/2026 Des chiffres, l'actu : cette semaine, facture salée pour le logement social 09/07/2026",
@@ -1296,27 +1317,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Proptech : Rivage lève 1,5 million d’euros pour simplifier la gestion locative."
     },
     {
-      "id": "78e5bf1097f9ec34",
-      "title": "IA : Zillow s’associe avec Gemini Spark de Google pour faciliter la recherche immobilière",
-      "summary": "14 juillet 2026 - Michael Sherman, responsable des locations chez Zillow, a déclaré qu’à partir de maintenant, les locataires peuvent consulter les annonces Zillow et réserver des visites [...]",
-      "url": "https://immo2.pro/actualite-immobilier/ia-zillow-sassocie-avec-gemini-spark-de-google-pour-faciliter-la-recherche-immobiliere/",
-      "source": "Immobilier 2.0",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-14T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : IA : Zillow s’associe avec Gemini Spark de Google pour faciliter la recherche immobilière."
-    },
-    {
       "id": "bbc054ca08d5498f",
       "title": "Préavis du locataire : la remise des clés met-elle fin au paiement des loyers ?",
       "summary": "avec Maître Caroline Dubuis-Talayrach, Olivier Beddeleem et Dominique Piredda. Le 27/08/2026 à 06H30 Clés rendues, état des lieux signé… mais loyers toujours dus ! Dans un arrêt du 4 juin 2026, la Cour de cassation rappelle qu’un départ anticipé ne met pas automatiquement fin aux obligations du locataire pendant son préavis. Une décision à connaître pour les professionnels de la gestion locative, décryptée par Maître Cyril Sa",
@@ -1461,14 +1461,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 69,
-    "rejected": 1023,
+    "rejected": 1024,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-02T16:38:07+00:00",
+        "last_success": "2026-09-02T21:06:15+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1476,7 +1476,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-02T16:38:11+00:00",
+        "last_success": "2026-09-02T21:06:18+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1484,7 +1484,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-02T16:38:12+00:00",
+        "last_success": "2026-09-02T21:06:19+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1492,7 +1492,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-02T16:38:13+00:00",
+        "last_success": "2026-09-02T21:06:21+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1500,7 +1500,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-02T16:38:38+00:00",
+        "last_success": "2026-09-02T21:06:38+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1508,7 +1508,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-02T16:38:48+00:00",
+        "last_success": "2026-09-02T21:06:44+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1516,7 +1516,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-02T16:38:48+00:00",
+        "last_success": "2026-09-02T21:06:44+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1524,7 +1524,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-02T16:38:49+00:00",
+        "last_success": "2026-09-02T21:06:45+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1532,7 +1532,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-02T16:38:50+00:00",
+        "last_success": "2026-09-02T21:06:46+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1540,7 +1540,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-02T16:38:51+00:00",
+        "last_success": "2026-09-02T21:06:47+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1548,7 +1548,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-02T16:38:53+00:00",
+        "last_success": "2026-09-02T21:06:49+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1556,7 +1556,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-02T16:38:54+00:00",
+        "last_success": "2026-09-02T21:06:50+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1564,7 +1564,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-09-02T16:38:56+00:00",
+        "last_success": "2026-09-02T21:06:51+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1572,7 +1572,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-09-02T16:39:00+00:00",
+        "last_success": "2026-09-02T21:06:52+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1580,7 +1580,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-02T16:39:02+00:00",
+        "last_success": "2026-09-02T21:06:53+00:00",
         "fallback": false
       }
     }
