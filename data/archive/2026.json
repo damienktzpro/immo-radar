@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-02T11:24:49+00:00",
+  "generated_at": "2026-09-02T16:39:06+00:00",
   "items": [
     {
       "id": "ac0a2c0c37c1a8cd",
@@ -64,6 +64,69 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Qualité ou quantité des leads : comment faire le bon choix ?."
+    },
+    {
+      "id": "c25e26cdfcc1915c",
+      "title": "Logement neuf : Cogedim promet 26 °C même par 40 °C",
+      "summary": "Nouveau Neuf",
+      "url": "https://www.mysweetimmo.com/2026/09/02/logement-neuf-cogedim-promet-26-c-meme-par-40-c/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Logement neuf : Cogedim promet 26 °C même par 40 °C."
+    },
+    {
+      "id": "fee9f4019584666e",
+      "title": "Immobilier : 60 % des notaires constatent des prix en baisse",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/09/02/baisse-prix-immobiliers-notaires-automne-2026/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : 60 % des notaires constatent des prix en baisse."
+    },
+    {
+      "id": "e7afbe3f42c6e529",
+      "title": "Immobilier : leboncoin lance son premier TEDx sur « Habiter le monde qui vient",
+      "summary": "Nouveau Vie Pro »",
+      "url": "https://www.mysweetimmo.com/2026/09/02/immobilier-leboncoin-lance-son-premier-tedx-sur-habiter-le-monde-qui-vient/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : leboncoin lance son premier TEDx sur « Habiter le monde qui vient."
     },
     {
       "id": "41dbd997e10cb8a4",
@@ -194,11 +257,11 @@
     {
       "id": "888eda51b330376d",
       "title": "Taxe foncière 2026 : Les 11 villes où le taux augmente",
-      "summary": "Règlementation",
+      "summary": "Taxe foncière 2026 : Les 11 villes où le taux augmente",
       "url": "https://www.mysweetimmo.com/2026/09/01/taxe-fonciere-2026-les-11-villes-ou-le-taux-augmente/",
       "source": "MySweetImmo",
       "source_level": "C",
-      "category": "lois",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
@@ -206,10 +269,10 @@
       ],
       "published_at": "2026-09-01T09:00:00+00:00",
       "status": "Publication",
-      "importance": 76,
+      "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Lois",
+      "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Taxe foncière 2026 : Les 11 villes où le taux augmente."
     },
     {
@@ -236,7 +299,7 @@
     {
       "id": "16b41bb757fb7f38",
       "title": "Crédit immobilier : Le prêt à 1,99 % que les banques accordent encore, alors que les taux remontent",
-      "summary": "Dans l'actu",
+      "summary": "Crédit immobilier : Le prêt à 1,99 % que les banques accordent encore, alors que les taux remontent",
       "url": "https://www.mysweetimmo.com/2026/09/01/credit-immobilier-le-pret-a-199-que-les-banques-accordent-encore-alors-que-les-taux-remontent/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -319,7 +382,7 @@
     {
       "id": "1e02a27b8a734002",
       "title": "Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée",
-      "summary": "Marché immobilier",
+      "summary": "Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée",
       "url": "https://www.mysweetimmo.com/2026/08/31/logement-etudiant-jusqua-1-638-demandes-pour-un-studio-la-folle-course-de-la-rentree/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -335,7 +398,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée."
     },
     {
       "id": "f4d2d62b6e399a0a",

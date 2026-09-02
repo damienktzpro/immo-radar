@@ -1,7 +1,70 @@
 {
-  "generated_at": "2026-09-02T11:24:46+00:00",
+  "generated_at": "2026-09-02T16:39:03+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "c25e26cdfcc1915c",
+      "title": "Logement neuf : Cogedim promet 26 °C même par 40 °C",
+      "summary": "Nouveau Neuf",
+      "url": "https://www.mysweetimmo.com/2026/09/02/logement-neuf-cogedim-promet-26-c-meme-par-40-c/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Logement neuf : Cogedim promet 26 °C même par 40 °C."
+    },
+    {
+      "id": "fee9f4019584666e",
+      "title": "Immobilier : 60 % des notaires constatent des prix en baisse",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/09/02/baisse-prix-immobiliers-notaires-automne-2026/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : 60 % des notaires constatent des prix en baisse."
+    },
+    {
+      "id": "e7afbe3f42c6e529",
+      "title": "Immobilier : leboncoin lance son premier TEDx sur « Habiter le monde qui vient",
+      "summary": "Nouveau Vie Pro »",
+      "url": "https://www.mysweetimmo.com/2026/09/02/immobilier-leboncoin-lance-son-premier-tedx-sur-habiter-le-monde-qui-vient/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : leboncoin lance son premier TEDx sur « Habiter le monde qui vient."
+    },
     {
       "id": "ac0a2c0c37c1a8cd",
       "title": "Stéphane Plaza Immobilier et We Invest : deux réseaux désormais réunis au sein de WIF Group",
@@ -172,7 +235,7 @@
     {
       "id": "16b41bb757fb7f38",
       "title": "Crédit immobilier : Le prêt à 1,99 % que les banques accordent encore, alors que les taux remontent",
-      "summary": "Dans l'actu",
+      "summary": "Crédit immobilier : Le prêt à 1,99 % que les banques accordent encore, alors que les taux remontent",
       "url": "https://www.mysweetimmo.com/2026/09/01/credit-immobilier-le-pret-a-199-que-les-banques-accordent-encore-alors-que-les-taux-remontent/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -193,11 +256,11 @@
     {
       "id": "888eda51b330376d",
       "title": "Taxe foncière 2026 : Les 11 villes où le taux augmente",
-      "summary": "Règlementation",
+      "summary": "Taxe foncière 2026 : Les 11 villes où le taux augmente",
       "url": "https://www.mysweetimmo.com/2026/09/01/taxe-fonciere-2026-les-11-villes-ou-le-taux-augmente/",
       "source": "MySweetImmo",
       "source_level": "C",
-      "category": "lois",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
@@ -205,10 +268,10 @@
       ],
       "published_at": "2026-09-01T09:00:00+00:00",
       "status": "Publication",
-      "importance": 76,
+      "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Lois",
+      "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Taxe foncière 2026 : Les 11 villes où le taux augmente."
     },
     {
@@ -277,7 +340,7 @@
     {
       "id": "1e02a27b8a734002",
       "title": "Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée",
-      "summary": "Marché immobilier",
+      "summary": "Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée",
       "url": "https://www.mysweetimmo.com/2026/08/31/logement-etudiant-jusqua-1-638-demandes-pour-un-studio-la-folle-course-de-la-rentree/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -293,7 +356,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée."
     },
     {
       "id": "00c0ffc086d97231",
@@ -711,27 +774,6 @@
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Mon locataire se plaint du bruit d'un autre locataire. Comment faire ?."
     },
     {
-      "id": "ba6c55f88e0b79d5",
-      "title": "Immobilier Portugal : Les prix flambent jusqu’à 20 000 € le mètre carré à Comporta",
-      "summary": "Immobilier Portugal : Les prix flambent jusqu’à 20 000 € le mètre carré à Comporta",
-      "url": "https://www.mysweetimmo.com/2026/08/21/immobilier-portugal-les-prix-flambent-jusqua-20-000-e-le-metre-carre-a-comporta/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-21T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Portugal : Les prix flambent jusqu’à 20 000 € le mètre carré à Comporta."
-    },
-    {
       "id": "f4c5bc0530cfffec",
       "title": "DPE : de nouveaux changements en vue pour 2027",
       "summary": "21 août 2026 - À partir du 1er janvier 2027, de nouvelles informations s’ajouteront au diagnostic de performance énergétique (DPE). Il est d’ailleurs important de souligner que [...]",
@@ -753,27 +795,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : DPE : de nouveaux changements en vue pour 2027."
     },
     {
-      "id": "50386a9ce24c05ca",
-      "title": "Immobilier : 1 Français sur 5 veut déménager après les vacances",
-      "summary": "Immobilier : 1 Français sur 5 veut déménager après les vacances",
-      "url": "https://www.mysweetimmo.com/2026/08/20/immobilier-1-francais-sur-5-veut-demenager-apres-les-vacances/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-20T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : 1 Français sur 5 veut déménager après les vacances."
-    },
-    {
       "id": "a8c217d413c2c2c6",
       "title": "Logements vacants : ce qui change à partir de 2027",
       "summary": "19 août 2026 La fiscalité des logements vacants évoluera à compter de 2027, une nouvelle taxe unique remplacera la taxe sur les logements vacants (TLV) et la taxe d'habitation sur les logements vacants (THLV).",
@@ -793,27 +814,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Logements vacants : ce qui change à partir de 2027."
-    },
-    {
-      "id": "0b1756554f4604ab",
-      "title": "Immobilier de luxe : Jusqu’à 113 000 €/m² à Saint-Jean-Cap-Ferrat, en tête du classement européen",
-      "summary": "Immobilier de luxe : Jusqu’à 113 000 €/m² à Saint-Jean-Cap-Ferrat, en tête du classement européen",
-      "url": "https://www.mysweetimmo.com/2026/08/19/113-000-euros-le-m%c2%b2-la-cote-dazur-domine-limmobilier-de-luxe-en-europe/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-19T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier de luxe : Jusqu’à 113 000 €/m² à Saint-Jean-Cap-Ferrat, en tête du classement européen."
     },
     {
       "id": "31c82e6b8fcdf1d2",
@@ -1317,90 +1317,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : IA : Zillow s’associe avec Gemini Spark de Google pour faciliter la recherche immobilière."
     },
     {
-      "id": "54b62f98ebd7b683",
-      "title": "Services pour évaluer Location : HighRise mise sur la garantie autonome pour remplacer le dépôt de garantie",
-      "summary": "mobilier : « Nous sommes dans un retournement conjoncturel » (Michel Mouillart) Réseaux-franchise Compromis de vente : Orpi affiche -0,23 % au premier semestre 2026 Agence immobilière indépendante Kaufman & Broad : -7,1 % de réservations de logements en valeur à fin mai sur un an Agence immobilière indépendante Junot : hausse de 27 % du montant cumulé de ses transactions à Paris au S1 2026 BPCE entre en négociations exclusive",
-      "url": "https://www.immomatin.com/evaluation/services-evaluer/location-highrise-mise-sur-la-garantie-autonome-pour-remplacer-le-depot-de-garantie.html",
-      "source": "Immo Matin",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-08T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Services pour évaluer Location : HighRise mise sur la garantie autonome pour remplacer le dépôt de garantie."
-    },
-    {
-      "id": "70201bbb30261171",
-      "title": "Réseaux-franchise Compromis de vente : Orpi affiche -0,23 % au premier semestre 2026",
-      "summary": "on : HighRise mise sur la garantie autonome pour remplacer le dépôt de garantie Agence immobilière indépendante Kaufman & Broad : -7,1 % de réservations de logements en valeur à fin mai sur un an Agence immobilière indépendante Junot : hausse de 27 % du montant cumulé de ses transactions à Paris au S1 2026 BPCE entre en négociations exclusives avec le Crédit Mutuel Arkéa pour le rachat de Liberkeys et Izimmo Agence immobilièr",
-      "url": "https://www.immomatin.com/franchise/reseaux-franchise/compromis-de-vente-orpi-affiche-0-23-au-premier-semestre-2026.html",
-      "source": "Immo Matin",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-08T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Réseaux-franchise Compromis de vente : Orpi affiche -0,23 % au premier semestre 2026."
-    },
-    {
-      "id": "7844b36670984c4f",
-      "title": "Agence immobilière indépendante Kaufman & Broad : -7,1 % de réservations de logements en valeur à fin mai sur un an",
-      "summary": "ux-franchise Compromis de vente : Orpi affiche -0,23 % au premier semestre 2026 Agence immobilière indépendante Junot : hausse de 27 % du montant cumulé de ses transactions à Paris au S1 2026 BPCE entre en négociations exclusives avec le Crédit Mutuel Arkéa pour le rachat de Liberkeys et Izimmo Agence immobilière indépendante BPCE entre en négociations exclusives avec le Crédit Mutuel Arkéa pour le rachat des sociétés Izimmo",
-      "url": "https://www.immomatin.com/franchise/agence-immobiliere-independante/kaufman-broad-7-1-de-reservations-de-logements-en-valeur-a-fin-mai-sur-un-an.html",
-      "source": "Immo Matin",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-08T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Agence immobilière indépendante Kaufman & Broad : -7,1 % de réservations de logements en valeur à fin mai sur un an."
-    },
-    {
-      "id": "b3c8244c0e42413d",
-      "title": "Agence immobilière indépendante Junot : hausse de 27 % du montant cumulé de ses transactions à Paris au S1 2026",
-      "summary": "man & Broad : -7,1 % de réservations de logements en valeur à fin mai sur un an BPCE entre en négociations exclusives avec le Crédit Mutuel Arkéa pour le rachat de Liberkeys et Izimmo Agence immobilière indépendante BPCE entre en négociations exclusives avec le Crédit Mutuel Arkéa pour le rachat des sociétés Izimmo et Liberkeys, deux filiales du Crédit Mutuel Arkéa, ont indiqué les deux groupes, le 8 juillet 2026. Le Groupe B",
-      "url": "https://www.immomatin.com/franchise/agence-immobiliere-independante/junot-hausse-de-27-du-montant-cumule-de-ses-transactions-a-paris-au-s1-2026.html",
-      "source": "Immo Matin",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-08T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Agence immobilière indépendante Junot : hausse de 27 % du montant cumulé de ses transactions à Paris au S1 2026."
-    },
-    {
       "id": "bbc054ca08d5498f",
       "title": "Préavis du locataire : la remise des clés met-elle fin au paiement des loyers ?",
       "summary": "avec Maître Caroline Dubuis-Talayrach, Olivier Beddeleem et Dominique Piredda. Le 27/08/2026 à 06H30 Clés rendues, état des lieux signé… mais loyers toujours dus ! Dans un arrêt du 4 juin 2026, la Cour de cassation rappelle qu’un départ anticipé ne met pas automatiquement fin aux obligations du locataire pendant son préavis. Une décision à connaître pour les professionnels de la gestion locative, décryptée par Maître Cyril Sa",
@@ -1464,6 +1380,48 @@
       "legal_stage": "jorf"
     },
     {
+      "id": "0c688824e6c3bfc2",
+      "title": "Une taxe unique pour les logements vacants à partir de 2027",
+      "summary": "La loi de finances pour 2026 fait évoluer la fiscalité sur les logements vacants. Actuellement, il existe 2 taxes distinctes, applicables l’une ou l’autre en fonction de la commune où le bien immobilier vacant est situé. Ces 2 taxes fusionneront en 2027. Service Public vous explique.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18896?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": null,
+      "status": "Information officielle",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source officielle. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Une taxe unique pour les logements vacants à partir de 2027."
+    },
+    {
+      "id": "e5b891181cd81757",
+      "title": "Pompes à chaleur : les critères pour bénéficier de la prime « coup de pouce chauffage » évoluent",
+      "summary": "La prime « coup de pouce chauffage » est une aide financière permettant aux propriétaires et aux locataires de remplacer leur système de chauffage par une installation qui consomme moins d'énergie. Les conditions pour en bénéficier pour l’installation d’une pompe à chaleur ou d’un système solaire combiné ont évolué le 1 er septembre. Service Public vous présente les nouvelles modalités.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19057?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": null,
+      "status": "Information officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source officielle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Pompes à chaleur : les critères pour bénéficier de la prime « coup de pouce chauffage » évoluent."
+    },
+    {
       "id": "7b527e3f7a9aea35",
       "title": "Nouveau calcul du DPE : votre logement est-il concerné ?",
       "summary": "Le calcul du diagnostic de performance énergétique va évoluer à compter du 1 er janvier 2027. Cela aura des conséquences pour certains propriétaires de logements, notamment concernant la possibilité de mise en location de leurs biens immobiliers. Service Public vous en dit plus.",
@@ -1483,56 +1441,34 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source officielle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Nouveau calcul du DPE : votre logement est-il concerné ?."
-    },
-    {
-      "id": "e2374dc054a3e2a2",
-      "title": "MaPrimeRénov’ : certains projets de travaux bientôt exclus du dispositif",
-      "summary": "L’aide versée via MaPrimeRénov’ pour la rénovation d’ampleur d’un logement ne pourra plus être attribuée dans certains cas, à compter du 1 er septembre. Service Public vous présente les évolutions de cette aide destinée à la rénovation énergétique de votre habitation.",
-      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18332?xtor=RSS-111",
-      "source": "Service-Public.fr",
-      "source_level": "A",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": null,
-      "status": "Information officielle",
-      "importance": 88,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source officielle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : MaPrimeRénov’ : certains projets de travaux bientôt exclus du dispositif."
     }
   ],
   "source_stats": {
-    "Journal de l'Agence": 16,
     "MySweetImmo": 16,
+    "Journal de l'Agence": 16,
     "Immobilier 2.0": 15,
     "SDES / Sitadel": 1,
     "Batiactu": 5,
     "ANIL": 10,
     "Légifrance": 1,
-    "Immo Matin": 4,
     "Insee": 1,
     "EUR-Lex": 1,
-    "Service-Public.fr": 2
+    "Service-Public.fr": 3
   },
   "health": {
     "sources_total": 15,
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 72,
-    "rejected": 1018,
+    "retained": 69,
+    "rejected": 1023,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
-        "retained": 2,
-        "last_success": "2026-09-02T11:24:10+00:00",
+        "retained": 3,
+        "last_success": "2026-09-02T16:38:07+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1540,7 +1476,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-02T11:24:13+00:00",
+        "last_success": "2026-09-02T16:38:11+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1548,7 +1484,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-02T11:24:13+00:00",
+        "last_success": "2026-09-02T16:38:12+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1556,7 +1492,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-02T11:24:14+00:00",
+        "last_success": "2026-09-02T16:38:13+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1564,7 +1500,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-02T11:24:30+00:00",
+        "last_success": "2026-09-02T16:38:38+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1572,7 +1508,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-02T11:24:38+00:00",
+        "last_success": "2026-09-02T16:38:48+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1580,7 +1516,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-02T11:24:38+00:00",
+        "last_success": "2026-09-02T16:38:48+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1588,7 +1524,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-02T11:24:38+00:00",
+        "last_success": "2026-09-02T16:38:49+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1596,7 +1532,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-02T11:24:39+00:00",
+        "last_success": "2026-09-02T16:38:50+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1604,15 +1540,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-02T11:24:40+00:00",
+        "last_success": "2026-09-02T16:38:51+00:00",
         "fallback": false
       },
       "Immo Matin": {
         "level": "C",
         "ok": true,
-        "status": "ok",
-        "retained": 4,
-        "last_success": "2026-09-02T11:24:42+00:00",
+        "status": "empty",
+        "retained": 0,
+        "last_success": "2026-09-02T16:38:53+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1620,7 +1556,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-02T11:24:43+00:00",
+        "last_success": "2026-09-02T16:38:54+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1628,7 +1564,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-09-02T11:24:44+00:00",
+        "last_success": "2026-09-02T16:38:56+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1636,7 +1572,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-09-02T11:24:45+00:00",
+        "last_success": "2026-09-02T16:39:00+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1644,7 +1580,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-02T11:24:46+00:00",
+        "last_success": "2026-09-02T16:39:02+00:00",
         "fallback": false
       }
     }
