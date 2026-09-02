@@ -1,8 +1,70 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-02T04:42:30+00:00",
+  "generated_at": "2026-09-02T11:24:49+00:00",
   "items": [
+    {
+      "id": "ac0a2c0c37c1a8cd",
+      "title": "Stéphane Plaza Immobilier et We Invest : deux réseaux désormais réunis au sein de WIF Group",
+      "summary": "Le 02/09/2026 à 10H00 Moins de deux ans après sa création, WIF Group franchit une nouvelle étape de son développement avec l’arrivée du réseau Stéphane Plaza Immobilier. Le groupe réunit désormais deux marques, We Invest et Stéphane Plaza Immobilier, représentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Le marché immobilier résiste, mais la reprise se heurte encore à des prix trop élevés Le 02/09/",
+      "url": "https://www.journaldelagence.com/1413344-stephane-plaza-immobilier-et-we-invest-deux-reseaux-desormais-reunis-au-sein-de-wif-group",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Stéphane Plaza Immobilier et We Invest : deux réseaux désormais réunis au sein de WIF Group."
+    },
+    {
+      "id": "59b66bc170bde89a",
+      "title": "Le marché immobilier résiste, mais la reprise se heurte encore à des prix trop élevés",
+      "summary": "ésentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Le 02/09/2026 à 07H13 Il y a quelques jours, Michel Mouillart s’interrogeait dans les colonnes du Journal de l'Agence : « Les prix sont-ils vraiment responsables de la crise du logement ? » À l’heure de dresser le bilan de l’été, Orpi apporte sa réponse : pour le réseau, des prix encore trop élevés continuent bel et bien de gripper le marché. Zoom",
+      "url": "https://www.journaldelagence.com/1413339-le-marche-immobilier-resiste-mais-la-reprise-se-heurte-encore-a-des-prix-trop-eleves",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Le marché immobilier résiste, mais la reprise se heurte encore à des prix trop élevés."
+    },
+    {
+      "id": "e093c3cb14d5394e",
+      "title": "Qualité ou quantité des leads : comment faire le bon choix ?",
+      "summary": "les principaux enseignements de la dernière note de conjoncture de l’enseigne. Le 02/09/2026 à 06H47 Toujours plus de leads, mais pour quels résultats ? Face à la hausse des coûts d’acquisition et à des prospects toujours plus sollicités, la course au volume montre ses limites. Pour les professionnels de l’immobilier, l’enjeu se déplace désormais vers la qualité des contacts et la détection de l’intention d’achat, afin de con",
+      "url": "https://www.journaldelagence.com/1413333-qualite-ou-quantite-des-leads-comment-faire-le-bon-choix",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Qualité ou quantité des leads : comment faire le bon choix ?."
+    },
     {
       "id": "41dbd997e10cb8a4",
       "title": "Rentrée immobilière : comment désarmorcer un prix vendeur trop élevé ?",
@@ -90,7 +152,7 @@
     {
       "id": "b6f985ce399a73c4",
       "title": "Crédit immobilier : Les taux en hausse en septembre",
-      "summary": "Crédit immobilier : Les taux en hausse en septembre",
+      "summary": "Investir / Financer",
       "url": "https://www.mysweetimmo.com/2026/09/01/credit-immobilier-les-taux-en-hausse-en-septembre/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -111,7 +173,7 @@
     {
       "id": "65e48adda71470bd",
       "title": "Agents immobiliers : et si votre meilleure prospection de rentrée était un événement ?",
-      "summary": "Le 01/09/2026 à 07H19 La rentrée est un temps fort pour renouer avec son secteur, retrouver de la visibilité et relancer sa prospection. Et pour reprendre contact avec clients et prospects, rien de tel que de créer l’événement ! Jonathan Voogt livre ses conseils et ses idées pour faire de ce mois de septembre un véritable levier commercial. Rentrée immobilière : comment désarmorcer un prix vendeur trop élevé ? Le 01/09/2026 à",
+      "summary": "d’achat, afin de concentrer leurs efforts sur les prospects réellement engagés. Le 01/09/2026 à 07H19 La rentrée est un temps fort pour renouer avec son secteur, retrouver de la visibilité et relancer sa prospection. Et pour reprendre contact avec clients et prospects, rien de tel que de créer l’événement ! Jonathan Voogt livre ses conseils et ses idées pour faire de ce mois de septembre un véritable levier commercial. Rentré",
       "url": "https://www.journaldelagence.com/1413327-agents-immobiliers-et-si-votre-meilleure-prospection-de-rentree-etait-un-evenement",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -127,7 +189,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Agents immobiliers : et si votre meilleure prospection de rentrée était un événement ?."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : et si votre meilleure prospection de rentrée était un événement ?."
     },
     {
       "id": "888eda51b330376d",
@@ -174,7 +236,7 @@
     {
       "id": "16b41bb757fb7f38",
       "title": "Crédit immobilier : Le prêt à 1,99 % que les banques accordent encore, alors que les taux remontent",
-      "summary": "Nouveau Dans l'actu",
+      "summary": "Dans l'actu",
       "url": "https://www.mysweetimmo.com/2026/09/01/credit-immobilier-le-pret-a-199-que-les-banques-accordent-encore-alors-que-les-taux-remontent/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -195,7 +257,7 @@
     {
       "id": "a1784dddb669e401",
       "title": "Réseau immobilier : Stéphane Plaza Immobilier rejoint WIF, le groupe de Xavier Belvaux",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/09/01/reseau-immobilier-stephane-plaza-immobilier-rejoint-we-invest-france-group/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -257,7 +319,7 @@
     {
       "id": "1e02a27b8a734002",
       "title": "Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée",
-      "summary": "Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/08/31/logement-etudiant-jusqua-1-638-demandes-pour-un-studio-la-folle-course-de-la-rentree/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -273,7 +335,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée."
     },
     {
       "id": "f4d2d62b6e399a0a",
@@ -485,7 +547,7 @@
     {
       "id": "ff0d9f9cd366f2b8",
       "title": "Facturation électronique : Votre agence immobilière est-elle en règle depuis 1er septembre ?",
-      "summary": "Vie Pro",
+      "summary": "Facturation électronique : Votre agence immobilière est-elle en règle depuis 1er septembre ?",
       "url": "https://www.mysweetimmo.com/2026/08/26/facturation-electronique-votre-agence-immobiliere-est-elle-prete-pour-le-1er-septembre/",
       "source": "MySweetImmo",
       "source_level": "C",
