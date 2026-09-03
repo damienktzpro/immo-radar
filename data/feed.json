@@ -1,11 +1,31 @@
 {
-  "generated_at": "2026-09-02T21:06:53+00:00",
+  "generated_at": "2026-09-03T04:38:19+00:00",
   "version": "7.1",
   "items": [
     {
+      "id": "87d3ac5361f7137e",
+      "title": "Copropriétés françaises : et si on s’inspirait de la gestion des syndics nordiques ?",
+      "summary": "Le 03/09/2026 à 06H31 Peut-on vraiment décrocher de l’immobilier pendant les vacances ? Visiblement pas. En tout cas pour Olivier Brane, avocat honoraire spécialiste en droit immobilier. Parti chercher la fraîcheur dans le Nord de l’Europe, il en a profité pour regarder de près comment Néerlandais, Finlandais, Estoniens et Lettons organisent leurs copropriétés. Gouvernance, rôle du syndic, numérique, formation… Une carte posta",
+      "url": "https://www.journaldelagence.com/1413351-coproprietes-francaises-et-si-on-sinspirait-de-la-gestion-des-syndics-nordiques",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Copropriétés françaises : et si on s’inspirait de la gestion des syndics nordiques ?."
+    },
+    {
       "id": "c25e26cdfcc1915c",
       "title": "Logement neuf : Cogedim promet 26 °C même par 40 °C",
-      "summary": "Nouveau Neuf",
+      "summary": "Neuf",
       "url": "https://www.mysweetimmo.com/2026/09/02/logement-neuf-cogedim-promet-26-c-meme-par-40-c/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -26,7 +46,7 @@
     {
       "id": "fee9f4019584666e",
       "title": "Immobilier : 60 % des notaires constatent des prix en baisse",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/09/02/baisse-prix-immobiliers-notaires-automne-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -47,7 +67,7 @@
     {
       "id": "e7afbe3f42c6e529",
       "title": "Immobilier : leboncoin lance son premier TEDx sur « Habiter le monde qui vient",
-      "summary": "Nouveau Vie Pro »",
+      "summary": "Vie Pro »",
       "url": "https://www.mysweetimmo.com/2026/09/02/immobilier-leboncoin-lance-son-premier-tedx-sur-habiter-le-monde-qui-vient/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -68,7 +88,7 @@
     {
       "id": "ac0a2c0c37c1a8cd",
       "title": "Stéphane Plaza Immobilier et We Invest : deux réseaux désormais réunis au sein de WIF Group",
-      "summary": "Le 02/09/2026 à 10H00 Moins de deux ans après sa création, WIF Group franchit une nouvelle étape de son développement avec l’arrivée du réseau Stéphane Plaza Immobilier. Le groupe réunit désormais deux marques, We Invest et Stéphane Plaza Immobilier, représentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Le marché immobilier résiste, la reprise se heurte encore à des prix trop élevés Le 02/09/2026",
+      "summary": "de la Baltique qui invite nous à regarder notre modèle français d’un œil neuf. Le 02/09/2026 à 10H00 Moins de deux ans après sa création, WIF Group franchit une nouvelle étape de son développement avec l’arrivée du réseau Stéphane Plaza Immobilier. Le groupe réunit désormais deux marques, We Invest et Stéphane Plaza Immobilier, représentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Le marché immob",
       "url": "https://www.journaldelagence.com/1413344-stephane-plaza-immobilier-et-we-invest-deux-reseaux-desormais-reunis-au-sein-de-wif-group",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -710,26 +730,6 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Choisir un locataire sans discriminer : les réflexes à adopter en agence."
-    },
-    {
-      "id": "e7218a3ddaae4ef8",
-      "title": "Comment se réapproprier le marketing de proximité ?",
-      "summary": "ues et leurs critères que les professionnels peuvent sécuriser leurs décisions. Le 25/08/2026 à 07H02 Depuis l’entrée en vigueur le 11 août de l’interdiction du démarchage téléphonique non sollicité, les professionnels de l’immobilier sont contraints de repenser en profondeur leur approche commerciale. Fini le temps où le volume d’appels tenait lieu de stratégie marketing, place désormais à une nouvelle ère : celle du marketi",
-      "url": "https://www.journaldelagence.com/1413211-comment-se-reapproprier-le-marketing-de-proximite",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-08-25T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Comment se réapproprier le marketing de proximité ?."
     },
     {
       "id": "7c7bbb3a9cfb07e1",
@@ -1444,8 +1444,8 @@
     }
   ],
   "source_stats": {
-    "MySweetImmo": 16,
     "Journal de l'Agence": 16,
+    "MySweetImmo": 16,
     "Immobilier 2.0": 15,
     "SDES / Sitadel": 1,
     "Batiactu": 5,
@@ -1461,14 +1461,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 69,
-    "rejected": 1024,
+    "rejected": 1040,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-02T21:06:15+00:00",
+        "last_success": "2026-09-03T04:37:41+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1476,7 +1476,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-02T21:06:18+00:00",
+        "last_success": "2026-09-03T04:37:46+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1484,7 +1484,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-02T21:06:19+00:00",
+        "last_success": "2026-09-03T04:37:46+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1492,7 +1492,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-02T21:06:21+00:00",
+        "last_success": "2026-09-03T04:37:48+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1500,7 +1500,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-02T21:06:38+00:00",
+        "last_success": "2026-09-03T04:38:04+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1508,7 +1508,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-02T21:06:44+00:00",
+        "last_success": "2026-09-03T04:38:11+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1516,7 +1516,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-02T21:06:44+00:00",
+        "last_success": "2026-09-03T04:38:11+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1524,7 +1524,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-02T21:06:45+00:00",
+        "last_success": "2026-09-03T04:38:12+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1532,7 +1532,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-02T21:06:46+00:00",
+        "last_success": "2026-09-03T04:38:13+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1540,7 +1540,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-02T21:06:47+00:00",
+        "last_success": "2026-09-03T04:38:14+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1548,7 +1548,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-02T21:06:49+00:00",
+        "last_success": "2026-09-03T04:38:15+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1556,7 +1556,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-02T21:06:50+00:00",
+        "last_success": "2026-09-03T04:38:16+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1564,7 +1564,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-09-02T21:06:51+00:00",
+        "last_success": "2026-09-03T04:38:17+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1572,7 +1572,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-09-02T21:06:52+00:00",
+        "last_success": "2026-09-03T04:38:18+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1580,7 +1580,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-02T21:06:53+00:00",
+        "last_success": "2026-09-03T04:38:18+00:00",
         "fallback": false
       }
     }
