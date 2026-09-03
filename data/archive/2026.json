@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-03T11:21:17+00:00",
+  "generated_at": "2026-09-03T16:30:03+00:00",
   "items": [
     {
       "id": "65ddedab971bab63",
@@ -68,7 +68,7 @@
     {
       "id": "c3a9be7960bf7657",
       "title": "Immobilier : une reprise trop fragile pour relancer durablement le marché",
-      "summary": "Le 03/09/2026 à 12H39 Le marché immobilier tient, mais il ne redémarre pas franchement. Lors de sa conférence de presse de rentrée, SeLoger et MeilleursAgents ont dressé le bilan d’une année 2026 marquée par le plafonnement de l’ancien, l’enlisement du neuf et des tensions locatives toujours fortes. Décryptage. 45 000 euros en moyenne : l’aide familiale, un accélérateur d’accession à la propriété Le 03/09/2026 à 07H07 Donation",
+      "summary": "Le 03/09/2026 à 12H39 Le marché immobilier tient, mais ne redémarre toujours pas franchement. Lors de leur conférence de presse de rentrée, SeLoger et MeilleursAgents ont dressé le bilan d’une année 2026 marquée par le plafonnement de l’ancien, l’enlisement du neuf et des tensions locatives toujours aussi fortes. Transactions, prix, pouvoir d’achat, loyers : chiffres à l’appui, décryptage d’une reprise encore bien fragile. 45",
       "url": "https://www.journaldelagence.com/1413379-immobilier-une-reprise-trop-fragile-pour-relancer-durablement-le-marche",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -84,12 +84,12 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : une reprise trop fragile pour relancer durablement le marché."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Immobilier : une reprise trop fragile pour relancer durablement le marché."
     },
     {
       "id": "c645c9e84facee0b",
       "title": "45 000 euros en moyenne : l’aide familiale, un accélérateur d’accession à la propriété",
-      "summary": "en, l’enlisement du neuf et des tensions locatives toujours fortes. Décryptage. Le 03/09/2026 à 07H07 Donation, prêt familial, avance sur héritage… Pour de nombreux primo-accédants, le chemin vers la propriété passe désormais aussi par la famille. Selon le 1er Observatoire Nestenn des trajectoires immobilières, plus d’un sur quatre bénéficie d’un soutien financier, pour une aide moyenne de 45 000 euros. Un coup de pouce loin",
+      "summary": "hat, loyers : chiffres à l’appui, décryptage d’une reprise encore bien fragile. Le 03/09/2026 à 07H07 Donation, prêt familial, avance sur héritage… Pour de nombreux primo-accédants, le chemin vers la propriété passe désormais aussi par la famille. Selon le 1er Observatoire Nestenn des trajectoires immobilières, plus d’un sur quatre bénéficie d’un soutien financier, pour une aide moyenne de 45 000 euros. Un coup de pouce loin",
       "url": "https://www.journaldelagence.com/1413364-45-000-euros-en-moyenne-laide-familiale-un-accelerateur-daccession-a-la-propriete",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -105,12 +105,33 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : 45 000 euros en moyenne : l’aide familiale, un accélérateur d’accession à la propriété."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : 45 000 euros en moyenne : l’aide familiale, un accélérateur d’accession à la propriété."
+    },
+    {
+      "id": "967526c63cb0396a",
+      "title": "Immobilier : Villadim prend le contrôle d’Akabois et mise sur le bois",
+      "summary": "Nouveau Économie et Business",
+      "url": "https://www.mysweetimmo.com/2026/09/03/immobilier-villadim-prend-le-controle-dakabois-et-mise-sur-le-bois/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Villadim prend le contrôle d’Akabois et mise sur le bois."
     },
     {
       "id": "ac0a2c0c37c1a8cd",
       "title": "Stéphane Plaza Immobilier et We Invest : deux réseaux désormais réunis au sein de WIF Group",
-      "summary": "de la Baltique qui invite nous à regarder notre modèle français d’un œil neuf. Le 02/09/2026 à 10H00 Moins de deux ans après sa création, WIF Group franchit une nouvelle étape de son développement avec l’arrivée du réseau Stéphane Plaza Immobilier. Le groupe réunit désormais deux marques, We Invest et Stéphane Plaza Immobilier, représentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Les prix sont-i",
+      "summary": "de la Baltique qui invite nous à regarder notre modèle français d’un œil neuf. Le 02/09/2026 à 10H00 Moins de deux ans après sa création, WIF Group franchit une nouvelle étape de son développement avec l’arrivée du réseau Stéphane Plaza Immobilier. Le groupe réunit désormais deux marques, We Invest et Stéphane Plaza Immobilier, représentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Les prix immobi",
       "url": "https://www.journaldelagence.com/1413344-stephane-plaza-immobilier-et-we-invest-deux-reseaux-desormais-reunis-au-sein-de-wif-group",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -129,9 +150,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Stéphane Plaza Immobilier et We Invest : deux réseaux désormais réunis au sein de WIF Group."
     },
     {
-      "id": "d9c433705cb7abe2",
-      "title": "Les prix sont-ils vraiment responsables de la crise du logement ?",
-      "summary": "ésentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Le 02/09/2026 à 07H13 Les prix sont-ils vraiment responsables de la crise du logement ? C'est la question que soulevait Michel Mouillart il y a quelques jours dans les colonnes du Journal de l'Agence. À l’heure de dresser le bilan de l’été, Orpi apporte sa réponse : pour le réseau, des prix encore trop élevés continuent bel et bien de gripper le m",
+      "id": "f9edd389173ad6d5",
+      "title": "Les prix immobiliers sont-ils déconnectés du marché ?",
+      "summary": "ésentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Le 02/09/2026 à 07H13 Les prix immobiliers sont-ils encore trop élevés ? Bloquent-ils la reprise ? À l’heure de dresser le bilan de l’été, Orpi apporte sa réponse : pour le réseau, des prix encore trop élevés continuent bel et bien de gripper le marché. Zoom sur les principaux enseignements de la dernière note de conjoncture de l’enseigne. Qualité",
       "url": "https://www.journaldelagence.com/1413339-le-marche-immobilier-resiste-mais-la-reprise-se-heurte-encore-a-des-prix-trop-eleves",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -147,7 +168,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Les prix sont-ils vraiment responsables de la crise du logement ?."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Les prix immobiliers sont-ils déconnectés du marché ?."
     },
     {
       "id": "e093c3cb14d5394e",
@@ -193,7 +214,7 @@
     {
       "id": "fee9f4019584666e",
       "title": "Immobilier : 60 % des notaires constatent des prix en baisse",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier : 60 % des notaires constatent des prix en baisse",
       "url": "https://www.mysweetimmo.com/2026/09/02/baisse-prix-immobiliers-notaires-automne-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
