@@ -1,11 +1,95 @@
 {
-  "generated_at": "2026-09-03T04:38:19+00:00",
+  "generated_at": "2026-09-03T11:21:13+00:00",
   "version": "7.1",
   "items": [
     {
-      "id": "87d3ac5361f7137e",
-      "title": "Copropriétés françaises : et si on s’inspirait de la gestion des syndics nordiques ?",
-      "summary": "Le 03/09/2026 à 06H31 Peut-on vraiment décrocher de l’immobilier pendant les vacances ? Visiblement pas. En tout cas pour Olivier Brane, avocat honoraire spécialiste en droit immobilier. Parti chercher la fraîcheur dans le Nord de l’Europe, il en a profité pour regarder de près comment Néerlandais, Finlandais, Estoniens et Lettons organisent leurs copropriétés. Gouvernance, rôle du syndic, numérique, formation… Une carte posta",
+      "id": "65ddedab971bab63",
+      "title": "Votre logement a été touché par un incendie, une tempête ou un autre phénomène climatique ?",
+      "summary": "03 septembre 2026 Vous ne savez pas par où commencer vos démarches ? Le réseau des ADIL est là pour vous accompagner, gratuitement et en toute neutralité.",
+      "url": "https://www.anil.org/actualites-evenements/details/votre-logement-a-ete-touche-par-un-incendie-une-tempete-ou-un-autre-phenomene-climatique/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Votre logement a été touché par un incendie, une tempête ou un autre phénomène climatique ?."
+    },
+    {
+      "id": "ac725a5affb59dff",
+      "title": "Marché immobilier 2026 : La reprise reste inachevée",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/09/03/marche-immobilier-2026-la-reprise-reste-inachevee/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Marché immobilier 2026 : La reprise reste inachevée."
+    },
+    {
+      "id": "c3a9be7960bf7657",
+      "title": "Immobilier : une reprise trop fragile pour relancer durablement le marché",
+      "summary": "Le 03/09/2026 à 12H39 Le marché immobilier tient, mais il ne redémarre pas franchement. Lors de sa conférence de presse de rentrée, SeLoger et MeilleursAgents ont dressé le bilan d’une année 2026 marquée par le plafonnement de l’ancien, l’enlisement du neuf et des tensions locatives toujours fortes. Décryptage. 45 000 euros en moyenne : l’aide familiale, un accélérateur d’accession à la propriété Le 03/09/2026 à 07H07 Donation",
+      "url": "https://www.journaldelagence.com/1413379-immobilier-une-reprise-trop-fragile-pour-relancer-durablement-le-marche",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : une reprise trop fragile pour relancer durablement le marché."
+    },
+    {
+      "id": "c645c9e84facee0b",
+      "title": "45 000 euros en moyenne : l’aide familiale, un accélérateur d’accession à la propriété",
+      "summary": "en, l’enlisement du neuf et des tensions locatives toujours fortes. Décryptage. Le 03/09/2026 à 07H07 Donation, prêt familial, avance sur héritage… Pour de nombreux primo-accédants, le chemin vers la propriété passe désormais aussi par la famille. Selon le 1er Observatoire Nestenn des trajectoires immobilières, plus d’un sur quatre bénéficie d’un soutien financier, pour une aide moyenne de 45 000 euros. Un coup de pouce loin",
+      "url": "https://www.journaldelagence.com/1413364-45-000-euros-en-moyenne-laide-familiale-un-accelerateur-daccession-a-la-propriete",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : 45 000 euros en moyenne : l’aide familiale, un accélérateur d’accession à la propriété."
+    },
+    {
+      "id": "1291b657a9fb6930",
+      "title": "Copropriétés françaises : inspirons-nous de la gestion des syndics nordiques",
+      "summary": "acquéreurs aidés deviennent propriétaires près de dix ans plus tôt en moyenne. Le 03/09/2026 à 06H31 Peut-on vraiment décrocher de l’immobilier pendant les vacances ? Visiblement pas. En tout cas pour Olivier Brane, avocat honoraire spécialiste en droit immobilier. Parti chercher la fraîcheur dans le Nord de l’Europe, il en a profité pour regarder de près comment Néerlandais, Finlandais, Estoniens et Lettons organisent leurs",
       "url": "https://www.journaldelagence.com/1413351-coproprietes-francaises-et-si-on-sinspirait-de-la-gestion-des-syndics-nordiques",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -20,7 +104,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Copropriétés françaises : et si on s’inspirait de la gestion des syndics nordiques ?."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Copropriétés françaises : inspirons-nous de la gestion des syndics nordiques."
     },
     {
       "id": "c25e26cdfcc1915c",
@@ -67,7 +151,7 @@
     {
       "id": "e7afbe3f42c6e529",
       "title": "Immobilier : leboncoin lance son premier TEDx sur « Habiter le monde qui vient",
-      "summary": "Vie Pro »",
+      "summary": "»",
       "url": "https://www.mysweetimmo.com/2026/09/02/immobilier-leboncoin-lance-son-premier-tedx-sur-habiter-le-monde-qui-vient/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -88,7 +172,7 @@
     {
       "id": "ac0a2c0c37c1a8cd",
       "title": "Stéphane Plaza Immobilier et We Invest : deux réseaux désormais réunis au sein de WIF Group",
-      "summary": "de la Baltique qui invite nous à regarder notre modèle français d’un œil neuf. Le 02/09/2026 à 10H00 Moins de deux ans après sa création, WIF Group franchit une nouvelle étape de son développement avec l’arrivée du réseau Stéphane Plaza Immobilier. Le groupe réunit désormais deux marques, We Invest et Stéphane Plaza Immobilier, représentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Le marché immob",
+      "summary": "de la Baltique qui invite nous à regarder notre modèle français d’un œil neuf. Le 02/09/2026 à 10H00 Moins de deux ans après sa création, WIF Group franchit une nouvelle étape de son développement avec l’arrivée du réseau Stéphane Plaza Immobilier. Le groupe réunit désormais deux marques, We Invest et Stéphane Plaza Immobilier, représentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Les prix sont-i",
       "url": "https://www.journaldelagence.com/1413344-stephane-plaza-immobilier-et-we-invest-deux-reseaux-desormais-reunis-au-sein-de-wif-group",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -107,8 +191,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Stéphane Plaza Immobilier et We Invest : deux réseaux désormais réunis au sein de WIF Group."
     },
     {
-      "id": "9227ccf09daa1358",
-      "title": "Le marché immobilier résiste, la reprise se heurte encore à des prix trop élevés",
+      "id": "d9c433705cb7abe2",
+      "title": "Les prix sont-ils vraiment responsables de la crise du logement ?",
       "summary": "ésentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Le 02/09/2026 à 07H13 Les prix sont-ils vraiment responsables de la crise du logement ? C'est la question que soulevait Michel Mouillart il y a quelques jours dans les colonnes du Journal de l'Agence. À l’heure de dresser le bilan de l’été, Orpi apporte sa réponse : pour le réseau, des prix encore trop élevés continuent bel et bien de gripper le m",
       "url": "https://www.journaldelagence.com/1413339-le-marche-immobilier-resiste-mais-la-reprise-se-heurte-encore-a-des-prix-trop-eleves",
       "source": "Journal de l'Agence",
@@ -125,7 +209,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Le marché immobilier résiste, la reprise se heurte encore à des prix trop élevés."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Les prix sont-ils vraiment responsables de la crise du logement ?."
     },
     {
       "id": "e093c3cb14d5394e",
@@ -234,7 +318,7 @@
     {
       "id": "abb1c85815a88585",
       "title": "Amanda : Comment accélérer la vente de son bien dans un marché immobilier plus exigeant ?",
-      "summary": "Dans un marché plus exigeant, vendre rapidement suppose de partir au juste prix, de toucher les bons acquéreurs et de s’appuyer sur une diffusion efficace. Amanda mise notamment sur le partage des mandats exclusifs.",
+      "summary": "Dans un marché plus exigeant, vendre rapidement suppose de partir au juste prix, de toucher les bons acquéreurs et de s’appuyer sur une diffusion efficace. Amanda mise notamment sur le partage des mandats exclusifs. Contenu sponsorisé par amanda",
       "url": "https://www.mysweetimmo.com/2026/09/01/amanda-comment-accelerer-la-vente-de-son-bien-dans-un-marche-immobilier-plus-exigeant/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -670,68 +754,6 @@
       "legal_stage": "jorf"
     },
     {
-      "id": "cce7be701e9b0584",
-      "title": "Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d’euros",
-      "summary": "Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d’euros",
-      "url": "https://www.mysweetimmo.com/2026/08/25/immobilier-provence-1-000-m%c2%b2-et-600-ans-dhistoire-a-vendre-44-millions-deuros/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-25T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Provence : 1 000 m² et 600 ans d’histoire à vendre 4,4 millions d’euros."
-    },
-    {
-      "id": "cb40731a15edc9e3",
-      "title": "Risque sécheresse, consommation, équipements : l’eau, un nouveau critère de valeur pour les biens immobiliers",
-      "summary": "les oublis et disposer d’un relevé exploitable au moment de faire ses comptes. Le 25/08/2026 à 08H17 Restrictions généralisées à l'été 2026, prix de l'eau en hausse durable, extension du zonage argiles depuis le 1er juillet : la question de l'eau s'invite dans les transactions. Points de vigilance à la mise en vente, équipements à valoriser, chiffres à connaître ; tour d'horizon de ce qui change pour les agents immobiliers, e",
-      "url": "https://www.journaldelagence.com/1413222-risque-secheresse-consommation-equipements-leau-un-nouveau-critere-de-valeur-pour-les-biens-immobiliers",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-25T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Risque sécheresse, consommation, équipements : l’eau, un nouveau critère de valeur pour les biens immobiliers."
-    },
-    {
-      "id": "24bc2dcd6683c134",
-      "title": "Choisir un locataire sans discriminer : les réflexes à adopter en agence",
-      "summary": "nts immobiliers, et de ce qui peut devenir un argument. Par Quentin Lagallarde. Le 25/08/2026 à 07H29 Malgré l’obligation de formation des professionnels, les discriminations à la location restent une réalité : selon la campagne de testing 2025 de SOS Racisme, 48 % des 198 agences testées ont accepté ou facilité une discrimination raciale. Un constat qui rappelle que connaître la règle ne suffit pas. De la sélection des dossi",
-      "url": "https://www.journaldelagence.com/1413216-choisir-un-locataire-sans-discriminer-les-reflexes-a-adopter-en-agence",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-08-25T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Choisir un locataire sans discriminer : les réflexes à adopter en agence."
-    },
-    {
       "id": "7c7bbb3a9cfb07e1",
       "title": "Le logement abordable doit être la \"grande politique sociale de la prochaine mandature\"",
       "summary": "En débat 25/08/2026 En débat Logement : le candidat Bruno Retailleau propose un choc d'offre dès 2027",
@@ -1066,27 +1088,6 @@
       "why_it_matters": "Source institutionnelle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Incendies en Nouvelle-Aquitaine : Action Logement met en place un dispositif d'urgence."
     },
     {
-      "id": "091448832a801dbf",
-      "title": "Nouvelle Parole d'expert : mon propriétaire peut-il augmenter mon loyer ?",
-      "summary": "28 juillet 2026 Votre bailleur vous demande de payer un loyer plus conséquent ? L'augmentation du loyer dans le parc locatif privé par un bailleur peut être normale, mais elle est soumise à certaines règles. Alors, pourquoi votre bailleur a décidé d’augmenter le…",
-      "url": "https://www.anil.org/parole-expert-logement-location-bailleur-augmentation-loyer/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "investisseur",
-        "pro",
-        "particulier"
-      ],
-      "published_at": "2026-07-28T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Nouvelle Parole d'expert : mon propriétaire peut-il augmenter mon loyer ?."
-    },
-    {
       "id": "85d6e6d52a91ffec",
       "title": "Belles Demeures : deux nouvelles offres pour garantir une meilleure visibilité aux agences",
       "summary": "28 juillet 2026 - Le portail d’annonces immobilières Belles Demeures propose de nouvelles offres aux agences. En effet, avec Priority et Top Position, les pros de l’immobilier [...]",
@@ -1297,26 +1298,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Communication immobilière : Réservez votre nom de profil sur WhatsApp."
     },
     {
-      "id": "c2d1c4f04da749ff",
-      "title": "Proptech : Rivage lève 1,5 million d’euros pour simplifier la gestion locative",
-      "summary": "14 juillet 2026 - La proptech française Rivage a annoncé une levée de fonds de 1,5 million d’euros. Grâce à ce tour de table mené par Kima Ventures, la jeune pousse souhaite faire de son [...]",
-      "url": "https://immo2.pro/actualite-immobilier/proptech-rivage-leve-15-million-deuros-pour-simplifier-la-gestion-locative/",
-      "source": "Immobilier 2.0",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-07-14T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Proptech : Rivage lève 1,5 million d’euros pour simplifier la gestion locative."
-    },
-    {
       "id": "bbc054ca08d5498f",
       "title": "Préavis du locataire : la remise des clés met-elle fin au paiement des loyers ?",
       "summary": "avec Maître Caroline Dubuis-Talayrach, Olivier Beddeleem et Dominique Piredda. Le 27/08/2026 à 06H30 Clés rendues, état des lieux signé… mais loyers toujours dus ! Dans un arrêt du 4 juin 2026, la Cour de cassation rappelle qu’un départ anticipé ne met pas automatiquement fin aux obligations du locataire pendant son préavis. Une décision à connaître pour les professionnels de la gestion locative, décryptée par Maître Cyril Sa",
@@ -1444,12 +1425,12 @@
     }
   ],
   "source_stats": {
-    "Journal de l'Agence": 16,
+    "ANIL": 10,
     "MySweetImmo": 16,
-    "Immobilier 2.0": 15,
+    "Journal de l'Agence": 16,
+    "Immobilier 2.0": 14,
     "SDES / Sitadel": 1,
     "Batiactu": 5,
-    "ANIL": 10,
     "Légifrance": 1,
     "Insee": 1,
     "EUR-Lex": 1,
@@ -1460,15 +1441,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 69,
-    "rejected": 1040,
+    "retained": 68,
+    "rejected": 1042,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-03T04:37:41+00:00",
+        "last_success": "2026-09-03T11:20:37+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1476,7 +1457,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-03T04:37:46+00:00",
+        "last_success": "2026-09-03T11:20:40+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1484,7 +1465,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-03T04:37:46+00:00",
+        "last_success": "2026-09-03T11:20:41+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1492,7 +1473,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-03T04:37:48+00:00",
+        "last_success": "2026-09-03T11:20:42+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1500,7 +1481,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-03T04:38:04+00:00",
+        "last_success": "2026-09-03T11:20:57+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1508,7 +1489,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-03T04:38:11+00:00",
+        "last_success": "2026-09-03T11:21:05+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1516,7 +1497,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-03T04:38:11+00:00",
+        "last_success": "2026-09-03T11:21:05+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1524,7 +1505,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-03T04:38:12+00:00",
+        "last_success": "2026-09-03T11:21:06+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1532,7 +1513,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-03T04:38:13+00:00",
+        "last_success": "2026-09-03T11:21:06+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1540,7 +1521,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-03T04:38:14+00:00",
+        "last_success": "2026-09-03T11:21:07+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1548,7 +1529,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-03T04:38:15+00:00",
+        "last_success": "2026-09-03T11:21:09+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1556,7 +1537,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-03T04:38:16+00:00",
+        "last_success": "2026-09-03T11:21:10+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1564,15 +1545,15 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-09-03T04:38:17+00:00",
+        "last_success": "2026-09-03T11:21:11+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 15,
-        "last_success": "2026-09-03T04:38:18+00:00",
+        "retained": 14,
+        "last_success": "2026-09-03T11:21:12+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1580,7 +1561,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-03T04:38:18+00:00",
+        "last_success": "2026-09-03T11:21:12+00:00",
         "fallback": false
       }
     }

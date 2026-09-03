@@ -1,12 +1,33 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-03T04:38:22+00:00",
+  "generated_at": "2026-09-03T11:21:17+00:00",
   "items": [
     {
-      "id": "87d3ac5361f7137e",
-      "title": "Copropriétés françaises : et si on s’inspirait de la gestion des syndics nordiques ?",
-      "summary": "Le 03/09/2026 à 06H31 Peut-on vraiment décrocher de l’immobilier pendant les vacances ? Visiblement pas. En tout cas pour Olivier Brane, avocat honoraire spécialiste en droit immobilier. Parti chercher la fraîcheur dans le Nord de l’Europe, il en a profité pour regarder de près comment Néerlandais, Finlandais, Estoniens et Lettons organisent leurs copropriétés. Gouvernance, rôle du syndic, numérique, formation… Une carte posta",
+      "id": "65ddedab971bab63",
+      "title": "Votre logement a été touché par un incendie, une tempête ou un autre phénomène climatique ?",
+      "summary": "03 septembre 2026 Vous ne savez pas par où commencer vos démarches ? Le réseau des ADIL est là pour vous accompagner, gratuitement et en toute neutralité.",
+      "url": "https://www.anil.org/actualites-evenements/details/votre-logement-a-ete-touche-par-un-incendie-une-tempete-ou-un-autre-phenomene-climatique/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Votre logement a été touché par un incendie, une tempête ou un autre phénomène climatique ?."
+    },
+    {
+      "id": "1291b657a9fb6930",
+      "title": "Copropriétés françaises : inspirons-nous de la gestion des syndics nordiques",
+      "summary": "acquéreurs aidés deviennent propriétaires près de dix ans plus tôt en moyenne. Le 03/09/2026 à 06H31 Peut-on vraiment décrocher de l’immobilier pendant les vacances ? Visiblement pas. En tout cas pour Olivier Brane, avocat honoraire spécialiste en droit immobilier. Parti chercher la fraîcheur dans le Nord de l’Europe, il en a profité pour regarder de près comment Néerlandais, Finlandais, Estoniens et Lettons organisent leurs",
       "url": "https://www.journaldelagence.com/1413351-coproprietes-francaises-et-si-on-sinspirait-de-la-gestion-des-syndics-nordiques",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -21,12 +42,75 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Copropriétés françaises : et si on s’inspirait de la gestion des syndics nordiques ?."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Copropriétés françaises : inspirons-nous de la gestion des syndics nordiques."
+    },
+    {
+      "id": "ac725a5affb59dff",
+      "title": "Marché immobilier 2026 : La reprise reste inachevée",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/09/03/marche-immobilier-2026-la-reprise-reste-inachevee/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Marché immobilier 2026 : La reprise reste inachevée."
+    },
+    {
+      "id": "c3a9be7960bf7657",
+      "title": "Immobilier : une reprise trop fragile pour relancer durablement le marché",
+      "summary": "Le 03/09/2026 à 12H39 Le marché immobilier tient, mais il ne redémarre pas franchement. Lors de sa conférence de presse de rentrée, SeLoger et MeilleursAgents ont dressé le bilan d’une année 2026 marquée par le plafonnement de l’ancien, l’enlisement du neuf et des tensions locatives toujours fortes. Décryptage. 45 000 euros en moyenne : l’aide familiale, un accélérateur d’accession à la propriété Le 03/09/2026 à 07H07 Donation",
+      "url": "https://www.journaldelagence.com/1413379-immobilier-une-reprise-trop-fragile-pour-relancer-durablement-le-marche",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : une reprise trop fragile pour relancer durablement le marché."
+    },
+    {
+      "id": "c645c9e84facee0b",
+      "title": "45 000 euros en moyenne : l’aide familiale, un accélérateur d’accession à la propriété",
+      "summary": "en, l’enlisement du neuf et des tensions locatives toujours fortes. Décryptage. Le 03/09/2026 à 07H07 Donation, prêt familial, avance sur héritage… Pour de nombreux primo-accédants, le chemin vers la propriété passe désormais aussi par la famille. Selon le 1er Observatoire Nestenn des trajectoires immobilières, plus d’un sur quatre bénéficie d’un soutien financier, pour une aide moyenne de 45 000 euros. Un coup de pouce loin",
+      "url": "https://www.journaldelagence.com/1413364-45-000-euros-en-moyenne-laide-familiale-un-accelerateur-daccession-a-la-propriete",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : 45 000 euros en moyenne : l’aide familiale, un accélérateur d’accession à la propriété."
     },
     {
       "id": "ac0a2c0c37c1a8cd",
       "title": "Stéphane Plaza Immobilier et We Invest : deux réseaux désormais réunis au sein de WIF Group",
-      "summary": "de la Baltique qui invite nous à regarder notre modèle français d’un œil neuf. Le 02/09/2026 à 10H00 Moins de deux ans après sa création, WIF Group franchit une nouvelle étape de son développement avec l’arrivée du réseau Stéphane Plaza Immobilier. Le groupe réunit désormais deux marques, We Invest et Stéphane Plaza Immobilier, représentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Le marché immob",
+      "summary": "de la Baltique qui invite nous à regarder notre modèle français d’un œil neuf. Le 02/09/2026 à 10H00 Moins de deux ans après sa création, WIF Group franchit une nouvelle étape de son développement avec l’arrivée du réseau Stéphane Plaza Immobilier. Le groupe réunit désormais deux marques, We Invest et Stéphane Plaza Immobilier, représentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Les prix sont-i",
       "url": "https://www.journaldelagence.com/1413344-stephane-plaza-immobilier-et-we-invest-deux-reseaux-desormais-reunis-au-sein-de-wif-group",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -45,8 +129,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Stéphane Plaza Immobilier et We Invest : deux réseaux désormais réunis au sein de WIF Group."
     },
     {
-      "id": "9227ccf09daa1358",
-      "title": "Le marché immobilier résiste, la reprise se heurte encore à des prix trop élevés",
+      "id": "d9c433705cb7abe2",
+      "title": "Les prix sont-ils vraiment responsables de la crise du logement ?",
       "summary": "ésentant au total 140 points de vente et près de 1 000 conseillers immobiliers. Le 02/09/2026 à 07H13 Les prix sont-ils vraiment responsables de la crise du logement ? C'est la question que soulevait Michel Mouillart il y a quelques jours dans les colonnes du Journal de l'Agence. À l’heure de dresser le bilan de l’été, Orpi apporte sa réponse : pour le réseau, des prix encore trop élevés continuent bel et bien de gripper le m",
       "url": "https://www.journaldelagence.com/1413339-le-marche-immobilier-resiste-mais-la-reprise-se-heurte-encore-a-des-prix-trop-eleves",
       "source": "Journal de l'Agence",
@@ -63,7 +147,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Le marché immobilier résiste, la reprise se heurte encore à des prix trop élevés."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Les prix sont-ils vraiment responsables de la crise du logement ?."
     },
     {
       "id": "e093c3cb14d5394e",
@@ -130,7 +214,7 @@
     {
       "id": "e7afbe3f42c6e529",
       "title": "Immobilier : leboncoin lance son premier TEDx sur « Habiter le monde qui vient",
-      "summary": "Vie Pro »",
+      "summary": "»",
       "url": "https://www.mysweetimmo.com/2026/09/02/immobilier-leboncoin-lance-son-premier-tedx-sur-habiter-le-monde-qui-vient/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -214,7 +298,7 @@
     {
       "id": "abb1c85815a88585",
       "title": "Amanda : Comment accélérer la vente de son bien dans un marché immobilier plus exigeant ?",
-      "summary": "Dans un marché plus exigeant, vendre rapidement suppose de partir au juste prix, de toucher les bons acquéreurs et de s’appuyer sur une diffusion efficace. Amanda mise notamment sur le partage des mandats exclusifs.",
+      "summary": "Dans un marché plus exigeant, vendre rapidement suppose de partir au juste prix, de toucher les bons acquéreurs et de s’appuyer sur une diffusion efficace. Amanda mise notamment sur le partage des mandats exclusifs. Contenu sponsorisé par amanda",
       "url": "https://www.mysweetimmo.com/2026/09/01/amanda-comment-accelerer-la-vente-de-son-bien-dans-un-marche-immobilier-plus-exigeant/",
       "source": "MySweetImmo",
       "source_level": "C",
