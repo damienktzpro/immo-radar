@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-03T16:30:03+00:00",
+  "generated_at": "2026-09-03T21:06:21+00:00",
   "items": [
     {
       "id": "65ddedab971bab63",
@@ -47,7 +47,7 @@
     {
       "id": "ac725a5affb59dff",
       "title": "Marché immobilier 2026 : La reprise reste inachevée",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/09/03/marche-immobilier-2026-la-reprise-reste-inachevee/",
       "source": "MySweetImmo",
       "source_level": "C",
