@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-04T16:25:59+00:00",
+  "generated_at": "2026-09-04T20:49:10+00:00",
   "items": [
     {
       "id": "b0c980b2c6365dce",
@@ -26,7 +26,7 @@
     {
       "id": "1b434c6170ec7280",
       "title": "Encadrement des loyers : La FNAIM demande au gouvernement de ne pas le prolonger",
-      "summary": "Nouveau Politique",
+      "summary": "Politique",
       "url": "https://www.mysweetimmo.com/2026/09/04/encadrement-des-loyers-la-fnaim-demande-au-gouvernement-de-ne-pas-le-prolonger/",
       "source": "MySweetImmo",
       "source_level": "C",
