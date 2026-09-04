@@ -1,8 +1,28 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-03T21:06:21+00:00",
+  "generated_at": "2026-09-04T04:40:02+00:00",
   "items": [
+    {
+      "id": "b0c980b2c6365dce",
+      "title": "« Amanda permet aux agences immobilières de multiplier les opportunités de vente",
+      "summary": "» Le 04/09/2026 à 00H00 Dans un marché immobilier plus exigeant, Amanda mise sur la coopération entre professionnels pour accélérer les transactions. Bahi Khoury, son président, revient sur les atouts du mandat exclusif partagé, les outils proposés aux agences et les ambitions de l’association. Immobilier : une reprise trop fragile pour relancer durablement le marché Le 03/09/2026 à 12H39 Le marché immobilier tient, mais ne re",
+      "url": "https://www.journaldelagence.com/1413373-amanda-permet-aux-agences-immobilieres-de-multiplier-les-opportunites-de-vente",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-04T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : « Amanda permet aux agences immobilières de multiplier les opportunités de vente."
+    },
     {
       "id": "65ddedab971bab63",
       "title": "Votre logement a été touché par un incendie, une tempête ou un autre phénomène climatique ?",
@@ -68,7 +88,7 @@
     {
       "id": "c3a9be7960bf7657",
       "title": "Immobilier : une reprise trop fragile pour relancer durablement le marché",
-      "summary": "Le 03/09/2026 à 12H39 Le marché immobilier tient, mais ne redémarre toujours pas franchement. Lors de leur conférence de presse de rentrée, SeLoger et MeilleursAgents ont dressé le bilan d’une année 2026 marquée par le plafonnement de l’ancien, l’enlisement du neuf et des tensions locatives toujours aussi fortes. Transactions, prix, pouvoir d’achat, loyers : chiffres à l’appui, décryptage d’une reprise encore bien fragile. 45",
+      "summary": "sif partagé, les outils proposés aux agences et les ambitions de l’association. Le 03/09/2026 à 12H39 Le marché immobilier tient, mais ne redémarre toujours pas franchement. Lors de leur conférence de presse de rentrée, SeLoger et MeilleursAgents ont dressé le bilan d’une année 2026 marquée par le plafonnement de l’ancien, l’enlisement du neuf et des tensions locatives toujours aussi fortes. Transactions, prix, pouvoir d’acha",
       "url": "https://www.journaldelagence.com/1413379-immobilier-une-reprise-trop-fragile-pour-relancer-durablement-le-marche",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -84,7 +104,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Immobilier : une reprise trop fragile pour relancer durablement le marché."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : une reprise trop fragile pour relancer durablement le marché."
     },
     {
       "id": "c645c9e84facee0b",
@@ -110,7 +130,7 @@
     {
       "id": "967526c63cb0396a",
       "title": "Immobilier : Villadim prend le contrôle d’Akabois et mise sur le bois",
-      "summary": "Nouveau Économie et Business",
+      "summary": "Économie et Business",
       "url": "https://www.mysweetimmo.com/2026/09/03/immobilier-villadim-prend-le-controle-dakabois-et-mise-sur-le-bois/",
       "source": "MySweetImmo",
       "source_level": "C",
