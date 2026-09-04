@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-04T11:24:30+00:00",
+  "generated_at": "2026-09-04T16:25:59+00:00",
   "items": [
     {
       "id": "b0c980b2c6365dce",
@@ -45,8 +45,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Encadrement des loyers : La FNAIM demande au gouvernement de ne pas le prolonger."
     },
     {
-      "id": "62da0c5ec3a11548",
-      "title": "IA : \"Résidences Immobilier accélère sur la Tech\", Nicolas Faure, directeur général",
+      "id": "9e71230ef2ea9004",
+      "title": "IA : « Résidences Immobilier accélère sur la Tech », Nicolas Faure, directeur général",
       "summary": "Nouveau Vie Pro Article sponsorisé",
       "url": "https://www.mysweetimmo.com/2026/09/04/ia-residences-immobilier-accelere-sur-la-tech-nicolas-faure-dg/",
       "source": "MySweetImmo",
@@ -63,7 +63,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : IA : \"Résidences Immobilier accélère sur la Tech\", Nicolas Faure, directeur général."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : IA : « Résidences Immobilier accélère sur la Tech », Nicolas Faure, directeur général."
     },
     {
       "id": "893321344b32106e",
@@ -339,7 +339,7 @@
     {
       "id": "fee9f4019584666e",
       "title": "Immobilier : 60 % des notaires constatent des prix en baisse",
-      "summary": "Immobilier : 60 % des notaires constatent des prix en baisse",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/09/02/baisse-prix-immobiliers-notaires-automne-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -486,7 +486,7 @@
     {
       "id": "b6f985ce399a73c4",
       "title": "Crédit immobilier : Les taux en hausse en septembre",
-      "summary": "Investir / Financer",
+      "summary": "Crédit immobilier : Les taux en hausse en septembre",
       "url": "https://www.mysweetimmo.com/2026/09/01/credit-immobilier-les-taux-en-hausse-en-septembre/",
       "source": "MySweetImmo",
       "source_level": "C",
