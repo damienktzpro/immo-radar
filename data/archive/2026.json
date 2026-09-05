@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-05T04:35:56+00:00",
+  "generated_at": "2026-09-05T10:41:13+00:00",
   "items": [
+    {
+      "id": "3e4eb9fe83b76fdf",
+      "title": "Immobilier : Les data centers, une bulle ? « Exactement l'inverse », répond le patron de Blackstone",
+      "summary": "Nouveau Investir / Financer",
+      "url": "https://www.mysweetimmo.com/2026/09/05/immobilier-les-data-centers-une-bulle-exactement-linverse-repond-le-patron-de-blackstone/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Les data centers, une bulle ? « Exactement l'inverse », répond le patron de Blackstone."
+    },
     {
       "id": "b0c980b2c6365dce",
       "title": "« Amanda permet aux agences immobilières de multiplier les opportunités de vente",
@@ -339,7 +360,7 @@
     {
       "id": "fee9f4019584666e",
       "title": "Immobilier : 60 % des notaires constatent des prix en baisse",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier : 60 % des notaires constatent des prix en baisse",
       "url": "https://www.mysweetimmo.com/2026/09/02/baisse-prix-immobiliers-notaires-automne-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
