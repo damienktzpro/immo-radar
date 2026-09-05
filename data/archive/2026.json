@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-04T20:49:10+00:00",
+  "generated_at": "2026-09-05T04:35:56+00:00",
   "items": [
     {
       "id": "b0c980b2c6365dce",
@@ -47,7 +47,7 @@
     {
       "id": "9e71230ef2ea9004",
       "title": "IA : « Résidences Immobilier accélère sur la Tech », Nicolas Faure, directeur général",
-      "summary": "Nouveau Vie Pro Article sponsorisé",
+      "summary": "Vie Pro Article sponsorisé",
       "url": "https://www.mysweetimmo.com/2026/09/04/ia-residences-immobilier-accelere-sur-la-tech-nicolas-faure-dg/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -3312,11 +3312,11 @@
     {
       "id": "3b2255cb7e8a6f65",
       "title": "Informations Rapides · 28 mai 2026 · n° 130 Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) Indices Notaires-Insee des prix des logements anciens - premier trimestre 2026",
-      "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee false Aller au contenu Aide Thèmes Recherche English Presse Menu Menu Blog Presse Aide English Lancer la recherche sur le site Thèmes Statistiques et études Cherchez vos statistiques par… Thèmes Économie - conjoncture - comptes nationaux Démographie Entreprises Plus de thèmes… Niveaux géographiques France Toutes les régions ou tous les départements Toutes les communes Plus de ni",
+      "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee true false https://www.sphinxonline.com/surveyserver/s/ccpesatisf/EnqUtilisateurs2026/questionnaire.htm 2026-09-06 00:00:00.0 9028126 Votre avis nous intéresse ! Bonjour et bienvenue sur le site de l'Insee Après votre visite , vous pourrez donner votre avis sur le site de l’Insee en répondant à un court questionnaire. En cliquant sur oui, vous aurez accès à l’ onglet Insee.fr et",
       "url": "https://www.insee.fr/fr/statistiques/8995299",
       "source": "Insee",
       "source_level": "A",
-      "category": "territoires",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",

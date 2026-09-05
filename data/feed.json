@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T20:49:06+00:00",
+  "generated_at": "2026-09-05T04:35:53+00:00",
   "version": "7.1",
   "items": [
     {
       "id": "9e71230ef2ea9004",
       "title": "IA : « Résidences Immobilier accélère sur la Tech », Nicolas Faure, directeur général",
-      "summary": "Nouveau Vie Pro Article sponsorisé",
+      "summary": "Vie Pro Article sponsorisé",
       "url": "https://www.mysweetimmo.com/2026/09/04/ia-residences-immobilier-accelere-sur-la-tech-nicolas-faure-dg/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -1301,11 +1301,11 @@
     {
       "id": "3b2255cb7e8a6f65",
       "title": "Informations Rapides · 28 mai 2026 · n° 130 Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) Indices Notaires-Insee des prix des logements anciens - premier trimestre 2026",
-      "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee false Aller au contenu Aide Thèmes Recherche English Presse Menu Menu Blog Presse Aide English Lancer la recherche sur le site Thèmes Statistiques et études Cherchez vos statistiques par… Thèmes Économie - conjoncture - comptes nationaux Démographie Entreprises Plus de thèmes… Niveaux géographiques France Toutes les régions ou tous les départements Toutes les communes Plus de ni",
+      "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee true false https://www.sphinxonline.com/surveyserver/s/ccpesatisf/EnqUtilisateurs2026/questionnaire.htm 2026-09-06 00:00:00.0 9028126 Votre avis nous intéresse ! Bonjour et bienvenue sur le site de l'Insee Après votre visite , vous pourrez donner votre avis sur le site de l’Insee en répondant à un court questionnaire. En cliquant sur oui, vous aurez accès à l’ onglet Insee.fr et",
       "url": "https://www.insee.fr/fr/statistiques/8995299",
       "source": "Insee",
       "source_level": "A",
-      "category": "territoires",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
@@ -1402,14 +1402,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 66,
-    "rejected": 990,
+    "rejected": 1042,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-04T20:48:13+00:00",
+        "last_success": "2026-09-05T04:35:14+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1417,7 +1417,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-04T20:48:19+00:00",
+        "last_success": "2026-09-05T04:35:18+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1425,7 +1425,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-04T20:48:20+00:00",
+        "last_success": "2026-09-05T04:35:19+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1433,7 +1433,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-04T20:48:22+00:00",
+        "last_success": "2026-09-05T04:35:20+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1441,7 +1441,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-04T20:48:45+00:00",
+        "last_success": "2026-09-05T04:35:37+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1449,7 +1449,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-04T20:48:55+00:00",
+        "last_success": "2026-09-05T04:35:45+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1457,7 +1457,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-04T20:48:55+00:00",
+        "last_success": "2026-09-05T04:35:45+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1465,7 +1465,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-04T20:48:57+00:00",
+        "last_success": "2026-09-05T04:35:46+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1473,7 +1473,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-04T20:48:57+00:00",
+        "last_success": "2026-09-05T04:35:47+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1481,7 +1481,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-04T20:48:59+00:00",
+        "last_success": "2026-09-05T04:35:48+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1489,7 +1489,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-04T20:49:00+00:00",
+        "last_success": "2026-09-05T04:35:49+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1497,7 +1497,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-04T20:49:02+00:00",
+        "last_success": "2026-09-05T04:35:50+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1505,7 +1505,7 @@
         "ok": true,
         "status": "ok",
         "retained": 4,
-        "last_success": "2026-09-04T20:49:04+00:00",
+        "last_success": "2026-09-05T04:35:51+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1513,7 +1513,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-09-04T20:49:05+00:00",
+        "last_success": "2026-09-05T04:35:52+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1521,7 +1521,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-04T20:49:05+00:00",
+        "last_success": "2026-09-05T04:35:52+00:00",
         "fallback": false
       }
     }
