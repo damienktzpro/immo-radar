@@ -1,11 +1,74 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-07T04:49:01+00:00",
+  "generated_at": "2026-09-07T12:41:40+00:00",
   "items": [
     {
-      "id": "3e4eb9fe83b76fdf",
-      "title": "Immobilier : Les data centers, une bulle ? « Exactement l'inverse », répond le patron de Blackstone",
+      "id": "41c2cf6039c942db",
+      "title": "Pourquoi la chasse immobilière devient un maillon essentiel de la transaction",
+      "summary": "Agent immobilier, courtier, notaire : la transaction mobilise de nombreux professionnels. L’acquéreur, lui, reste souvent seul pour chercher et choisir son bien. Le chasseur immobilier comble ce vide et peut aussi aider les agences à mieux qualifier leurs acheteurs et à concrétiser davantage de ventes. Les explications d’Hugo Kramer, dirigeant de Je Rêve d’une Maison. Contenu sponsorisé par Je rêve d'une Maison",
+      "url": "https://www.mysweetimmo.com/2026/09/07/pourquoi-la-chasse-immobiliere-devient-un-maillon-essentiel-de-la-transaction/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-07T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Pourquoi la chasse immobilière devient un maillon essentiel de la transaction."
+    },
+    {
+      "id": "5060720f5319cce2",
+      "title": "Fiscalité immobilière 2026 : les nouvelles mesures que les professionnels doivent retenir",
+      "summary": "Le 07/09/2026 à 10H36 La donne fiscale change pour l’immobilier en 2026. Hausse de certains prélèvements sociaux, nouvelles règles pour la location meublée, apport-cession resserré, création du statut du bailleur privé… Autant d’évolutions qui peuvent peser sur les stratégies patrimoniales et d’investissement. Stéphane Buffa fait le point sur les principales mesures à connaître pour mieux accompagner vos clients. Olivier Salle",
+      "url": "https://www.journaldelagence.com/1413429-fiscalite-immobiliere-2026-les-nouvelles-mesures-que-les-professionnels-doivent-retenir",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "investir",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-09-07T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Investir",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Fiscalité immobilière 2026 : les nouvelles mesures que les professionnels doivent retenir."
+    },
+    {
+      "id": "0c1e8093029e8672",
+      "title": "De nouvelles données sur les loyers sont disponibles",
+      "summary": "06 septembre 2026 Les Observatoires locaux des loyers ( OLL ) actualisent annuellement leurs productions statistiques et des résultats 2025 sont désormais disponibles pour les territoires suivants : agglomération de Lorient, de Vannes, d’Auray Quiberon, d’Aix-les-Bains,…",
+      "url": "https://www.observatoires-des-loyers.org/connaitre-les-loyers/carte-des-niveaux-de-loyers",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Territoires",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : De nouvelles données sur les loyers sont disponibles."
+    },
+    {
+      "id": "0b88468604d15b7f",
+      "title": "Immobilier : Les data centers, une bulle ? « Exactement l’inverse », répond le patron de Blackstone",
       "summary": "Investir / Financer",
       "url": "https://www.mysweetimmo.com/2026/09/05/immobilier-les-data-centers-une-bulle-exactement-linverse-repond-le-patron-de-blackstone/",
       "source": "MySweetImmo",
@@ -22,7 +85,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Les data centers, une bulle ? « Exactement l'inverse », répond le patron de Blackstone."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Les data centers, une bulle ? « Exactement l’inverse », répond le patron de Blackstone."
     },
     {
       "id": "b0c980b2c6365dce",
@@ -89,11 +152,11 @@
     {
       "id": "893321344b32106e",
       "title": "Olivier Salleron nommé président de SMABTP",
-      "summary": "Le 04/09/2026 à 11H23 Élu en juin dernier à la tête de SMABTP, Olivier Salleron prend officiellement ses fonctions de président de la mutuelle d’assurance ce 1er septembre 2026. Il succède à Jacques Chanut et devient le 23e président de l’organisation. Crédits immobiliers : la hausse des taux se confirme en septembre Le 04/09/2026 à 06H39 Après plusieurs mois d’accalmie, les taux de crédit immobilier repartent à la hausse. En",
+      "summary": "int sur les principales mesures à connaître pour mieux accompagner vos clients. Le 04/09/2026 à 11H23 Élu en juin dernier à la tête de SMABTP, Olivier Salleron prend officiellement ses fonctions de président de la mutuelle d’assurance ce 1er septembre 2026. Il succède à Jacques Chanut et devient le 23e président de l’organisation. Crédits immobiliers : la hausse des taux se confirme en septembre Le 04/09/2026 à 06H39 Après pl",
       "url": "https://www.journaldelagence.com/1413418-olivier-salleron-nomme-president-de-smabtp",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "credit",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
@@ -104,7 +167,7 @@
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Credit",
+      "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Olivier Salleron nommé président de SMABTP."
     },
     {
@@ -444,7 +507,7 @@
     {
       "id": "ef5f7f4454aa7c76",
       "title": "Immobilier : Il faut désormais 110 jours pour vendre son bien selon Orpi",
-      "summary": "Vente",
+      "summary": "Immobilier : Il faut désormais 110 jours pour vendre son bien selon Orpi",
       "url": "https://www.mysweetimmo.com/2026/09/01/immobilier-il-faut-desormais-110-jours-pour-vendre-son-bien-selon-orpi/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -460,7 +523,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Il faut désormais 110 jours pour vendre son bien selon Orpi."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Il faut désormais 110 jours pour vendre son bien selon Orpi."
     },
     {
       "id": "1065cdff76c644e5",
@@ -2241,27 +2304,6 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels."
-    },
-    {
-      "id": "0c1e8093029e8672",
-      "title": "De nouvelles données sur les loyers sont disponibles",
-      "summary": "04 août 2026 Les Observatoires locaux des loyers ( OLL ) actualisent annuellement leurs productions statistiques et des résultats 2025 sont désormais disponibles pour les territoires suivants : agglomération de Lorient, de Vannes, d’Auray Quiberon, d’Aix-les-Bains,…",
-      "url": "https://www.observatoires-des-loyers.org/connaitre-les-loyers/carte-des-niveaux-de-loyers",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "territoires",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-04T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Territoires",
-      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : De nouvelles données sur les loyers sont disponibles."
     },
     {
       "id": "7136582c4b1bb040",
