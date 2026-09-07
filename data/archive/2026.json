@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-07T12:41:40+00:00",
+  "generated_at": "2026-09-07T21:34:17+00:00",
   "items": [
     {
       "id": "41c2cf6039c942db",
@@ -44,6 +44,48 @@
       "territory": "France",
       "topic": "Investir",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Fiscalité immobilière 2026 : les nouvelles mesures que les professionnels doivent retenir."
+    },
+    {
+      "id": "20ef9b32fca507e3",
+      "title": "Immobilier : Omny fait entrer toute la recherche de logement dans ChatGPT",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/09/07/immobilier-cherchez-votre-logement-sans-quitter-chatgpt/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-07T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Omny fait entrer toute la recherche de logement dans ChatGPT."
+    },
+    {
+      "id": "7453ed74b3536dd0",
+      "title": "DPE 2027 : changement de statut pour 300 000 passoires thermiques",
+      "summary": "7 septembre 2026 - À partir du 1er janvier 2027, le gouvernement français va apporter une modification au calcul du diagnostic de performance énergétique (DPE). En effet, un changement au [...]",
+      "url": "https://immo2.pro/actualite-immobilier/dpe-2027-changement-de-statut-pour-300-000-passoires-thermiques/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-07T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : DPE 2027 : changement de statut pour 300 000 passoires thermiques."
     },
     {
       "id": "0c1e8093029e8672",
@@ -402,7 +444,7 @@
     {
       "id": "c25e26cdfcc1915c",
       "title": "Logement neuf : Cogedim promet 26 °C même par 40 °C",
-      "summary": "Neuf",
+      "summary": "Logement neuf : Cogedim promet 26 °C même par 40 °C",
       "url": "https://www.mysweetimmo.com/2026/09/02/logement-neuf-cogedim-promet-26-c-meme-par-40-c/",
       "source": "MySweetImmo",
       "source_level": "C",
