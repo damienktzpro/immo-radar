@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-07T21:34:17+00:00",
+  "generated_at": "2026-09-08T04:44:37+00:00",
   "items": [
     {
       "id": "41c2cf6039c942db",
@@ -48,7 +48,7 @@
     {
       "id": "20ef9b32fca507e3",
       "title": "Immobilier : Omny fait entrer toute la recherche de logement dans ChatGPT",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/09/07/immobilier-cherchez-votre-logement-sans-quitter-chatgpt/",
       "source": "MySweetImmo",
       "source_level": "C",
