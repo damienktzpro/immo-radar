@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-08T11:25:21+00:00",
+  "generated_at": "2026-09-08T16:42:21+00:00",
   "items": [
+    {
+      "id": "7fc49254b3b4fd88",
+      "title": "Nouvelle Parole d'expert : Carnet d'information du logement : comment CLÉA vous aide à mieux gérer votre logement",
+      "summary": "08 septembre 2026 Plans, diagnostics, factures, notices des équipements... Au fil des années, les documents liés à un logement s'accumulent et il devient difficile de tout retrouver. Développé par QUALITEL, CLÉA est une solution numérique qui permet de créer et gérer…",
+      "url": "https://www.anil.org/parole-expert-logement-habiter-vie-pratique/carnet-dinformation-du-logement-comment-clea-vous-aide-a-mieux-gerer-votre-logement/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Nouvelle Parole d'expert : Carnet d'information du logement : comment CLÉA vous aide à mieux gérer votre logement."
+    },
     {
       "id": "958b724776d97869",
       "title": "Immobilier en Île-de-France : Les ventes repartent de 10 % mais les notaires ne parlent pas encore de reprise",
@@ -64,6 +85,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Proptech : Danim lance sa nouvelle plateforme marketing pour les agents immobiliers."
+    },
+    {
+      "id": "8916e2498f03acc3",
+      "title": "Projet de loi logement : ce que Vincent Jeanbrun veut changer",
+      "summary": "Le 08/09/2026 à 17H46 Relancer la construction, remettre des logements sur le marché, réarmer l’investissement locatif, donner davantage de pouvoirs aux élus locaux… Face à une crise du logement qu’il qualifie de « majeure », Vincent Jeanbrun veut « changer les règles du jeu ». Devant les Notaires du Grand Paris, ce 8 septembre, le ministre de la Ville et du Logement a détaillé les principaux axes de son projet de loi « Relanc",
+      "url": "https://www.journaldelagence.com/1413478-projet-de-loi-logement-ce-que-vincent-jeanbrun-veut-changer",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Projet de loi logement : ce que Vincent Jeanbrun veut changer."
     },
     {
       "id": "41c2cf6039c942db",

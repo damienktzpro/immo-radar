@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-09-08T11:25:17+00:00",
+  "generated_at": "2026-09-08T16:42:17+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "7fc49254b3b4fd88",
+      "title": "Nouvelle Parole d'expert : Carnet d'information du logement : comment CLÉA vous aide à mieux gérer votre logement",
+      "summary": "08 septembre 2026 Plans, diagnostics, factures, notices des équipements... Au fil des années, les documents liés à un logement s'accumulent et il devient difficile de tout retrouver. Développé par QUALITEL, CLÉA est une solution numérique qui permet de créer et gérer…",
+      "url": "https://www.anil.org/parole-expert-logement-habiter-vie-pratique/carnet-dinformation-du-logement-comment-clea-vous-aide-a-mieux-gerer-votre-logement/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Nouvelle Parole d'expert : Carnet d'information du logement : comment CLÉA vous aide à mieux gérer votre logement."
+    },
     {
       "id": "958b724776d97869",
       "title": "Immobilier en Île-de-France : Les ventes repartent de 10 % mais les notaires ne parlent pas encore de reprise",
@@ -43,6 +64,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier d'entreprise : La reprise qui n’en est pas une."
+    },
+    {
+      "id": "8916e2498f03acc3",
+      "title": "Projet de loi logement : ce que Vincent Jeanbrun veut changer",
+      "summary": "Le 08/09/2026 à 17H46 Relancer la construction, remettre des logements sur le marché, réarmer l’investissement locatif, donner davantage de pouvoirs aux élus locaux… Face à une crise du logement qu’il qualifie de « majeure », Vincent Jeanbrun veut « changer les règles du jeu ». Devant les Notaires du Grand Paris, ce 8 septembre, le ministre de la Ville et du Logement a détaillé les principaux axes de son projet de loi « Relanc",
+      "url": "https://www.journaldelagence.com/1413478-projet-de-loi-logement-ce-que-vincent-jeanbrun-veut-changer",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Projet de loi logement : ce que Vincent Jeanbrun veut changer."
     },
     {
       "id": "8b26ebd2e95f9283",
@@ -858,27 +900,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : DPE : un arrêté acte un nouveau coup de pouce aux logements chauffés à l'électrique dès 2027."
     },
     {
-      "id": "7c7bbb3a9cfb07e1",
-      "title": "Le logement abordable doit être la \"grande politique sociale de la prochaine mandature\"",
-      "summary": "En débat 25/08/2026 En débat Logement : le candidat Bruno Retailleau propose un choc d'offre dès 2027",
-      "url": "https://www.batiactu.com/edito/bruno-maire-le-logement-abordable-doit-etre-grande-75139.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-25T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le logement abordable doit être la \"grande politique sociale de la prochaine mandature\"."
-    },
-    {
       "id": "ec323fee403f01dc",
       "title": "Mon locataire se plaint du bruit d'un autre locataire. Comment faire ?",
       "summary": "21 août 2026 Un propriétaire bailleur peut être sollicité lorsqu'un locataire subit des troubles de voisinage.",
@@ -1004,27 +1025,6 @@
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Nouvelle Parole d'expert : Ma maison se fissure : puis-je bénéficier du Fonds de prévention argile ?."
     },
     {
-      "id": "c4cfa5e9bb863ccc",
-      "title": "DPE 2027 : les évolutions au 1er janvier sont connues",
-      "summary": "e le plus aux mandats de vente : un acquéreur décidé, financé et prêt à signer. Le 27/08/2026 à 08H01 L’été 2026 aura été riche en évolutions pour le DPE. Deux arrêtés le modifieront dès le 1er janvier 2027 : l’électricité sera une nouvelle fois favorisée dans le calcul et les logements les plus décarbonés seront mieux identifiés. Les professionnels de l’immobilier peuvent dès aujourd’hui anticiper l’impact sur le DPE de leur",
-      "url": "https://www.journaldelagence.com/1413279-dpe-2027-les-evolutions-au-1er-janvier-2027-sont-connues",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-11T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : DPE 2027 : les évolutions au 1er janvier sont connues."
-    },
-    {
       "id": "bdf8a551019bd962",
       "title": "Licenciement chez Zillow : départ de plus de 500 employés",
       "summary": "10 août 2026 - Une vague de licenciements s’est produite chez Zillow. En effet, le portail immobilier américain a renvoyé plus de 500 employés. Soit un licenciement d’environ 7 % [...]",
@@ -1127,27 +1127,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Louer à un travailleur saisonnier : sécurisez votre location avec la garantie Visale."
-    },
-    {
-      "id": "49fec611d31a12ca",
-      "title": "Incendies en Nouvelle-Aquitaine : Action Logement met en place un dispositif d'urgence",
-      "summary": "29 juillet 2026 À la suite des incendies qui ont durement touché la Nouvelle-Aquitaine, notamment la Gironde et les Landes, Action Logement déploie des mesures exceptionnelles pour accompagner les salariés dont le logement a été endommagé ou est devenu inhabitable.",
-      "url": "https://www.anil.org/actualites-evenements/details/incendies-en-nouvelle-aquitaine-action-logement-met-en-place-un-dispositif-durgence/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-29T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 85,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source institutionnelle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Incendies en Nouvelle-Aquitaine : Action Logement met en place un dispositif d'urgence."
     },
     {
       "id": "85d6e6d52a91ffec",
@@ -1383,11 +1362,11 @@
     }
   ],
   "source_stats": {
-    "MySweetImmo": 16,
-    "Immobilier 2.0": 14,
-    "Journal de l'Agence": 16,
     "ANIL": 10,
-    "Batiactu": 4,
+    "MySweetImmo": 16,
+    "Journal de l'Agence": 16,
+    "Immobilier 2.0": 14,
+    "Batiactu": 3,
     "SDES / Sitadel": 1,
     "Insee": 1,
     "EUR-Lex": 1,
@@ -1398,15 +1377,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 66,
-    "rejected": 995,
+    "retained": 65,
+    "rejected": 994,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-08T11:24:23+00:00",
+        "last_success": "2026-09-08T16:41:27+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1414,7 +1393,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-08T11:24:27+00:00",
+        "last_success": "2026-09-08T16:41:32+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1422,7 +1401,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-08T11:24:28+00:00",
+        "last_success": "2026-09-08T16:41:32+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1430,7 +1409,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-08T11:24:30+00:00",
+        "last_success": "2026-09-08T16:41:34+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1438,7 +1417,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-08T11:24:56+00:00",
+        "last_success": "2026-09-08T16:41:55+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1446,7 +1425,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-08T11:25:07+00:00",
+        "last_success": "2026-09-08T16:42:06+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1454,7 +1433,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-08T11:25:07+00:00",
+        "last_success": "2026-09-08T16:42:06+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1462,7 +1441,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-08T11:25:08+00:00",
+        "last_success": "2026-09-08T16:42:07+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1470,7 +1449,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-08T11:25:09+00:00",
+        "last_success": "2026-09-08T16:42:07+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1478,7 +1457,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-08T11:25:10+00:00",
+        "last_success": "2026-09-08T16:42:09+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1486,7 +1465,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-08T11:25:12+00:00",
+        "last_success": "2026-09-08T16:42:11+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1494,15 +1473,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-08T11:25:13+00:00",
+        "last_success": "2026-09-08T16:42:12+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 4,
-        "last_success": "2026-09-08T11:25:15+00:00",
+        "retained": 3,
+        "last_success": "2026-09-08T16:42:13+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1510,7 +1489,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-09-08T11:25:16+00:00",
+        "last_success": "2026-09-08T16:42:15+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1518,7 +1497,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-08T11:25:17+00:00",
+        "last_success": "2026-09-08T16:42:16+00:00",
         "fallback": false
       }
     }
