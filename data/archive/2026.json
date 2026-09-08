@@ -1,8 +1,70 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-08T04:44:37+00:00",
+  "generated_at": "2026-09-08T11:25:21+00:00",
   "items": [
+    {
+      "id": "958b724776d97869",
+      "title": "Immobilier en Île-de-France : Les ventes repartent de 10 % mais les notaires ne parlent pas encore de reprise",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/09/08/immobilier-en-ile-de-france-les-ventes-repartent-de-10-les-prix-restent-stables/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier en Île-de-France : Les ventes repartent de 10 % mais les notaires ne parlent pas encore de reprise."
+    },
+    {
+      "id": "fd1410b00eee60db",
+      "title": "Immobilier d'entreprise : La reprise qui n’en est pas une",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/09/08/immobilier-dentreprise-la-reprise-qui-nen-est-pas-une/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier d'entreprise : La reprise qui n’en est pas une."
+    },
+    {
+      "id": "8b26ebd2e95f9283",
+      "title": "Proptech : Danim lance sa nouvelle plateforme marketing pour les agents immobiliers",
+      "summary": "8 septembre 2026 - La proptech française Danim a lancé Danim 2, une refonte complète de sa plateforme de marketing digital. Dédiée aux pros de l’immobilier, elle permet entre autres la [...]",
+      "url": "https://immo2.pro/actualite-immobilier/proptech-danim-lance-sa-nouvelle-plateforme-marketing-pour-les-agents-immobiliers/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Proptech : Danim lance sa nouvelle plateforme marketing pour les agents immobiliers."
+    },
     {
       "id": "41c2cf6039c942db",
       "title": "Pourquoi la chasse immobilière devient un maillon essentiel de la transaction",
@@ -27,7 +89,7 @@
     {
       "id": "5060720f5319cce2",
       "title": "Fiscalité immobilière 2026 : les nouvelles mesures que les professionnels doivent retenir",
-      "summary": "Le 07/09/2026 à 10H36 La donne fiscale change pour l’immobilier en 2026. Hausse de certains prélèvements sociaux, nouvelles règles pour la location meublée, apport-cession resserré, création du statut du bailleur privé… Autant d’évolutions qui peuvent peser sur les stratégies patrimoniales et d’investissement. Stéphane Buffa fait le point sur les principales mesures à connaître pour mieux accompagner vos clients. Olivier Salle",
+      "summary": "ontres, de débats et de formations autour des transformations de leurs métiers. Le 07/09/2026 à 10H36 La donne fiscale change pour l’immobilier en 2026. Hausse de certains prélèvements sociaux, nouvelles règles pour la location meublée, apport-cession resserré, création du statut du bailleur privé… Autant d’évolutions qui peuvent peser sur les stratégies patrimoniales et d’investissement. Stéphane Buffa fait le point sur les",
       "url": "https://www.journaldelagence.com/1413429-fiscalite-immobiliere-2026-les-nouvelles-mesures-que-les-professionnels-doivent-retenir",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -340,7 +402,7 @@
     {
       "id": "967526c63cb0396a",
       "title": "Immobilier : Villadim prend le contrôle d’Akabois et mise sur le bois",
-      "summary": "Économie et Business",
+      "summary": "Immobilier : Villadim prend le contrôle d’Akabois et mise sur le bois",
       "url": "https://www.mysweetimmo.com/2026/09/03/immobilier-villadim-prend-le-controle-dakabois-et-mise-sur-le-bois/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -717,7 +779,7 @@
     {
       "id": "a1784dddb669e401",
       "title": "Réseau immobilier : Stéphane Plaza Immobilier rejoint WIF, le groupe de Xavier Belvaux",
-      "summary": "Vie Pro",
+      "summary": "Réseau immobilier : Stéphane Plaza Immobilier rejoint WIF, le groupe de Xavier Belvaux",
       "url": "https://www.mysweetimmo.com/2026/09/01/reseau-immobilier-stephane-plaza-immobilier-rejoint-we-invest-france-group/",
       "source": "MySweetImmo",
       "source_level": "C",
