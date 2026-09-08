@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-08T16:42:21+00:00",
+  "generated_at": "2026-09-08T21:13:47+00:00",
   "items": [
     {
       "id": "7fc49254b3b4fd88",
@@ -27,7 +27,7 @@
     {
       "id": "958b724776d97869",
       "title": "Immobilier en Île-de-France : Les ventes repartent de 10 % mais les notaires ne parlent pas encore de reprise",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/09/08/immobilier-en-ile-de-france-les-ventes-repartent-de-10-les-prix-restent-stables/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -48,7 +48,7 @@
     {
       "id": "fd1410b00eee60db",
       "title": "Immobilier d'entreprise : La reprise qui n’en est pas une",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/09/08/immobilier-dentreprise-la-reprise-qui-nen-est-pas-une/",
       "source": "MySweetImmo",
       "source_level": "C",
