@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T16:43:07+00:00",
+  "generated_at": "2026-09-09T20:58:57+00:00",
   "version": "7.1",
   "items": [
     {
       "id": "2de8efd58fa2cae8",
       "title": "Logement : 91 % des Français considèrent qu’il est plus difficile de se loger qu’il y a dix ans",
-      "summary": "Nouveau Société",
+      "summary": "Société",
       "url": "https://www.mysweetimmo.com/2026/09/09/logement-91-des-francais-considerent-quil-est-plus-difficile-de-se-loger-quil-y-a-dix-ans/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -253,8 +253,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Omny fait entrer toute la recherche de logement dans ChatGPT."
     },
     {
-      "id": "5060720f5319cce2",
-      "title": "Fiscalité immobilière 2026 : les nouvelles mesures que les professionnels doivent retenir",
+      "id": "3c51c68978618072",
+      "title": "Fiscalité immobilière 2026 : les mesures que les professionnels doivent retenir",
       "summary": "ontres, de débats et de formations autour des transformations de leurs métiers. Le 07/09/2026 à 10H36 La donne fiscale change pour l’immobilier en 2026. Hausse de certains prélèvements sociaux, nouvelles règles pour la location meublée, apport-cession resserré, création du statut du bailleur privé… Autant d’évolutions qui peuvent peser sur les stratégies patrimoniales et d’investissement. Stéphane Buffa fait le point sur les",
       "url": "https://www.journaldelagence.com/1413429-fiscalite-immobiliere-2026-les-nouvelles-mesures-que-les-professionnels-doivent-retenir",
       "source": "Journal de l'Agence",
@@ -271,7 +271,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Investir",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Fiscalité immobilière 2026 : les nouvelles mesures que les professionnels doivent retenir."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Fiscalité immobilière 2026 : les mesures que les professionnels doivent retenir."
     },
     {
       "id": "7453ed74b3536dd0",
@@ -1366,7 +1366,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-09T16:42:15+00:00",
+        "last_success": "2026-09-09T20:58:19+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1374,7 +1374,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-09T16:42:19+00:00",
+        "last_success": "2026-09-09T20:58:22+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1382,7 +1382,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-09T16:42:20+00:00",
+        "last_success": "2026-09-09T20:58:22+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1390,7 +1390,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-09T16:42:22+00:00",
+        "last_success": "2026-09-09T20:58:24+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1398,7 +1398,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-09T16:42:44+00:00",
+        "last_success": "2026-09-09T20:58:41+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1406,7 +1406,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-09T16:42:55+00:00",
+        "last_success": "2026-09-09T20:58:49+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1414,7 +1414,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-09T16:42:55+00:00",
+        "last_success": "2026-09-09T20:58:49+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1422,7 +1422,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-09T16:42:56+00:00",
+        "last_success": "2026-09-09T20:58:49+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1430,7 +1430,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-09T16:42:56+00:00",
+        "last_success": "2026-09-09T20:58:50+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1438,7 +1438,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-09T16:42:58+00:00",
+        "last_success": "2026-09-09T20:58:51+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1446,7 +1446,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-09T16:43:00+00:00",
+        "last_success": "2026-09-09T20:58:52+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1454,7 +1454,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-09T16:43:01+00:00",
+        "last_success": "2026-09-09T20:58:53+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1462,7 +1462,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-09T16:43:02+00:00",
+        "last_success": "2026-09-09T20:58:55+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1470,7 +1470,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-09-09T16:43:03+00:00",
+        "last_success": "2026-09-09T20:58:56+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1478,7 +1478,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-09T16:43:06+00:00",
+        "last_success": "2026-09-09T20:58:57+00:00",
         "fallback": false
       }
     }

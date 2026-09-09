@@ -1,12 +1,12 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-09T16:43:11+00:00",
+  "generated_at": "2026-09-09T20:59:02+00:00",
   "items": [
     {
       "id": "2de8efd58fa2cae8",
       "title": "Logement : 91 % des Français considèrent qu’il est plus difficile de se loger qu’il y a dix ans",
-      "summary": "Nouveau Société",
+      "summary": "Société",
       "url": "https://www.mysweetimmo.com/2026/09/09/logement-91-des-francais-considerent-quil-est-plus-difficile-de-se-loger-quil-y-a-dix-ans/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -233,8 +233,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Pourquoi la chasse immobilière devient un maillon essentiel de la transaction."
     },
     {
-      "id": "5060720f5319cce2",
-      "title": "Fiscalité immobilière 2026 : les nouvelles mesures que les professionnels doivent retenir",
+      "id": "3c51c68978618072",
+      "title": "Fiscalité immobilière 2026 : les mesures que les professionnels doivent retenir",
       "summary": "ontres, de débats et de formations autour des transformations de leurs métiers. Le 07/09/2026 à 10H36 La donne fiscale change pour l’immobilier en 2026. Hausse de certains prélèvements sociaux, nouvelles règles pour la location meublée, apport-cession resserré, création du statut du bailleur privé… Autant d’évolutions qui peuvent peser sur les stratégies patrimoniales et d’investissement. Stéphane Buffa fait le point sur les",
       "url": "https://www.journaldelagence.com/1413429-fiscalite-immobiliere-2026-les-nouvelles-mesures-que-les-professionnels-doivent-retenir",
       "source": "Journal de l'Agence",
@@ -251,7 +251,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Investir",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Fiscalité immobilière 2026 : les nouvelles mesures que les professionnels doivent retenir."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Fiscalité immobilière 2026 : les mesures que les professionnels doivent retenir."
     },
     {
       "id": "20ef9b32fca507e3",
