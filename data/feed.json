@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:30:15+00:00",
+  "generated_at": "2026-09-09T16:43:07+00:00",
   "version": "7.1",
   "items": [
     {
@@ -42,6 +42,47 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Prospection immobilière : vos prochains mandats sont déjà dans votre fichier clients."
+    },
+    {
+      "id": "727d4dc3d0e96ec4",
+      "title": "Cyberattaque : 48 millions de personnes exposées dans une fuite massive de Zéro Logement Vacant",
+      "summary": "9 septembre 2026 - Le site Zéro Logement Vacant aurait été victime d’une cyberattaque au cours des derniers jours. En effet, le pirate informatique ZeroBytes, déjà à l’origine du [...]",
+      "url": "https://immo2.pro/actualite-immobilier/cyberattaque-48-millions-de-personnes-exposees-dans-une-fuite-massive-de-zero-logement-vacant/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Cyberattaque : 48 millions de personnes exposées dans une fuite massive de Zéro Logement Vacant."
+    },
+    {
+      "id": "d3ac6ce864686c02",
+      "title": "Visiter un bien immobilier grâce à une salle d’immersion 3D ? C’est l’innovation que propose cette agence immobilière française",
+      "summary": "9 septembre 2026 - L’agence immobilière pontoisienne Domus Virtualimmo offre une nouvelle manière de visiter les biens immobiliers. En effet, elle dispose d’une salle [...]",
+      "url": "https://immo2.pro/actualite-immobilier/visiter-un-bien-immobilier-grace-a-une-salle-dimmersion-3d-cest-linnovation-que-propose-cette-agence-immobiliere-francaise/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Visiter un bien immobilier grâce à une salle d’immersion 3D ? C’est l’innovation que propose cette agence immobilière française."
     },
     {
       "id": "24f1ba3c03c2a70e",
@@ -881,27 +922,6 @@
       "why_it_matters": "Source institutionnelle. Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets. Point suivi : Indicateur des taux : une remontée contenue des taux dans un contexte plus incertain."
     },
     {
-      "id": "841e711c1e59c440",
-      "title": "DPE : un arrêté acte un nouveau coup de pouce aux logements chauffés à l'électrique dès 2027",
-      "summary": "L'Essentiel 26/08/2026 Réactions Les industriels de l'isolation interpellent le gouvernement",
-      "url": "https://www.batiactu.com/edito/electrification-dpe-arrete-est-paru-au-journal-officiel-75149.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-26T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : DPE : un arrêté acte un nouveau coup de pouce aux logements chauffés à l'électrique dès 2027."
-    },
-    {
       "id": "ec323fee403f01dc",
       "title": "Mon locataire se plaint du bruit d'un autre locataire. Comment faire ?",
       "summary": "21 août 2026 Un propriétaire bailleur peut être sollicité lorsqu'un locataire subit des troubles de voisinage.",
@@ -1215,48 +1235,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT et le Salon de la Copropriété et de l’Habitat donnent naissance à la Semaine de l’Immobilier et du Logement."
     },
     {
-      "id": "1bc0413b30637c99",
-      "title": "CoStar lance sa plateforme immobilière en France",
-      "summary": "16 juillet 2026 - CoStar Group, leader mondial des plateformes immobilières, a annoncé le lancement de sa plateforme en France. Ce lancement s’appuie entre autres sur les acquisitions de [...]",
-      "url": "https://immo2.pro/actualite-immobilier/costar-lance-sa-plateforme-immobiliere-en-france/",
-      "source": "Immobilier 2.0",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-16T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : CoStar lance sa plateforme immobilière en France."
-    },
-    {
-      "id": "4c1970be64377870",
-      "title": "« C’est frais chez Guy Hoquet » : face à la canicule, le réseau immobilier accueille les Français dans ses agences",
-      "summary": "15 juillet 2026 - Avec les nombreux épisodes de fortes chaleurs et canicules en France, les agences Guy Hoquet et les cabinets Hoquet Business participants ont lancé l’opération [...]",
-      "url": "https://immo2.pro/actualite-immobilier/cest-frais-chez-guy-hoquet-face-a-la-canicule-le-reseau-immobilier-accueille-les-francais-dans-ses-agences/",
-      "source": "Immobilier 2.0",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-15T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : « C’est frais chez Guy Hoquet » : face à la canicule, le réseau immobilier accueille les Français dans ses agences."
-    },
-    {
       "id": "3b2255cb7e8a6f65",
       "title": "Informations Rapides · 28 mai 2026 · n° 130 Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) Indices Notaires-Insee des prix des logements anciens - premier trimestre 2026",
       "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee false Aller au contenu Aide Thèmes Recherche English Presse Menu Menu Blog Presse Aide English Lancer la recherche sur le site Thèmes Statistiques et études Cherchez vos statistiques par… Thèmes Économie - conjoncture - comptes nationaux Démographie Entreprises Plus de thèmes… Niveaux géographiques France Toutes les régions ou tous les départements Toutes les communes Plus de ni",
@@ -1366,10 +1344,10 @@
   "source_stats": {
     "MySweetImmo": 16,
     "Journal de l'Agence": 15,
+    "Immobilier 2.0": 14,
     "Légifrance": 1,
     "ANIL": 10,
-    "Immobilier 2.0": 14,
-    "Batiactu": 3,
+    "Batiactu": 2,
     "SDES / Sitadel": 1,
     "Insee": 1,
     "EUR-Lex": 1,
@@ -1380,15 +1358,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 65,
-    "rejected": 1032,
+    "retained": 64,
+    "rejected": 1042,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-09T11:29:27+00:00",
+        "last_success": "2026-09-09T16:42:15+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1396,7 +1374,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-09T11:29:31+00:00",
+        "last_success": "2026-09-09T16:42:19+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1404,7 +1382,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-09T11:29:32+00:00",
+        "last_success": "2026-09-09T16:42:20+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1412,7 +1390,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-09T11:29:33+00:00",
+        "last_success": "2026-09-09T16:42:22+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1420,7 +1398,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-09T11:29:54+00:00",
+        "last_success": "2026-09-09T16:42:44+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1428,7 +1406,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-09T11:30:05+00:00",
+        "last_success": "2026-09-09T16:42:55+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1436,7 +1414,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-09T11:30:05+00:00",
+        "last_success": "2026-09-09T16:42:55+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1444,7 +1422,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-09T11:30:06+00:00",
+        "last_success": "2026-09-09T16:42:56+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1452,7 +1430,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-09T11:30:07+00:00",
+        "last_success": "2026-09-09T16:42:56+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1460,7 +1438,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-09T11:30:08+00:00",
+        "last_success": "2026-09-09T16:42:58+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1468,7 +1446,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-09T11:30:10+00:00",
+        "last_success": "2026-09-09T16:43:00+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1476,15 +1454,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-09T11:30:11+00:00",
+        "last_success": "2026-09-09T16:43:01+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 3,
-        "last_success": "2026-09-09T11:30:13+00:00",
+        "retained": 2,
+        "last_success": "2026-09-09T16:43:02+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1492,7 +1470,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-09-09T11:30:14+00:00",
+        "last_success": "2026-09-09T16:43:03+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1500,7 +1478,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-09T11:30:14+00:00",
+        "last_success": "2026-09-09T16:43:06+00:00",
         "fallback": false
       }
     }

@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-09T11:30:18+00:00",
+  "generated_at": "2026-09-09T16:43:11+00:00",
   "items": [
     {
       "id": "2de8efd58fa2cae8",
@@ -43,6 +43,47 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Prospection immobilière : vos prochains mandats sont déjà dans votre fichier clients."
+    },
+    {
+      "id": "727d4dc3d0e96ec4",
+      "title": "Cyberattaque : 48 millions de personnes exposées dans une fuite massive de Zéro Logement Vacant",
+      "summary": "9 septembre 2026 - Le site Zéro Logement Vacant aurait été victime d’une cyberattaque au cours des derniers jours. En effet, le pirate informatique ZeroBytes, déjà à l’origine du [...]",
+      "url": "https://immo2.pro/actualite-immobilier/cyberattaque-48-millions-de-personnes-exposees-dans-une-fuite-massive-de-zero-logement-vacant/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Cyberattaque : 48 millions de personnes exposées dans une fuite massive de Zéro Logement Vacant."
+    },
+    {
+      "id": "d3ac6ce864686c02",
+      "title": "Visiter un bien immobilier grâce à une salle d’immersion 3D ? C’est l’innovation que propose cette agence immobilière française",
+      "summary": "9 septembre 2026 - L’agence immobilière pontoisienne Domus Virtualimmo offre une nouvelle manière de visiter les biens immobiliers. En effet, elle dispose d’une salle [...]",
+      "url": "https://immo2.pro/actualite-immobilier/visiter-un-bien-immobilier-grace-a-une-salle-dimmersion-3d-cest-linnovation-que-propose-cette-agence-immobiliere-francaise/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Visiter un bien immobilier grâce à une salle d’immersion 3D ? C’est l’innovation que propose cette agence immobilière française."
     },
     {
       "id": "24f1ba3c03c2a70e",
