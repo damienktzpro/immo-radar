@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-08T21:13:43+00:00",
+  "generated_at": "2026-09-09T04:48:36+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "24f1ba3c03c2a70e",
+      "title": "Arrêté du 14 août 2026 modifiant l'arrêté du 13 juillet 2026 modifiant la nature et les caractéristiques des prestations de rénovation énergétique bénéficiant du taux réduit de la taxe sur la valeur ajoutée prévu à l'article 278-0 bis A du code général des impôts",
+      "summary": "Texte officiel concernant la performance énergétique, le DPE ou la rénovation du parc immobilier.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054811753",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-09T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Énergie / DPE",
+      "why_it_matters": "Source officielle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Arrêté du 14 août 2026 modifiant l'arrêté du 13 juillet 2026 modifiant la nature et les caractéristiques des prestations de rén….",
+      "legal_stage": "jorf"
+    },
     {
       "id": "7fc49254b3b4fd88",
       "title": "Nouvelle Parole d'expert : Carnet d'information du logement : comment CLÉA vous aide à mieux gérer votre logement",
@@ -1362,6 +1384,7 @@
     }
   ],
   "source_stats": {
+    "Légifrance": 1,
     "ANIL": 10,
     "MySweetImmo": 16,
     "Journal de l'Agence": 16,
@@ -1377,15 +1400,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 65,
-    "rejected": 994,
+    "retained": 66,
+    "rejected": 1032,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-08T21:13:07+00:00",
+        "last_success": "2026-09-09T04:47:55+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1393,7 +1416,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-08T21:13:10+00:00",
+        "last_success": "2026-09-09T04:47:57+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1401,7 +1424,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-08T21:13:11+00:00",
+        "last_success": "2026-09-09T04:47:57+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1409,7 +1432,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-08T21:13:12+00:00",
+        "last_success": "2026-09-09T04:47:59+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1417,15 +1440,15 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-08T21:13:28+00:00",
+        "last_success": "2026-09-09T04:48:17+00:00",
         "fallback": false
       },
       "Légifrance": {
         "level": "A",
         "ok": true,
-        "status": "empty",
-        "retained": 0,
-        "last_success": "2026-09-08T21:13:35+00:00",
+        "status": "ok",
+        "retained": 1,
+        "last_success": "2026-09-09T04:48:25+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1433,7 +1456,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-08T21:13:35+00:00",
+        "last_success": "2026-09-09T04:48:25+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1441,7 +1464,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-08T21:13:36+00:00",
+        "last_success": "2026-09-09T04:48:26+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1449,7 +1472,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-08T21:13:37+00:00",
+        "last_success": "2026-09-09T04:48:27+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1457,7 +1480,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-08T21:13:38+00:00",
+        "last_success": "2026-09-09T04:48:28+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1465,7 +1488,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-08T21:13:39+00:00",
+        "last_success": "2026-09-09T04:48:29+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1473,7 +1496,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-08T21:13:40+00:00",
+        "last_success": "2026-09-09T04:48:31+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1481,7 +1504,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-08T21:13:41+00:00",
+        "last_success": "2026-09-09T04:48:32+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1489,7 +1512,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-09-08T21:13:42+00:00",
+        "last_success": "2026-09-09T04:48:33+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1497,7 +1520,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-08T21:13:43+00:00",
+        "last_success": "2026-09-09T04:48:36+00:00",
         "fallback": false
       }
     }

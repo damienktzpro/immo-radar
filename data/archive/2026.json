@@ -1,8 +1,30 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-08T21:13:47+00:00",
+  "generated_at": "2026-09-09T04:48:41+00:00",
   "items": [
+    {
+      "id": "24f1ba3c03c2a70e",
+      "title": "Arrêté du 14 août 2026 modifiant l'arrêté du 13 juillet 2026 modifiant la nature et les caractéristiques des prestations de rénovation énergétique bénéficiant du taux réduit de la taxe sur la valeur ajoutée prévu à l'article 278-0 bis A du code général des impôts",
+      "summary": "Texte officiel concernant la performance énergétique, le DPE ou la rénovation du parc immobilier.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054811753",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-09T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Énergie / DPE",
+      "why_it_matters": "Source officielle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Arrêté du 14 août 2026 modifiant l'arrêté du 13 juillet 2026 modifiant la nature et les caractéristiques des prestations de rén….",
+      "legal_stage": "jorf"
+    },
     {
       "id": "7fc49254b3b4fd88",
       "title": "Nouvelle Parole d'expert : Carnet d'information du logement : comment CLÉA vous aide à mieux gérer votre logement",
