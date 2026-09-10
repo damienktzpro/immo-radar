@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-09T20:59:02+00:00",
+  "generated_at": "2026-09-10T04:49:36+00:00",
   "items": [
     {
       "id": "2de8efd58fa2cae8",
@@ -27,7 +27,7 @@
     {
       "id": "20eec79d07d56d82",
       "title": "Prospection immobilière : vos prochains mandats sont déjà dans votre fichier clients",
-      "summary": "Le 09/09/2026 à 07H42 Prospecter, créer la relation, savoir relancer : trois fondamentaux qui n’ont jamais été aussi actuels. Alors que les nouvelles règles du démarchage téléphonique rebattent les cartes, Audrey Antonini invite les professionnels de l’immobilier à ne pas chercher un nouveau raccourci, mais à construire un véritable vivier d’opportunités. Objectif : ne plus courir seulement après les mandats d’aujourd’hui, mai",
+      "summary": "utions à prendre lors du recrutement d’un collaborateur venu de la concurrence. Le 09/09/2026 à 07H42 Prospecter, créer la relation, savoir relancer : trois fondamentaux qui n’ont jamais été aussi actuels. Alors que les nouvelles règles du démarchage téléphonique rebattent les cartes, Audrey Antonini invite les professionnels de l’immobilier à ne pas chercher un nouveau raccourci, mais à construire un véritable vivier d’oppor",
       "url": "https://www.journaldelagence.com/1413458-prospection-immobiliere-vos-prochains-mandats-sont-deja-dans-votre-fichier-clients",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -210,6 +210,27 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Projet de loi logement : ce que Vincent Jeanbrun veut changer."
+    },
+    {
+      "id": "053f296953891dc6",
+      "title": "Cadre de ville La promotion immobilière s'enfonce dans la crise La promotion privée est \"en danger\" alerte la FPI, chiffres du deuxième trimestre 2026 à l'appui. Les ...",
+      "summary": "Cadre de ville Le projet de loi Logement va bientôt reprendre son examen accéléré devant l'Assemblée nationale Pénalisés par la crise immobilière qui n’en finit pas, les notaires du Grand Paris ont convié le 8 septembre 2026 le ...",
+      "url": "https://www.cadredeville.com/ville/la-promotion-immobiliere-s-enfonce-dans-la-crise?utm_source=Batiactu&utm_medium=edito&utm_content=homepage",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Cadre de ville La promotion immobilière s'enfonce dans la crise La promotion privée est \"en danger\" alerte la FPI, chiffres du…."
     },
     {
       "id": "41c2cf6039c942db",
@@ -732,6 +753,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Zoom RE2020 : les données rendues publiques STATISTIQUES. Le ministère de la Ville et du Logement rend accessible les données d…."
+    },
+    {
+      "id": "de24e6bf96574126",
+      "title": "Un négociateur arrive avec les fichiers commerciaux de son ancienne agence : gare au risque de concurrence déloyale",
+      "summary": "Le 10/09/2026 à 06H14 Un négociateur quitte une agence pour rejoindre un concurrent en emportant avec lui fichiers clients et données commerciales : une situation loin d’être théorique dans l’immobilier. Or, dans un arrêt du 2 septembre 2026, la Cour de cassation durcit sa jurisprudence : la seule détention d’informations confidentielles de l’ancien employeur sur l’ordinateur professionnel du salarié peut suffire à caractérise",
+      "url": "https://www.journaldelagence.com/1413494-un-negociateur-arrive-avec-les-fichiers-commerciaux-de-son-ancienne-agence-gare-au-risque-de-concurrence-deloyale",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Un négociateur arrive avec les fichiers commerciaux de son ancienne agence : gare au risque de concurrence déloyale."
     },
     {
       "id": "41dbd997e10cb8a4",
