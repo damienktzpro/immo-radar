@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T11:26:48+00:00",
+  "generated_at": "2026-09-10T16:28:43+00:00",
   "version": "7.1",
   "items": [
     {
@@ -24,9 +24,30 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Portail immobilier : Le géant Idealista arrive en France."
     },
     {
+      "id": "6b6edfb1d8e3bc25",
+      "title": "Logement neuf : le pire trimestre jamais enregistré de l’histoire de la FPI",
+      "summary": "Le 10/09/2026 à 14H31 Après une relative stabilisation à des niveaux déjà historiquement bas, le marché du logement neuf replonge au deuxième trimestre 2026. Réservations, mises en vente et accession décrochent, tandis que les ventes en bloc s’effondrent. Pour Pascal Boulanger, président de la FPI, l’urgence est désormais manifeste. Managers : arrêtez de faire des réunions, commencez à manager ! Le 10/09/2026 à 07H16 Combien d",
+      "url": "https://www.journaldelagence.com/1413515-logement-neuf-le-pire-trimestre-jamais-enregistre-de-lhistoire-de-la-fpi",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-10T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Logement neuf : le pire trimestre jamais enregistré de l’histoire de la FPI."
+    },
+    {
       "id": "7b8e1703dc9ccb0f",
       "title": "Managers : arrêtez de faire des réunions, commencez à manager !",
-      "summary": "Le 10/09/2026 à 07H16 Combien d’heures vos équipes passent-elles chaque semaine en réunion… et pour quel résultat ? Dans l’immobilier, où chaque heure compte pour prospecter, relancer, estimer ou rentrer des mandats, la réunionite peut coûter cher. Julien Brizet invite les managers à revoir leurs habitudes et partage des pistes concrètes pour réunir moins, mais surtout réunir mieux. Un négociateur arrive avec les fichiers comm",
+      "summary": "Pour Pascal Boulanger, président de la FPI, l’urgence est désormais manifeste. Le 10/09/2026 à 07H16 Combien d’heures vos équipes passent-elles chaque semaine en réunion… et pour quel résultat ? Dans l’immobilier, où chaque heure compte pour prospecter, relancer, estimer ou rentrer des mandats, la réunionite peut coûter cher. Julien Brizet invite les managers à revoir leurs habitudes et partage des pistes concrètes pour réuni",
       "url": "https://www.journaldelagence.com/1413451-managers-arretez-de-faire-des-reunions-commencez-a-manager",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -43,6 +64,111 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Managers : arrêtez de faire des réunions, commencez à manager !."
+    },
+    {
+      "id": "f747aa85c7f8ba17",
+      "title": "Résidentiel neuf",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour le logement neuf Comme chaque fin de semaine, Batiactu revient en chiffres sur les dernières actualités de la construction et du cadre de vie. 10/09/2026 Trophées de la construction 2026 Musée George Lucas Moral des chefs d'entreprise Centres de données",
+      "url": "https://www.batiactu.com/edito/residentiel-neuf-75310.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-10T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Résidentiel neuf."
+    },
+    {
+      "id": "b417718051ac0807",
+      "title": "Trophées de la construction 2026",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour le logement neuf Comme chaque fin de semaine, Batiactu revient en chiffres sur les dernières actualités de la construction et du cadre de vie. 10/09/2026 Résidentiel neuf Musée George Lucas Moral des chefs d'entreprise Centres de données",
+      "url": "https://www.batiactu.com/edito/trophees-de-la-construction-2026-75310.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-10T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Trophées de la construction 2026."
+    },
+    {
+      "id": "8aa35970b84f456b",
+      "title": "Musée George Lucas",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour le logement neuf Comme chaque fin de semaine, Batiactu revient en chiffres sur les dernières actualités de la construction et du cadre de vie. 10/09/2026 Résidentiel neuf Trophées de la construction 2026 Moral des chefs d'entreprise Centres de données",
+      "url": "https://www.batiactu.com/edito/musee-george-lucas-75310.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-10T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Musée George Lucas."
+    },
+    {
+      "id": "7a8e3b393e33cb25",
+      "title": "Moral des chefs d'entreprise",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour le logement neuf Comme chaque fin de semaine, Batiactu revient en chiffres sur les dernières actualités de la construction et du cadre de vie. 10/09/2026 Résidentiel neuf Trophées de la construction 2026 Musée George Lucas Centres de données",
+      "url": "https://www.batiactu.com/edito/moral-des-chefs-d-entreprise-75310.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-10T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Moral des chefs d'entreprise."
+    },
+    {
+      "id": "96a666dde90e7568",
+      "title": "Centres de données",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour le logement neuf Comme chaque fin de semaine, Batiactu revient en chiffres sur les dernières actualités de la construction et du cadre de vie. 10/09/2026 Résidentiel neuf Trophées de la construction 2026 Musée George Lucas Moral des chefs d'entreprise",
+      "url": "https://www.batiactu.com/edito/centres-de-donnees-75310.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-10T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Centres de données."
     },
     {
       "id": "2de8efd58fa2cae8",
@@ -838,27 +964,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Le prêt à 1,99 % que les banques accordent encore, alors que les taux remontent."
     },
     {
-      "id": "65e48adda71470bd",
-      "title": "Agents immobiliers : et si votre meilleure prospection de rentrée était un événement ?",
-      "summary": "d’achat, afin de concentrer leurs efforts sur les prospects réellement engagés. Le 01/09/2026 à 07H19 La rentrée est un temps fort pour renouer avec son secteur, retrouver de la visibilité et relancer sa prospection. Et pour reprendre contact avec clients et prospects, rien de tel que de créer l’événement ! Jonathan Voogt livre ses conseils et ses idées pour faire de ce mois de septembre un véritable levier commercial. Rentré",
-      "url": "https://www.journaldelagence.com/1413327-agents-immobiliers-et-si-votre-meilleure-prospection-de-rentree-etait-un-evenement",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-01T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : et si votre meilleure prospection de rentrée était un événement ?."
-    },
-    {
       "id": "a7d1528ad67700a4",
       "title": "Portail immobilier : idealista débarque en France avec 1 an de diffusion gratuite",
       "summary": "1 septembre 2026 - Le portail immobilier espagnol idealista arrive en France avec une politique commerciale offensive. En effet, il offre un an de diffusion gratuite, afin de gagner rapidement [...]",
@@ -1344,10 +1449,10 @@
   "source_stats": {
     "MySweetImmo": 16,
     "Journal de l'Agence": 15,
+    "Batiactu": 8,
     "Immobilier 2.0": 14,
     "Légifrance": 1,
     "ANIL": 10,
-    "Batiactu": 3,
     "SDES / Sitadel": 1,
     "Insee": 1,
     "EUR-Lex": 1,
@@ -1358,15 +1463,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 64,
-    "rejected": 1101,
+    "retained": 69,
+    "rejected": 1099,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-10T11:25:55+00:00",
+        "last_success": "2026-09-10T16:28:06+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1374,7 +1479,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-10T11:25:58+00:00",
+        "last_success": "2026-09-10T16:28:08+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1382,7 +1487,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-10T11:25:59+00:00",
+        "last_success": "2026-09-10T16:28:09+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1390,7 +1495,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-10T11:26:00+00:00",
+        "last_success": "2026-09-10T16:28:11+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1398,7 +1503,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-10T11:26:26+00:00",
+        "last_success": "2026-09-10T16:28:28+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1406,7 +1511,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-10T11:26:36+00:00",
+        "last_success": "2026-09-10T16:28:35+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1414,7 +1519,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-10T11:26:36+00:00",
+        "last_success": "2026-09-10T16:28:35+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1422,7 +1527,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-10T11:26:38+00:00",
+        "last_success": "2026-09-10T16:28:36+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1430,7 +1535,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-10T11:26:38+00:00",
+        "last_success": "2026-09-10T16:28:36+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1438,7 +1543,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-10T11:26:39+00:00",
+        "last_success": "2026-09-10T16:28:37+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1446,7 +1551,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-10T11:26:41+00:00",
+        "last_success": "2026-09-10T16:28:39+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1454,15 +1559,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-10T11:26:42+00:00",
+        "last_success": "2026-09-10T16:28:40+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 3,
-        "last_success": "2026-09-10T11:26:44+00:00",
+        "retained": 8,
+        "last_success": "2026-09-10T16:28:41+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1470,7 +1575,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-09-10T11:26:45+00:00",
+        "last_success": "2026-09-10T16:28:42+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1478,7 +1583,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-10T11:26:48+00:00",
+        "last_success": "2026-09-10T16:28:42+00:00",
         "fallback": false
       }
     }
