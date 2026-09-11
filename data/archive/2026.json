@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-11T16:33:13+00:00",
+  "generated_at": "2026-09-11T21:01:49+00:00",
   "items": [
     {
       "id": "b17fbcd597dc778a",
@@ -47,7 +47,7 @@
     {
       "id": "a2f37fe5dd67d061",
       "title": "Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier",
-      "summary": "Nouveau Investir / Financer",
+      "summary": "Investir / Financer",
       "url": "https://www.mysweetimmo.com/2026/09/11/hausse-des-taux-de-la-bce-ce-qui-change-pour-votre-credit-immobilier/",
       "source": "MySweetImmo",
       "source_level": "C",
