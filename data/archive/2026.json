@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-11T04:46:55+00:00",
+  "generated_at": "2026-09-11T11:28:24+00:00",
   "items": [
     {
       "id": "b17fbcd597dc778a",
@@ -43,6 +43,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Côté Particuliers : un modèle pensé pour entreprendre, performer et se développer."
+    },
+    {
+      "id": "a2f37fe5dd67d061",
+      "title": "Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier",
+      "summary": "Nouveau Investir / Financer",
+      "url": "https://www.mysweetimmo.com/2026/09/11/hausse-des-taux-de-la-bce-ce-qui-change-pour-votre-credit-immobilier/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier."
     },
     {
       "id": "21a741268da647ff",
@@ -361,7 +382,7 @@
     {
       "id": "e820201e9a9ebf2b",
       "title": "Immobilier d’entreprise : La reprise qui n’en est pas une",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier d’entreprise : La reprise qui n’en est pas une",
       "url": "https://www.mysweetimmo.com/2026/09/08/immobilier-dentreprise-la-reprise-qui-nen-est-pas-une/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -377,7 +398,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier d’entreprise : La reprise qui n’en est pas une."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier d’entreprise : La reprise qui n’en est pas une."
     },
     {
       "id": "8b26ebd2e95f9283",

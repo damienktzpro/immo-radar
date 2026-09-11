@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-09-11T04:46:52+00:00",
+  "generated_at": "2026-09-11T11:28:19+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "a2f37fe5dd67d061",
+      "title": "Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier",
+      "summary": "Nouveau Investir / Financer",
+      "url": "https://www.mysweetimmo.com/2026/09/11/hausse-des-taux-de-la-bce-ce-qui-change-pour-votre-credit-immobilier/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier."
+    },
     {
       "id": "b17fbcd597dc778a",
       "title": "Idealista s’implante en France : un nouveau souffle pour les professionnels de l’immobilier",
@@ -360,7 +381,7 @@
     {
       "id": "e820201e9a9ebf2b",
       "title": "Immobilier d’entreprise : La reprise qui n’en est pas une",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier d’entreprise : La reprise qui n’en est pas une",
       "url": "https://www.mysweetimmo.com/2026/09/08/immobilier-dentreprise-la-reprise-qui-nen-est-pas-une/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -376,7 +397,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier d’entreprise : La reprise qui n’en est pas une."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier d’entreprise : La reprise qui n’en est pas une."
     },
     {
       "id": "8916e2498f03acc3",
@@ -922,27 +943,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Réseau immobilier : Stéphane Plaza Immobilier rejoint WIF, le groupe de Xavier Belvaux."
     },
     {
-      "id": "16b41bb757fb7f38",
-      "title": "Crédit immobilier : Le prêt à 1,99 % que les banques accordent encore, alors que les taux remontent",
-      "summary": "Crédit immobilier : Le prêt à 1,99 % que les banques accordent encore, alors que les taux remontent",
-      "url": "https://www.mysweetimmo.com/2026/09/01/credit-immobilier-le-pret-a-199-que-les-banques-accordent-encore-alors-que-les-taux-remontent/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "credit",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-01T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Credit",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Le prêt à 1,99 % que les banques accordent encore, alors que les taux remontent."
-    },
-    {
       "id": "a7d1528ad67700a4",
       "title": "Portail immobilier : idealista débarque en France avec 1 an de diffusion gratuite",
       "summary": "1 septembre 2026 - Le portail immobilier espagnol idealista arrive en France avec une politique commerciale offensive. En effet, il offre un an de diffusion gratuite, afin de gagner rapidement [...]",
@@ -1383,10 +1383,10 @@
       "legal_stage": "jorf"
     },
     {
-      "id": "2a3f40d20a5b42fe",
-      "title": "Rentrée universitaire 2026 : les informations utiles pour bien vous préparer",
-      "summary": "Service Public vous présente les renseignements essentiels à savoir pour cette année universitaire 2026-2027 : aides au logement, restauration, accompagnement en santé mentale, etc.",
-      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19053?xtor=RSS-111",
+      "id": "6d7c71c70ab81192",
+      "title": "L’APL revalorisée au 1er octobre",
+      "summary": "Les aides personnelles au logement (APL, ALF, ALS) sont revalorisées chaque 1 er octobre en fonction de l’évolution de l’indice de référence des loyers (IRL) du 2 e trimestre de l’année en cours. Service Public vous explique.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A16807?xtor=RSS-111",
       "source": "Service-Public.fr",
       "source_level": "A",
       "category": "marche",
@@ -1401,33 +1401,12 @@
       "relevance": 88,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Rentrée universitaire 2026 : les informations utiles pour bien vous préparer."
-    },
-    {
-      "id": "0c688824e6c3bfc2",
-      "title": "Une taxe unique pour les logements vacants à partir de 2027",
-      "summary": "La loi de finances pour 2026 fait évoluer la fiscalité sur les logements vacants. Actuellement, il existe 2 taxes distinctes, applicables l’une ou l’autre en fonction de la commune où le bien immobilier vacant est situé. Ces 2 taxes fusionneront en 2027. Service Public vous explique.",
-      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18896?xtor=RSS-111",
-      "source": "Service-Public.fr",
-      "source_level": "A",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": null,
-      "status": "Information officielle",
-      "importance": 91,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source officielle. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Une taxe unique pour les logements vacants à partir de 2027."
+      "why_it_matters": "Source officielle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : L’APL revalorisée au 1er octobre."
     }
   ],
   "source_stats": {
-    "Journal de l'Agence": 15,
     "MySweetImmo": 16,
+    "Journal de l'Agence": 15,
     "Batiactu": 7,
     "Immobilier 2.0": 14,
     "Légifrance": 1,
@@ -1435,31 +1414,30 @@
     "SDES / Sitadel": 1,
     "Insee": 1,
     "EUR-Lex": 1,
-    "Service-Public.fr": 2
+    "Service-Public.fr": 1
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 14,
-    "sources_degraded": 1,
+    "sources_ok": 15,
+    "sources_degraded": 0,
     "errors": 0,
-    "retained": 68,
+    "retained": 67,
     "rejected": 1155,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
-        "ok": false,
-        "status": "degraded",
+        "ok": true,
+        "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-10T20:55:42+00:00",
-        "fallback": true,
-        "error_type": "RemoteDisconnected"
+        "last_success": "2026-09-11T11:27:34+00:00",
+        "fallback": false
       },
       "Banque de France": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-11T04:46:20+00:00",
+        "last_success": "2026-09-11T11:27:37+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1467,7 +1445,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-11T04:46:21+00:00",
+        "last_success": "2026-09-11T11:27:38+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1475,7 +1453,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-11T04:46:22+00:00",
+        "last_success": "2026-09-11T11:27:39+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1483,7 +1461,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-11T04:46:37+00:00",
+        "last_success": "2026-09-11T11:27:58+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1491,7 +1469,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-11T04:46:45+00:00",
+        "last_success": "2026-09-11T11:28:07+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1499,7 +1477,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-11T04:46:45+00:00",
+        "last_success": "2026-09-11T11:28:07+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1507,7 +1485,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-11T04:46:45+00:00",
+        "last_success": "2026-09-11T11:28:08+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1515,7 +1493,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-11T04:46:46+00:00",
+        "last_success": "2026-09-11T11:28:09+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1523,7 +1501,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-11T04:46:47+00:00",
+        "last_success": "2026-09-11T11:28:10+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1531,7 +1509,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-11T04:46:48+00:00",
+        "last_success": "2026-09-11T11:28:12+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1539,7 +1517,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-11T04:46:49+00:00",
+        "last_success": "2026-09-11T11:28:13+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1547,7 +1525,7 @@
         "ok": true,
         "status": "ok",
         "retained": 7,
-        "last_success": "2026-09-11T04:46:50+00:00",
+        "last_success": "2026-09-11T11:28:15+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1555,7 +1533,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-09-11T04:46:51+00:00",
+        "last_success": "2026-09-11T11:28:16+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1563,16 +1541,10 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-11T04:46:51+00:00",
+        "last_success": "2026-09-11T11:28:18+00:00",
         "fallback": false
       }
     }
   },
-  "errors": [
-    {
-      "source": "Service-Public.fr",
-      "error": "Remote end closed connection without response",
-      "fallback": true
-    }
-  ]
+  "errors": []
 }
