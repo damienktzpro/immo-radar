@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-11T11:28:24+00:00",
+  "generated_at": "2026-09-11T16:33:13+00:00",
   "items": [
     {
       "id": "b17fbcd597dc778a",
@@ -1276,6 +1276,48 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée."
+    },
+    {
+      "id": "78826affbad417af",
+      "title": "À Paris, un appartement haussmannien passe de la classe F à A",
+      "summary": "31/08/2026 Près de Lille, un nouveau parc se veut un réservoir pour la biodiversité 27/08/2026",
+      "url": "https://www.batiactu.com/edito/a-paris-un-appartement-haussmannien-passe-classe-f-75193.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-31T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : À Paris, un appartement haussmannien passe de la classe F à A."
+    },
+    {
+      "id": "a0fc495c731ceb47",
+      "title": "Près de Lille, un nouveau parc se veut un réservoir pour la biodiversité",
+      "summary": "À Paris, un appartement haussmannien passe de la classe F à A 31/08/2026 27/08/2026",
+      "url": "https://www.batiactu.com/edito/pres-lille-un-nouveau-parc-se-veut-un-reservoir-biodiversite-75159.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-31T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Près de Lille, un nouveau parc se veut un réservoir pour la biodiversité."
     },
     {
       "id": "f4d2d62b6e399a0a",

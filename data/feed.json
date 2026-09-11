@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:28:19+00:00",
+  "generated_at": "2026-09-11T16:33:08+00:00",
   "version": "7.1",
   "items": [
     {
@@ -964,6 +964,48 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Portail immobilier : idealista débarque en France avec 1 an de diffusion gratuite."
     },
     {
+      "id": "78826affbad417af",
+      "title": "À Paris, un appartement haussmannien passe de la classe F à A",
+      "summary": "31/08/2026 Près de Lille, un nouveau parc se veut un réservoir pour la biodiversité 27/08/2026",
+      "url": "https://www.batiactu.com/edito/a-paris-un-appartement-haussmannien-passe-classe-f-75193.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-31T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : À Paris, un appartement haussmannien passe de la classe F à A."
+    },
+    {
+      "id": "a0fc495c731ceb47",
+      "title": "Près de Lille, un nouveau parc se veut un réservoir pour la biodiversité",
+      "summary": "À Paris, un appartement haussmannien passe de la classe F à A 31/08/2026 27/08/2026",
+      "url": "https://www.batiactu.com/edito/pres-lille-un-nouveau-parc-se-veut-un-reservoir-biodiversite-75159.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-31T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Près de Lille, un nouveau parc se veut un réservoir pour la biodiversité."
+    },
+    {
       "id": "0cbc5f28ae84efd7",
       "title": "Construction de logements : résultats à fin juillet 2026 (France entière)",
       "summary": "Construction de logements : résultats à fin juillet 2026 (France entière) | Données et études statistiques Aller au menu principal Aller à la recherche Aller au contenu principal Recherche Rechercher Rechercher Menu Fermer le menu Changement climatique Ouvrir le menu Changement climatique Chiffres clés du climat Émissions nationales de gaz à effet de serre Émissions mondiales de gaz à effet de serre Empreinte carbone Climat et société Énergie Ouvrir le menu Énergie Bilan et chiffres clés de l’én",
@@ -983,27 +1025,6 @@
       "territory": "France",
       "topic": "Construction",
       "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin juillet 2026 (France entière)."
-    },
-    {
-      "id": "fb6c7a1c5117df3f",
-      "title": "Présidentielle et logement : G. Attal, B. Retailleau et J-L. Mélenchon avancent leurs propositions",
-      "summary": "En débat 28/08/2026 En débat Logement : le candidat Bruno Retailleau propose un choc d'offre dès 2027",
-      "url": "https://www.batiactu.com/edito/presidentielle-2027-gabriel-attal-et-bruno-retailleau-75182.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-28T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Présidentielle et logement : G. Attal, B. Retailleau et J-L. Mélenchon avancent leurs propositions."
     },
     {
       "id": "2182d63921f42b7c",
@@ -1407,7 +1428,7 @@
   "source_stats": {
     "MySweetImmo": 16,
     "Journal de l'Agence": 15,
-    "Batiactu": 7,
+    "Batiactu": 8,
     "Immobilier 2.0": 14,
     "Légifrance": 1,
     "ANIL": 10,
@@ -1421,7 +1442,7 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 67,
+    "retained": 68,
     "rejected": 1155,
     "by_source": {
       "Service-Public.fr": {
@@ -1429,7 +1450,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-11T11:27:34+00:00",
+        "last_success": "2026-09-11T16:32:17+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1437,7 +1458,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-11T11:27:37+00:00",
+        "last_success": "2026-09-11T16:32:21+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1445,7 +1466,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-11T11:27:38+00:00",
+        "last_success": "2026-09-11T16:32:22+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1453,7 +1474,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-11T11:27:39+00:00",
+        "last_success": "2026-09-11T16:32:24+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1461,7 +1482,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-11T11:27:58+00:00",
+        "last_success": "2026-09-11T16:32:45+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1469,7 +1490,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-11T11:28:07+00:00",
+        "last_success": "2026-09-11T16:32:57+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1477,7 +1498,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-11T11:28:07+00:00",
+        "last_success": "2026-09-11T16:32:57+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1485,7 +1506,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-11T11:28:08+00:00",
+        "last_success": "2026-09-11T16:32:58+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1493,7 +1514,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-11T11:28:09+00:00",
+        "last_success": "2026-09-11T16:32:58+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1501,7 +1522,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-11T11:28:10+00:00",
+        "last_success": "2026-09-11T16:32:59+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1509,7 +1530,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-11T11:28:12+00:00",
+        "last_success": "2026-09-11T16:33:01+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1517,15 +1538,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-11T11:28:13+00:00",
+        "last_success": "2026-09-11T16:33:02+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 7,
-        "last_success": "2026-09-11T11:28:15+00:00",
+        "retained": 8,
+        "last_success": "2026-09-11T16:33:04+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1533,7 +1554,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-09-11T11:28:16+00:00",
+        "last_success": "2026-09-11T16:33:05+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1541,7 +1562,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-11T11:28:18+00:00",
+        "last_success": "2026-09-11T16:33:08+00:00",
         "fallback": false
       }
     }
