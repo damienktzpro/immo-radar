@@ -1,12 +1,53 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-10T20:55:47+00:00",
+  "generated_at": "2026-09-11T04:46:55+00:00",
   "items": [
+    {
+      "id": "b17fbcd597dc778a",
+      "title": "Idealista s’implante en France : un nouveau souffle pour les professionnels de l’immobilier",
+      "summary": "Le 11/09/2026 à 00H00 Après avoir conquis l'Espagne, l'Italie et le Portugal, le géant européen de l'immobilier en ligne pose ses valises en France. Un lancement qui pourrait redistribuer les cartes sur un marché dominé depuis des années par les mêmes acteurs. Côté Particuliers : un modèle pensé pour entreprendre, performer et se développer Le 11/09/2026 à 00H00 Dans un marché immobilier plus sélectif, Côté Particuliers entend",
+      "url": "https://www.journaldelagence.com/1413518-idealista-simplante-en-france-un-nouveau-souffle-pour-les-professionnels-de-limmobilier",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Idealista s’implante en France : un nouveau souffle pour les professionnels de l’immobilier."
+    },
+    {
+      "id": "e198e139e7cdaaef",
+      "title": "Côté Particuliers : un modèle pensé pour entreprendre, performer et se développer",
+      "summary": "ribuer les cartes sur un marché dominé depuis des années par les mêmes acteurs. Le 11/09/2026 à 00H00 Dans un marché immobilier plus sélectif, Côté Particuliers entend séduire de nouveaux entrepreneurs tout en accompagnant la croissance de ses franchisés. Pierre-Jean Rafel, directeur du réseau Côté Particuliers et du Pôle Franchises Groupe HUMAN, détaille les atouts du modèle, les leviers de performance du réseau et les oppor",
+      "url": "https://www.journaldelagence.com/1413527-cote-particuliers-un-modele-pense-pour-entreprendre-performer-et-se-developper",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Côté Particuliers : un modèle pensé pour entreprendre, performer et se développer."
+    },
     {
       "id": "21a741268da647ff",
       "title": "Portail immobilier : Le géant Idealista arrive en France",
-      "summary": "Nouveau Dans l'actu",
+      "summary": "Dans l'actu",
       "url": "https://www.mysweetimmo.com/2026/09/10/immobilier-le-geant-idealista-arrive-en-france/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -48,7 +89,7 @@
     {
       "id": "6b6edfb1d8e3bc25",
       "title": "Logement neuf : le pire trimestre jamais enregistré de l’histoire de la FPI",
-      "summary": "Le 10/09/2026 à 14H31 Après une relative stabilisation à des niveaux déjà historiquement bas, le marché du logement neuf replonge au deuxième trimestre 2026. Réservations, mises en vente et accession décrochent, tandis que les ventes en bloc s’effondrent. Pour Pascal Boulanger, président de la FPI, l’urgence est désormais manifeste. Managers : arrêtez de faire des réunions, commencez à manager ! Le 10/09/2026 à 07H16 Combien d",
+      "summary": "opportunités offertes à ceux qui souhaitent ouvrir une, puis plusieurs agences. Le 10/09/2026 à 14H31 Après une relative stabilisation à des niveaux déjà historiquement bas, le marché du logement neuf replonge au deuxième trimestre 2026. Réservations, mises en vente et accession décrochent, tandis que les ventes en bloc s’effondrent. Pour Pascal Boulanger, président de la FPI, l’urgence est désormais manifeste. Managers : arr",
       "url": "https://www.journaldelagence.com/1413515-logement-neuf-le-pire-trimestre-jamais-enregistre-de-lhistoire-de-la-fpi",
       "source": "Journal de l'Agence",
       "source_level": "C",
