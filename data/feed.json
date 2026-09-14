@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T05:02:53+00:00",
+  "generated_at": "2026-09-14T12:56:19+00:00",
   "version": "7.1",
   "items": [
     {
@@ -963,9 +963,30 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Portail immobilier : idealista débarque en France avec 1 an de diffusion gratuite."
     },
     {
+      "id": "347844a77ce64a98",
+      "title": "De nouvelles cabanes architecturales éclosent près de la forêt de Fontainebleau",
+      "summary": "31/08/2026 À Paris, un appartement haussmannien passe de la classe F à A 31/08/2026",
+      "url": "https://www.batiactu.com/edito/nouvelles-cabanes-architecturales-eclosent-dans-foret-75198.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-31T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : De nouvelles cabanes architecturales éclosent près de la forêt de Fontainebleau."
+    },
+    {
       "id": "78826affbad417af",
       "title": "À Paris, un appartement haussmannien passe de la classe F à A",
-      "summary": "31/08/2026 Près de Lille, un nouveau parc se veut un réservoir pour la biodiversité 27/08/2026",
+      "summary": "De nouvelles cabanes architecturales éclosent près de la forêt de Fontainebleau 31/08/2026 31/08/2026",
       "url": "https://www.batiactu.com/edito/a-paris-un-appartement-haussmannien-passe-classe-f-75193.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -982,27 +1003,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : À Paris, un appartement haussmannien passe de la classe F à A."
-    },
-    {
-      "id": "a0fc495c731ceb47",
-      "title": "Près de Lille, un nouveau parc se veut un réservoir pour la biodiversité",
-      "summary": "À Paris, un appartement haussmannien passe de la classe F à A 31/08/2026 27/08/2026",
-      "url": "https://www.batiactu.com/edito/pres-lille-un-nouveau-parc-se-veut-un-reservoir-biodiversite-75159.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-31T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Près de Lille, un nouveau parc se veut un réservoir pour la biodiversité."
     },
     {
       "id": "0cbc5f28ae84efd7",
@@ -1403,6 +1403,27 @@
       "legal_stage": "jorf"
     },
     {
+      "id": "28f4a863c9b3987d",
+      "title": "Saisonniers : un simulateur pour connaître les aides dont vous pouvez bénéficier pour vous loger",
+      "summary": "Action Logement propose plusieurs dispositifs pour accompagner les saisonniers. Ces derniers peuvent désormais effectuer un test rapide, sur son site internet, afin de découvrir les différentes aides au logement auxquelles ils peuvent prétendre, en fonction de leur situation.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19055?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": null,
+      "status": "Information officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Saisonniers : un simulateur pour connaître les aides dont vous pouvez bénéficier pour vous loger."
+    },
+    {
       "id": "6d7c71c70ab81192",
       "title": "L’APL revalorisée au 1er octobre",
       "summary": "Les aides personnelles au logement (APL, ALF, ALS) sont revalorisées chaque 1 er octobre en fonction de l’évolution de l’indice de référence des loyers (IRL) du 2 e trimestre de l’année en cours. Service Public vous explique.",
@@ -1434,22 +1455,22 @@
     "SDES / Sitadel": 1,
     "Insee": 1,
     "EUR-Lex": 1,
-    "Service-Public.fr": 1
+    "Service-Public.fr": 2
   },
   "health": {
     "sources_total": 15,
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 68,
-    "rejected": 1161,
+    "retained": 69,
+    "rejected": 1162,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-14T05:02:09+00:00",
+        "last_success": "2026-09-14T12:55:27+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1457,7 +1478,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-14T05:02:11+00:00",
+        "last_success": "2026-09-14T12:55:30+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1465,7 +1486,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-14T05:02:12+00:00",
+        "last_success": "2026-09-14T12:55:31+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1473,7 +1494,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-14T05:02:14+00:00",
+        "last_success": "2026-09-14T12:55:33+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1481,7 +1502,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-14T05:02:34+00:00",
+        "last_success": "2026-09-14T12:55:56+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1489,7 +1510,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-14T05:02:43+00:00",
+        "last_success": "2026-09-14T12:56:07+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1497,7 +1518,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-14T05:02:43+00:00",
+        "last_success": "2026-09-14T12:56:07+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1505,7 +1526,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-14T05:02:44+00:00",
+        "last_success": "2026-09-14T12:56:08+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1513,7 +1534,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-14T05:02:44+00:00",
+        "last_success": "2026-09-14T12:56:08+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1521,7 +1542,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-14T05:02:46+00:00",
+        "last_success": "2026-09-14T12:56:09+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1529,7 +1550,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-14T05:02:47+00:00",
+        "last_success": "2026-09-14T12:56:11+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1537,7 +1558,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-14T05:02:48+00:00",
+        "last_success": "2026-09-14T12:56:13+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1545,7 +1566,7 @@
         "ok": true,
         "status": "ok",
         "retained": 8,
-        "last_success": "2026-09-14T05:02:50+00:00",
+        "last_success": "2026-09-14T12:56:14+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1553,7 +1574,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-09-14T05:02:51+00:00",
+        "last_success": "2026-09-14T12:56:15+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1561,7 +1582,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-14T05:02:52+00:00",
+        "last_success": "2026-09-14T12:56:18+00:00",
         "fallback": false
       }
     }

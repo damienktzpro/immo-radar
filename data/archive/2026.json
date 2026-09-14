@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-14T05:02:57+00:00",
+  "generated_at": "2026-09-14T12:56:25+00:00",
   "items": [
     {
       "id": "8c88ac46c9376dc0",
@@ -1320,7 +1320,7 @@
     {
       "id": "78826affbad417af",
       "title": "À Paris, un appartement haussmannien passe de la classe F à A",
-      "summary": "31/08/2026 Près de Lille, un nouveau parc se veut un réservoir pour la biodiversité 27/08/2026",
+      "summary": "De nouvelles cabanes architecturales éclosent près de la forêt de Fontainebleau 31/08/2026 31/08/2026",
       "url": "https://www.batiactu.com/edito/a-paris-un-appartement-haussmannien-passe-classe-f-75193.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -1358,6 +1358,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Près de Lille, un nouveau parc se veut un réservoir pour la biodiversité."
+    },
+    {
+      "id": "347844a77ce64a98",
+      "title": "De nouvelles cabanes architecturales éclosent près de la forêt de Fontainebleau",
+      "summary": "31/08/2026 À Paris, un appartement haussmannien passe de la classe F à A 31/08/2026",
+      "url": "https://www.batiactu.com/edito/nouvelles-cabanes-architecturales-eclosent-dans-foret-75198.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-31T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : De nouvelles cabanes architecturales éclosent près de la forêt de Fontainebleau."
     },
     {
       "id": "f4d2d62b6e399a0a",
