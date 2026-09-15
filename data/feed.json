@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-09-15T11:51:00+00:00",
+  "generated_at": "2026-09-15T17:04:39+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "55d91d9c97f38e0b",
+      "title": "Crédit immobilier : Pretto ouvre son capital à ses courtiers",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/09/15/credit-immobilier-pretto-ouvre-son-capital-a-ses-courtiers/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Pretto ouvre son capital à ses courtiers."
+    },
     {
       "id": "daabf8fb71aa8d00",
       "title": "Immobilier Saint-Jean-de-Luz : Face à l’océan, la Villa Ugaïna à vendre 15,9 millions d’euros",
@@ -26,7 +47,7 @@
     {
       "id": "53628d863c3aed62",
       "title": "Logement : Près d’un tiers du budget des Français y passe",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/09/15/logement-pres-dun-tiers-du-budget-des-francais-y-passe/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -105,6 +126,47 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : De l’immobilier de luxe au trophy asset : comment évaluer des biens rares ?."
+    },
+    {
+      "id": "2503a6c32942a3d6",
+      "title": "Crédit immobilier : le HCSF reste inflexible CRÉDIT IMMOBILIER. Lors de sa réunion trimestrielle du 15 septembre 2026, le Haut comité de stabilité financière (HCSF) a convenu de ne pas ...",
+      "summary": "En débat 15/09/2026",
+      "url": "https://www.batiactu.com/edito/credit-immobilier-hcsf-reste-inflexible-75360.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : le HCSF reste inflexible CRÉDIT IMMOBILIER. Lors de sa réunion trimestrielle du 15 septembre 2026, le Haut…."
+    },
+    {
+      "id": "6a768cd44fd2c1a9",
+      "title": "Stéphane Plaza Immobilier rejoint We Invest",
+      "summary": "15 septembre 2026 - WIF Group a annoncé l’ajout de Stéphane Plaza Immobilier à son réseau. En effet, l’agence immobilière rejoint We Invest, et les deux marques réunies représentent [...]",
+      "url": "https://immo2.pro/actualite-immobilier/stephane-plaza-immobilier-rejoint-we-invest/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Stéphane Plaza Immobilier rejoint We Invest."
     },
     {
       "id": "6da3dad542c5cb6f",
@@ -210,9 +272,30 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Une dizaine de grandes villes défendent l'encadrement des loyers."
     },
     {
+      "id": "b1958f498f744107",
+      "title": "Fin du chauffage gaz en construction neuve : le décret est paru",
+      "summary": "L'Essentiel 14/09/2026 Décryptage Chauffage : la SNBC 3 organise la sortie progressive des chaudières gaz L'Essentiel Électrification des territoires : le gouvernement ouvre la voie à la sortie du réseau de gaz",
+      "url": "https://www.batiactu.com/edito/fin-gaz-dans-neuf-texte-est-paru-75339.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Fin du chauffage gaz en construction neuve : le décret est paru."
+    },
+    {
       "id": "a2f37fe5dd67d061",
       "title": "Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier",
-      "summary": "Investir / Financer",
+      "summary": "Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier",
       "url": "https://www.mysweetimmo.com/2026/09/11/hausse-des-taux-de-la-bce-ce-qui-change-pour-votre-credit-immobilier/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -942,27 +1025,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Zoom L'encadrement des loyers, de moins en moins respecté par les bailleurs ?."
     },
     {
-      "id": "c25e26cdfcc1915c",
-      "title": "Logement neuf : Cogedim promet 26 °C même par 40 °C",
-      "summary": "Logement neuf : Cogedim promet 26 °C même par 40 °C",
-      "url": "https://www.mysweetimmo.com/2026/09/02/logement-neuf-cogedim-promet-26-c-meme-par-40-c/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Logement neuf : Cogedim promet 26 °C même par 40 °C."
-    },
-    {
       "id": "de24e6bf96574126",
       "title": "Un négociateur arrive avec les fichiers commerciaux de son ancienne agence : gare au risque de concurrence déloyale",
       "summary": "s et partage des pistes concrètes pour réunir moins, mais surtout réunir mieux. Le 10/09/2026 à 06H14 Un négociateur quitte une agence pour rejoindre un concurrent en emportant fichiers clients et données commerciales : une situation très courante dans l’immobilier. Dans un arrêt du 2 septembre 2026, la Cour de cassation durcit sa jurisprudence : la seule détention d’informations confidentielles de l’ancien employeur peut suf",
@@ -1003,48 +1065,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Portail immobilier : idealista débarque en France avec 1 an de diffusion gratuite."
-    },
-    {
-      "id": "347844a77ce64a98",
-      "title": "De nouvelles cabanes architecturales éclosent près de la forêt de Fontainebleau",
-      "summary": "31/08/2026 À Paris, un appartement haussmannien passe de la classe F à A 31/08/2026",
-      "url": "https://www.batiactu.com/edito/nouvelles-cabanes-architecturales-eclosent-dans-foret-75198.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-31T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : De nouvelles cabanes architecturales éclosent près de la forêt de Fontainebleau."
-    },
-    {
-      "id": "78826affbad417af",
-      "title": "À Paris, un appartement haussmannien passe de la classe F à A",
-      "summary": "De nouvelles cabanes architecturales éclosent près de la forêt de Fontainebleau 31/08/2026 31/08/2026",
-      "url": "https://www.batiactu.com/edito/a-paris-un-appartement-haussmannien-passe-classe-f-75193.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-31T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : À Paris, un appartement haussmannien passe de la classe F à A."
     },
     {
       "id": "0cbc5f28ae84efd7",
@@ -1339,27 +1359,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Belles Demeures : deux nouvelles offres pour garantir une meilleure visibilité aux agences."
     },
     {
-      "id": "bdaf988e795f2c87",
-      "title": "Les réseaux Stéphane Plaza Immobilier et Sixième Avenue actent leur séparation",
-      "summary": "17 juillet 2026 - Les réseaux Stéphane Plaza Immobilier et Sixième Avenue ont officialisé leur séparation. En effet, Stéphane Plaza reprendra le contrôle de son réseau alors que le groupe M6 [...]",
-      "url": "https://immo2.pro/actualite-immobilier/les-reseaux-stephane-plaza-immobilier-et-sixieme-avenue-actent-leur-separation/",
-      "source": "Immobilier 2.0",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-17T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Les réseaux Stéphane Plaza Immobilier et Sixième Avenue actent leur séparation."
-    },
-    {
       "id": "3b2255cb7e8a6f65",
       "title": "Informations Rapides · 28 mai 2026 · n° 130 Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) Indices Notaires-Insee des prix des logements anciens - premier trimestre 2026",
       "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee false Aller au contenu Aide Thèmes Recherche English Presse Menu Menu Blog Presse Aide English Lancer la recherche sur le site Thèmes Statistiques et études Cherchez vos statistiques par… Thèmes Économie - conjoncture - comptes nationaux Démographie Entreprises Plus de thèmes… Niveaux géographiques France Toutes les régions ou tous les départements Toutes les communes Plus de ni",
@@ -1448,8 +1447,8 @@
   "source_stats": {
     "MySweetImmo": 16,
     "Journal de l'Agence": 15,
-    "Immobilier 2.0": 13,
     "Batiactu": 9,
+    "Immobilier 2.0": 13,
     "Légifrance": 1,
     "ANIL": 10,
     "SDES / Sitadel": 1,
@@ -1463,14 +1462,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 69,
-    "rejected": 1143,
+    "rejected": 1147,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-15T11:50:08+00:00",
+        "last_success": "2026-09-15T17:03:49+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1478,7 +1477,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-15T11:50:11+00:00",
+        "last_success": "2026-09-15T17:03:53+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1486,7 +1485,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-15T11:50:12+00:00",
+        "last_success": "2026-09-15T17:03:54+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1494,7 +1493,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-15T11:50:13+00:00",
+        "last_success": "2026-09-15T17:03:56+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1502,7 +1501,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-15T11:50:38+00:00",
+        "last_success": "2026-09-15T17:04:19+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1510,7 +1509,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-15T11:50:49+00:00",
+        "last_success": "2026-09-15T17:04:29+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1518,7 +1517,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-15T11:50:49+00:00",
+        "last_success": "2026-09-15T17:04:29+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1526,7 +1525,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-15T11:50:51+00:00",
+        "last_success": "2026-09-15T17:04:30+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1534,7 +1533,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-15T11:50:51+00:00",
+        "last_success": "2026-09-15T17:04:31+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1542,7 +1541,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-15T11:50:52+00:00",
+        "last_success": "2026-09-15T17:04:32+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1550,7 +1549,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-15T11:50:54+00:00",
+        "last_success": "2026-09-15T17:04:34+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1558,7 +1557,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-15T11:50:56+00:00",
+        "last_success": "2026-09-15T17:04:35+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1566,7 +1565,7 @@
         "ok": true,
         "status": "ok",
         "retained": 9,
-        "last_success": "2026-09-15T11:50:57+00:00",
+        "last_success": "2026-09-15T17:04:36+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1574,7 +1573,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-15T11:50:59+00:00",
+        "last_success": "2026-09-15T17:04:37+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1582,7 +1581,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-15T11:50:59+00:00",
+        "last_success": "2026-09-15T17:04:39+00:00",
         "fallback": false
       }
     }
