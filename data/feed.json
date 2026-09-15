@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T17:04:39+00:00",
+  "generated_at": "2026-09-15T21:25:50+00:00",
   "version": "7.1",
   "items": [
     {
@@ -26,7 +26,7 @@
     {
       "id": "daabf8fb71aa8d00",
       "title": "Immobilier Saint-Jean-de-Luz : Face à l’océan, la Villa Ugaïna à vendre 15,9 millions d’euros",
-      "summary": "Nouveau Vente",
+      "summary": "Vente",
       "url": "https://www.mysweetimmo.com/2026/09/15/immobilier-saint-jean-de-luz-face-a-locean-la-villa-ugaina-a-vendre-159-millions-deuros/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -190,13 +190,13 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : IA : SeLoger lance la Recherche Intelligente pour simplifier la recherche d’un bien immobilier."
     },
     {
-      "id": "945e86880532f810",
-      "title": "Quels sont les meilleurs chasseurs immobiliers à Paris en 2026 ?",
-      "summary": "Contenus sponsorisés Article sponsorisé",
-      "url": "https://www.mysweetimmo.com/2026/09/14/quels-sont-les-meilleurs-chasseurs-immobiliers-a-paris-en-2026/",
+      "id": "0f2653e8d4f74ff7",
+      "title": "Crédit immobilier : Les taux remontent, jusqu’où iront-ils d’ici fin 2026 ?",
+      "summary": "Investir / Financer",
+      "url": "https://www.mysweetimmo.com/2026/09/14/credit-immobilier-les-taux-remontent-jusquou-iront-ils-dici-fin-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
-      "category": "marche",
+      "category": "credit",
       "audiences": [
         "particulier",
         "investisseur",
@@ -207,8 +207,8 @@
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Quels sont les meilleurs chasseurs immobiliers à Paris en 2026 ?."
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Les taux remontent, jusqu’où iront-ils d’ici fin 2026 ?."
     },
     {
       "id": "8c88ac46c9376dc0",
@@ -295,7 +295,7 @@
     {
       "id": "a2f37fe5dd67d061",
       "title": "Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier",
-      "summary": "Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier",
+      "summary": "Investir / Financer",
       "url": "https://www.mysweetimmo.com/2026/09/11/hausse-des-taux-de-la-bce-ce-qui-change-pour-votre-credit-immobilier/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -838,7 +838,7 @@
     {
       "id": "0b88468604d15b7f",
       "title": "Immobilier : Les data centers, une bulle ? « Exactement l’inverse », répond le patron de Blackstone",
-      "summary": "Investir / Financer",
+      "summary": "Immobilier : Les data centers, une bulle ? « Exactement l’inverse », répond le patron de Blackstone",
       "url": "https://www.mysweetimmo.com/2026/09/05/immobilier-les-data-centers-une-bulle-exactement-linverse-repond-le-patron-de-blackstone/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -880,7 +880,7 @@
     {
       "id": "1b434c6170ec7280",
       "title": "Encadrement des loyers : La FNAIM demande au gouvernement de ne pas le prolonger",
-      "summary": "Politique",
+      "summary": "Encadrement des loyers : La FNAIM demande au gouvernement de ne pas le prolonger",
       "url": "https://www.mysweetimmo.com/2026/09/04/encadrement-des-loyers-la-fnaim-demande-au-gouvernement-de-ne-pas-le-prolonger/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -981,27 +981,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Villadim prend le contrôle d’Akabois et mise sur le bois."
-    },
-    {
-      "id": "6b898027065a8f77",
-      "title": "Immobilier 2026 : 955 000 ventes, mais la reprise cale",
-      "summary": "Immobilier 2026 : 955 000 ventes, mais la reprise cale",
-      "url": "https://www.mysweetimmo.com/2026/09/03/marche-immobilier-2026-la-reprise-reste-inachevee/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-03T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier 2026 : 955 000 ventes, mais la reprise cale."
     },
     {
       "id": "75e55b607cf7be2c",
@@ -1170,6 +1149,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Logements vacants : ce qui change à partir de 2027."
+    },
+    {
+      "id": "a93ae8ba6ef6ea51",
+      "title": "Diagnostic immobilier : Ce que le DPE européen dira en plus au 1er janvier 2027",
+      "summary": "Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/08/18/diagnostic-immobilier-ce-que-le-dpe-europeen-dira-en-plus-au-1er-janvier-2027/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Diagnostic immobilier : Ce que le DPE européen dira en plus au 1er janvier 2027."
     },
     {
       "id": "31c82e6b8fcdf1d2",
@@ -1469,7 +1469,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-15T17:03:49+00:00",
+        "last_success": "2026-09-15T21:24:57+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1477,7 +1477,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-15T17:03:53+00:00",
+        "last_success": "2026-09-15T21:24:59+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1485,7 +1485,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-15T17:03:54+00:00",
+        "last_success": "2026-09-15T21:25:01+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1493,7 +1493,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-15T17:03:56+00:00",
+        "last_success": "2026-09-15T21:25:02+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1501,7 +1501,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-15T17:04:19+00:00",
+        "last_success": "2026-09-15T21:25:25+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1509,7 +1509,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-15T17:04:29+00:00",
+        "last_success": "2026-09-15T21:25:39+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1517,7 +1517,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-15T17:04:29+00:00",
+        "last_success": "2026-09-15T21:25:39+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1525,7 +1525,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-15T17:04:30+00:00",
+        "last_success": "2026-09-15T21:25:40+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1533,7 +1533,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-15T17:04:31+00:00",
+        "last_success": "2026-09-15T21:25:41+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1541,7 +1541,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-15T17:04:32+00:00",
+        "last_success": "2026-09-15T21:25:42+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1549,7 +1549,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-15T17:04:34+00:00",
+        "last_success": "2026-09-15T21:25:43+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1557,7 +1557,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-15T17:04:35+00:00",
+        "last_success": "2026-09-15T21:25:45+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1565,7 +1565,7 @@
         "ok": true,
         "status": "ok",
         "retained": 9,
-        "last_success": "2026-09-15T17:04:36+00:00",
+        "last_success": "2026-09-15T21:25:47+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1573,7 +1573,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-15T17:04:37+00:00",
+        "last_success": "2026-09-15T21:25:48+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1581,7 +1581,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-15T17:04:39+00:00",
+        "last_success": "2026-09-15T21:25:50+00:00",
         "fallback": false
       }
     }
