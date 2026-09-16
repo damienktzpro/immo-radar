@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-15T21:25:50+00:00",
+  "generated_at": "2026-09-16T04:54:55+00:00",
   "version": "7.1",
   "items": [
     {
       "id": "55d91d9c97f38e0b",
       "title": "Crédit immobilier : Pretto ouvre son capital à ses courtiers",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/09/15/credit-immobilier-pretto-ouvre-son-capital-a-ses-courtiers/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -1462,14 +1462,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 69,
-    "rejected": 1147,
+    "rejected": 1168,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-15T21:24:57+00:00",
+        "last_success": "2026-09-16T04:54:17+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1477,7 +1477,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-15T21:24:59+00:00",
+        "last_success": "2026-09-16T04:54:20+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1485,7 +1485,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-15T21:25:01+00:00",
+        "last_success": "2026-09-16T04:54:21+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1493,7 +1493,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-15T21:25:02+00:00",
+        "last_success": "2026-09-16T04:54:22+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1501,7 +1501,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-15T21:25:25+00:00",
+        "last_success": "2026-09-16T04:54:37+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1509,7 +1509,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-15T21:25:39+00:00",
+        "last_success": "2026-09-16T04:54:46+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1517,7 +1517,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-15T21:25:39+00:00",
+        "last_success": "2026-09-16T04:54:46+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1525,7 +1525,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-15T21:25:40+00:00",
+        "last_success": "2026-09-16T04:54:47+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1533,7 +1533,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-15T21:25:41+00:00",
+        "last_success": "2026-09-16T04:54:47+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1541,7 +1541,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-15T21:25:42+00:00",
+        "last_success": "2026-09-16T04:54:48+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1549,7 +1549,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-15T21:25:43+00:00",
+        "last_success": "2026-09-16T04:54:50+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1557,7 +1557,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-15T21:25:45+00:00",
+        "last_success": "2026-09-16T04:54:51+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1565,7 +1565,7 @@
         "ok": true,
         "status": "ok",
         "retained": 9,
-        "last_success": "2026-09-15T21:25:47+00:00",
+        "last_success": "2026-09-16T04:54:53+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1573,7 +1573,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-15T21:25:48+00:00",
+        "last_success": "2026-09-16T04:54:54+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1581,7 +1581,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-15T21:25:50+00:00",
+        "last_success": "2026-09-16T04:54:54+00:00",
         "fallback": false
       }
     }

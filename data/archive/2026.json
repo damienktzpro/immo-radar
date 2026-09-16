@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-15T21:25:53+00:00",
+  "generated_at": "2026-09-16T04:55:01+00:00",
   "items": [
     {
       "id": "039d6e6b0a6976b0",
@@ -131,7 +131,7 @@
     {
       "id": "55d91d9c97f38e0b",
       "title": "Crédit immobilier : Pretto ouvre son capital à ses courtiers",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/09/15/credit-immobilier-pretto-ouvre-son-capital-a-ses-courtiers/",
       "source": "MySweetImmo",
       "source_level": "C",
