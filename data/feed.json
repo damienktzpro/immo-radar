@@ -1,7 +1,70 @@
 {
-  "generated_at": "2026-09-16T04:54:55+00:00",
+  "generated_at": "2026-09-16T11:43:02+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "29140ed23bc404e7",
+      "title": "Encadrement des loyers : « On décourage ceux qui sont indispensables pour loger les Franciliens », Olivier Princivalle",
+      "summary": "Nouveau Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/09/16/encadrement-des-loyers-on-decourage-ceux-qui-sont-indispensables-pour-loger-les-franciliens-olivier-princivalle/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Encadrement des loyers : « On décourage ceux qui sont indispensables pour loger les Franciliens », Olivier Princivalle."
+    },
+    {
+      "id": "d6ea66913a50d937",
+      "title": "Immobilier neuf : Les prix en baisse dans 6 villes sur 10",
+      "summary": "Nouveau Neuf",
+      "url": "https://www.mysweetimmo.com/2026/09/16/immobilier-neuf-les-prix-en-baisse-dans-6-villes-sur-10/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier neuf : Les prix en baisse dans 6 villes sur 10."
+    },
+    {
+      "id": "9d3cee4e2c35ce4d",
+      "title": "Agents immobiliers : avant de gérer les objections, apprenez à gérer vos propres réactions",
+      "summary": "Le 16/09/2026 à 06H56 Dans un rendez-vous vendeur, quelques secondes suffisent parfois pour perdre la main : une estimation refusée, des honoraires contestés, une exclusivité refusée… et le conseiller se met à argumenter avant même d'avoir réellement écouté. Dominique Piredda, coach et formateur immobilier nous invite à regarder non plus seulement les réactions de nos clients, mais aussi ce qu'elles déclenchent chez nous. La l",
+      "url": "https://www.journaldelagence.com/1413593-agents-immobiliers-avant-de-gerer-les-objections-apprenez-a-gerer-vos-propres-reactions",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : avant de gérer les objections, apprenez à gérer vos propres réactions."
+    },
     {
       "id": "55d91d9c97f38e0b",
       "title": "Crédit immobilier : Pretto ouvre son capital à ses courtiers",
@@ -47,7 +110,7 @@
     {
       "id": "53628d863c3aed62",
       "title": "Logement : Près d’un tiers du budget des Français y passe",
-      "summary": "Marché immobilier",
+      "summary": "Logement : Près d’un tiers du budget des Français y passe",
       "url": "https://www.mysweetimmo.com/2026/09/15/logement-pres-dun-tiers-du-budget-des-francais-y-passe/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -63,12 +126,12 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Logement : Près d’un tiers du budget des Français y passe."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : Près d’un tiers du budget des Français y passe."
     },
     {
       "id": "7077149706963e64",
       "title": "La loi Hoguet a-t-elle fragilisé le métier d’agent immobilier ?",
-      "summary": "Le 15/09/2026 à 07H44 Depuis plus de cinquante ans, la profession d’agent immobilier en France est régie par la loi Hoguet. Ce texte fondateur a permis d’encadrer une activité sensible : la transaction immobilière. Mais avec le temps, une question se pose : ce cadre réglementaire favorise-t-il réellement la qualité du service rendu aux clients ? Tribune d'Antoine Mesnard. SeLoger intègre l’IA à son moteur de recherche : ce que",
+      "summary": "ent les réactions de nos clients, mais aussi ce qu'elles déclenchent chez nous. Le 15/09/2026 à 07H44 Depuis plus de cinquante ans, la profession d’agent immobilier en France est régie par la loi Hoguet. Ce texte fondateur a permis d’encadrer une activité sensible : la transaction immobilière. Mais avec le temps, une question se pose : ce cadre réglementaire favorise-t-il réellement la qualité du service rendu aux clients ? T",
       "url": "https://www.journaldelagence.com/1413575-la-loi-hoguet-a-t-elle-fragilise-le-metier-dagent-immobilier",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -295,7 +358,7 @@
     {
       "id": "a2f37fe5dd67d061",
       "title": "Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier",
-      "summary": "Investir / Financer",
+      "summary": "Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier",
       "url": "https://www.mysweetimmo.com/2026/09/11/hausse-des-taux-de-la-bce-ce-qui-change-pour-votre-credit-immobilier/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -878,27 +941,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : IA : « Résidences Immobilier accélère sur la Tech », Nicolas Faure, directeur général."
     },
     {
-      "id": "1b434c6170ec7280",
-      "title": "Encadrement des loyers : La FNAIM demande au gouvernement de ne pas le prolonger",
-      "summary": "Encadrement des loyers : La FNAIM demande au gouvernement de ne pas le prolonger",
-      "url": "https://www.mysweetimmo.com/2026/09/04/encadrement-des-loyers-la-fnaim-demande-au-gouvernement-de-ne-pas-le-prolonger/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-04T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Encadrement des loyers : La FNAIM demande au gouvernement de ne pas le prolonger."
-    },
-    {
       "id": "893321344b32106e",
       "title": "Olivier Salleron nommé président de SMABTP",
       "summary": "int sur les principales mesures à connaître pour mieux accompagner vos clients. Le 04/09/2026 à 11H23 Élu en juin dernier à la tête de SMABTP, Olivier Salleron prend officiellement ses fonctions de président de la mutuelle d’assurance ce 1er septembre 2026. Il succède à Jacques Chanut et devient le 23e président de l’organisation. Crédits immobiliers : la hausse des taux se confirme en septembre Le 04/09/2026 à 06H39 Après pl",
@@ -920,27 +962,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Olivier Salleron nommé président de SMABTP."
     },
     {
-      "id": "b4bd53057b481ced",
-      "title": "Crédits immobiliers : la hausse des taux se confirme en septembre",
-      "summary": "026. Il succède à Jacques Chanut et devient le 23e président de l’organisation. Le 04/09/2026 à 06H39 Après plusieurs mois d’accalmie, les taux de crédit immobilier repartent à la hausse. En cette rentrée, la majorité des banques ont relevé leurs barèmes de 10 à 20 points de base, dans un contexte marqué par l’envolée de l’OAT 10 ans, les incertitudes budgétaires et le retour des tensions inflationnistes. Jusqu’où cette remon",
-      "url": "https://www.journaldelagence.com/1413408-credits-immobiliers-la-hausse-des-taux-se-confirme-en-septembre",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "credit",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-04T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Credit",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédits immobiliers : la hausse des taux se confirme en septembre."
-    },
-    {
       "id": "65ddedab971bab63",
       "title": "Votre logement a été touché par un incendie, une tempête ou un autre phénomène climatique ?",
       "summary": "03 septembre 2026 Vous ne savez pas par où commencer vos démarches ? Le réseau des ADIL est là pour vous accompagner, gratuitement et en toute neutralité.",
@@ -960,27 +981,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Votre logement a été touché par un incendie, une tempête ou un autre phénomène climatique ?."
-    },
-    {
-      "id": "967526c63cb0396a",
-      "title": "Immobilier : Villadim prend le contrôle d’Akabois et mise sur le bois",
-      "summary": "Immobilier : Villadim prend le contrôle d’Akabois et mise sur le bois",
-      "url": "https://www.mysweetimmo.com/2026/09/03/immobilier-villadim-prend-le-controle-dakabois-et-mise-sur-le-bois/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-03T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Villadim prend le contrôle d’Akabois et mise sur le bois."
     },
     {
       "id": "75e55b607cf7be2c",
@@ -1462,14 +1462,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 69,
-    "rejected": 1168,
+    "rejected": 1167,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-16T04:54:17+00:00",
+        "last_success": "2026-09-16T11:42:23+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1477,7 +1477,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-16T04:54:20+00:00",
+        "last_success": "2026-09-16T11:42:24+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1485,7 +1485,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-16T04:54:21+00:00",
+        "last_success": "2026-09-16T11:42:25+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1493,7 +1493,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-16T04:54:22+00:00",
+        "last_success": "2026-09-16T11:42:26+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1501,7 +1501,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-16T04:54:37+00:00",
+        "last_success": "2026-09-16T11:42:44+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1509,7 +1509,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-16T04:54:46+00:00",
+        "last_success": "2026-09-16T11:42:52+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1517,7 +1517,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-16T04:54:46+00:00",
+        "last_success": "2026-09-16T11:42:52+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1525,7 +1525,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-16T04:54:47+00:00",
+        "last_success": "2026-09-16T11:42:53+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1533,7 +1533,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-16T04:54:47+00:00",
+        "last_success": "2026-09-16T11:42:53+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1541,7 +1541,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-16T04:54:48+00:00",
+        "last_success": "2026-09-16T11:42:54+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1549,7 +1549,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-16T04:54:50+00:00",
+        "last_success": "2026-09-16T11:42:56+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1557,7 +1557,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-16T04:54:51+00:00",
+        "last_success": "2026-09-16T11:42:57+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1565,7 +1565,7 @@
         "ok": true,
         "status": "ok",
         "retained": 9,
-        "last_success": "2026-09-16T04:54:53+00:00",
+        "last_success": "2026-09-16T11:42:59+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1573,7 +1573,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-16T04:54:54+00:00",
+        "last_success": "2026-09-16T11:42:59+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1581,7 +1581,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-16T04:54:54+00:00",
+        "last_success": "2026-09-16T11:43:01+00:00",
         "fallback": false
       }
     }

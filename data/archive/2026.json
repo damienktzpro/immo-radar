@@ -1,8 +1,71 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-16T04:55:01+00:00",
+  "generated_at": "2026-09-16T11:43:07+00:00",
   "items": [
+    {
+      "id": "29140ed23bc404e7",
+      "title": "Encadrement des loyers : « On décourage ceux qui sont indispensables pour loger les Franciliens », Olivier Princivalle",
+      "summary": "Nouveau Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/09/16/encadrement-des-loyers-on-decourage-ceux-qui-sont-indispensables-pour-loger-les-franciliens-olivier-princivalle/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Encadrement des loyers : « On décourage ceux qui sont indispensables pour loger les Franciliens », Olivier Princivalle."
+    },
+    {
+      "id": "d6ea66913a50d937",
+      "title": "Immobilier neuf : Les prix en baisse dans 6 villes sur 10",
+      "summary": "Nouveau Neuf",
+      "url": "https://www.mysweetimmo.com/2026/09/16/immobilier-neuf-les-prix-en-baisse-dans-6-villes-sur-10/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier neuf : Les prix en baisse dans 6 villes sur 10."
+    },
+    {
+      "id": "9d3cee4e2c35ce4d",
+      "title": "Agents immobiliers : avant de gérer les objections, apprenez à gérer vos propres réactions",
+      "summary": "Le 16/09/2026 à 06H56 Dans un rendez-vous vendeur, quelques secondes suffisent parfois pour perdre la main : une estimation refusée, des honoraires contestés, une exclusivité refusée… et le conseiller se met à argumenter avant même d'avoir réellement écouté. Dominique Piredda, coach et formateur immobilier nous invite à regarder non plus seulement les réactions de nos clients, mais aussi ce qu'elles déclenchent chez nous. La l",
+      "url": "https://www.journaldelagence.com/1413593-agents-immobiliers-avant-de-gerer-les-objections-apprenez-a-gerer-vos-propres-reactions",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : avant de gérer les objections, apprenez à gérer vos propres réactions."
+    },
     {
       "id": "039d6e6b0a6976b0",
       "title": "De l’immobilier de luxe au trophy asset : comment évaluer des biens rares ?",
@@ -48,7 +111,7 @@
     {
       "id": "53628d863c3aed62",
       "title": "Logement : Près d’un tiers du budget des Français y passe",
-      "summary": "Marché immobilier",
+      "summary": "Logement : Près d’un tiers du budget des Français y passe",
       "url": "https://www.mysweetimmo.com/2026/09/15/logement-pres-dun-tiers-du-budget-des-francais-y-passe/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -64,12 +127,12 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Logement : Près d’un tiers du budget des Français y passe."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : Près d’un tiers du budget des Français y passe."
     },
     {
       "id": "7077149706963e64",
       "title": "La loi Hoguet a-t-elle fragilisé le métier d’agent immobilier ?",
-      "summary": "Le 15/09/2026 à 07H44 Depuis plus de cinquante ans, la profession d’agent immobilier en France est régie par la loi Hoguet. Ce texte fondateur a permis d’encadrer une activité sensible : la transaction immobilière. Mais avec le temps, une question se pose : ce cadre réglementaire favorise-t-il réellement la qualité du service rendu aux clients ? Tribune d'Antoine Mesnard. SeLoger intègre l’IA à son moteur de recherche : ce que",
+      "summary": "ent les réactions de nos clients, mais aussi ce qu'elles déclenchent chez nous. Le 15/09/2026 à 07H44 Depuis plus de cinquante ans, la profession d’agent immobilier en France est régie par la loi Hoguet. Ce texte fondateur a permis d’encadrer une activité sensible : la transaction immobilière. Mais avec le temps, une question se pose : ce cadre réglementaire favorise-t-il réellement la qualité du service rendu aux clients ? T",
       "url": "https://www.journaldelagence.com/1413575-la-loi-hoguet-a-t-elle-fragilise-le-metier-dagent-immobilier",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -358,7 +421,7 @@
     {
       "id": "a2f37fe5dd67d061",
       "title": "Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier",
-      "summary": "Investir / Financer",
+      "summary": "Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier",
       "url": "https://www.mysweetimmo.com/2026/09/11/hausse-des-taux-de-la-bce-ce-qui-change-pour-votre-credit-immobilier/",
       "source": "MySweetImmo",
       "source_level": "C",
