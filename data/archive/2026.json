@@ -1,12 +1,12 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-16T17:04:13+00:00",
+  "generated_at": "2026-09-16T21:22:30+00:00",
   "items": [
     {
       "id": "29140ed23bc404e7",
       "title": "Encadrement des loyers : « On décourage ceux qui sont indispensables pour loger les Franciliens », Olivier Princivalle",
-      "summary": "Nouveau Règlementation",
+      "summary": "Règlementation",
       "url": "https://www.mysweetimmo.com/2026/09/16/encadrement-des-loyers-on-decourage-ceux-qui-sont-indispensables-pour-loger-les-franciliens-olivier-princivalle/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -127,6 +127,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : CEE, DPE : B. Retailleau veut faire le ménage dans les dispositifs de transition énergétique."
+    },
+    {
+      "id": "8fcb6a3461823392",
+      "title": "Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudiants, confrontés à une offre de plus en plus onéreuse et éclatée.",
+      "summary": "Tribune \"Confort d'été : cessons de pénaliser le rafraîchissement des logements neufs\", F. Hovorka (FPI) LE REGARD DE FRANK HOVORKA. Pour le directeur technique et innovation de la Fédération des promoteurs immobiliers (FPI), la réglementation doit ... 16/09/2026 16/09/2026",
+      "url": "https://www.batiactu.com/edito/crise-logement-frappe-plein-fouet-etudiants-75374.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudian…."
     },
     {
       "id": "039d6e6b0a6976b0",
