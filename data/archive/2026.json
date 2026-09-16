@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-16T11:43:07+00:00",
+  "generated_at": "2026-09-16T17:04:13+00:00",
   "items": [
     {
       "id": "29140ed23bc404e7",
@@ -27,7 +27,7 @@
     {
       "id": "d6ea66913a50d937",
       "title": "Immobilier neuf : Les prix en baisse dans 6 villes sur 10",
-      "summary": "Nouveau Neuf",
+      "summary": "Neuf",
       "url": "https://www.mysweetimmo.com/2026/09/16/immobilier-neuf-les-prix-en-baisse-dans-6-villes-sur-10/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -48,7 +48,7 @@
     {
       "id": "9d3cee4e2c35ce4d",
       "title": "Agents immobiliers : avant de gérer les objections, apprenez à gérer vos propres réactions",
-      "summary": "Le 16/09/2026 à 06H56 Dans un rendez-vous vendeur, quelques secondes suffisent parfois pour perdre la main : une estimation refusée, des honoraires contestés, une exclusivité refusée… et le conseiller se met à argumenter avant même d'avoir réellement écouté. Dominique Piredda, coach et formateur immobilier nous invite à regarder non plus seulement les réactions de nos clients, mais aussi ce qu'elles déclenchent chez nous. La l",
+      "summary": "pratiques. Aujourd'hui, vous avez rendez-vous avec Elfie Prissette, ostéopathe. Le 16/09/2026 à 06H56 Dans un rendez-vous vendeur, quelques secondes suffisent parfois pour perdre la main : une estimation refusée, des honoraires contestés, une exclusivité refusée… et le conseiller se met à argumenter avant même d'avoir réellement écouté. Dominique Piredda, coach et formateur immobilier nous invite à regarder non plus seulement",
       "url": "https://www.journaldelagence.com/1413593-agents-immobiliers-avant-de-gerer-les-objections-apprenez-a-gerer-vos-propres-reactions",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -65,6 +65,68 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : avant de gérer les objections, apprenez à gérer vos propres réactions."
+    },
+    {
+      "id": "de2e4800a33b3a3f",
+      "title": "Agents immobiliers : votre corps est votre premier outil de travail, prenez-en soin",
+      "summary": "Le 16/09/2026 à 13H48 Écran, téléphone, voiture, visites… Le métier d’agent immobilier met le corps à contribution bien plus qu’on ne l’imagine. Douleurs cervicales, tensions lombaires ou épaules contractées peuvent ainsi s’installer au fil des journées. Parce que la forme physique est aussi un véritable outil de travail, le réseau Dr House Immo a choisi de donner la parole à des professionnels de santé et de partager leurs co",
+      "url": "https://www.journaldelagence.com/1413614-agents-immobiliers-votre-corps-est-votre-premier-outil-de-travail-prenez-en-soin",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Agents immobiliers : votre corps est votre premier outil de travail, prenez-en soin."
+    },
+    {
+      "id": "b38ea195bb1b0c3c",
+      "title": "Lyon à 50° : comment adapter la ville ? RÉCHAUFFEMENT CLIMATIQUE. Alors que les épisodes caniculaires se sont multipliés cet été, Lyon a dû composer avec des températures de plus en ...",
+      "summary": "Décryptage 16/09/2026 Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudiants, qui sont confrontés à une offre de plus onéreuse et éclatée. 16/09/2026",
+      "url": "https://www.batiactu.com/edito/lyon-a-50-comment-adapter-ville-75373.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Lyon à 50° : comment adapter la ville ? RÉCHAUFFEMENT CLIMATIQUE. Alors que les épisodes caniculaires se sont multipliés cet ét…."
+    },
+    {
+      "id": "fbeafa3893cd95e6",
+      "title": "CEE, DPE : B. Retailleau veut faire le ménage dans les dispositifs de transition énergétique",
+      "summary": "L'Essentiel 16/09/2026 En débat Raphaël Glucksmann prône \"la rénovation thermique des bâtiments\" et une \"révolution écologique\" En débat Marine Le Pen veut faire du logement son \"grand chantier national\", des acteurs réagissent",
+      "url": "https://www.batiactu.com/edito/cee-dpe-bretailleau-veut-faire-menage-dans-dispositifs-75369.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : CEE, DPE : B. Retailleau veut faire le ménage dans les dispositifs de transition énergétique."
     },
     {
       "id": "039d6e6b0a6976b0",
