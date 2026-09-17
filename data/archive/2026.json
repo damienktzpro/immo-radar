@@ -1,8 +1,28 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-16T21:22:30+00:00",
+  "generated_at": "2026-09-17T04:58:33+00:00",
   "items": [
+    {
+      "id": "5bdc805aca399f17",
+      "title": "Au-delà du prix et de la vente : ce qui fait vraiment la satisfaction d’un vendeur",
+      "summary": "Le 17/09/2026 à 06H29 Un vendeur peut obtenir exactement le montant qu'il s'était fixé et rester déçu. Ce n'est pas une impression de terrain, c'est un résultat mesuré sur des transactions réelles. Et pendant ce temps, dans le Baromètre de la Décision Immobilière, qui a mobilisé plus de 800 professionnels, 44 % de ceux qui ont répondu au questionnaire approfondi déclarent n'avoir jamais pensé à demander à leur vendeur, en cour",
+      "url": "https://www.journaldelagence.com/1413601-au-dela-du-prix-et-de-la-vente-ce-qui-fait-vraiment-la-satisfaction-dun-vendeur",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Au-delà du prix et de la vente : ce qui fait vraiment la satisfaction d’un vendeur."
+    },
     {
       "id": "29140ed23bc404e7",
       "title": "Encadrement des loyers : « On décourage ceux qui sont indispensables pour loger les Franciliens », Olivier Princivalle",
@@ -69,7 +89,7 @@
     {
       "id": "de2e4800a33b3a3f",
       "title": "Agents immobiliers : votre corps est votre premier outil de travail, prenez-en soin",
-      "summary": "Le 16/09/2026 à 13H48 Écran, téléphone, voiture, visites… Le métier d’agent immobilier met le corps à contribution bien plus qu’on ne l’imagine. Douleurs cervicales, tensions lombaires ou épaules contractées peuvent ainsi s’installer au fil des journées. Parce que la forme physique est aussi un véritable outil de travail, le réseau Dr House Immo a choisi de donner la parole à des professionnels de santé et de partager leurs co",
+      "summary": "grave le problème au lieu de le résoudre, et livre un protocole en cinq étapes. Le 16/09/2026 à 13H48 Écran, téléphone, voiture, visites… Le métier d’agent immobilier met le corps à contribution bien plus qu’on ne l’imagine. Douleurs cervicales, tensions lombaires ou épaules contractées peuvent ainsi s’installer au fil des journées. Parce que la forme physique est aussi un véritable outil de travail, le réseau Dr House Immo a",
       "url": "https://www.journaldelagence.com/1413614-agents-immobiliers-votre-corps-est-votre-premier-outil-de-travail-prenez-en-soin",
       "source": "Journal de l'Agence",
       "source_level": "C",
