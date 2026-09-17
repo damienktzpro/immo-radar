@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-17T17:04:59+00:00",
+  "generated_at": "2026-09-17T21:27:02+00:00",
   "items": [
     {
       "id": "5bdc805aca399f17",
@@ -47,7 +47,7 @@
     {
       "id": "5f6868243d1288ed",
       "title": "Journées du Patrimoine : Pourquoi vendre un château peut prendre 2 ans",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/09/17/journees-du-patrimoine-pourquoi-vendre-un-chateau-peut-prendre-2-ans/",
       "source": "MySweetImmo",
       "source_level": "C",
