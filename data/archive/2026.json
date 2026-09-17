@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-17T11:48:33+00:00",
+  "generated_at": "2026-09-17T17:04:59+00:00",
   "items": [
     {
       "id": "5bdc805aca399f17",
@@ -22,27 +22,6 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Au-delà du prix et de la vente : ce qui fait vraiment la satisfaction d’un vendeur."
-    },
-    {
-      "id": "8fcb6a3461823392",
-      "title": "Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudiants, confrontés à une offre de plus en plus onéreuse et éclatée.",
-      "summary": "Réactions Compromis ministériel sur la Rep : la FFB dit \"non\" ! ÉCONOMIE CIRCULAIRE. La Fédération française du bâtiment (FFB) fait savoir son opposition au dernier projet de refondation de la Rep PMCB ... 17/09/2026 16/09/2026",
-      "url": "https://www.batiactu.com/edito/crise-logement-frappe-plein-fouet-etudiants-75374.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-17T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudian…."
     },
     {
       "id": "fde44df20490e42d",
@@ -105,6 +84,69 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Taxe foncière : après une hausse contenue en 2026, à quoi faut-il s’attendre en 2027 ?."
+    },
+    {
+      "id": "538b25ded75bbbb5",
+      "title": "4,3 % en novembre 2023",
+      "summary": "Comment accompagner les vendeurs face à la baisse des prix ? La baisse des prix se confirme dans le secteur de l’immobilier. Pourtant, la plupart des vendeurs se montrent toujours réticents à l’idée de revoir leurs prétentions. C’est là que réside tout le défi pour les professionnels de l’immobilier. Pour aider les propriétaires à prendre conscience de cette nouvelle réalité, vous devez impérativement leur faire part des conte",
+      "url": "https://www.empruntis.com/financement/actualites/historique-taux-credit-immobilier.php#graph",
+      "source": "Horiz.io",
+      "source_level": "D",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 66,
+      "relevance": 66,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source expert / blog à confronter aux données officielles. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : 4,3 % en novembre 2023."
+    },
+    {
+      "id": "2b362f8b0a74d3b2",
+      "title": "Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spécialiste du LMNP. 17 Septembre 2026",
+      "summary": "Déclaration LMNP 2026 : le guide complet Si vous êtes ici, c'est que vous avez décidé de louer sous statut LMNP. Bon choix ! Maintenant, il reste la partie des papiers avec la fameuse déclaration LMNP. Pas de panique, nous vous guidons dans cet article ! 15 Septembre 2026 LMNP et charges déductibles 2026 : explications Le statut LMNP propose un certain nombre d’avantages, mais également de spécificités, notamment concernant le",
+      "url": "https://horiz.io/investissement-immobilier/interview-de-florian-investir-en-meuble-en-lmnp",
+      "source": "Horiz.io",
+      "source_level": "D",
+      "category": "investir",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-09-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 66,
+      "relevance": 66,
+      "territory": "France",
+      "topic": "Investir",
+      "why_it_matters": "Source expert / blog à confronter aux données officielles. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spéciali…."
+    },
+    {
+      "id": "8fcb6a3461823392",
+      "title": "Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudiants, confrontés à une offre de plus en plus onéreuse et éclatée.",
+      "summary": "16/09/2026",
+      "url": "https://www.batiactu.com/edito/crise-logement-frappe-plein-fouet-etudiants-75374.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudian…."
     },
     {
       "id": "29140ed23bc404e7",

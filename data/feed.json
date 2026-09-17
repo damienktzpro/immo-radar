@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:48:30+00:00",
+  "generated_at": "2026-09-17T17:04:54+00:00",
   "version": "7.1",
   "items": [
     {
@@ -85,12 +85,12 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Au-delà du prix et de la vente : ce qui fait vraiment la satisfaction d’un vendeur."
     },
     {
-      "id": "8fcb6a3461823392",
-      "title": "Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudiants, confrontés à une offre de plus en plus onéreuse et éclatée.",
-      "summary": "Réactions Compromis ministériel sur la Rep : la FFB dit \"non\" ! ÉCONOMIE CIRCULAIRE. La Fédération française du bâtiment (FFB) fait savoir son opposition au dernier projet de refondation de la Rep PMCB ... 17/09/2026 16/09/2026",
-      "url": "https://www.batiactu.com/edito/crise-logement-frappe-plein-fouet-etudiants-75374.php",
-      "source": "Batiactu",
-      "source_level": "C",
+      "id": "538b25ded75bbbb5",
+      "title": "4,3 % en novembre 2023",
+      "summary": "Comment accompagner les vendeurs face à la baisse des prix ? La baisse des prix se confirme dans le secteur de l’immobilier. Pourtant, la plupart des vendeurs se montrent toujours réticents à l’idée de revoir leurs prétentions. C’est là que réside tout le défi pour les professionnels de l’immobilier. Pour aider les propriétaires à prendre conscience de cette nouvelle réalité, vous devez impérativement leur faire part des conte",
+      "url": "https://www.empruntis.com/financement/actualites/historique-taux-credit-immobilier.php#graph",
+      "source": "Horiz.io",
+      "source_level": "D",
       "category": "marche",
       "audiences": [
         "particulier",
@@ -99,11 +99,32 @@
       ],
       "published_at": "2026-09-17T09:00:00+00:00",
       "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
+      "importance": 66,
+      "relevance": 66,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudian…."
+      "why_it_matters": "Source expert / blog à confronter aux données officielles. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : 4,3 % en novembre 2023."
+    },
+    {
+      "id": "2b362f8b0a74d3b2",
+      "title": "Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spécialiste du LMNP. 17 Septembre 2026",
+      "summary": "Déclaration LMNP 2026 : le guide complet Si vous êtes ici, c'est que vous avez décidé de louer sous statut LMNP. Bon choix ! Maintenant, il reste la partie des papiers avec la fameuse déclaration LMNP. Pas de panique, nous vous guidons dans cet article ! 15 Septembre 2026 LMNP et charges déductibles 2026 : explications Le statut LMNP propose un certain nombre d’avantages, mais également de spécificités, notamment concernant le",
+      "url": "https://horiz.io/investissement-immobilier/interview-de-florian-investir-en-meuble-en-lmnp",
+      "source": "Horiz.io",
+      "source_level": "D",
+      "category": "investir",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-09-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 66,
+      "relevance": 66,
+      "territory": "France",
+      "topic": "Investir",
+      "why_it_matters": "Source expert / blog à confronter aux données officielles. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spéciali…."
     },
     {
       "id": "d6ea66913a50d937",
@@ -166,6 +187,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : avant de gérer les objections, apprenez à gérer vos propres réactions."
+    },
+    {
+      "id": "8fcb6a3461823392",
+      "title": "Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudiants, confrontés à une offre de plus en plus onéreuse et éclatée.",
+      "summary": "16/09/2026",
+      "url": "https://www.batiactu.com/edito/crise-logement-frappe-plein-fouet-etudiants-75374.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudian…."
     },
     {
       "id": "fbeafa3893cd95e6",
@@ -1022,27 +1064,6 @@
       "why_it_matters": "Source institutionnelle. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Votre logement a été touché par un incendie, une tempête ou un autre phénomène climatique ?."
     },
     {
-      "id": "75e55b607cf7be2c",
-      "title": "Zoom L'encadrement des loyers, de moins en moins respecté par les bailleurs ?",
-      "summary": "03/09/2026 L'Essentiel Encadrement des loyers : le ministre lance une concertation avec les maires concernés Analyse Encadrement des loyers : le rapport Chapelle-Fack pointe les limites du dispositif L'Essentiel Cinquante maires se mobilisent pour pérenniser l'encadrement des loyers",
-      "url": "https://www.batiactu.com/edito/encadrement-loyers-est-moins-moins-respecte-par-bailleurs-75241.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "investisseur",
-        "pro",
-        "particulier"
-      ],
-      "published_at": "2026-09-03T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Zoom L'encadrement des loyers, de moins en moins respecté par les bailleurs ?."
-    },
-    {
       "id": "de24e6bf96574126",
       "title": "Un négociateur arrive avec les fichiers commerciaux de son ancienne agence : gare au risque de concurrence déloyale",
       "summary": "s et partage des pistes concrètes pour réunir moins, mais surtout réunir mieux. Le 10/09/2026 à 06H14 Un négociateur quitte une agence pour rejoindre un concurrent en emportant fichiers clients et données commerciales : une situation très courante dans l’immobilier. Dans un arrêt du 2 septembre 2026, la Cour de cassation durcit sa jurisprudence : la seule détention d’informations confidentielles de l’ancien employeur peut suf",
@@ -1486,7 +1507,8 @@
   "source_stats": {
     "MySweetImmo": 16,
     "Journal de l'Agence": 15,
-    "Batiactu": 11,
+    "Horiz.io": 2,
+    "Batiactu": 10,
     "Immobilier 2.0": 13,
     "Légifrance": 1,
     "ANIL": 10,
@@ -1500,15 +1522,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 71,
-    "rejected": 1155,
+    "retained": 72,
+    "rejected": 1152,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-17T11:47:32+00:00",
+        "last_success": "2026-09-17T17:04:05+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1516,7 +1538,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-17T11:47:36+00:00",
+        "last_success": "2026-09-17T17:04:08+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1524,7 +1546,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-17T11:47:37+00:00",
+        "last_success": "2026-09-17T17:04:09+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1532,7 +1554,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-17T11:47:39+00:00",
+        "last_success": "2026-09-17T17:04:11+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1540,7 +1562,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-17T11:48:00+00:00",
+        "last_success": "2026-09-17T17:04:31+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1548,7 +1570,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-17T11:48:11+00:00",
+        "last_success": "2026-09-17T17:04:42+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1556,7 +1578,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-17T11:48:11+00:00",
+        "last_success": "2026-09-17T17:04:42+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1564,7 +1586,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-17T11:48:13+00:00",
+        "last_success": "2026-09-17T17:04:43+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1572,7 +1594,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-17T11:48:13+00:00",
+        "last_success": "2026-09-17T17:04:44+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1580,7 +1602,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-17T11:48:14+00:00",
+        "last_success": "2026-09-17T17:04:45+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1588,7 +1610,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-17T11:48:16+00:00",
+        "last_success": "2026-09-17T17:04:47+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1596,15 +1618,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-17T11:48:25+00:00",
+        "last_success": "2026-09-17T17:04:48+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 11,
-        "last_success": "2026-09-17T11:48:27+00:00",
+        "retained": 10,
+        "last_success": "2026-09-17T17:04:50+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1612,15 +1634,15 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-17T11:48:28+00:00",
+        "last_success": "2026-09-17T17:04:51+00:00",
         "fallback": false
       },
       "Horiz.io": {
         "level": "D",
         "ok": true,
         "status": "ok",
-        "retained": 1,
-        "last_success": "2026-09-17T11:48:30+00:00",
+        "retained": 3,
+        "last_success": "2026-09-17T17:04:53+00:00",
         "fallback": false
       }
     }
