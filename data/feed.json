@@ -1,11 +1,73 @@
 {
-  "generated_at": "2026-09-17T04:58:26+00:00",
+  "generated_at": "2026-09-17T11:48:30+00:00",
   "version": "7.1",
   "items": [
     {
+      "id": "fde44df20490e42d",
+      "title": "Immobilier Corrèze : Les 4 agences de Laurence Monteil Combabessou rejoignent Nestenn",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/09/17/immobilier-correze-les-4-agences-de-laurence-monteil-combabessou-rejoignent-nestenn/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Corrèze : Les 4 agences de Laurence Monteil Combabessou rejoignent Nestenn."
+    },
+    {
+      "id": "5f6868243d1288ed",
+      "title": "Journées du Patrimoine : Pourquoi vendre un château peut prendre 2 ans",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/09/17/journees-du-patrimoine-pourquoi-vendre-un-chateau-peut-prendre-2-ans/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Journées du Patrimoine : Pourquoi vendre un château peut prendre 2 ans."
+    },
+    {
+      "id": "a5b65f668c69bc9a",
+      "title": "Taxe foncière : après une hausse contenue en 2026, à quoi faut-il s’attendre en 2027 ?",
+      "summary": "Le 17/09/2026 à 07H05 Après une année 2026 marquée par une hausse contenue de la taxe foncière, l’accalmie pourrait être de courte durée. En 2027, la revalorisation des bases cadastrales pourrait approcher 3 %, tandis que la mise à jour de certaines caractéristiques des logements pourrait également alourdir la note de certains propriétaires. Sans céder aux annonces alarmistes, voici ce que les professionnels de l’immobilier do",
+      "url": "https://www.journaldelagence.com/1413623-taxe-fonciere-apres-une-hausse-contenue-en-2026-a-quoi-faut-il-sattendre-en-2027",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Taxe foncière : après une hausse contenue en 2026, à quoi faut-il s’attendre en 2027 ?."
+    },
+    {
       "id": "5bdc805aca399f17",
       "title": "Au-delà du prix et de la vente : ce qui fait vraiment la satisfaction d’un vendeur",
-      "summary": "Le 17/09/2026 à 06H29 Un vendeur peut obtenir exactement le montant qu'il s'était fixé et rester déçu. Ce n'est pas une impression de terrain, c'est un résultat mesuré sur des transactions réelles. Et pendant ce temps, dans le Baromètre de la Décision Immobilière, qui a mobilisé plus de 800 professionnels, 44 % de ceux qui ont répondu au questionnaire approfondi déclarent n'avoir jamais pensé à demander à leur vendeur, en cour",
+      "summary": "les professionnels de l’immobilier doivent savoir pour informer leurs clients. Le 17/09/2026 à 06H29 « On aurait peut-être pu en tirer un peu plus… » Même après une vente réussie, le doute peut subsister chez le vendeur. Car obtenir le bon prix ne suffit pas toujours à satisfaire pleinement un vendeur : encore faut-il que celui-ci mesure la valeur du travail accompli par l’agent immobilier. Nordine Mouaouia décrypte les resso",
       "url": "https://www.journaldelagence.com/1413601-au-dela-du-prix-et-de-la-vente-ce-qui-fait-vraiment-la-satisfaction-dun-vendeur",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -23,25 +85,25 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Au-delà du prix et de la vente : ce qui fait vraiment la satisfaction d’un vendeur."
     },
     {
-      "id": "29140ed23bc404e7",
-      "title": "Encadrement des loyers : « On décourage ceux qui sont indispensables pour loger les Franciliens », Olivier Princivalle",
-      "summary": "Règlementation",
-      "url": "https://www.mysweetimmo.com/2026/09/16/encadrement-des-loyers-on-decourage-ceux-qui-sont-indispensables-pour-loger-les-franciliens-olivier-princivalle/",
-      "source": "MySweetImmo",
+      "id": "8fcb6a3461823392",
+      "title": "Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudiants, confrontés à une offre de plus en plus onéreuse et éclatée.",
+      "summary": "Réactions Compromis ministériel sur la Rep : la FFB dit \"non\" ! ÉCONOMIE CIRCULAIRE. La Fédération française du bâtiment (FFB) fait savoir son opposition au dernier projet de refondation de la Rep PMCB ... 17/09/2026 16/09/2026",
+      "url": "https://www.batiactu.com/edito/crise-logement-frappe-plein-fouet-etudiants-75374.php",
+      "source": "Batiactu",
       "source_level": "C",
-      "category": "lois",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-09-16T09:00:00+00:00",
+      "published_at": "2026-09-17T09:00:00+00:00",
       "status": "Publication",
-      "importance": 76,
+      "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Encadrement des loyers : « On décourage ceux qui sont indispensables pour loger les Franciliens », Olivier Princivalle."
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudian…."
     },
     {
       "id": "d6ea66913a50d937",
@@ -67,7 +129,7 @@
     {
       "id": "de2e4800a33b3a3f",
       "title": "Agents immobiliers : votre corps est votre premier outil de travail, prenez-en soin",
-      "summary": "grave le problème au lieu de le résoudre, et livre un protocole en cinq étapes. Le 16/09/2026 à 13H48 Écran, téléphone, voiture, visites… Le métier d’agent immobilier met le corps à contribution bien plus qu’on ne l’imagine. Douleurs cervicales, tensions lombaires ou épaules contractées peuvent ainsi s’installer au fil des journées. Parce que la forme physique est aussi un véritable outil de travail, le réseau Dr House Immo a",
+      "summary": "e cinq réflexes pour mieux valoriser son accompagnement tout au long du mandat. Le 16/09/2026 à 13H48 Écran, téléphone, voiture, visites… Le métier d’agent immobilier met le corps à contribution bien plus qu’on ne l’imagine. Douleurs cervicales, tensions lombaires ou épaules contractées peuvent ainsi s’installer au fil des journées. Parce que la forme physique est aussi un véritable outil de travail, le réseau Dr House Immo a",
       "url": "https://www.journaldelagence.com/1413614-agents-immobiliers-votre-corps-est-votre-premier-outil-de-travail-prenez-en-soin",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -104,27 +166,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : avant de gérer les objections, apprenez à gérer vos propres réactions."
-    },
-    {
-      "id": "8fcb6a3461823392",
-      "title": "Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudiants, confrontés à une offre de plus en plus onéreuse et éclatée.",
-      "summary": "Tribune \"Confort d'été : cessons de pénaliser le rafraîchissement des logements neufs\", F. Hovorka (FPI) LE REGARD DE FRANK HOVORKA. Pour le directeur technique et innovation de la Fédération des promoteurs immobiliers (FPI), la réglementation doit ... 16/09/2026 16/09/2026",
-      "url": "https://www.batiactu.com/edito/crise-logement-frappe-plein-fouet-etudiants-75374.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-16T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudian…."
     },
     {
       "id": "fbeafa3893cd95e6",
@@ -171,7 +212,7 @@
     {
       "id": "daabf8fb71aa8d00",
       "title": "Immobilier Saint-Jean-de-Luz : Face à l’océan, la Villa Ugaïna à vendre 15,9 millions d’euros",
-      "summary": "Vente",
+      "summary": "Immobilier Saint-Jean-de-Luz : Face à l’océan, la Villa Ugaïna à vendre 15,9 millions d’euros",
       "url": "https://www.mysweetimmo.com/2026/09/15/immobilier-saint-jean-de-luz-face-a-locean-la-villa-ugaina-a-vendre-159-millions-deuros/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -187,7 +228,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Saint-Jean-de-Luz : Face à l’océan, la Villa Ugaïna à vendre 15,9 millions d’euros."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Saint-Jean-de-Luz : Face à l’océan, la Villa Ugaïna à vendre 15,9 millions d’euros."
     },
     {
       "id": "53628d863c3aed62",
@@ -356,8 +397,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Les taux remontent, jusqu’où iront-ils d’ici fin 2026 ?."
     },
     {
-      "id": "8c88ac46c9376dc0",
-      "title": "Agents immobiliers : comment faire de votre devoir de conseil un atout phare sur le terrain ?",
+      "id": "8972d30cf77c45a6",
+      "title": "Devoir de conseil : ce que les tribunaux exigent des agents immobiliers",
       "summary": "s spécificités de ces marchés rares et des méthodes à manier avec discernement. Le 14/09/2026 à 06H56 Le devoir de conseil ne se résume pas à une obligation à respecter : bien maîtrisé, il peut devenir l’un des meilleurs atouts de l’agent immobilier. Vérifier les informations, creuser au moindre doute, connaître le bien comme son environnement… La jurisprudence impose aux professionnels une vigilance accrue, mais dessine auss",
       "url": "https://www.journaldelagence.com/1413551-agents-immobiliers-comment-faire-de-votre-devoir-de-conseil-un-atout-phare-sur-le-terrain",
       "source": "Journal de l'Agence",
@@ -373,7 +414,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Agents immobiliers : comment faire de votre devoir de conseil un atout phare sur le terrain ?."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Devoir de conseil : ce que les tribunaux exigent des agents immobiliers."
     },
     {
       "id": "5d2b02bd7d49e4e7",
@@ -835,27 +876,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier d’entreprise : La reprise qui n’en est pas une."
     },
     {
-      "id": "8916e2498f03acc3",
-      "title": "Projet de loi logement : ce que Vincent Jeanbrun veut changer",
-      "summary": "Paris pour trouver le meilleur compromis entre budget, surface et cadre de vie. Le 08/09/2026 à 17H46 Relancer la construction, remettre des logements sur le marché, réarmer l’investissement locatif, donner davantage de pouvoirs aux élus locaux… Face à une crise du logement qu’il qualifie de « majeure », Vincent Jeanbrun veut « changer les règles du jeu ». Devant les Notaires du Grand Paris, ce 8 septembre, le ministre de la",
-      "url": "https://www.journaldelagence.com/1413478-projet-de-loi-logement-ce-que-vincent-jeanbrun-veut-changer",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-08T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Projet de loi logement : ce que Vincent Jeanbrun veut changer."
-    },
-    {
       "id": "8b26ebd2e95f9283",
       "title": "Proptech : Danim lance sa nouvelle plateforme marketing pour les agents immobiliers",
       "summary": "8 septembre 2026 - La proptech française Danim a lancé Danim 2, une refonte complète de sa plateforme de marketing digital. Dédiée aux pros de l’immobilier, elle permet entre autres la [...]",
@@ -958,27 +978,6 @@
       "territory": "France",
       "topic": "Territoires",
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : De nouvelles données sur les loyers sont disponibles."
-    },
-    {
-      "id": "0b88468604d15b7f",
-      "title": "Immobilier : Les data centers, une bulle ? « Exactement l’inverse », répond le patron de Blackstone",
-      "summary": "Immobilier : Les data centers, une bulle ? « Exactement l’inverse », répond le patron de Blackstone",
-      "url": "https://www.mysweetimmo.com/2026/09/05/immobilier-les-data-centers-une-bulle-exactement-linverse-repond-le-patron-de-blackstone/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-05T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Les data centers, une bulle ? « Exactement l’inverse », répond le patron de Blackstone."
     },
     {
       "id": "9e71230ef2ea9004",
@@ -1485,8 +1484,8 @@
     }
   ],
   "source_stats": {
-    "Journal de l'Agence": 15,
     "MySweetImmo": 16,
+    "Journal de l'Agence": 15,
     "Batiactu": 11,
     "Immobilier 2.0": 13,
     "Légifrance": 1,
@@ -1509,7 +1508,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-17T04:57:33+00:00",
+        "last_success": "2026-09-17T11:47:32+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1517,7 +1516,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-17T04:57:36+00:00",
+        "last_success": "2026-09-17T11:47:36+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1525,7 +1524,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-17T04:57:37+00:00",
+        "last_success": "2026-09-17T11:47:37+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1533,7 +1532,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-17T04:57:38+00:00",
+        "last_success": "2026-09-17T11:47:39+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1541,7 +1540,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-17T04:58:03+00:00",
+        "last_success": "2026-09-17T11:48:00+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1549,7 +1548,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-17T04:58:14+00:00",
+        "last_success": "2026-09-17T11:48:11+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1557,7 +1556,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-17T04:58:14+00:00",
+        "last_success": "2026-09-17T11:48:11+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1565,7 +1564,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-17T04:58:15+00:00",
+        "last_success": "2026-09-17T11:48:13+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1573,7 +1572,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-17T04:58:16+00:00",
+        "last_success": "2026-09-17T11:48:13+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1581,7 +1580,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-17T04:58:17+00:00",
+        "last_success": "2026-09-17T11:48:14+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1589,7 +1588,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-17T04:58:19+00:00",
+        "last_success": "2026-09-17T11:48:16+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1597,7 +1596,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-17T04:58:20+00:00",
+        "last_success": "2026-09-17T11:48:25+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1605,7 +1604,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-17T04:58:22+00:00",
+        "last_success": "2026-09-17T11:48:27+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1613,7 +1612,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-17T04:58:23+00:00",
+        "last_success": "2026-09-17T11:48:28+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1621,7 +1620,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-17T04:58:25+00:00",
+        "last_success": "2026-09-17T11:48:30+00:00",
         "fallback": false
       }
     }
