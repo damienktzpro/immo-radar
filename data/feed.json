@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T11:22:36+00:00",
+  "generated_at": "2026-09-18T16:29:07+00:00",
   "version": "7.1",
   "items": [
     {
@@ -22,6 +22,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Rénovation énergétique : une nouvelle obligation pour les professionnels."
+    },
+    {
+      "id": "c5b27d7175bbbac8",
+      "title": "Immobilier : ERA lance son podcast avec François Gagnon",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/09/18/immobilier-era-lance-son-podcast-avec-francois-gagnon/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : ERA lance son podcast avec François Gagnon."
     },
     {
       "id": "5c5e7c425ef4fe26",
@@ -63,6 +84,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : « La hausse de l’offre locative ne doit pas masquer une situation toujours très tendue."
+    },
+    {
+      "id": "c0e7dc0761fe25eb",
+      "title": "Assurance, logement : les priorités d'Édouard Philippe face au changement climatique",
+      "summary": "L'Essentiel 18/09/2026 L'Essentiel CEE, DPE : B. Retailleau veut faire le ménage dans les dispositifs de transition énergétique En débat Raphaël Glucksmann prône \"la rénovation thermique des bâtiments\" et une \"révolution écologique\" En débat Présidentielle et logement : G. Attal, B. Retailleau et J-L. Mélenchon avancent leurs propositions",
+      "url": "https://www.batiactu.com/edito/assurance-logement-priorites-edouard-philippe-face-75391.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Assurance, logement : les priorités d'Édouard Philippe face au changement climatique."
     },
     {
       "id": "dceceafc8348df68",
@@ -192,7 +234,7 @@
     {
       "id": "d6ea66913a50d937",
       "title": "Immobilier neuf : Les prix en baisse dans 6 villes sur 10",
-      "summary": "Neuf",
+      "summary": "Immobilier neuf : Les prix en baisse dans 6 villes sur 10",
       "url": "https://www.mysweetimmo.com/2026/09/16/immobilier-neuf-les-prix-en-baisse-dans-6-villes-sur-10/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -1022,27 +1064,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Pourquoi la chasse immobilière devient un maillon essentiel de la transaction."
     },
     {
-      "id": "20ef9b32fca507e3",
-      "title": "Immobilier : Omny fait entrer toute la recherche de logement dans ChatGPT",
-      "summary": "Immobilier : Omny fait entrer toute la recherche de logement dans ChatGPT",
-      "url": "https://www.mysweetimmo.com/2026/09/07/immobilier-cherchez-votre-logement-sans-quitter-chatgpt/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-07T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Omny fait entrer toute la recherche de logement dans ChatGPT."
-    },
-    {
       "id": "7453ed74b3536dd0",
       "title": "DPE 2027 : changement de statut pour 300 000 passoires thermiques",
       "summary": "7 septembre 2026 - À partir du 1er janvier 2027, le gouvernement français va apporter une modification au calcul du diagnostic de performance énergétique (DPE). En effet, un changement au [...]",
@@ -1550,9 +1571,9 @@
     "ANIL": 10,
     "MySweetImmo": 16,
     "Journal de l'Agence": 16,
+    "Batiactu": 11,
     "Légifrance": 2,
     "Horiz.io": 2,
-    "Batiactu": 10,
     "Immobilier 2.0": 13,
     "SDES / Sitadel": 1,
     "Insee": 1,
@@ -1564,15 +1585,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 74,
-    "rejected": 1199,
+    "retained": 75,
+    "rejected": 1206,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-18T11:21:54+00:00",
+        "last_success": "2026-09-18T16:28:27+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1580,7 +1601,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-18T11:21:56+00:00",
+        "last_success": "2026-09-18T16:28:29+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1588,7 +1609,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-18T11:21:57+00:00",
+        "last_success": "2026-09-18T16:28:29+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1596,7 +1617,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-18T11:21:59+00:00",
+        "last_success": "2026-09-18T16:28:31+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1604,7 +1625,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-18T11:22:17+00:00",
+        "last_success": "2026-09-18T16:28:49+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1612,7 +1633,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-18T11:22:27+00:00",
+        "last_success": "2026-09-18T16:28:59+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1620,7 +1641,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-18T11:22:27+00:00",
+        "last_success": "2026-09-18T16:28:59+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1628,7 +1649,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-18T11:22:27+00:00",
+        "last_success": "2026-09-18T16:29:00+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1636,7 +1657,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-18T11:22:28+00:00",
+        "last_success": "2026-09-18T16:29:00+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1644,7 +1665,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-18T11:22:29+00:00",
+        "last_success": "2026-09-18T16:29:01+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1652,7 +1673,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-18T11:22:30+00:00",
+        "last_success": "2026-09-18T16:29:03+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1660,15 +1681,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-18T11:22:32+00:00",
+        "last_success": "2026-09-18T16:29:04+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 10,
-        "last_success": "2026-09-18T11:22:33+00:00",
+        "retained": 11,
+        "last_success": "2026-09-18T16:29:05+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1676,7 +1697,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-18T11:22:34+00:00",
+        "last_success": "2026-09-18T16:29:06+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1684,7 +1705,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-18T11:22:35+00:00",
+        "last_success": "2026-09-18T16:29:06+00:00",
         "fallback": false
       }
     }

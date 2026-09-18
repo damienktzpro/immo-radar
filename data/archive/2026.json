@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-18T11:22:40+00:00",
+  "generated_at": "2026-09-18T16:29:12+00:00",
   "items": [
     {
       "id": "5a46dcc8b2aad310",
@@ -64,6 +64,48 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Nantes : 50 logements neufs pour aider les primo-accédants à acheter."
+    },
+    {
+      "id": "c5b27d7175bbbac8",
+      "title": "Immobilier : ERA lance son podcast avec François Gagnon",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/09/18/immobilier-era-lance-son-podcast-avec-francois-gagnon/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : ERA lance son podcast avec François Gagnon."
+    },
+    {
+      "id": "c0e7dc0761fe25eb",
+      "title": "Assurance, logement : les priorités d'Édouard Philippe face au changement climatique",
+      "summary": "L'Essentiel 18/09/2026 L'Essentiel CEE, DPE : B. Retailleau veut faire le ménage dans les dispositifs de transition énergétique En débat Raphaël Glucksmann prône \"la rénovation thermique des bâtiments\" et une \"révolution écologique\" En débat Présidentielle et logement : G. Attal, B. Retailleau et J-L. Mélenchon avancent leurs propositions",
+      "url": "https://www.batiactu.com/edito/assurance-logement-priorites-edouard-philippe-face-75391.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Assurance, logement : les priorités d'Édouard Philippe face au changement climatique."
     },
     {
       "id": "dceceafc8348df68",
@@ -256,7 +298,7 @@
     {
       "id": "d6ea66913a50d937",
       "title": "Immobilier neuf : Les prix en baisse dans 6 villes sur 10",
-      "summary": "Neuf",
+      "summary": "Immobilier neuf : Les prix en baisse dans 6 villes sur 10",
       "url": "https://www.mysweetimmo.com/2026/09/16/immobilier-neuf-les-prix-en-baisse-dans-6-villes-sur-10/",
       "source": "MySweetImmo",
       "source_level": "C",
