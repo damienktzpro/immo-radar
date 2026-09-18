@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-18T16:29:12+00:00",
+  "generated_at": "2026-09-18T20:57:59+00:00",
   "items": [
     {
       "id": "5a46dcc8b2aad310",
@@ -47,7 +47,7 @@
     {
       "id": "5c5e7c425ef4fe26",
       "title": "Immobilier Nantes : 50 logements neufs pour aider les primo-accédants à acheter",
-      "summary": "Nouveau Neuf",
+      "summary": "Neuf",
       "url": "https://www.mysweetimmo.com/2026/09/18/immobilier-nantes-50-logements-neufs-pour-aider-les-primo-accedants-a-acheter/",
       "source": "MySweetImmo",
       "source_level": "C",
