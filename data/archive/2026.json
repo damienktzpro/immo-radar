@@ -1,8 +1,50 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-17T21:27:02+00:00",
+  "generated_at": "2026-09-18T04:50:05+00:00",
   "items": [
+    {
+      "id": "8638b128f87bdcdc",
+      "title": "« La hausse de l’offre locative ne doit pas masquer une situation toujours très tendue",
+      "summary": "» Le 18/09/2026 à 00H00 Après trois années de recul, l’offre locative repart à la hausse au premier semestre 2026. Un signal positif qui ne suffit toutefois pas à enrayer une pénurie persistante. David Benbassat, président de Bien’ici, décrypte les tensions du marché, les freins à l’investissement et le rôle que peuvent jouer les professionnels de l’immobilier. Taxe foncière : après une hausse contenue en 2026, à quoi faut-il",
+      "url": "https://www.journaldelagence.com/1413632-la-hausse-de-loffre-locative-ne-doit-pas-masquer-une-situation-toujours-tres-tendue",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : « La hausse de l’offre locative ne doit pas masquer une situation toujours très tendue."
+    },
+    {
+      "id": "dceceafc8348df68",
+      "title": "Arrêté du 3 septembre 2026 relatif à la composition de la commission nationale prévue à l'article L. 302-9-1-1 du code de la construction et de l'habitation",
+      "summary": "Texte officiel concernant la construction, les professionnels du secteur ou le Code de la construction et de l’habitation.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054855716",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Construction / Réglementation",
+      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Arrêté du 3 septembre 2026 relatif à la composition de la commission nationale prévue à l'article L. 302-9-1-1 du code de la co….",
+      "legal_stage": "jorf"
+    },
     {
       "id": "5bdc805aca399f17",
       "title": "Au-delà du prix et de la vente : ce qui fait vraiment la satisfaction d’un vendeur",
@@ -26,7 +68,7 @@
     {
       "id": "fde44df20490e42d",
       "title": "Immobilier Corrèze : Les 4 agences de Laurence Monteil Combabessou rejoignent Nestenn",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/09/17/immobilier-correze-les-4-agences-de-laurence-monteil-combabessou-rejoignent-nestenn/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -68,7 +110,7 @@
     {
       "id": "a5b65f668c69bc9a",
       "title": "Taxe foncière : après une hausse contenue en 2026, à quoi faut-il s’attendre en 2027 ?",
-      "summary": "Le 17/09/2026 à 07H05 Après une année 2026 marquée par une hausse contenue de la taxe foncière, l’accalmie pourrait être de courte durée. En 2027, la revalorisation des bases cadastrales pourrait approcher 3 %, tandis que la mise à jour de certaines caractéristiques des logements pourrait également alourdir la note de certains propriétaires. Sans céder aux annonces alarmistes, voici ce que les professionnels de l’immobilier do",
+      "summary": "investissement et le rôle que peuvent jouer les professionnels de l’immobilier. Le 17/09/2026 à 07H05 Après une année 2026 marquée par une hausse contenue de la taxe foncière, l’accalmie pourrait être de courte durée. En 2027, la revalorisation des bases cadastrales pourrait approcher 3 %, tandis que la mise à jour de certaines caractéristiques des logements pourrait également alourdir la note de certains propriétaires. Sans",
       "url": "https://www.journaldelagence.com/1413623-taxe-fonciere-apres-une-hausse-contenue-en-2026-a-quoi-faut-il-sattendre-en-2027",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -4541,11 +4583,11 @@
     {
       "id": "3b2255cb7e8a6f65",
       "title": "Informations Rapides · 28 mai 2026 · n° 130 Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) Indices Notaires-Insee des prix des logements anciens - premier trimestre 2026",
-      "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee false Aller au contenu Aide Thèmes Recherche English Presse Menu Menu Blog Presse Aide English Lancer la recherche sur le site Thèmes Statistiques et études Cherchez vos statistiques par… Thèmes Économie - conjoncture - comptes nationaux Démographie Entreprises Plus de thèmes… Niveaux géographiques France Toutes les régions ou tous les départements Toutes les communes Plus de ni",
+      "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee true false https://www.sphinxonline.com/surveyserver/s/ccpesatisf/EnqUtilisateurs2026/questionnaire.htm 2026-09-19 00:00:00.0 9028126 Votre avis nous intéresse ! Bonjour et bienvenue sur le site de l'Insee Après votre visite , vous pourrez donner votre avis sur le site de l’Insee en répondant à un court questionnaire. En cliquant sur oui, vous aurez accès à l’ onglet Insee.fr et",
       "url": "https://www.insee.fr/fr/statistiques/8995299",
       "source": "Insee",
       "source_level": "A",
-      "category": "territoires",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
