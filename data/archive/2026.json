@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-18T04:50:05+00:00",
+  "generated_at": "2026-09-18T11:22:40+00:00",
   "items": [
+    {
+      "id": "5a46dcc8b2aad310",
+      "title": "Rénovation énergétique : une nouvelle obligation pour les professionnels",
+      "summary": "18 septembre 2026 À partir du 1er octobre 2026, les professionnels proposant des travaux de rénovation énergétique devront faire référence au service public France Rénov’ dans leurs publicités et sur leurs sites web.",
+      "url": "https://www.anil.org/actualites-evenements/details/renovation-energetique-une-nouvelle-obligation-pour-les-professionnels/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Rénovation énergétique : une nouvelle obligation pour les professionnels."
+    },
     {
       "id": "8638b128f87bdcdc",
       "title": "« La hausse de l’offre locative ne doit pas masquer une situation toujours très tendue",
@@ -22,6 +43,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : « La hausse de l’offre locative ne doit pas masquer une situation toujours très tendue."
+    },
+    {
+      "id": "5c5e7c425ef4fe26",
+      "title": "Immobilier Nantes : 50 logements neufs pour aider les primo-accédants à acheter",
+      "summary": "Nouveau Neuf",
+      "url": "https://www.mysweetimmo.com/2026/09/18/immobilier-nantes-50-logements-neufs-pour-aider-les-primo-accedants-a-acheter/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Nantes : 50 logements neufs pour aider les primo-accédants à acheter."
     },
     {
       "id": "dceceafc8348df68",
@@ -443,7 +485,7 @@
     {
       "id": "55d91d9c97f38e0b",
       "title": "Crédit immobilier : Pretto ouvre son capital à ses courtiers",
-      "summary": "Vie Pro",
+      "summary": "Crédit immobilier : Pretto ouvre son capital à ses courtiers",
       "url": "https://www.mysweetimmo.com/2026/09/15/credit-immobilier-pretto-ouvre-son-capital-a-ses-courtiers/",
       "source": "MySweetImmo",
       "source_level": "C",
