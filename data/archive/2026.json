@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-19T15:56:29+00:00",
+  "generated_at": "2026-09-19T20:46:01+00:00",
   "items": [
     {
       "id": "5a46dcc8b2aad310",
@@ -27,7 +27,7 @@
     {
       "id": "8638b128f87bdcdc",
       "title": "« La hausse de l’offre locative ne doit pas masquer une situation toujours très tendue",
-      "summary": "» Le 18/09/2026 à 00H00 Après trois années de recul, l’offre locative repart à la hausse au premier semestre 2026. Un signal positif qui ne suffit toutefois pas à enrayer une pénurie persistante. David Benbassat, président de Bien’ici, décrypte les tensions du marché, les freins à l’investissement et le rôle que peuvent jouer les professionnels de l’immobilier. Taxe foncière : après une hausse contenue en 2026, à quoi faut-il",
+      "summary": "» Le 18/09/2026 à 00H00 Après trois années de recul, l’offre locative repart à la hausse au premier semestre 2026. Un signal positif qui ne suffit toutefois pas à enrayer une pénurie persistante. David Benbassat, président de Bien’ici, décrypte les tensions du marché, les freins à l’investissement et le rôle que peuvent jouer les professionnels de l’immobilier. Taxe foncière : après une hausse contenue en 2026, ce qui pourrait",
       "url": "https://www.journaldelagence.com/1413632-la-hausse-de-loffre-locative-ne-doit-pas-masquer-une-situation-toujours-tres-tendue",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -192,8 +192,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Journées du Patrimoine : Pourquoi vendre un château peut prendre 2 ans."
     },
     {
-      "id": "a5b65f668c69bc9a",
-      "title": "Taxe foncière : après une hausse contenue en 2026, à quoi faut-il s’attendre en 2027 ?",
+      "id": "1c68eba888666d67",
+      "title": "Taxe foncière : après une hausse contenue en 2026, ce qui pourrait changer pour vos clients en 2027",
       "summary": "investissement et le rôle que peuvent jouer les professionnels de l’immobilier. Le 17/09/2026 à 07H05 Après une année 2026 marquée par une hausse contenue de la taxe foncière, l’accalmie pourrait être de courte durée. En 2027, la revalorisation des bases cadastrales pourrait approcher 3 %, tandis que la mise à jour de certaines caractéristiques des logements pourrait également alourdir la note de certains propriétaires. Sans",
       "url": "https://www.journaldelagence.com/1413623-taxe-fonciere-apres-une-hausse-contenue-en-2026-a-quoi-faut-il-sattendre-en-2027",
       "source": "Journal de l'Agence",
@@ -209,7 +209,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Taxe foncière : après une hausse contenue en 2026, à quoi faut-il s’attendre en 2027 ?."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Taxe foncière : après une hausse contenue en 2026, ce qui pourrait changer pour vos clients en 2027."
     },
     {
       "id": "538b25ded75bbbb5",

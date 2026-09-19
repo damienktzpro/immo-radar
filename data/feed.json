@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:56:22+00:00",
+  "generated_at": "2026-09-19T20:45:53+00:00",
   "version": "7.1",
   "items": [
     {
@@ -47,7 +47,7 @@
     {
       "id": "8638b128f87bdcdc",
       "title": "« La hausse de l’offre locative ne doit pas masquer une situation toujours très tendue",
-      "summary": "» Le 18/09/2026 à 00H00 Après trois années de recul, l’offre locative repart à la hausse au premier semestre 2026. Un signal positif qui ne suffit toutefois pas à enrayer une pénurie persistante. David Benbassat, président de Bien’ici, décrypte les tensions du marché, les freins à l’investissement et le rôle que peuvent jouer les professionnels de l’immobilier. Taxe foncière : après une hausse contenue en 2026, à quoi faut-il",
+      "summary": "» Le 18/09/2026 à 00H00 Après trois années de recul, l’offre locative repart à la hausse au premier semestre 2026. Un signal positif qui ne suffit toutefois pas à enrayer une pénurie persistante. David Benbassat, président de Bien’ici, décrypte les tensions du marché, les freins à l’investissement et le rôle que peuvent jouer les professionnels de l’immobilier. Taxe foncière : après une hausse contenue en 2026, ce qui pourrait",
       "url": "https://www.journaldelagence.com/1413632-la-hausse-de-loffre-locative-ne-doit-pas-masquer-une-situation-toujours-tres-tendue",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -129,8 +129,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Journées du Patrimoine : Pourquoi vendre un château peut prendre 2 ans."
     },
     {
-      "id": "a5b65f668c69bc9a",
-      "title": "Taxe foncière : après une hausse contenue en 2026, à quoi faut-il s’attendre en 2027 ?",
+      "id": "1c68eba888666d67",
+      "title": "Taxe foncière : après une hausse contenue en 2026, ce qui pourrait changer pour vos clients en 2027",
       "summary": "investissement et le rôle que peuvent jouer les professionnels de l’immobilier. Le 17/09/2026 à 07H05 Après une année 2026 marquée par une hausse contenue de la taxe foncière, l’accalmie pourrait être de courte durée. En 2027, la revalorisation des bases cadastrales pourrait approcher 3 %, tandis que la mise à jour de certaines caractéristiques des logements pourrait également alourdir la note de certains propriétaires. Sans",
       "url": "https://www.journaldelagence.com/1413623-taxe-fonciere-apres-une-hausse-contenue-en-2026-a-quoi-faut-il-sattendre-en-2027",
       "source": "Journal de l'Agence",
@@ -146,7 +146,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Taxe foncière : après une hausse contenue en 2026, à quoi faut-il s’attendre en 2027 ?."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Taxe foncière : après une hausse contenue en 2026, ce qui pourrait changer pour vos clients en 2027."
     },
     {
       "id": "5bdc805aca399f17",
@@ -1586,14 +1586,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 75,
-    "rejected": 1214,
+    "rejected": 1222,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-19T15:55:39+00:00",
+        "last_success": "2026-09-19T20:45:11+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1601,7 +1601,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-19T15:55:42+00:00",
+        "last_success": "2026-09-19T20:45:14+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1609,7 +1609,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-19T15:55:43+00:00",
+        "last_success": "2026-09-19T20:45:14+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1617,7 +1617,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-19T15:55:44+00:00",
+        "last_success": "2026-09-19T20:45:15+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1625,7 +1625,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-19T15:56:03+00:00",
+        "last_success": "2026-09-19T20:45:34+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1633,7 +1633,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-19T15:56:11+00:00",
+        "last_success": "2026-09-19T20:45:43+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1641,7 +1641,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-19T15:56:11+00:00",
+        "last_success": "2026-09-19T20:45:43+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1649,7 +1649,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-19T15:56:12+00:00",
+        "last_success": "2026-09-19T20:45:44+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1657,7 +1657,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-19T15:56:13+00:00",
+        "last_success": "2026-09-19T20:45:45+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1665,7 +1665,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-19T15:56:14+00:00",
+        "last_success": "2026-09-19T20:45:46+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1673,7 +1673,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-19T15:56:15+00:00",
+        "last_success": "2026-09-19T20:45:48+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1681,7 +1681,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-19T15:56:16+00:00",
+        "last_success": "2026-09-19T20:45:49+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1689,7 +1689,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-19T15:56:18+00:00",
+        "last_success": "2026-09-19T20:45:51+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1697,7 +1697,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-19T15:56:19+00:00",
+        "last_success": "2026-09-19T20:45:52+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1705,7 +1705,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-19T15:56:21+00:00",
+        "last_success": "2026-09-19T20:45:52+00:00",
         "fallback": false
       }
     }
