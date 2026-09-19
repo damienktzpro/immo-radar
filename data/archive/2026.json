@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-18T20:57:59+00:00",
+  "generated_at": "2026-09-19T04:42:53+00:00",
   "items": [
     {
       "id": "5a46dcc8b2aad310",
@@ -68,7 +68,7 @@
     {
       "id": "c5b27d7175bbbac8",
       "title": "Immobilier : ERA lance son podcast avec François Gagnon",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/09/18/immobilier-era-lance-son-podcast-avec-francois-gagnon/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -4667,11 +4667,11 @@
     {
       "id": "3b2255cb7e8a6f65",
       "title": "Informations Rapides · 28 mai 2026 · n° 130 Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) Indices Notaires-Insee des prix des logements anciens - premier trimestre 2026",
-      "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee true false https://www.sphinxonline.com/surveyserver/s/ccpesatisf/EnqUtilisateurs2026/questionnaire.htm 2026-09-19 00:00:00.0 9028126 Votre avis nous intéresse ! Bonjour et bienvenue sur le site de l'Insee Après votre visite , vous pourrez donner votre avis sur le site de l’Insee en répondant à un court questionnaire. En cliquant sur oui, vous aurez accès à l’ onglet Insee.fr et",
+      "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee false Aller au contenu Aide Thèmes Recherche English Presse Menu Menu Blog Presse Aide English Lancer la recherche sur le site Thèmes Statistiques et études Cherchez vos statistiques par… Thèmes Économie - conjoncture - comptes nationaux Démographie Entreprises Plus de thèmes… Niveaux géographiques France Toutes les régions ou tous les départements Toutes les communes Plus de ni",
       "url": "https://www.insee.fr/fr/statistiques/8995299",
       "source": "Insee",
       "source_level": "A",
-      "category": "marche",
+      "category": "territoires",
       "audiences": [
         "particulier",
         "investisseur",
