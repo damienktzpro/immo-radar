@@ -1,8 +1,30 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-19T20:46:01+00:00",
+  "generated_at": "2026-09-20T04:58:48+00:00",
   "items": [
+    {
+      "id": "0fc40e19add39c97",
+      "title": "Arrêté du 18 septembre 2026 portant attribution du label gestion des copropriétés en difficulté",
+      "summary": "Texte officiel concernant la copropriété, son organisation ou sa gestion.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054862227",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-20T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Copropriété",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Arrêté du 18 septembre 2026 portant attribution du label gestion des copropriétés en difficulté.",
+      "legal_stage": "jorf"
+    },
     {
       "id": "5a46dcc8b2aad310",
       "title": "Rénovation énergétique : une nouvelle obligation pour les professionnels",
