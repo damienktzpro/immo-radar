@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-20T11:31:06+00:00",
+  "generated_at": "2026-09-20T16:12:22+00:00",
   "items": [
+    {
+      "id": "45361ec608636bcc",
+      "title": "A vendre à Bordeaux : Maison contemporaine avec piscine",
+      "summary": "Nouveau Visite privée",
+      "url": "https://www.mysweetimmo.com/2026/09/20/a-vendre-a-bordeaux-maison-contemporaine-avec-piscine/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : A vendre à Bordeaux : Maison contemporaine avec piscine."
+    },
     {
       "id": "0fc40e19add39c97",
       "title": "Arrêté du 18 septembre 2026 portant attribution du label gestion des copropriétés en difficulté",
