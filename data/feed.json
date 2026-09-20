@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-20T16:12:15+00:00",
+  "generated_at": "2026-09-20T20:53:29+00:00",
   "version": "7.1",
   "items": [
     {
-      "id": "45361ec608636bcc",
-      "title": "A vendre à Bordeaux : Maison contemporaine avec piscine",
-      "summary": "Nouveau Visite privée",
-      "url": "https://www.mysweetimmo.com/2026/09/20/a-vendre-a-bordeaux-maison-contemporaine-avec-piscine/",
+      "id": "f9e2b9376cb2e378",
+      "title": "Immobilier : MySweetImmo lance « L’Humeur du marché",
+      "summary": "Nouveau Vie Pro »",
+      "url": "https://www.mysweetimmo.com/2026/09/20/immobilier-mysweetimmo-lance-lhumeur-du-marche/",
       "source": "MySweetImmo",
       "source_level": "C",
       "category": "marche",
@@ -21,7 +21,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : A vendre à Bordeaux : Maison contemporaine avec piscine."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : MySweetImmo lance « L’Humeur du marché."
     },
     {
       "id": "0fc40e19add39c97",
@@ -1586,14 +1586,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 75,
-    "rejected": 1150,
+    "rejected": 1151,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-20T16:11:38+00:00",
+        "last_success": "2026-09-20T20:52:51+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1601,7 +1601,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-20T16:11:40+00:00",
+        "last_success": "2026-09-20T20:52:54+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1609,7 +1609,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-20T16:11:41+00:00",
+        "last_success": "2026-09-20T20:52:55+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1617,7 +1617,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-20T16:11:42+00:00",
+        "last_success": "2026-09-20T20:52:56+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1625,7 +1625,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-20T16:11:58+00:00",
+        "last_success": "2026-09-20T20:53:12+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1633,7 +1633,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-20T16:12:06+00:00",
+        "last_success": "2026-09-20T20:53:20+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1641,7 +1641,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-20T16:12:06+00:00",
+        "last_success": "2026-09-20T20:53:20+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1649,7 +1649,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-20T16:12:07+00:00",
+        "last_success": "2026-09-20T20:53:21+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1657,7 +1657,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-20T16:12:07+00:00",
+        "last_success": "2026-09-20T20:53:21+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1665,7 +1665,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-20T16:12:08+00:00",
+        "last_success": "2026-09-20T20:53:22+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1673,7 +1673,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-20T16:12:10+00:00",
+        "last_success": "2026-09-20T20:53:24+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1681,7 +1681,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-20T16:12:11+00:00",
+        "last_success": "2026-09-20T20:53:25+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1689,7 +1689,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-20T16:12:12+00:00",
+        "last_success": "2026-09-20T20:53:26+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1697,7 +1697,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-20T16:12:13+00:00",
+        "last_success": "2026-09-20T20:53:27+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1705,7 +1705,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-20T16:12:14+00:00",
+        "last_success": "2026-09-20T20:53:28+00:00",
         "fallback": false
       }
     }
