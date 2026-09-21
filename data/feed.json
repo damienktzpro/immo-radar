@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-20T20:53:29+00:00",
+  "generated_at": "2026-09-21T05:03:04+00:00",
   "version": "7.1",
   "items": [
     {
       "id": "f9e2b9376cb2e378",
       "title": "Immobilier : MySweetImmo lance « L’Humeur du marché",
-      "summary": "Nouveau Vie Pro »",
+      "summary": "Vie Pro »",
       "url": "https://www.mysweetimmo.com/2026/09/20/immobilier-mysweetimmo-lance-lhumeur-du-marche/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -86,26 +86,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Nantes : 50 logements neufs pour aider les primo-accédants à acheter."
-    },
-    {
-      "id": "8638b128f87bdcdc",
-      "title": "« La hausse de l’offre locative ne doit pas masquer une situation toujours très tendue",
-      "summary": "» Le 18/09/2026 à 00H00 Après trois années de recul, l’offre locative repart à la hausse au premier semestre 2026. Un signal positif qui ne suffit toutefois pas à enrayer une pénurie persistante. David Benbassat, président de Bien’ici, décrypte les tensions du marché, les freins à l’investissement et le rôle que peuvent jouer les professionnels de l’immobilier. Taxe foncière : après une hausse contenue en 2026, ce qui pourrait",
-      "url": "https://www.journaldelagence.com/1413632-la-hausse-de-loffre-locative-ne-doit-pas-masquer-une-situation-toujours-tres-tendue",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-09-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : « La hausse de l’offre locative ne doit pas masquer une situation toujours très tendue."
     },
     {
       "id": "c0e7dc0761fe25eb",
@@ -899,26 +879,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : 91 % des Français considèrent qu’il est plus difficile de se loger qu’il y a dix ans."
     },
     {
-      "id": "20eec79d07d56d82",
-      "title": "Prospection immobilière : vos prochains mandats sont déjà dans votre fichier clients",
-      "summary": "isation. Me Cyril Sabatié décrypte cette décision et les précautions à prendre. Le 09/09/2026 à 07H42 Prospecter, créer la relation, savoir relancer : trois fondamentaux qui n’ont jamais été aussi actuels. Alors que les nouvelles règles du démarchage téléphonique rebattent les cartes, Audrey Antonini invite les professionnels de l’immobilier à ne pas chercher un nouveau raccourci, mais à construire un véritable vivier d’oppor",
-      "url": "https://www.journaldelagence.com/1413458-prospection-immobiliere-vos-prochains-mandats-sont-deja-dans-votre-fichier-clients",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-09-09T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Prospection immobilière : vos prochains mandats sont déjà dans votre fichier clients."
-    },
-    {
       "id": "727d4dc3d0e96ec4",
       "title": "Cyberattaque : 48 millions de personnes exposées dans une fuite massive de Zéro Logement Vacant",
       "summary": "9 septembre 2026 - Le site Zéro Logement Vacant aurait été victime d’une cyberattaque au cours des derniers jours. En effet, le pirate informatique ZeroBytes, déjà à l’origine du [...]",
@@ -1525,6 +1485,26 @@
       "legal_stage": "jorf"
     },
     {
+      "id": "7a881e128944eaad",
+      "title": "Vente immobilière : quel délai pour faire rectifier un acte notarié ?",
+      "summary": "Le 21/09/2026 à 06H29 Une erreur s’est glissée dans un acte notarié de vente immobilière ? Attention à ne pas trop attendre pour agir. Dans un arrêt du 16 avril 2026, la Cour de cassation précise que l’action en rectification est soumise à un délai de prescription de 5 ans, et non au délai de 30 ans applicable aux actions réelles immobilières. Une décision aux conséquences très concrètes pour les professionnels. Citya Immobili",
+      "url": "https://www.journaldelagence.com/1413659-vente-immobiliere-quel-delai-pour-faire-rectifier-un-acte-notarie",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-04-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vente immobilière : quel délai pour faire rectifier un acte notarié ?."
+    },
+    {
       "id": "28f4a863c9b3987d",
       "title": "Saisonniers : un simulateur pour connaître les aides dont vous pouvez bénéficier pour vous loger",
       "summary": "Action Logement propose plusieurs dispositifs pour accompagner les saisonniers. Ces derniers peuvent désormais effectuer un test rapide, sur son site internet, afin de découvrir les différentes aides au logement auxquelles ils peuvent prétendre, en fonction de leur situation.",
@@ -1571,8 +1551,8 @@
     "MySweetImmo": 16,
     "Légifrance": 2,
     "ANIL": 10,
-    "Journal de l'Agence": 16,
     "Batiactu": 11,
+    "Journal de l'Agence": 15,
     "Horiz.io": 2,
     "Immobilier 2.0": 13,
     "SDES / Sitadel": 1,
@@ -1585,15 +1565,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 75,
-    "rejected": 1151,
+    "retained": 74,
+    "rejected": 1153,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-20T20:52:51+00:00",
+        "last_success": "2026-09-21T05:02:28+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1601,7 +1581,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-20T20:52:54+00:00",
+        "last_success": "2026-09-21T05:02:30+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1609,7 +1589,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-20T20:52:55+00:00",
+        "last_success": "2026-09-21T05:02:31+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1617,7 +1597,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-20T20:52:56+00:00",
+        "last_success": "2026-09-21T05:02:32+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1625,7 +1605,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-20T20:53:12+00:00",
+        "last_success": "2026-09-21T05:02:47+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1633,7 +1613,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-20T20:53:20+00:00",
+        "last_success": "2026-09-21T05:02:55+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1641,7 +1621,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-20T20:53:20+00:00",
+        "last_success": "2026-09-21T05:02:55+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1649,7 +1629,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-20T20:53:21+00:00",
+        "last_success": "2026-09-21T05:02:56+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1657,7 +1637,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-20T20:53:21+00:00",
+        "last_success": "2026-09-21T05:02:57+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1665,7 +1645,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-20T20:53:22+00:00",
+        "last_success": "2026-09-21T05:02:58+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1673,7 +1653,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-20T20:53:24+00:00",
+        "last_success": "2026-09-21T05:02:59+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1681,7 +1661,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-20T20:53:25+00:00",
+        "last_success": "2026-09-21T05:03:00+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1689,7 +1669,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-20T20:53:26+00:00",
+        "last_success": "2026-09-21T05:03:02+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1697,7 +1677,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-20T20:53:27+00:00",
+        "last_success": "2026-09-21T05:03:03+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1705,7 +1685,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-20T20:53:28+00:00",
+        "last_success": "2026-09-21T05:03:04+00:00",
         "fallback": false
       }
     }

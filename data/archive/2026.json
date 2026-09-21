@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-20T20:53:36+00:00",
+  "generated_at": "2026-09-21T05:03:13+00:00",
   "items": [
     {
       "id": "45361ec608636bcc",
@@ -27,7 +27,7 @@
     {
       "id": "f9e2b9376cb2e378",
       "title": "Immobilier : MySweetImmo lance « L’Humeur du marché",
-      "summary": "Nouveau Vie Pro »",
+      "summary": "Vie Pro »",
       "url": "https://www.mysweetimmo.com/2026/09/20/immobilier-mysweetimmo-lance-lhumeur-du-marche/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -4854,6 +4854,26 @@
       "territory": "France",
       "topic": "Investir",
       "why_it_matters": "Source expert / blog à confronter aux données officielles. Cette information peut modifier le rendement, la fiscalité ou le risque d’un investissement."
+    },
+    {
+      "id": "7a881e128944eaad",
+      "title": "Vente immobilière : quel délai pour faire rectifier un acte notarié ?",
+      "summary": "Le 21/09/2026 à 06H29 Une erreur s’est glissée dans un acte notarié de vente immobilière ? Attention à ne pas trop attendre pour agir. Dans un arrêt du 16 avril 2026, la Cour de cassation précise que l’action en rectification est soumise à un délai de prescription de 5 ans, et non au délai de 30 ans applicable aux actions réelles immobilières. Une décision aux conséquences très concrètes pour les professionnels. Citya Immobili",
+      "url": "https://www.journaldelagence.com/1413659-vente-immobiliere-quel-delai-pour-faire-rectifier-un-acte-notarie",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-04-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vente immobilière : quel délai pour faire rectifier un acte notarié ?."
     }
   ]
 }
