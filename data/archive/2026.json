@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-21T12:55:33+00:00",
+  "generated_at": "2026-09-21T22:01:49+00:00",
   "items": [
+    {
+      "id": "056b016112942917",
+      "title": "Une délégation du ministère vietnamien de la Construction reçue à l’ANIL",
+      "summary": "21 septembre 2026 Le 21 septembre 2026, l’ANIL a accueilli une délégation interministérielle vietnamienne conduite par M. Nguyễn Văn Sinh, Vice-Ministre de la Construction du Vietnam, dans le cadre d’une visite d’étude consacrée aux politiques publiques du logement et…",
+      "url": "https://www.anil.org/actualites-evenements/details/une-delegation-du-ministere-vietnamien-de-la-construction-recue-a-lanil/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Une délégation du ministère vietnamien de la Construction reçue à l’ANIL."
+    },
     {
       "id": "0b7cebbee17b71bc",
       "title": "Entre deux logements : Où stocker ses meubles pendant un déménagement ?",
@@ -43,6 +64,48 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Orpi rejoint idealista : le n°1 des réseaux d’agences immobilières françaises intègre le portail immobilier européen leader."
+    },
+    {
+      "id": "e0387f6b62f3b82b",
+      "title": "Cadastre : Ce qui change pour une vente immobilière",
+      "summary": "Nouveau Dans l'actu",
+      "url": "https://www.mysweetimmo.com/2026/09/21/cadastre-ce-qui-change-pour-une-vente-immobiliere/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Cadastre : Ce qui change pour une vente immobilière."
+    },
+    {
+      "id": "37e3d272f1980731",
+      "title": "Peut-on faire confiance aux IA pour effectuer une estimation immobilière ?",
+      "summary": "21 septembre 2026 - Avec l’évolution fulgurante d’outils tels que ChatGPT, Gemini ou Claude, la tentation d’automatiser ses estimations immobilières avec l’IA est grande. [...]",
+      "url": "https://immo2.pro/actualite-immobilier/peut-on-faire-confiance-aux-ia-pour-effectuer-une-estimation-immobiliere/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Peut-on faire confiance aux IA pour effectuer une estimation immobilière ?."
     },
     {
       "id": "45361ec608636bcc",

@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-09-21T12:55:27+00:00",
+  "generated_at": "2026-09-21T22:01:41+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "056b016112942917",
+      "title": "Une délégation du ministère vietnamien de la Construction reçue à l’ANIL",
+      "summary": "21 septembre 2026 Le 21 septembre 2026, l’ANIL a accueilli une délégation interministérielle vietnamienne conduite par M. Nguyễn Văn Sinh, Vice-Ministre de la Construction du Vietnam, dans le cadre d’une visite d’étude consacrée aux politiques publiques du logement et…",
+      "url": "https://www.anil.org/actualites-evenements/details/une-delegation-du-ministere-vietnamien-de-la-construction-recue-a-lanil/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Une délégation du ministère vietnamien de la Construction reçue à l’ANIL."
+    },
     {
       "id": "0b7cebbee17b71bc",
       "title": "Entre deux logements : Où stocker ses meubles pendant un déménagement ?",
@@ -24,6 +45,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Entre deux logements : Où stocker ses meubles pendant un déménagement ?."
     },
     {
+      "id": "e0387f6b62f3b82b",
+      "title": "Cadastre : Ce qui change pour une vente immobilière",
+      "summary": "Nouveau Dans l'actu",
+      "url": "https://www.mysweetimmo.com/2026/09/21/cadastre-ce-qui-change-pour-une-vente-immobiliere/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Cadastre : Ce qui change pour une vente immobilière."
+    },
+    {
       "id": "c27b4ea5926b3f07",
       "title": "Orpi rejoint idealista : le n°1 des réseaux d’agences immobilières françaises intègre le portail immobilier européen leader",
       "summary": "Le 21/09/2026 à 10H13 Une arrivée en France qui prend un départ remarqué. À peine une semaine après son entrée officielle sur le marché hexagonal, idealista annonce signer un premier accord d'envergure avec Orpi, premier réseau coopératif immobilier de France. Un accord symboliquement fort qui, dès les premiers jours, valide la stratégie d'idealista : se positionner comme l'alternative de référence pour les professionnels de l",
@@ -42,6 +84,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Orpi rejoint idealista : le n°1 des réseaux d’agences immobilières françaises intègre le portail immobilier européen leader."
+    },
+    {
+      "id": "37e3d272f1980731",
+      "title": "Peut-on faire confiance aux IA pour effectuer une estimation immobilière ?",
+      "summary": "21 septembre 2026 - Avec l’évolution fulgurante d’outils tels que ChatGPT, Gemini ou Claude, la tentation d’automatiser ses estimations immobilières avec l’IA est grande. [...]",
+      "url": "https://immo2.pro/actualite-immobilier/peut-on-faire-confiance-aux-ia-pour-effectuer-une-estimation-immobiliere/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Peut-on faire confiance aux IA pour effectuer une estimation immobilière ?."
     },
     {
       "id": "f9e2b9376cb2e378",
@@ -170,27 +233,6 @@
       "topic": "Construction / Réglementation",
       "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Arrêté du 3 septembre 2026 relatif à la composition de la commission nationale prévue à l'article L. 302-9-1-1 du code de la co….",
       "legal_stage": "jorf"
-    },
-    {
-      "id": "5f6868243d1288ed",
-      "title": "Journées du Patrimoine : Pourquoi vendre un château peut prendre 2 ans",
-      "summary": "Marché immobilier",
-      "url": "https://www.mysweetimmo.com/2026/09/17/journees-du-patrimoine-pourquoi-vendre-un-chateau-peut-prendre-2-ans/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-17T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Journées du Patrimoine : Pourquoi vendre un château peut prendre 2 ans."
     },
     {
       "id": "1c68eba888666d67",
@@ -941,6 +983,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : 91 % des Français considèrent qu’il est plus difficile de se loger qu’il y a dix ans."
     },
     {
+      "id": "0d946c5404153d72",
+      "title": "Immobilier : « Les Français n’ont jamais autant cherché sur SeLoger » Baptiste Capron",
+      "summary": "Immobilier : « Les Français n’ont jamais autant cherché sur SeLoger » Baptiste Capron",
+      "url": "https://www.mysweetimmo.com/2026/09/09/immobilier-les-francais-nont-jamais-autant-cherche-sur-seloger-baptiste-capron/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : « Les Français n’ont jamais autant cherché sur SeLoger » Baptiste Capron."
+    },
+    {
       "id": "727d4dc3d0e96ec4",
       "title": "Cyberattaque : 48 millions de personnes exposées dans une fuite massive de Zéro Logement Vacant",
       "summary": "9 septembre 2026 - Le site Zéro Logement Vacant aurait été victime d’une cyberattaque au cours des derniers jours. En effet, le pirate informatique ZeroBytes, déjà à l’origine du [...]",
@@ -1022,27 +1085,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier en Île-de-France : Les ventes repartent de 10 % mais les notaires ne parlent pas encore de reprise."
-    },
-    {
-      "id": "e820201e9a9ebf2b",
-      "title": "Immobilier d’entreprise : La reprise qui n’en est pas une",
-      "summary": "Immobilier d’entreprise : La reprise qui n’en est pas une",
-      "url": "https://www.mysweetimmo.com/2026/09/08/immobilier-dentreprise-la-reprise-qui-nen-est-pas-une/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-08T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier d’entreprise : La reprise qui n’en est pas une."
     },
     {
       "id": "8b26ebd2e95f9283",
@@ -1420,27 +1462,6 @@
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Location d'un logement : de la signature du bail à la fin de la location."
     },
     {
-      "id": "85d6e6d52a91ffec",
-      "title": "Belles Demeures : deux nouvelles offres pour garantir une meilleure visibilité aux agences",
-      "summary": "28 juillet 2026 - Le portail d’annonces immobilières Belles Demeures propose de nouvelles offres aux agences. En effet, avec Priority et Top Position, les pros de l’immobilier [...]",
-      "url": "https://immo2.pro/actualite-immobilier/belles-demeures-lance-deux-offres-pour-garantir-une-meilleure-visibilite-aux-agences/",
-      "source": "Immobilier 2.0",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-28T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Belles Demeures : deux nouvelles offres pour garantir une meilleure visibilité aux agences."
-    },
-    {
       "id": "3b2255cb7e8a6f65",
       "title": "Informations Rapides · 28 mai 2026 · n° 130 Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) Indices Notaires-Insee des prix des logements anciens - premier trimestre 2026",
       "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee true false https://www.sphinxonline.com/surveyserver/s/ccpesatisf/imageInsee2026/questionnaire.htm 2026-10-04 00:00:00.0 9054098 Votre avis est important pour l'amélioration de nos services Le questionnaire dure environ 6 minutes Souhaitez-vous participer à cette enquête ? Oui Non Aller au contenu Aide Thèmes Recherche English Presse Menu Menu Blog Presse Aide English Lancer la",
@@ -1547,13 +1568,13 @@
     }
   ],
   "source_stats": {
+    "ANIL": 11,
     "MySweetImmo": 16,
     "Journal de l'Agence": 15,
+    "Immobilier 2.0": 13,
     "Légifrance": 2,
-    "ANIL": 10,
     "Batiactu": 11,
     "Horiz.io": 2,
-    "Immobilier 2.0": 13,
     "SDES / Sitadel": 1,
     "Insee": 1,
     "EUR-Lex": 1,
@@ -1564,15 +1585,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 74,
-    "rejected": 1151,
+    "retained": 75,
+    "rejected": 1219,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-21T12:54:50+00:00",
+        "last_success": "2026-09-21T22:01:03+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1580,7 +1601,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-21T12:54:52+00:00",
+        "last_success": "2026-09-21T22:01:05+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1588,7 +1609,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-21T12:54:52+00:00",
+        "last_success": "2026-09-21T22:01:06+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1596,7 +1617,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-21T12:54:54+00:00",
+        "last_success": "2026-09-21T22:01:07+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1604,7 +1625,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-21T12:55:12+00:00",
+        "last_success": "2026-09-21T22:01:23+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1612,7 +1633,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-21T12:55:20+00:00",
+        "last_success": "2026-09-21T22:01:31+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1620,15 +1641,15 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-21T12:55:20+00:00",
+        "last_success": "2026-09-21T22:01:31+00:00",
         "fallback": false
       },
       "ANIL": {
         "level": "B",
         "ok": true,
         "status": "ok",
-        "retained": 10,
-        "last_success": "2026-09-21T12:55:21+00:00",
+        "retained": 11,
+        "last_success": "2026-09-21T22:01:33+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1636,7 +1657,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-21T12:55:21+00:00",
+        "last_success": "2026-09-21T22:01:34+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1644,7 +1665,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-21T12:55:22+00:00",
+        "last_success": "2026-09-21T22:01:35+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1652,7 +1673,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-21T12:55:23+00:00",
+        "last_success": "2026-09-21T22:01:36+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1660,7 +1681,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-21T12:55:24+00:00",
+        "last_success": "2026-09-21T22:01:37+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1668,7 +1689,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-21T12:55:25+00:00",
+        "last_success": "2026-09-21T22:01:39+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1676,7 +1697,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-21T12:55:26+00:00",
+        "last_success": "2026-09-21T22:01:39+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1684,7 +1705,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-21T12:55:27+00:00",
+        "last_success": "2026-09-21T22:01:40+00:00",
         "fallback": false
       }
     }
