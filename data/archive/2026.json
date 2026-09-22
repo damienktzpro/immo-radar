@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-21T22:01:49+00:00",
+  "generated_at": "2026-09-22T05:04:44+00:00",
   "items": [
+    {
+      "id": "8658566bc4f7bb17",
+      "title": "IA et annonces immobilières : le Gouvernement rappelle les règles d’utilisation",
+      "summary": "Le 22/09/2026 à 06H14 Retoucher une photo, embellir un bien, réaliser du home staging virtuel… L’intelligence artificielle s’installe dans les annonces immobilières et soulève de nouvelles questions juridiques. Interpellé sur son utilisation par les particuliers, le Gouvernement estime que le cadre juridique existant permet déjà de sanctionner les abus. Il alerte également sur un autre risque : celui d’une sélection automatisé",
+      "url": "https://www.journaldelagence.com/1413672-ia-et-annonces-immobilieres-le-gouvernement-rappelle-les-regles-dutilisation",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : IA et annonces immobilières : le Gouvernement rappelle les règles d’utilisation."
+    },
     {
       "id": "056b016112942917",
       "title": "Une délégation du ministère vietnamien de la Construction reçue à l’ANIL",
@@ -48,27 +69,28 @@
     {
       "id": "c27b4ea5926b3f07",
       "title": "Orpi rejoint idealista : le n°1 des réseaux d’agences immobilières françaises intègre le portail immobilier européen leader",
-      "summary": "Le 21/09/2026 à 10H13 Une arrivée en France qui prend un départ remarqué. À peine une semaine après son entrée officielle sur le marché hexagonal, idealista annonce signer un premier accord d'envergure avec Orpi, premier réseau coopératif immobilier de France. Un accord symboliquement fort qui, dès les premiers jours, valide la stratégie d'idealista : se positionner comme l'alternative de référence pour les professionnels de l",
+      "summary": "des candidats à la location. Explications de Maître Caroline Dubuis-Talayrach. Le 21/09/2026 à 10H13 Une arrivée en France qui prend un départ remarqué. À peine une semaine après son entrée officielle sur le marché hexagonal, idealista annonce signer un premier accord d'envergure avec Orpi, premier réseau coopératif immobilier de France. Un accord symboliquement fort qui, dès les premiers jours, valide la stratégie d'idealist",
       "url": "https://www.journaldelagence.com/1413682-orpi-rejoint-idealista-le-n1-des-reseaux-dagences-immobilieres-francaises-integre-le-portail-immobilier-europeen-leader",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "pro",
+      "category": "marche",
       "audiences": [
-        "pro",
-        "investisseur"
+        "particulier",
+        "investisseur",
+        "pro"
       ],
       "published_at": "2026-09-21T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Orpi rejoint idealista : le n°1 des réseaux d’agences immobilières françaises intègre le portail immobilier européen leader."
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Orpi rejoint idealista : le n°1 des réseaux d’agences immobilières françaises intègre le portail immobilier européen leader."
     },
     {
       "id": "e0387f6b62f3b82b",
       "title": "Cadastre : Ce qui change pour une vente immobilière",
-      "summary": "Nouveau Dans l'actu",
+      "summary": "Dans l'actu",
       "url": "https://www.mysweetimmo.com/2026/09/21/cadastre-ce-qui-change-pour-une-vente-immobiliere/",
       "source": "MySweetImmo",
       "source_level": "C",
