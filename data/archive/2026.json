@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-22T17:01:37+00:00",
+  "generated_at": "2026-09-22T21:23:48+00:00",
   "items": [
     {
       "id": "d9359f81f850ce6f",
@@ -48,7 +48,7 @@
     {
       "id": "6591fc6d3f7bcc5b",
       "title": "Diagnostic immobilier : Trois fédérations créent l’UFD3I pour parler d’une seule voix face à l’État",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/09/22/diagnostic-immobilier-trois-federations-creent-lufd3i-pour-parler-dune-seule-voix-face-a-letat/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -127,6 +127,48 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Présidentielle 2027 : quelles sont les propositions de Marine Le Pen sur le logement ?."
+    },
+    {
+      "id": "162398dd3324844c",
+      "title": "Prime carburant : Jusqu'à 1 000 € pour les salariés, ce que les agents immobiliers doivent savoir",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/09/22/prime-carburant-jusqua-1-000-e-pour-les-salaries-ce-que-les-agents-immobiliers-doivent-savoir/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Prime carburant : Jusqu'à 1 000 € pour les salariés, ce que les agents immobiliers doivent savoir."
+    },
+    {
+      "id": "9ad4f65e06359370",
+      "title": "Réseaux immobiliers : REGM rejoint Efficity pour accélérer son développement",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/09/22/reseaux-immobiliers-regm-rejoint-efficity-pour-accelerer-son-developpement/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Réseaux immobiliers : REGM rejoint Efficity pour accélérer son développement."
     },
     {
       "id": "056b016112942917",

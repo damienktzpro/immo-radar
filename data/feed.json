@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T17:01:31+00:00",
+  "generated_at": "2026-09-22T21:23:39+00:00",
   "version": "7.1",
   "items": [
     {
@@ -24,9 +24,51 @@
       "why_it_matters": "Source institutionnelle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Nouvelle Parole d'expert : Travaux de rénovation énergétique : comment repérer et éviter les arnaques ?."
     },
     {
+      "id": "162398dd3324844c",
+      "title": "Prime carburant : Jusqu'à 1 000 € pour les salariés, ce que les agents immobiliers doivent savoir",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/09/22/prime-carburant-jusqua-1-000-e-pour-les-salaries-ce-que-les-agents-immobiliers-doivent-savoir/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Prime carburant : Jusqu'à 1 000 € pour les salariés, ce que les agents immobiliers doivent savoir."
+    },
+    {
+      "id": "9ad4f65e06359370",
+      "title": "Réseaux immobiliers : REGM rejoint Efficity pour accélérer son développement",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/09/22/reseaux-immobiliers-regm-rejoint-efficity-pour-accelerer-son-developpement/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Réseaux immobiliers : REGM rejoint Efficity pour accélérer son développement."
+    },
+    {
       "id": "6591fc6d3f7bcc5b",
       "title": "Diagnostic immobilier : Trois fédérations créent l’UFD3I pour parler d’une seule voix face à l’État",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/09/22/diagnostic-immobilier-trois-federations-creent-lufd3i-pour-parler-dune-seule-voix-face-a-letat/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -734,27 +776,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : IA : SeLoger lance la Recherche Intelligente pour simplifier la recherche d’un bien immobilier."
     },
     {
-      "id": "0f2653e8d4f74ff7",
-      "title": "Crédit immobilier : Les taux remontent, jusqu’où iront-ils d’ici fin 2026 ?",
-      "summary": "Investir / Financer",
-      "url": "https://www.mysweetimmo.com/2026/09/14/credit-immobilier-les-taux-remontent-jusquou-iront-ils-dici-fin-2026/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "credit",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-14T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Credit",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Les taux remontent, jusqu’où iront-ils d’ici fin 2026 ?."
-    },
-    {
       "id": "8972d30cf77c45a6",
       "title": "Devoir de conseil : ce que les tribunaux exigent des agents immobiliers",
       "summary": "s spécificités de ces marchés rares et des méthodes à manier avec discernement. Le 14/09/2026 à 06H56 Le devoir de conseil ne se résume pas à une obligation à respecter : bien maîtrisé, il peut devenir l’un des meilleurs atouts de l’agent immobilier. Vérifier les informations, creuser au moindre doute, connaître le bien comme son environnement… La jurisprudence impose aux professionnels une vigilance accrue, mais dessine auss",
@@ -835,27 +856,6 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Fin du chauffage gaz en construction neuve : le décret est paru."
-    },
-    {
-      "id": "0126caa60c3d6037",
-      "title": "Logement vacant : Votre nom transmis à la mairie dès 2027",
-      "summary": "Règlementation",
-      "url": "https://www.mysweetimmo.com/2026/09/13/logement-vacant-votre-nom-transmis-a-la-mairie-des-2027/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-13T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Logement vacant : Votre nom transmis à la mairie dès 2027."
     },
     {
       "id": "a2f37fe5dd67d061",
@@ -1572,7 +1572,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-22T17:00:38+00:00",
+        "last_success": "2026-09-22T21:23:00+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1580,7 +1580,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-22T17:00:43+00:00",
+        "last_success": "2026-09-22T21:23:03+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1588,7 +1588,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-22T17:00:44+00:00",
+        "last_success": "2026-09-22T21:23:04+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1596,7 +1596,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-22T17:00:45+00:00",
+        "last_success": "2026-09-22T21:23:05+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1604,7 +1604,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-22T17:01:08+00:00",
+        "last_success": "2026-09-22T21:23:22+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1612,7 +1612,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-22T17:01:19+00:00",
+        "last_success": "2026-09-22T21:23:30+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1620,7 +1620,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-22T17:01:19+00:00",
+        "last_success": "2026-09-22T21:23:30+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1628,7 +1628,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-22T17:01:20+00:00",
+        "last_success": "2026-09-22T21:23:31+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1636,7 +1636,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-22T17:01:21+00:00",
+        "last_success": "2026-09-22T21:23:32+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1644,7 +1644,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-22T17:01:23+00:00",
+        "last_success": "2026-09-22T21:23:33+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1652,7 +1652,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-22T17:01:24+00:00",
+        "last_success": "2026-09-22T21:23:34+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1660,7 +1660,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-22T17:01:25+00:00",
+        "last_success": "2026-09-22T21:23:35+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1668,7 +1668,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-22T17:01:27+00:00",
+        "last_success": "2026-09-22T21:23:37+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1676,7 +1676,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-22T17:01:28+00:00",
+        "last_success": "2026-09-22T21:23:38+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1684,7 +1684,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-22T17:01:30+00:00",
+        "last_success": "2026-09-22T21:23:38+00:00",
         "fallback": false
       }
     }
