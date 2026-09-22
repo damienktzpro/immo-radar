@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-22T11:45:49+00:00",
+  "generated_at": "2026-09-22T17:01:37+00:00",
   "items": [
     {
       "id": "d9359f81f850ce6f",
@@ -69,7 +69,7 @@
     {
       "id": "e96374a58648f81f",
       "title": "Tracfin : agences, agents commerciaux, réseaux de mandataires… tous concernés, mais pas tous au point",
-      "summary": "Le 22/09/2026 à 07H16 Votre agence immobilière est-elle réellement prête à faire face à un contrôle LCB-FT de la DGCCRF ? Que vous maîtrisiez déjà vos obligations ou que vous commenciez juste à structurer vos procédures internes, cette question mérite toute votre attention. Un dispositif incomplet ou mal appliqué peut en effet exposer votre agence à de lourdes sanctions. Mieux vaut donc anticiper que subir. Voyons comment mett",
+      "summary": "oursuit son tour d’horizon des propositions des candidats déclarés. Décryptage. Le 22/09/2026 à 07H16 Votre agence immobilière est-elle réellement prête à faire face à un contrôle LCB-FT de la DGCCRF ? Que vous maîtrisiez déjà vos obligations ou que vous commenciez juste à structurer vos procédures internes, cette question mérite toute votre attention. Un dispositif incomplet ou mal appliqué peut en effet exposer votre agence",
       "url": "https://www.journaldelagence.com/1413692-tracfin-agences-agents-commerciaux-reseaux-de-mandataires-tous-concernes-mais-pas-tous-au-point",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -85,6 +85,48 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Tracfin : agences, agents commerciaux, réseaux de mandataires… tous concernés, mais pas tous au point."
+    },
+    {
+      "id": "9cc7ee0625bceca6",
+      "title": "RENT 2026 : « Une Fashion Week pour l’immobilier ! » Stéphane Scarella (RENT)",
+      "summary": "RENT 2026 : « Une Fashion Week pour l’immobilier ! » Stéphane Scarella (RENT)",
+      "url": "https://www.mysweetimmo.com/2026/09/22/rent-2026-une-fashion-week-pour-limmobilier-stephane-scarella-rent/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 : « Une Fashion Week pour l’immobilier ! » Stéphane Scarella (RENT)."
+    },
+    {
+      "id": "138c3c0540cef62e",
+      "title": "Présidentielle 2027 : quelles sont les propositions de Marine Le Pen sur le logement ?",
+      "summary": "Le 22/09/2026 à 15H32 Construction, foncier, DPE, loi SRU, crédit immobilier, logement social… Marine Le Pen a détaillé les principaux axes de son projet logement pour 2027. Après un premier volet consacré à Bruno Retailleau, le Journal de l’Agence poursuit son tour d’horizon des propositions des candidats déclarés. Décryptage. Tracfin : agences, agents commerciaux, réseaux de mandataires… tous concernés, mais pas tous au poin",
+      "url": "https://www.journaldelagence.com/1413717-presidentielle-2027-quelles-sont-les-propositions-de-marine-le-pen-sur-le-logement",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Présidentielle 2027 : quelles sont les propositions de Marine Le Pen sur le logement ?."
     },
     {
       "id": "056b016112942917",

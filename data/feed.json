@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:45:43+00:00",
+  "generated_at": "2026-09-22T17:01:31+00:00",
   "version": "7.1",
   "items": [
     {
@@ -45,9 +45,51 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Diagnostic immobilier : Trois fédérations créent l’UFD3I pour parler d’une seule voix face à l’État."
     },
     {
+      "id": "9cc7ee0625bceca6",
+      "title": "RENT 2026 : « Une Fashion Week pour l’immobilier ! » Stéphane Scarella (RENT)",
+      "summary": "RENT 2026 : « Une Fashion Week pour l’immobilier ! » Stéphane Scarella (RENT)",
+      "url": "https://www.mysweetimmo.com/2026/09/22/rent-2026-une-fashion-week-pour-limmobilier-stephane-scarella-rent/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 : « Une Fashion Week pour l’immobilier ! » Stéphane Scarella (RENT)."
+    },
+    {
+      "id": "138c3c0540cef62e",
+      "title": "Présidentielle 2027 : quelles sont les propositions de Marine Le Pen sur le logement ?",
+      "summary": "Le 22/09/2026 à 15H32 Construction, foncier, DPE, loi SRU, crédit immobilier, logement social… Marine Le Pen a détaillé les principaux axes de son projet logement pour 2027. Après un premier volet consacré à Bruno Retailleau, le Journal de l’Agence poursuit son tour d’horizon des propositions des candidats déclarés. Décryptage. Tracfin : agences, agents commerciaux, réseaux de mandataires… tous concernés, mais pas tous au poin",
+      "url": "https://www.journaldelagence.com/1413717-presidentielle-2027-quelles-sont-les-propositions-de-marine-le-pen-sur-le-logement",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Présidentielle 2027 : quelles sont les propositions de Marine Le Pen sur le logement ?."
+    },
+    {
       "id": "e96374a58648f81f",
       "title": "Tracfin : agences, agents commerciaux, réseaux de mandataires… tous concernés, mais pas tous au point",
-      "summary": "Le 22/09/2026 à 07H16 Votre agence immobilière est-elle réellement prête à faire face à un contrôle LCB-FT de la DGCCRF ? Que vous maîtrisiez déjà vos obligations ou que vous commenciez juste à structurer vos procédures internes, cette question mérite toute votre attention. Un dispositif incomplet ou mal appliqué peut en effet exposer votre agence à de lourdes sanctions. Mieux vaut donc anticiper que subir. Voyons comment mett",
+      "summary": "oursuit son tour d’horizon des propositions des candidats déclarés. Décryptage. Le 22/09/2026 à 07H16 Votre agence immobilière est-elle réellement prête à faire face à un contrôle LCB-FT de la DGCCRF ? Que vous maîtrisiez déjà vos obligations ou que vous commenciez juste à structurer vos procédures internes, cette question mérite toute votre attention. Un dispositif incomplet ou mal appliqué peut en effet exposer votre agence",
       "url": "https://www.journaldelagence.com/1413692-tracfin-agences-agents-commerciaux-reseaux-de-mandataires-tous-concernes-mais-pas-tous-au-point",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -107,27 +149,6 @@
       "why_it_matters": "Source institutionnelle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Une délégation du ministère vietnamien de la Construction reçue à l’ANIL."
     },
     {
-      "id": "0b7cebbee17b71bc",
-      "title": "Entre deux logements : Où stocker ses meubles pendant un déménagement ?",
-      "summary": "Vendre avant d’avoir trouvé son prochain logement, attendre la fin des travaux, quitter une location avant d’avoir les clés du suivant : entre deux adresses, meubles et cartons n’ont parfois nulle part où aller. Garde-meuble, self-stockage, stockage mobile : tour d’horizon des solutions pour traverser cette période sans s’encombrer. Contenu sponsorisé par locakase",
-      "url": "https://www.mysweetimmo.com/2026/09/21/entre-deux-logements-ou-stocker-ses-meubles-pendant-un-demenagement/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-21T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Entre deux logements : Où stocker ses meubles pendant un déménagement ?."
-    },
-    {
       "id": "e0387f6b62f3b82b",
       "title": "Cadastre : Ce qui change pour une vente immobilière",
       "summary": "Dans l'actu",
@@ -147,6 +168,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Cadastre : Ce qui change pour une vente immobilière."
+    },
+    {
+      "id": "0b7cebbee17b71bc",
+      "title": "Entre deux logements : Où stocker ses meubles pendant un déménagement ?",
+      "summary": "Vendre avant d’avoir trouvé son prochain logement, attendre la fin des travaux, quitter une location avant d’avoir les clés du suivant : entre deux adresses, meubles et cartons n’ont parfois nulle part où aller. Garde-meuble, self-stockage, stockage mobile : tour d’horizon des solutions pour traverser cette période sans s’encombrer. Contenu sponsorisé par locakase",
+      "url": "https://www.mysweetimmo.com/2026/09/21/entre-deux-logements-ou-stocker-ses-meubles-pendant-un-demenagement/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Entre deux logements : Où stocker ses meubles pendant un déménagement ?."
     },
     {
       "id": "c27b4ea5926b3f07",
@@ -857,27 +899,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Idealista s’implante en France : un nouveau souffle pour les professionnels de l’immobilier."
     },
     {
-      "id": "e198e139e7cdaaef",
-      "title": "Côté Particuliers : un modèle pensé pour entreprendre, performer et se développer",
-      "summary": "ribuer les cartes sur un marché dominé depuis des années par les mêmes acteurs. Le 11/09/2026 à 00H00 Dans un marché immobilier plus sélectif, Côté Particuliers entend séduire de nouveaux entrepreneurs tout en accompagnant la croissance de ses franchisés. Pierre-Jean Rafel, directeur du réseau Côté Particuliers et du Pôle Franchises Groupe HUMAN, détaille les atouts du modèle, les leviers de performance du réseau et les oppor",
-      "url": "https://www.journaldelagence.com/1413527-cote-particuliers-un-modele-pense-pour-entreprendre-performer-et-se-developper",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-11T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Côté Particuliers : un modèle pensé pour entreprendre, performer et se développer."
-    },
-    {
       "id": "21a741268da647ff",
       "title": "Portail immobilier : Le géant Idealista arrive en France",
       "summary": "Portail immobilier : Le géant Idealista arrive en France",
@@ -1004,6 +1025,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Centres de données."
     },
     {
+      "id": "2de8efd58fa2cae8",
+      "title": "Logement : 91 % des Français considèrent qu’il est plus difficile de se loger qu’il y a dix ans",
+      "summary": "Logement : 91 % des Français considèrent qu’il est plus difficile de se loger qu’il y a dix ans",
+      "url": "https://www.mysweetimmo.com/2026/09/09/logement-91-des-francais-considerent-quil-est-plus-difficile-de-se-loger-quil-y-a-dix-ans/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : 91 % des Français considèrent qu’il est plus difficile de se loger qu’il y a dix ans."
+    },
+    {
       "id": "0d946c5404153d72",
       "title": "Immobilier : « Les Français n’ont jamais autant cherché sur SeLoger » Baptiste Capron",
       "summary": "Immobilier : « Les Français n’ont jamais autant cherché sur SeLoger » Baptiste Capron",
@@ -1087,27 +1129,6 @@
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Nouvelle Parole d'expert : Carnet d'information du logement : comment CLÉA vous aide à mieux gérer votre logement."
     },
     {
-      "id": "958b724776d97869",
-      "title": "Immobilier en Île-de-France : Les ventes repartent de 10 % mais les notaires ne parlent pas encore de reprise",
-      "summary": "Marché immobilier",
-      "url": "https://www.mysweetimmo.com/2026/09/08/immobilier-en-ile-de-france-les-ventes-repartent-de-10-les-prix-restent-stables/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-08T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier en Île-de-France : Les ventes repartent de 10 % mais les notaires ne parlent pas encore de reprise."
-    },
-    {
       "id": "8b26ebd2e95f9283",
       "title": "Proptech : Danim lance sa nouvelle plateforme marketing pour les agents immobiliers",
       "summary": "8 septembre 2026 - La proptech française Danim a lancé Danim 2, une refonte complète de sa plateforme de marketing digital. Dédiée aux pros de l’immobilier, elle permet entre autres la [...]",
@@ -1168,27 +1189,6 @@
       "territory": "France",
       "topic": "Territoires",
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : De nouvelles données sur les loyers sont disponibles."
-    },
-    {
-      "id": "9e71230ef2ea9004",
-      "title": "IA : « Résidences Immobilier accélère sur la Tech », Nicolas Faure, directeur général",
-      "summary": "Vie Pro Article sponsorisé",
-      "url": "https://www.mysweetimmo.com/2026/09/04/ia-residences-immobilier-accelere-sur-la-tech-nicolas-faure-dg/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-04T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : IA : « Résidences Immobilier accélère sur la Tech », Nicolas Faure, directeur général."
     },
     {
       "id": "65ddedab971bab63",
@@ -1523,6 +1523,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vente immobilière : quel délai pour faire rectifier un acte notarié ?."
+    },
+    {
+      "id": "8e475dc9b365c3a3",
+      "title": "Ce qui change en octobre 2026",
+      "summary": "Santé, logement, environnement... Découvrez les changements intervenant à partir de ce mois d’octobre.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18466?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": null,
+      "status": "Information officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Ce qui change en octobre 2026."
     }
   ],
   "source_stats": {
@@ -1535,22 +1556,23 @@
     "Horiz.io": 2,
     "SDES / Sitadel": 1,
     "Insee": 1,
-    "EUR-Lex": 1
+    "EUR-Lex": 1,
+    "Service-Public.fr": 1
   },
   "health": {
     "sources_total": 15,
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 73,
+    "retained": 74,
     "rejected": 1159,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
-        "status": "empty",
-        "retained": 0,
-        "last_success": "2026-09-22T11:44:51+00:00",
+        "status": "ok",
+        "retained": 1,
+        "last_success": "2026-09-22T17:00:38+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1558,7 +1580,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-22T11:44:55+00:00",
+        "last_success": "2026-09-22T17:00:43+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1566,7 +1588,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-22T11:44:56+00:00",
+        "last_success": "2026-09-22T17:00:44+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1574,7 +1596,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-22T11:45:04+00:00",
+        "last_success": "2026-09-22T17:00:45+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1582,7 +1604,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-22T11:45:24+00:00",
+        "last_success": "2026-09-22T17:01:08+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1590,7 +1612,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-22T11:45:33+00:00",
+        "last_success": "2026-09-22T17:01:19+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1598,7 +1620,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-22T11:45:33+00:00",
+        "last_success": "2026-09-22T17:01:19+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1606,7 +1628,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-22T11:45:34+00:00",
+        "last_success": "2026-09-22T17:01:20+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1614,7 +1636,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-22T11:45:35+00:00",
+        "last_success": "2026-09-22T17:01:21+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1622,7 +1644,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-22T11:45:36+00:00",
+        "last_success": "2026-09-22T17:01:23+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1630,7 +1652,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-22T11:45:38+00:00",
+        "last_success": "2026-09-22T17:01:24+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1638,7 +1660,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-22T11:45:39+00:00",
+        "last_success": "2026-09-22T17:01:25+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1646,7 +1668,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-22T11:45:41+00:00",
+        "last_success": "2026-09-22T17:01:27+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1654,7 +1676,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-22T11:45:42+00:00",
+        "last_success": "2026-09-22T17:01:28+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1662,7 +1684,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-22T11:45:42+00:00",
+        "last_success": "2026-09-22T17:01:30+00:00",
         "fallback": false
       }
     }
