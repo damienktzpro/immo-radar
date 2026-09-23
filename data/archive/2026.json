@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-22T21:23:48+00:00",
+  "generated_at": "2026-09-23T04:51:33+00:00",
   "items": [
     {
       "id": "d9359f81f850ce6f",
@@ -110,7 +110,7 @@
     {
       "id": "138c3c0540cef62e",
       "title": "Présidentielle 2027 : quelles sont les propositions de Marine Le Pen sur le logement ?",
-      "summary": "Le 22/09/2026 à 15H32 Construction, foncier, DPE, loi SRU, crédit immobilier, logement social… Marine Le Pen a détaillé les principaux axes de son projet logement pour 2027. Après un premier volet consacré à Bruno Retailleau, le Journal de l’Agence poursuit son tour d’horizon des propositions des candidats déclarés. Décryptage. Tracfin : agences, agents commerciaux, réseaux de mandataires… tous concernés, mais pas tous au poin",
+      "summary": "réglementée de syndic, tout en suscitant des réserves au sein de la profession. Le 22/09/2026 à 15H32 Construction, foncier, DPE, loi SRU, crédit immobilier, logement social… Marine Le Pen a détaillé les principaux axes de son projet logement pour 2027. Après un premier volet consacré à Bruno Retailleau, le Journal de l’Agence poursuit son tour d’horizon des propositions des candidats déclarés. Décryptage. Tracfin : agences,",
       "url": "https://www.journaldelagence.com/1413717-presidentielle-2027-quelles-sont-les-propositions-de-marine-le-pen-sur-le-logement",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -546,6 +546,26 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Taxe foncière : après une hausse contenue en 2026, ce qui pourrait changer pour vos clients en 2027."
+    },
+    {
+      "id": "3c7ba82d784f2a44",
+      "title": "Affaire Matera : jusqu’où peut-on externaliser les missions d’un syndic de copropriété ?",
+      "summary": "Le 23/09/2026 à 06H46 Jusqu’où un prestataire peut-il accompagner la gestion d’une copropriété sans devenir lui-même syndic ? Dans un arrêt du 17 septembre 2026, la Cour de cassation valide le modèle d’assistance proposé par Matera aux syndicats coopératifs. Une décision importante pour les professionnels de la copropriété, qui précise la frontière entre externalisation de tâches et exercice de la profession réglementée de syn",
+      "url": "https://www.journaldelagence.com/1413723-affaire-matera-jusquou-peut-on-externaliser-les-missions-dun-syndic-de-copropriete",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Affaire Matera : jusqu’où peut-on externaliser les missions d’un syndic de copropriété ?."
     },
     {
       "id": "538b25ded75bbbb5",
