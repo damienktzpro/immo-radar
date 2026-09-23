@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-09-23T11:44:50+00:00",
+  "generated_at": "2026-09-23T17:08:52+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "3dede333a4267d96",
+      "title": "Immobilier de luxe : + 55 % de demandes chez Coldwell Banker cet été",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/09/23/immobilier-de-luxe-55-de-demandes-chez-coldwell-banker-cet-ete/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier de luxe : + 55 % de demandes chez Coldwell Banker cet été."
+    },
     {
       "id": "e0fe4caaea1f0ef3",
       "title": "Estimation travaux : mieux chiffrer pour mieux accompagner vendeurs et acquéreurs",
@@ -1026,27 +1047,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Centres de données."
     },
     {
-      "id": "2de8efd58fa2cae8",
-      "title": "Logement : 91 % des Français considèrent qu’il est plus difficile de se loger qu’il y a dix ans",
-      "summary": "Logement : 91 % des Français considèrent qu’il est plus difficile de se loger qu’il y a dix ans",
-      "url": "https://www.mysweetimmo.com/2026/09/09/logement-91-des-francais-considerent-quil-est-plus-difficile-de-se-loger-quil-y-a-dix-ans/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-09T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : 91 % des Français considèrent qu’il est plus difficile de se loger qu’il y a dix ans."
-    },
-    {
       "id": "0d946c5404153d72",
       "title": "Immobilier : « Les Français n’ont jamais autant cherché sur SeLoger » Baptiste Capron",
       "summary": "Immobilier : « Les Français n’ont jamais autant cherché sur SeLoger » Baptiste Capron",
@@ -1526,6 +1526,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vente immobilière : quel délai pour faire rectifier un acte notarié ?."
     },
     {
+      "id": "d469f15345f48427",
+      "title": "De nouveaux modèles de bail entrent en vigueur à partir du 1er octobre 2026",
+      "summary": "Les modèles réglementaires de bail évoluent à compter du 1 er octobre 2026. Un décret paru au Journal officiel du 7 juillet modifie les contrats types de location des logements loués vides, meublés et des colocations à bail unique. Les nouveaux modèles intègrent notamment la clause résolutoire applicable en cas d'impayés ou de non-versement du dépôt de garantie, ainsi que de nouvelles mentions relatives à l'occupation du logement.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19067?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": null,
+      "status": "Information officielle",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source officielle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : De nouveaux modèles de bail entrent en vigueur à partir du 1er octobre 2026."
+    },
+    {
       "id": "8e475dc9b365c3a3",
       "title": "Ce qui change en octobre 2026",
       "summary": "Santé, logement, environnement... Découvrez les changements intervenant à partir de ce mois d’octobre.",
@@ -1548,9 +1569,9 @@
     }
   ],
   "source_stats": {
+    "MySweetImmo": 16,
     "Journal de l'Agence": 15,
     "ANIL": 11,
-    "MySweetImmo": 16,
     "Immobilier 2.0": 13,
     "Légifrance": 2,
     "Batiactu": 11,
@@ -1558,22 +1579,22 @@
     "SDES / Sitadel": 1,
     "Insee": 1,
     "EUR-Lex": 1,
-    "Service-Public.fr": 1
+    "Service-Public.fr": 2
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 15,
-    "sources_degraded": 0,
+    "sources_ok": 14,
+    "sources_degraded": 1,
     "errors": 0,
-    "retained": 74,
-    "rejected": 1137,
+    "retained": 75,
+    "rejected": 1138,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
-        "retained": 1,
-        "last_success": "2026-09-23T11:44:08+00:00",
+        "retained": 2,
+        "last_success": "2026-09-23T17:07:51+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1581,7 +1602,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-23T11:44:10+00:00",
+        "last_success": "2026-09-23T17:07:54+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1589,23 +1610,24 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-23T11:44:11+00:00",
+        "last_success": "2026-09-23T17:07:55+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
         "level": "A",
-        "ok": true,
-        "status": "ok",
+        "ok": false,
+        "status": "degraded",
         "retained": 1,
-        "last_success": "2026-09-23T11:44:12+00:00",
-        "fallback": false
+        "last_success": "2026-09-23T11:44:50+00:00",
+        "fallback": true,
+        "error_type": "RetryError"
       },
       "Sénat / DOSLEG": {
         "level": "A",
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-23T11:44:31+00:00",
+        "last_success": "2026-09-23T17:08:29+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1613,7 +1635,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-23T11:44:40+00:00",
+        "last_success": "2026-09-23T17:08:40+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1621,7 +1643,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-23T11:44:40+00:00",
+        "last_success": "2026-09-23T17:08:40+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1629,7 +1651,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-23T11:44:41+00:00",
+        "last_success": "2026-09-23T17:08:41+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1637,7 +1659,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-23T11:44:42+00:00",
+        "last_success": "2026-09-23T17:08:42+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1645,7 +1667,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-23T11:44:43+00:00",
+        "last_success": "2026-09-23T17:08:43+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1653,7 +1675,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-23T11:44:44+00:00",
+        "last_success": "2026-09-23T17:08:45+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1661,7 +1683,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-23T11:44:46+00:00",
+        "last_success": "2026-09-23T17:08:46+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1669,7 +1691,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-23T11:44:47+00:00",
+        "last_success": "2026-09-23T17:08:47+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1677,7 +1699,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-23T11:44:48+00:00",
+        "last_success": "2026-09-23T17:08:48+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1685,10 +1707,16 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-23T11:44:49+00:00",
+        "last_success": "2026-09-23T17:08:51+00:00",
         "fallback": false
       }
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "source": "SDES / Sitadel",
+      "error": "HTTPSConnectionPool(host='www.statistiques.developpement-durable.gouv.fr', port=443): Max retries exceeded with url: /la-construction-neuve (Caused by ResponseError('too many 503 error responses'))",
+      "fallback": true
+    }
+  ]
 }

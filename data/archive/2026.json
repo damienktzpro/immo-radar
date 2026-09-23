@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-23T11:44:55+00:00",
+  "generated_at": "2026-09-23T17:08:56+00:00",
   "items": [
     {
       "id": "e0fe4caaea1f0ef3",
@@ -22,6 +22,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Estimation travaux : mieux chiffrer pour mieux accompagner vendeurs et acquéreurs."
+    },
+    {
+      "id": "3dede333a4267d96",
+      "title": "Immobilier de luxe : + 55 % de demandes chez Coldwell Banker cet été",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/09/23/immobilier-de-luxe-55-de-demandes-chez-coldwell-banker-cet-ete/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier de luxe : + 55 % de demandes chez Coldwell Banker cet été."
     },
     {
       "id": "d9359f81f850ce6f",
