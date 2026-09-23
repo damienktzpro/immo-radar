@@ -1,8 +1,28 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-23T04:51:33+00:00",
+  "generated_at": "2026-09-23T11:44:55+00:00",
   "items": [
+    {
+      "id": "e0fe4caaea1f0ef3",
+      "title": "Estimation travaux : mieux chiffrer pour mieux accompagner vendeurs et acquéreurs",
+      "summary": "Le 23/09/2026 à 07H17 Dans un marché où le financement reste contraint, le montant des travaux peut peser lourd dans la décision d’achat et dans la négociation du prix. Pouvoir donner rapidement un premier ordre de grandeur devient donc un véritable enjeu pour les professionnels de l’immobilier. Casam, courtier en travaux spécialisé dans l’achat immobilier, lance un simulateur multi-travaux gratuit destiné aux professionnels.",
+      "url": "https://www.journaldelagence.com/1413712-estimation-travaux-mieux-chiffrer-pour-mieux-accompagner-vendeurs-et-acquereurs",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Estimation travaux : mieux chiffrer pour mieux accompagner vendeurs et acquéreurs."
+    },
     {
       "id": "d9359f81f850ce6f",
       "title": "Nouvelle Parole d'expert : Travaux de rénovation énergétique : comment repérer et éviter les arnaques ?",
@@ -131,7 +151,7 @@
     {
       "id": "162398dd3324844c",
       "title": "Prime carburant : Jusqu'à 1 000 € pour les salariés, ce que les agents immobiliers doivent savoir",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/09/22/prime-carburant-jusqua-1-000-e-pour-les-salaries-ce-que-les-agents-immobiliers-doivent-savoir/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -152,7 +172,7 @@
     {
       "id": "9ad4f65e06359370",
       "title": "Réseaux immobiliers : REGM rejoint Efficity pour accélérer son développement",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/09/22/reseaux-immobiliers-regm-rejoint-efficity-pour-accelerer-son-developpement/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -550,7 +570,7 @@
     {
       "id": "3c7ba82d784f2a44",
       "title": "Affaire Matera : jusqu’où peut-on externaliser les missions d’un syndic de copropriété ?",
-      "summary": "Le 23/09/2026 à 06H46 Jusqu’où un prestataire peut-il accompagner la gestion d’une copropriété sans devenir lui-même syndic ? Dans un arrêt du 17 septembre 2026, la Cour de cassation valide le modèle d’assistance proposé par Matera aux syndicats coopératifs. Une décision importante pour les professionnels de la copropriété, qui précise la frontière entre externalisation de tâches et exercice de la profession réglementée de syn",
+      "summary": "de se tendre. Pour les professionnels de l'immobilier, que faut-il en retenir ? Le 23/09/2026 à 06H46 Jusqu’où un prestataire peut-il accompagner la gestion d’une copropriété sans devenir lui-même syndic ? Dans un arrêt du 17 septembre 2026, la Cour de cassation valide le modèle d’assistance proposé par Matera aux syndicats coopératifs. Une décision importante pour les professionnels de la copropriété, qui précise la frontièr",
       "url": "https://www.journaldelagence.com/1413723-affaire-matera-jusquou-peut-on-externaliser-les-missions-dun-syndic-de-copropriete",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -941,6 +961,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Stéphane Plaza Immobilier rejoint We Invest."
+    },
+    {
+      "id": "4c916bd1daee564c",
+      "title": "Crédit immobilier : 35 % d’endettement, 25 ans maximum… les règles du HCSF ne bougent pas",
+      "summary": "d’une première estimation des travaux dans l’accompagnement d’une transaction. Le 23/09/2026 à 07H05 Le Haut Conseil de stabilité financière (HCSF) ne change rien aux règles d’octroi des crédits immobiliers. Réuni le 15 septembre 2026 à Bercy, il confirme le maintien du plafond de 35 % de taux d’effort, de la durée maximale de 25 ans et de la marge de flexibilité de 20 % accordée aux banques. Une décision qui suscite de vives",
+      "url": "https://www.journaldelagence.com/1413704-credit-immobilier-35-dendettement-25-ans-maximum-les-regles-du-hcsf-ne-bougent-pas",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : 35 % d’endettement, 25 ans maximum… les règles du HCSF ne bougent pas."
     },
     {
       "id": "8972d30cf77c45a6",

@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-09-23T04:51:25+00:00",
+  "generated_at": "2026-09-23T11:44:50+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "e0fe4caaea1f0ef3",
+      "title": "Estimation travaux : mieux chiffrer pour mieux accompagner vendeurs et acquéreurs",
+      "summary": "Le 23/09/2026 à 07H17 Dans un marché où le financement reste contraint, le montant des travaux peut peser lourd dans la décision d’achat et dans la négociation du prix. Pouvoir donner rapidement un premier ordre de grandeur devient donc un véritable enjeu pour les professionnels de l’immobilier. Casam, courtier en travaux spécialisé dans l’achat immobilier, lance un simulateur multi-travaux gratuit destiné aux professionnels.",
+      "url": "https://www.journaldelagence.com/1413712-estimation-travaux-mieux-chiffrer-pour-mieux-accompagner-vendeurs-et-acquereurs",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Estimation travaux : mieux chiffrer pour mieux accompagner vendeurs et acquéreurs."
+    },
     {
       "id": "d9359f81f850ce6f",
       "title": "Nouvelle Parole d'expert : Travaux de rénovation énergétique : comment repérer et éviter les arnaques ?",
@@ -26,7 +46,7 @@
     {
       "id": "162398dd3324844c",
       "title": "Prime carburant : Jusqu'à 1 000 € pour les salariés, ce que les agents immobiliers doivent savoir",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/09/22/prime-carburant-jusqua-1-000-e-pour-les-salaries-ce-que-les-agents-immobiliers-doivent-savoir/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -47,7 +67,7 @@
     {
       "id": "9ad4f65e06359370",
       "title": "Réseaux immobiliers : REGM rejoint Efficity pour accélérer son développement",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/09/22/reseaux-immobiliers-regm-rejoint-efficity-pour-accelerer-son-developpement/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -405,7 +425,7 @@
     {
       "id": "3c7ba82d784f2a44",
       "title": "Affaire Matera : jusqu’où peut-on externaliser les missions d’un syndic de copropriété ?",
-      "summary": "Le 23/09/2026 à 06H46 Jusqu’où un prestataire peut-il accompagner la gestion d’une copropriété sans devenir lui-même syndic ? Dans un arrêt du 17 septembre 2026, la Cour de cassation valide le modèle d’assistance proposé par Matera aux syndicats coopératifs. Une décision importante pour les professionnels de la copropriété, qui précise la frontière entre externalisation de tâches et exercice de la profession réglementée de syn",
+      "summary": "de se tendre. Pour les professionnels de l'immobilier, que faut-il en retenir ? Le 23/09/2026 à 06H46 Jusqu’où un prestataire peut-il accompagner la gestion d’une copropriété sans devenir lui-même syndic ? Dans un arrêt du 17 septembre 2026, la Cour de cassation valide le modèle d’assistance proposé par Matera aux syndicats coopératifs. Une décision importante pour les professionnels de la copropriété, qui précise la frontièr",
       "url": "https://www.journaldelagence.com/1413723-affaire-matera-jusquou-peut-on-externaliser-les-missions-dun-syndic-de-copropriete",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -672,6 +692,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : Près d’un tiers du budget des Français y passe."
     },
     {
+      "id": "4c916bd1daee564c",
+      "title": "Crédit immobilier : 35 % d’endettement, 25 ans maximum… les règles du HCSF ne bougent pas",
+      "summary": "d’une première estimation des travaux dans l’accompagnement d’une transaction. Le 23/09/2026 à 07H05 Le Haut Conseil de stabilité financière (HCSF) ne change rien aux règles d’octroi des crédits immobiliers. Réuni le 15 septembre 2026 à Bercy, il confirme le maintien du plafond de 35 % de taux d’effort, de la durée maximale de 25 ans et de la marge de flexibilité de 20 % accordée aux banques. Une décision qui suscite de vives",
+      "url": "https://www.journaldelagence.com/1413704-credit-immobilier-35-dendettement-25-ans-maximum-les-regles-du-hcsf-ne-bougent-pas",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : 35 % d’endettement, 25 ans maximum… les règles du HCSF ne bougent pas."
+    },
+    {
       "id": "7077149706963e64",
       "title": "La loi Hoguet a-t-elle fragilisé le métier d’agent immobilier ?",
       "summary": "ent les réactions de nos clients, mais aussi ce qu'elles déclenchent chez nous. Le 15/09/2026 à 07H44 Depuis plus de cinquante ans, la profession d’agent immobilier en France est régie par la loi Hoguet. Ce texte fondateur a permis d’encadrer une activité sensible : la transaction immobilière. Mais avec le temps, une question se pose : ce cadre réglementaire favorise-t-il réellement la qualité du service rendu aux clients ? T",
@@ -794,46 +835,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : IA : SeLoger lance la Recherche Intelligente pour simplifier la recherche d’un bien immobilier."
-    },
-    {
-      "id": "8972d30cf77c45a6",
-      "title": "Devoir de conseil : ce que les tribunaux exigent des agents immobiliers",
-      "summary": "s spécificités de ces marchés rares et des méthodes à manier avec discernement. Le 14/09/2026 à 06H56 Le devoir de conseil ne se résume pas à une obligation à respecter : bien maîtrisé, il peut devenir l’un des meilleurs atouts de l’agent immobilier. Vérifier les informations, creuser au moindre doute, connaître le bien comme son environnement… La jurisprudence impose aux professionnels une vigilance accrue, mais dessine auss",
-      "url": "https://www.journaldelagence.com/1413551-agents-immobiliers-comment-faire-de-votre-devoir-de-conseil-un-atout-phare-sur-le-terrain",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-09-14T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Devoir de conseil : ce que les tribunaux exigent des agents immobiliers."
-    },
-    {
-      "id": "5d2b02bd7d49e4e7",
-      "title": "Agence immobilière : comment ouvrir une succursale ?",
-      "summary": "ransactions et faire de cette exigence une véritable signature professionnelle. Le 14/09/2026 à 06H40 Sésame, ouvre-toi ! Derrière la carte professionnelle se cachent quelques subtilités que les agents immobiliers ont tout intérêt à maîtriser lorsqu’ils souhaitent développer leur activité. Nouvelle société ou succursale ? Qui peut en assurer la direction et à quelles conditions ? Jusqu’où peut-on piloter une agence à distance",
-      "url": "https://www.journaldelagence.com/1413546-agence-immobiliere-comment-ouvrir-une-succursale",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-09-14T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Agence immobilière : comment ouvrir une succursale ?."
     },
     {
       "id": "1f0a768902ebc11f",
@@ -1547,9 +1548,9 @@
     }
   ],
   "source_stats": {
+    "Journal de l'Agence": 15,
     "ANIL": 11,
     "MySweetImmo": 16,
-    "Journal de l'Agence": 15,
     "Immobilier 2.0": 13,
     "Légifrance": 2,
     "Batiactu": 11,
@@ -1572,7 +1573,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-23T04:50:16+00:00",
+        "last_success": "2026-09-23T11:44:08+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1580,7 +1581,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-23T04:50:20+00:00",
+        "last_success": "2026-09-23T11:44:10+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1588,7 +1589,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-23T04:50:21+00:00",
+        "last_success": "2026-09-23T11:44:11+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1596,7 +1597,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-23T04:50:23+00:00",
+        "last_success": "2026-09-23T11:44:12+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1604,7 +1605,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-23T04:50:54+00:00",
+        "last_success": "2026-09-23T11:44:31+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1612,7 +1613,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-23T04:51:07+00:00",
+        "last_success": "2026-09-23T11:44:40+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1620,7 +1621,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-23T04:51:07+00:00",
+        "last_success": "2026-09-23T11:44:40+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1628,7 +1629,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-23T04:51:08+00:00",
+        "last_success": "2026-09-23T11:44:41+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1636,7 +1637,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-23T04:51:11+00:00",
+        "last_success": "2026-09-23T11:44:42+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1644,7 +1645,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-23T04:51:13+00:00",
+        "last_success": "2026-09-23T11:44:43+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1652,7 +1653,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-23T04:51:15+00:00",
+        "last_success": "2026-09-23T11:44:44+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1660,7 +1661,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-23T04:51:17+00:00",
+        "last_success": "2026-09-23T11:44:46+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1668,7 +1669,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-23T04:51:19+00:00",
+        "last_success": "2026-09-23T11:44:47+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1676,7 +1677,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-23T04:51:21+00:00",
+        "last_success": "2026-09-23T11:44:48+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1684,7 +1685,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-23T04:51:24+00:00",
+        "last_success": "2026-09-23T11:44:49+00:00",
         "fallback": false
       }
     }
