@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-23T17:08:56+00:00",
+  "generated_at": "2026-09-23T21:34:00+00:00",
   "items": [
     {
       "id": "e0fe4caaea1f0ef3",
@@ -1378,6 +1378,48 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Centres de données."
+    },
+    {
+      "id": "bc02ecb21bb28184",
+      "title": "Des chiffres, l'actu : cette semaine, facture salée pour le logement neuf",
+      "summary": "10/09/2026 Découvrez les lauréats des Trophées de la construction 2026 09/09/2026",
+      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-logement-75310.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-10T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Des chiffres, l'actu : cette semaine, facture salée pour le logement neuf."
+    },
+    {
+      "id": "2634b8d61487ee9d",
+      "title": "Découvrez les lauréats des Trophées de la construction 2026",
+      "summary": "Des chiffres, l'actu : cette semaine, facture salée pour le logement neuf 10/09/2026 09/09/2026",
+      "url": "https://www.batiactu.com/edito/decouvrez-laureats-trophees-construction-2026-75280.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-10T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Découvrez les lauréats des Trophées de la construction 2026."
     },
     {
       "id": "2de8efd58fa2cae8",
@@ -4705,27 +4747,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Des chiffres, l'actu : cette semaine, facture salée pour le logement social."
-    },
-    {
-      "id": "1a3a801fc9468c6f",
-      "title": "Des chiffres, l'actu : cette semaine, facture salée pour les TPE",
-      "summary": "16/07/2026 Des chiffres, l'actu : cette semaine, facture salée pour le logement social 09/07/2026",
-      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-tpe-74984.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-16T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Des chiffres, l'actu : cette semaine, facture salée pour les TPE."
     },
     {
       "id": "4c1970be64377870",
