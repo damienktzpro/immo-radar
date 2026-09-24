@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-24T04:58:35+00:00",
+  "generated_at": "2026-09-24T11:54:04+00:00",
   "items": [
+    {
+      "id": "f82a93e3ff384824",
+      "title": "Quelles aides locales pour vos travaux ?",
+      "summary": "24 septembre 2026 Au-delà des dispositifs nationaux, les collectivités peuvent proposer des aides financières pour accompagner certains projets d’amélioration de l’habitat comme la rénovation énergétique, l’adaptation du logement, les travaux de mise aux normes.",
+      "url": "https://www.anil.org/aides-locales-travaux/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Territoires",
+      "why_it_matters": "Source institutionnelle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Quelles aides locales pour vos travaux ?."
+    },
     {
       "id": "db66c6ddb8859c9b",
       "title": "Le Journal de l’Agence n°91 est paru !",
@@ -22,6 +43,48 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Le Journal de l’Agence n°91 est paru !."
+    },
+    {
+      "id": "224fd23fcddaafa0",
+      "title": "Immobilier : Le juste prix, le signal venu du Royaume-Uni",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/09/24/immobilier-le-juste-prix-le-signal-venu-du-royaume-uni/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Le juste prix, le signal venu du Royaume-Uni."
+    },
+    {
+      "id": "426037e4ab8024f5",
+      "title": "Location : 1 candidat sur 3 répond à l’annonce en moins de 15 minutes",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/09/24/location-1-candidat-sur-3-repond-en-moins-de-15-minutes/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Location : 1 candidat sur 3 répond à l’annonce en moins de 15 minutes."
     },
     {
       "id": "a123f45b30202c94",
@@ -131,7 +194,7 @@
     {
       "id": "6591fc6d3f7bcc5b",
       "title": "Diagnostic immobilier : Trois fédérations créent l’UFD3I pour parler d’une seule voix face à l’État",
-      "summary": "Vie Pro",
+      "summary": "Diagnostic immobilier : Trois fédérations créent l’UFD3I pour parler d’une seule voix face à l’État",
       "url": "https://www.mysweetimmo.com/2026/09/22/diagnostic-immobilier-trois-federations-creent-lufd3i-pour-parler-dune-seule-voix-face-a-letat/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -466,7 +529,7 @@
     {
       "id": "5c5e7c425ef4fe26",
       "title": "Immobilier Nantes : 50 logements neufs pour aider les primo-accédants à acheter",
-      "summary": "Neuf",
+      "summary": "Immobilier Nantes : 50 logements neufs pour aider les primo-accédants à acheter",
       "url": "https://www.mysweetimmo.com/2026/09/18/immobilier-nantes-50-logements-neufs-pour-aider-les-primo-accedants-a-acheter/",
       "source": "MySweetImmo",
       "source_level": "C",
