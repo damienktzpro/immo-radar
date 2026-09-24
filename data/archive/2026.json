@@ -1,8 +1,50 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-23T21:34:00+00:00",
+  "generated_at": "2026-09-24T04:58:35+00:00",
   "items": [
+    {
+      "id": "db66c6ddb8859c9b",
+      "title": "Le Journal de l’Agence n°91 est paru !",
+      "summary": "ière dont ce changement d’échelle l’amène, lui aussi, à faire évoluer son rôle. Le 24/09/2026 à 06H00 Notre magazine Le Journal de l’Agence N°91, distribué à 26 400 professionnels de l’immobilier, est disponible en ligne pour les abonnés ! Découvrez dès maintenant le sommaire de notre numéro de septembre et",
+      "url": "https://www.journaldelagence.com/1413737-le-journal-de-lagence-n91-est-paru",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Le Journal de l’Agence n°91 est paru !."
+    },
+    {
+      "id": "a123f45b30202c94",
+      "title": "Arrêté du 18 septembre 2026 relatif à la composition de la commission nationale prévue à l'article L. 302-9-1-1 du code de la construction et de l'habitation",
+      "summary": "Texte officiel concernant la construction, les professionnels du secteur ou le Code de la construction et de l’habitation.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054888695",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Construction / Réglementation",
+      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Arrêté du 18 septembre 2026 relatif à la composition de la commission nationale prévue à l'article L. 302-9-1-1 du code de la c….",
+      "legal_stage": "jorf"
+    },
     {
       "id": "e0fe4caaea1f0ef3",
       "title": "Estimation travaux : mieux chiffrer pour mieux accompagner vendeurs et acquéreurs",
@@ -26,7 +68,7 @@
     {
       "id": "3dede333a4267d96",
       "title": "Immobilier de luxe : + 55 % de demandes chez Coldwell Banker cet été",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/09/23/immobilier-de-luxe-55-de-demandes-chez-coldwell-banker-cet-ete/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -483,28 +525,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Assurance, logement : les priorités d'Édouard Philippe face au changement climatique."
-    },
-    {
-      "id": "dceceafc8348df68",
-      "title": "Arrêté du 3 septembre 2026 relatif à la composition de la commission nationale prévue à l'article L. 302-9-1-1 du code de la construction et de l'habitation",
-      "summary": "Texte officiel concernant la construction, les professionnels du secteur ou le Code de la construction et de l’habitation.",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054855716",
-      "source": "Légifrance",
-      "source_level": "A",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "status": "Publié au JORF",
-      "importance": 91,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Construction / Réglementation",
-      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Arrêté du 3 septembre 2026 relatif à la composition de la commission nationale prévue à l'article L. 302-9-1-1 du code de la co….",
-      "legal_stage": "jorf"
     },
     {
       "id": "5bdc805aca399f17",
