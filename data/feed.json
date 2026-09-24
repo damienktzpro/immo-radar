@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:16:29+00:00",
+  "generated_at": "2026-09-24T21:34:30+00:00",
   "version": "7.1",
   "items": [
     {
@@ -24,9 +24,30 @@
       "why_it_matters": "Source institutionnelle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Quelles aides locales pour vos travaux ?."
     },
     {
+      "id": "3e7f0a8954a40544",
+      "title": "Immobilier : La Cour de cassation donne raison à Matera sur son modèle coopératif",
+      "summary": "Copropriete",
+      "url": "https://www.mysweetimmo.com/2026/09/24/immobilier-la-cour-de-cassation-donne-raison-a-matera-sur-son-modele-cooperatif/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : La Cour de cassation donne raison à Matera sur son modèle coopératif."
+    },
+    {
       "id": "224fd23fcddaafa0",
       "title": "Immobilier : Le juste prix, le signal venu du Royaume-Uni",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/09/24/immobilier-le-juste-prix-le-signal-venu-du-royaume-uni/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -88,7 +109,7 @@
     {
       "id": "4237175417673682",
       "title": "Un bailleur social porte plainte contre trois de ses cadres dirigeants JUSTICE. Un bailleur social a porté plainte contre trois de ses cadres dirigeants, suspectés d'agissements illégaux.",
-      "summary": "En débat Congrès HLM : pourquoi les acteurs ne croient pas à une sortie de crise en 2027 PRÉSIDENTIELLE. Lors d'une table-ronde, les président(e)s de fédérations HLM ont rappelé les priorités du mouvement HLM pour les mois à venir ... 24/09/2026 L'Essentiel 24/09/2026",
+      "summary": "L'Essentiel \"Si les bailleurs sociaux s'arrêtent, le bâtiment sera à l'arrêt\" : l'avertissement d'E. Cosse (USH) CONGRES HLM 2026. En clôture du 86e Congrès du mouvement HLM, sa présidente Emmanuelle Cosse a salué le travail du ministre Vincent Jeanbrun pour ... 24/09/2026 L'Essentiel 24/09/2026",
       "url": "https://www.batiactu.com/edito/lille-metropole-habitat-met-a-pied-trois-cadres-dirigeants-75449.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -171,8 +192,8 @@
       "why_it_matters": "Source institutionnelle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Nouvelle Parole d'expert : Travaux de rénovation énergétique : comment repérer et éviter les arnaques ?."
     },
     {
-      "id": "162398dd3324844c",
-      "title": "Prime carburant : Jusqu'à 1 000 € pour les salariés, ce que les agents immobiliers doivent savoir",
+      "id": "67b85409fd5b49d4",
+      "title": "Prime carburant : Jusqu’à 1 000 € pour les salariés, ce que les agents immobiliers doivent savoir",
       "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/09/22/prime-carburant-jusqua-1-000-e-pour-les-salaries-ce-que-les-agents-immobiliers-doivent-savoir/",
       "source": "MySweetImmo",
@@ -189,7 +210,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Prime carburant : Jusqu'à 1 000 € pour les salariés, ce que les agents immobiliers doivent savoir."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Prime carburant : Jusqu’à 1 000 € pour les salariés, ce que les agents immobiliers doivent savoir."
     },
     {
       "id": "9ad4f65e06359370",
@@ -424,7 +445,7 @@
     {
       "id": "f9e2b9376cb2e378",
       "title": "Immobilier : MySweetImmo lance « L’Humeur du marché",
-      "summary": "Vie Pro »",
+      "summary": "»",
       "url": "https://www.mysweetimmo.com/2026/09/20/immobilier-mysweetimmo-lance-lhumeur-du-marche/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -774,27 +795,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Saint-Jean-de-Luz : Face à l’océan, la Villa Ugaïna à vendre 15,9 millions d’euros."
-    },
-    {
-      "id": "53628d863c3aed62",
-      "title": "Logement : Près d’un tiers du budget des Français y passe",
-      "summary": "Logement : Près d’un tiers du budget des Français y passe",
-      "url": "https://www.mysweetimmo.com/2026/09/15/logement-pres-dun-tiers-du-budget-des-francais-y-passe/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-15T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : Près d’un tiers du budget des Français y passe."
     },
     {
       "id": "4c916bd1daee564c",
@@ -1525,14 +1525,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 72,
-    "rejected": 1165,
+    "rejected": 1166,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-24T17:15:38+00:00",
+        "last_success": "2026-09-24T21:33:55+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1540,7 +1540,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-24T17:15:41+00:00",
+        "last_success": "2026-09-24T21:33:56+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1548,7 +1548,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-24T17:15:43+00:00",
+        "last_success": "2026-09-24T21:33:57+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1556,7 +1556,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-24T17:15:44+00:00",
+        "last_success": "2026-09-24T21:33:59+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1564,7 +1564,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-24T17:16:08+00:00",
+        "last_success": "2026-09-24T21:34:15+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1572,7 +1572,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-24T17:16:19+00:00",
+        "last_success": "2026-09-24T21:34:22+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1580,7 +1580,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-24T17:16:19+00:00",
+        "last_success": "2026-09-24T21:34:22+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1588,7 +1588,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-24T17:16:20+00:00",
+        "last_success": "2026-09-24T21:34:23+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1596,7 +1596,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-24T17:16:21+00:00",
+        "last_success": "2026-09-24T21:34:24+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1604,7 +1604,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-24T17:16:22+00:00",
+        "last_success": "2026-09-24T21:34:25+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1612,7 +1612,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-24T17:16:24+00:00",
+        "last_success": "2026-09-24T21:34:26+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1620,7 +1620,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-24T17:16:25+00:00",
+        "last_success": "2026-09-24T21:34:27+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1628,7 +1628,7 @@
         "ok": true,
         "status": "ok",
         "retained": 9,
-        "last_success": "2026-09-24T17:16:27+00:00",
+        "last_success": "2026-09-24T21:34:28+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1636,7 +1636,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-24T17:16:28+00:00",
+        "last_success": "2026-09-24T21:34:29+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1644,7 +1644,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-24T17:16:29+00:00",
+        "last_success": "2026-09-24T21:34:30+00:00",
         "fallback": false
       }
     }
