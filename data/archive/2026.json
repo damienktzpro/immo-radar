@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-24T11:54:04+00:00",
+  "generated_at": "2026-09-24T17:16:39+00:00",
   "items": [
     {
       "id": "f82a93e3ff384824",
@@ -68,7 +68,7 @@
     {
       "id": "426037e4ab8024f5",
       "title": "Location : 1 candidat sur 3 répond à l’annonce en moins de 15 minutes",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/09/24/location-1-candidat-sur-3-repond-en-moins-de-15-minutes/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -85,6 +85,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Location : 1 candidat sur 3 répond à l’annonce en moins de 15 minutes."
+    },
+    {
+      "id": "4237175417673682",
+      "title": "Un bailleur social porte plainte contre trois de ses cadres dirigeants JUSTICE. Un bailleur social a porté plainte contre trois de ses cadres dirigeants, suspectés d'agissements illégaux.",
+      "summary": "En débat Congrès HLM : pourquoi les acteurs ne croient pas à une sortie de crise en 2027 PRÉSIDENTIELLE. Lors d'une table-ronde, les président(e)s de fédérations HLM ont rappelé les priorités du mouvement HLM pour les mois à venir ... 24/09/2026 L'Essentiel 24/09/2026",
+      "url": "https://www.batiactu.com/edito/lille-metropole-habitat-met-a-pied-trois-cadres-dirigeants-75449.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-09-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Un bailleur social porte plainte contre trois de ses cadres dirigeants JUSTICE. Un bailleur social a porté plainte contre trois…."
     },
     {
       "id": "a123f45b30202c94",
