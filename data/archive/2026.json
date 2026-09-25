@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-25T17:16:55+00:00",
+  "generated_at": "2026-09-25T21:40:31+00:00",
   "items": [
     {
       "id": "dae9c69cef2a18e9",
@@ -27,7 +27,7 @@
     {
       "id": "50817d5d649868a3",
       "title": "Immobilier : 1 600 € pour se loger à la rentrée, la piste des chambres chez les seniors",
-      "summary": "Nouveau Société",
+      "summary": "Société",
       "url": "https://www.mysweetimmo.com/2026/09/25/logement-etudiant-la-fnaim-fait-appel-aux-seniors/",
       "source": "MySweetImmo",
       "source_level": "C",
