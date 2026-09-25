@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-09-24T21:34:30+00:00",
+  "generated_at": "2026-09-25T05:03:26+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "dae9c69cef2a18e9",
+      "title": "Vol New York-Marseille : Un atout pour l’immobilier en Provence",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/09/25/vol-new-york-marseille-un-atout-pour-limmobilier-en-provence/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vol New York-Marseille : Un atout pour l’immobilier en Provence."
+    },
     {
       "id": "f82a93e3ff384824",
       "title": "Quelles aides locales pour vos travaux ?",
@@ -152,7 +173,7 @@
     {
       "id": "3dede333a4267d96",
       "title": "Immobilier de luxe : + 55 % de demandes chez Coldwell Banker cet été",
-      "summary": "Vie Pro",
+      "summary": "Immobilier de luxe : + 55 % de demandes chez Coldwell Banker cet été",
       "url": "https://www.mysweetimmo.com/2026/09/23/immobilier-de-luxe-55-de-demandes-chez-coldwell-banker-cet-ete/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -774,27 +795,6 @@
       "territory": "France",
       "topic": "Credit",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Pretto ouvre son capital à ses courtiers."
-    },
-    {
-      "id": "daabf8fb71aa8d00",
-      "title": "Immobilier Saint-Jean-de-Luz : Face à l’océan, la Villa Ugaïna à vendre 15,9 millions d’euros",
-      "summary": "Immobilier Saint-Jean-de-Luz : Face à l’océan, la Villa Ugaïna à vendre 15,9 millions d’euros",
-      "url": "https://www.mysweetimmo.com/2026/09/15/immobilier-saint-jean-de-luz-face-a-locean-la-villa-ugaina-a-vendre-159-millions-deuros/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-15T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Saint-Jean-de-Luz : Face à l’océan, la Villa Ugaïna à vendre 15,9 millions d’euros."
     },
     {
       "id": "4c916bd1daee564c",
@@ -1507,8 +1507,8 @@
     }
   ],
   "source_stats": {
-    "ANIL": 11,
     "MySweetImmo": 16,
+    "ANIL": 11,
     "Journal de l'Agence": 13,
     "Batiactu": 9,
     "Légifrance": 2,
@@ -1525,14 +1525,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 72,
-    "rejected": 1166,
+    "rejected": 1206,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-24T21:33:55+00:00",
+        "last_success": "2026-09-25T05:02:35+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1540,7 +1540,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-24T21:33:56+00:00",
+        "last_success": "2026-09-25T05:02:38+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1548,7 +1548,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-24T21:33:57+00:00",
+        "last_success": "2026-09-25T05:02:39+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1556,7 +1556,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-24T21:33:59+00:00",
+        "last_success": "2026-09-25T05:02:41+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1564,7 +1564,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-24T21:34:15+00:00",
+        "last_success": "2026-09-25T05:03:04+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1572,7 +1572,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-24T21:34:22+00:00",
+        "last_success": "2026-09-25T05:03:16+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1580,7 +1580,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-24T21:34:22+00:00",
+        "last_success": "2026-09-25T05:03:16+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1588,7 +1588,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-24T21:34:23+00:00",
+        "last_success": "2026-09-25T05:03:17+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1596,7 +1596,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-24T21:34:24+00:00",
+        "last_success": "2026-09-25T05:03:17+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1604,7 +1604,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-24T21:34:25+00:00",
+        "last_success": "2026-09-25T05:03:19+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1612,7 +1612,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-24T21:34:26+00:00",
+        "last_success": "2026-09-25T05:03:21+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1620,7 +1620,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-24T21:34:27+00:00",
+        "last_success": "2026-09-25T05:03:22+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1628,7 +1628,7 @@
         "ok": true,
         "status": "ok",
         "retained": 9,
-        "last_success": "2026-09-24T21:34:28+00:00",
+        "last_success": "2026-09-25T05:03:24+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1636,7 +1636,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-24T21:34:29+00:00",
+        "last_success": "2026-09-25T05:03:25+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1644,7 +1644,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-24T21:34:30+00:00",
+        "last_success": "2026-09-25T05:03:25+00:00",
         "fallback": false
       }
     }

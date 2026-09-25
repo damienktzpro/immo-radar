@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-24T21:34:36+00:00",
+  "generated_at": "2026-09-25T05:03:35+00:00",
   "items": [
+    {
+      "id": "dae9c69cef2a18e9",
+      "title": "Vol New York-Marseille : Un atout pour l’immobilier en Provence",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/09/25/vol-new-york-marseille-un-atout-pour-limmobilier-en-provence/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vol New York-Marseille : Un atout pour l’immobilier en Provence."
+    },
     {
       "id": "f82a93e3ff384824",
       "title": "Quelles aides locales pour vos travaux ?",
@@ -173,7 +194,7 @@
     {
       "id": "3dede333a4267d96",
       "title": "Immobilier de luxe : + 55 % de demandes chez Coldwell Banker cet été",
-      "summary": "Vie Pro",
+      "summary": "Immobilier de luxe : + 55 % de demandes chez Coldwell Banker cet été",
       "url": "https://www.mysweetimmo.com/2026/09/23/immobilier-de-luxe-55-de-demandes-chez-coldwell-banker-cet-ete/",
       "source": "MySweetImmo",
       "source_level": "C",
