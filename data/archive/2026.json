@@ -1,12 +1,12 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-25T11:56:27+00:00",
+  "generated_at": "2026-09-25T17:16:55+00:00",
   "items": [
     {
       "id": "dae9c69cef2a18e9",
       "title": "Vol New York-Marseille : Un atout pour l’immobilier en Provence",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/09/25/vol-new-york-marseille-un-atout-pour-limmobilier-en-provence/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -44,6 +44,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : 1 600 € pour se loger à la rentrée, la piste des chambres chez les seniors."
+    },
+    {
+      "id": "ce61243370453f81",
+      "title": "Immo2 et d’autres acteurs de l’immobilier s’associent pour lancer l’Observatoire de l’immobilier digital",
+      "summary": "25 septembre 2026 - Immo2 s’associe avec leboncoin immo, MySweetImmo, Nestenn, Septeo, Immodvisor et Danim pour venir en aide aux pros de l’immobilier. En effet, en lançant [...]",
+      "url": "https://immo2.pro/actualite-immobilier/immo2-et-dautres-acteurs-de-limmobilier-sassocient-pour-lancer-lobservatoire-de-limmobilier-digital/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immo2 et d’autres acteurs de l’immobilier s’associent pour lancer l’Observatoire de l’immobilier digital."
     },
     {
       "id": "f82a93e3ff384824",
@@ -131,7 +152,7 @@
     {
       "id": "4237175417673682",
       "title": "Un bailleur social porte plainte contre trois de ses cadres dirigeants JUSTICE. Un bailleur social a porté plainte contre trois de ses cadres dirigeants, suspectés d'agissements illégaux.",
-      "summary": "L'Essentiel \"Si les bailleurs sociaux s'arrêtent, le bâtiment sera à l'arrêt\" : l'avertissement d'E. Cosse (USH) CONGRES HLM 2026. En clôture du 86e Congrès du mouvement HLM, sa présidente Emmanuelle Cosse a salué le travail du ministre Vincent Jeanbrun pour ... 24/09/2026 L'Essentiel 24/09/2026",
+      "summary": "L'Essentiel 24/09/2026",
       "url": "https://www.batiactu.com/edito/lille-metropole-habitat-met-a-pied-trois-cadres-dirigeants-75449.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -1400,6 +1421,48 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier."
     },
     {
+      "id": "bc02ecb21bb28184",
+      "title": "Des chiffres, l'actu : cette semaine, facture salée pour le logement neuf",
+      "summary": "La halle des sports de Sète rénovée joue avec les codes de l'univers maritime 11/09/2026 10/09/2026",
+      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-logement-75310.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Des chiffres, l'actu : cette semaine, facture salée pour le logement neuf."
+    },
+    {
+      "id": "d7bd7c0414a1b626",
+      "title": "La halle des sports de Sète rénovée joue avec les codes de l'univers maritime",
+      "summary": "11/09/2026 Des chiffres, l'actu : cette semaine, facture salée pour le logement neuf 10/09/2026",
+      "url": "https://www.batiactu.com/edito/halle-sports-sete-renovee-joue-avec-codes-univers-maritime-75336.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : La halle des sports de Sète rénovée joue avec les codes de l'univers maritime."
+    },
+    {
       "id": "21a741268da647ff",
       "title": "Portail immobilier : Le géant Idealista arrive en France",
       "summary": "Portail immobilier : Le géant Idealista arrive en France",
@@ -1566,27 +1629,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Centres de données."
-    },
-    {
-      "id": "bc02ecb21bb28184",
-      "title": "Des chiffres, l'actu : cette semaine, facture salée pour le logement neuf",
-      "summary": "10/09/2026 Découvrez les lauréats des Trophées de la construction 2026 09/09/2026",
-      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-logement-75310.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-10T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Des chiffres, l'actu : cette semaine, facture salée pour le logement neuf."
     },
     {
       "id": "2634b8d61487ee9d",
@@ -3131,6 +3173,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : « Ne payez que les annonces que vous diffusez » Jonathan Le Corronc-Clady et Didier Bertrand (FNAIM Région…."
+    },
+    {
+      "id": "c1bc45232a171c55",
+      "title": "« Demain, les agents immobiliers vont manager des intelligences métiers » Guillaume Girard (Septeo Proptech)",
+      "summary": "« Demain, les agents immobiliers vont manager des intelligences métiers » Guillaume Girard (Septeo Proptech)",
+      "url": "https://www.mysweetimmo.com/2026/08/24/demain-les-agents-immobiliers-vont-manager-des-intelligences-metiers-guillaume-girard-septeo-proptech/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : « Demain, les agents immobiliers vont manager des intelligences métiers » Guillaume Girard (Septeo Proptech)."
     },
     {
       "id": "ec323fee403f01dc",
