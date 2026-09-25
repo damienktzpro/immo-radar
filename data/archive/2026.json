@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-25T05:03:35+00:00",
+  "generated_at": "2026-09-25T11:56:27+00:00",
   "items": [
     {
       "id": "dae9c69cef2a18e9",
@@ -23,6 +23,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vol New York-Marseille : Un atout pour l’immobilier en Provence."
+    },
+    {
+      "id": "50817d5d649868a3",
+      "title": "Immobilier : 1 600 € pour se loger à la rentrée, la piste des chambres chez les seniors",
+      "summary": "Nouveau Société",
+      "url": "https://www.mysweetimmo.com/2026/09/25/logement-etudiant-la-fnaim-fait-appel-aux-seniors/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : 1 600 € pour se loger à la rentrée, la piste des chambres chez les seniors."
     },
     {
       "id": "f82a93e3ff384824",
@@ -68,7 +89,7 @@
     {
       "id": "224fd23fcddaafa0",
       "title": "Immobilier : Le juste prix, le signal venu du Royaume-Uni",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier : Le juste prix, le signal venu du Royaume-Uni",
       "url": "https://www.mysweetimmo.com/2026/09/24/immobilier-le-juste-prix-le-signal-venu-du-royaume-uni/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -211,6 +232,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier de luxe : + 55 % de demandes chez Coldwell Banker cet été."
+    },
+    {
+      "id": "7d58e12826b4b50c",
+      "title": "Immobilier : SeLoger lance Top Position pour les promoteurs",
+      "summary": "Immobilier : SeLoger lance Top Position pour les promoteurs",
+      "url": "https://www.mysweetimmo.com/2026/09/23/immobilier-neuf-seloger-met-les-programmes-en-tete-daffiche/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : SeLoger lance Top Position pour les promoteurs."
     },
     {
       "id": "d9359f81f850ce6f",

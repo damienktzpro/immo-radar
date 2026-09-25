@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-09-25T05:03:26+00:00",
+  "generated_at": "2026-09-25T11:56:20+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "50817d5d649868a3",
+      "title": "Immobilier : 1 600 € pour se loger à la rentrée, la piste des chambres chez les seniors",
+      "summary": "Nouveau Société",
+      "url": "https://www.mysweetimmo.com/2026/09/25/logement-etudiant-la-fnaim-fait-appel-aux-seniors/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : 1 600 € pour se loger à la rentrée, la piste des chambres chez les seniors."
+    },
     {
       "id": "dae9c69cef2a18e9",
       "title": "Vol New York-Marseille : Un atout pour l’immobilier en Provence",
@@ -68,7 +89,7 @@
     {
       "id": "224fd23fcddaafa0",
       "title": "Immobilier : Le juste prix, le signal venu du Royaume-Uni",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier : Le juste prix, le signal venu du Royaume-Uni",
       "url": "https://www.mysweetimmo.com/2026/09/24/immobilier-le-juste-prix-le-signal-venu-du-royaume-uni/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -85,27 +106,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Le juste prix, le signal venu du Royaume-Uni."
-    },
-    {
-      "id": "426037e4ab8024f5",
-      "title": "Location : 1 candidat sur 3 répond à l’annonce en moins de 15 minutes",
-      "summary": "Marché immobilier",
-      "url": "https://www.mysweetimmo.com/2026/09/24/location-1-candidat-sur-3-repond-en-moins-de-15-minutes/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-24T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Location : 1 candidat sur 3 répond à l’annonce en moins de 15 minutes."
     },
     {
       "id": "db66c6ddb8859c9b",
@@ -190,6 +190,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier de luxe : + 55 % de demandes chez Coldwell Banker cet été."
+    },
+    {
+      "id": "7d58e12826b4b50c",
+      "title": "Immobilier : SeLoger lance Top Position pour les promoteurs",
+      "summary": "Immobilier : SeLoger lance Top Position pour les promoteurs",
+      "url": "https://www.mysweetimmo.com/2026/09/23/immobilier-neuf-seloger-met-les-programmes-en-tete-daffiche/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : SeLoger lance Top Position pour les promoteurs."
     },
     {
       "id": "d9359f81f850ce6f",
@@ -672,27 +693,6 @@
       "why_it_matters": "Source expert / blog à confronter aux données officielles. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spéciali…."
     },
     {
-      "id": "d6ea66913a50d937",
-      "title": "Immobilier neuf : Les prix en baisse dans 6 villes sur 10",
-      "summary": "Immobilier neuf : Les prix en baisse dans 6 villes sur 10",
-      "url": "https://www.mysweetimmo.com/2026/09/16/immobilier-neuf-les-prix-en-baisse-dans-6-villes-sur-10/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-16T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier neuf : Les prix en baisse dans 6 villes sur 10."
-    },
-    {
       "id": "de2e4800a33b3a3f",
       "title": "Agents immobiliers : votre corps est votre premier outil de travail, prenez-en soin",
       "summary": "e cinq réflexes pour mieux valoriser son accompagnement tout au long du mandat. Le 16/09/2026 à 13H48 Écran, téléphone, voiture, visites… Le métier d’agent immobilier met le corps à contribution bien plus qu’on ne l’imagine. Douleurs cervicales, tensions lombaires ou épaules contractées peuvent ainsi s’installer au fil des journées. Parce que la forme physique est aussi un véritable outil de travail, le réseau Dr House Immo a",
@@ -774,27 +774,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : CEE, DPE : B. Retailleau veut faire le ménage dans les dispositifs de transition énergétique."
-    },
-    {
-      "id": "55d91d9c97f38e0b",
-      "title": "Crédit immobilier : Pretto ouvre son capital à ses courtiers",
-      "summary": "Crédit immobilier : Pretto ouvre son capital à ses courtiers",
-      "url": "https://www.mysweetimmo.com/2026/09/15/credit-immobilier-pretto-ouvre-son-capital-a-ses-courtiers/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "credit",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-15T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Credit",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Pretto ouvre son capital à ses courtiers."
     },
     {
       "id": "4c916bd1daee564c",
@@ -1214,6 +1193,27 @@
       "why_it_matters": "Source institutionnelle. Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets. Point suivi : Indicateur des taux : une remontée contenue des taux dans un contexte plus incertain."
     },
     {
+      "id": "5e1010a8936eaca7",
+      "title": "Agents immobiliers : « Ne payez que les annonces que vous diffusez » Jonathan Le Corronc-Clady et Didier Bertrand (FNAIM Région Sud)",
+      "summary": "Agents immobiliers : « Ne payez que les annonces que vous diffusez » Jonathan Le Corronc-Clady et Didier Bertrand (FNAIM Région Sud)",
+      "url": "https://www.mysweetimmo.com/2026/08/25/agents-immobiliers-ne-payez-que-les-annonces-que-vous-diffusez-jonathan-le-corronc-clady-et-didier-bertrand-fnaim-region-sud/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-08-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : « Ne payez que les annonces que vous diffusez » Jonathan Le Corronc-Clady et Didier Bertrand (FNAIM Région…."
+    },
+    {
       "id": "ec323fee403f01dc",
       "title": "Mon locataire se plaint du bruit d'un autre locataire. Comment faire ?",
       "summary": "21 août 2026 Un propriétaire bailleur peut être sollicité lorsqu'un locataire subit des troubles de voisinage.",
@@ -1525,14 +1525,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 72,
-    "rejected": 1206,
+    "rejected": 1213,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-25T05:02:35+00:00",
+        "last_success": "2026-09-25T11:55:39+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1540,7 +1540,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-25T05:02:38+00:00",
+        "last_success": "2026-09-25T11:55:41+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1548,7 +1548,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-25T05:02:39+00:00",
+        "last_success": "2026-09-25T11:55:42+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1556,7 +1556,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-25T05:02:41+00:00",
+        "last_success": "2026-09-25T11:55:43+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1564,7 +1564,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-25T05:03:04+00:00",
+        "last_success": "2026-09-25T11:56:01+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1572,7 +1572,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-25T05:03:16+00:00",
+        "last_success": "2026-09-25T11:56:10+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1580,7 +1580,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-25T05:03:16+00:00",
+        "last_success": "2026-09-25T11:56:10+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1588,7 +1588,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-25T05:03:17+00:00",
+        "last_success": "2026-09-25T11:56:11+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1596,7 +1596,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-25T05:03:17+00:00",
+        "last_success": "2026-09-25T11:56:12+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1604,7 +1604,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-25T05:03:19+00:00",
+        "last_success": "2026-09-25T11:56:14+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1612,7 +1612,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-25T05:03:21+00:00",
+        "last_success": "2026-09-25T11:56:15+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1620,7 +1620,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-25T05:03:22+00:00",
+        "last_success": "2026-09-25T11:56:16+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1628,7 +1628,7 @@
         "ok": true,
         "status": "ok",
         "retained": 9,
-        "last_success": "2026-09-25T05:03:24+00:00",
+        "last_success": "2026-09-25T11:56:18+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1636,7 +1636,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-25T05:03:25+00:00",
+        "last_success": "2026-09-25T11:56:19+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1644,7 +1644,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-25T05:03:25+00:00",
+        "last_success": "2026-09-25T11:56:19+00:00",
         "fallback": false
       }
     }
