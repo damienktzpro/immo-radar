@@ -1,12 +1,33 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-25T21:40:31+00:00",
+  "generated_at": "2026-09-26T05:06:13+00:00",
   "items": [
+    {
+      "id": "f629b217c0f3827c",
+      "title": "Immobilier : Paris classée à faible risque de bulle par UBS",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/09/26/immobilier-paris-classee-a-faible-risque-de-bulle-par-ubs/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Paris classée à faible risque de bulle par UBS."
+    },
     {
       "id": "dae9c69cef2a18e9",
       "title": "Vol New York-Marseille : Un atout pour l’immobilier en Provence",
-      "summary": "Marché immobilier",
+      "summary": "Vol New York-Marseille : Un atout pour l’immobilier en Provence",
       "url": "https://www.mysweetimmo.com/2026/09/25/vol-new-york-marseille-un-atout-pour-limmobilier-en-provence/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -22,7 +43,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vol New York-Marseille : Un atout pour l’immobilier en Provence."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Vol New York-Marseille : Un atout pour l’immobilier en Provence."
     },
     {
       "id": "50817d5d649868a3",
