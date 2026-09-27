@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-27T05:23:55+00:00",
+  "generated_at": "2026-09-27T12:08:53+00:00",
   "items": [
+    {
+      "id": "4bdc739d80a38664",
+      "title": "Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux",
+      "summary": "Nouveau Environnement",
+      "url": "https://www.mysweetimmo.com/2026/09/27/logement-social-et-biodiversite-action-logement-sallie-a-la-ligue-pour-la-protection-des-oiseaux/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux."
+    },
     {
       "id": "f629b217c0f3827c",
       "title": "Immobilier : Paris classée à faible risque de bulle par UBS",
@@ -48,7 +69,7 @@
     {
       "id": "50817d5d649868a3",
       "title": "Immobilier : 1 600 € pour se loger à la rentrée, la piste des chambres chez les seniors",
-      "summary": "Société",
+      "summary": "Immobilier : 1 600 € pour se loger à la rentrée, la piste des chambres chez les seniors",
       "url": "https://www.mysweetimmo.com/2026/09/25/logement-etudiant-la-fnaim-fait-appel-aux-seniors/",
       "source": "MySweetImmo",
       "source_level": "C",

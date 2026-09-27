@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-09-27T05:23:45+00:00",
+  "generated_at": "2026-09-27T12:08:42+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "4bdc739d80a38664",
+      "title": "Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux",
+      "summary": "Nouveau Environnement",
+      "url": "https://www.mysweetimmo.com/2026/09/27/logement-social-et-biodiversite-action-logement-sallie-a-la-ligue-pour-la-protection-des-oiseaux/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux."
+    },
     {
       "id": "f629b217c0f3827c",
       "title": "Immobilier : Paris classée à faible risque de bulle par UBS",
@@ -26,7 +47,7 @@
     {
       "id": "50817d5d649868a3",
       "title": "Immobilier : 1 600 € pour se loger à la rentrée, la piste des chambres chez les seniors",
-      "summary": "Société",
+      "summary": "Immobilier : 1 600 € pour se loger à la rentrée, la piste des chambres chez les seniors",
       "url": "https://www.mysweetimmo.com/2026/09/25/logement-etudiant-la-fnaim-fait-appel-aux-seniors/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -568,27 +589,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Rénovation énergétique : une nouvelle obligation pour les professionnels."
-    },
-    {
-      "id": "5c5e7c425ef4fe26",
-      "title": "Immobilier Nantes : 50 logements neufs pour aider les primo-accédants à acheter",
-      "summary": "Immobilier Nantes : 50 logements neufs pour aider les primo-accédants à acheter",
-      "url": "https://www.mysweetimmo.com/2026/09/18/immobilier-nantes-50-logements-neufs-pour-aider-les-primo-accedants-a-acheter/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Nantes : 50 logements neufs pour aider les primo-accédants à acheter."
     },
     {
       "id": "c0e7dc0761fe25eb",
@@ -1546,14 +1546,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 73,
-    "rejected": 1199,
+    "rejected": 1198,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-09-27T05:23:08+00:00",
+        "last_success": "2026-09-27T12:08:04+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1561,7 +1561,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-27T05:23:09+00:00",
+        "last_success": "2026-09-27T12:08:06+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1569,7 +1569,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-27T05:23:10+00:00",
+        "last_success": "2026-09-27T12:08:06+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1577,7 +1577,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-27T05:23:11+00:00",
+        "last_success": "2026-09-27T12:08:08+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1585,7 +1585,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-27T05:23:29+00:00",
+        "last_success": "2026-09-27T12:08:26+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1593,7 +1593,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-27T05:23:37+00:00",
+        "last_success": "2026-09-27T12:08:34+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1601,7 +1601,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-27T05:23:37+00:00",
+        "last_success": "2026-09-27T12:08:34+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1609,7 +1609,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-27T05:23:37+00:00",
+        "last_success": "2026-09-27T12:08:35+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1617,7 +1617,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-27T05:23:38+00:00",
+        "last_success": "2026-09-27T12:08:35+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1625,7 +1625,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-27T05:23:39+00:00",
+        "last_success": "2026-09-27T12:08:36+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1633,7 +1633,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-27T05:23:41+00:00",
+        "last_success": "2026-09-27T12:08:38+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1641,7 +1641,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-27T05:23:42+00:00",
+        "last_success": "2026-09-27T12:08:39+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1649,7 +1649,7 @@
         "ok": true,
         "status": "ok",
         "retained": 8,
-        "last_success": "2026-09-27T05:23:43+00:00",
+        "last_success": "2026-09-27T12:08:40+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1657,7 +1657,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-27T05:23:44+00:00",
+        "last_success": "2026-09-27T12:08:41+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1665,7 +1665,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-27T05:23:44+00:00",
+        "last_success": "2026-09-27T12:08:42+00:00",
         "fallback": false
       }
     }
