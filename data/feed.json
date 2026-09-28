@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T14:04:02+00:00",
+  "generated_at": "2026-09-28T23:20:37+00:00",
   "version": "7.1",
   "items": [
     {
@@ -1400,8 +1400,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vente immobilière : quel délai pour faire rectifier un acte notarié ?."
     },
     {
-      "id": "4c1376f20451e99c",
-      "title": "Consommateurs : un outil pour signaler les pratiques abusives",
+      "id": "40a9c169ee7c45fa",
+      "title": "SignalConso, le site pour signaler les pratiques abusives",
       "summary": "Prix non affiché, démarchage téléphonique, arnaque à la rénovation énergétique, faux courriers administratifs, publicité dissimulée par des influenceurs, arnaques après les incendies, produits dangereux, retard de livraison... Vous pouvez signaler ces litiges sur le site SignalConso. La plateforme enregistre aujourd'hui 1 million de signalements. Service Public vous rappelle le mode d'emploi de ce dispositif de protection des consommateurs.",
       "url": "https://www.service-public.gouv.fr/particuliers/actualites/A13880?xtor=RSS-111",
       "source": "Service-Public.fr",
@@ -1418,7 +1418,7 @@
       "relevance": 88,
       "territory": "France",
       "topic": "Lois",
-      "why_it_matters": "Source officielle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Consommateurs : un outil pour signaler les pratiques abusives."
+      "why_it_matters": "Source officielle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : SignalConso, le site pour signaler les pratiques abusives."
     },
     {
       "id": "6fead4baa92880a4",
@@ -1461,27 +1461,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Ce qui change en octobre 2026."
-    },
-    {
-      "id": "d469f15345f48427",
-      "title": "De nouveaux modèles de bail entrent en vigueur à partir du 1er octobre 2026",
-      "summary": "Les modèles réglementaires de bail évoluent à compter du 1 er octobre 2026. Un décret paru au Journal officiel du 7 juillet modifie les contrats types de location des logements loués vides, meublés et des colocations à bail unique. Les nouveaux modèles intègrent notamment la clause résolutoire applicable en cas d'impayés ou de non-versement du dépôt de garantie, ainsi que de nouvelles mentions relatives à l'occupation du logement.",
-      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19067?xtor=RSS-111",
-      "source": "Service-Public.fr",
-      "source_level": "A",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": null,
-      "status": "Information officielle",
-      "importance": 91,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source officielle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : De nouveaux modèles de bail entrent en vigueur à partir du 1er octobre 2026."
     }
   ],
   "source_stats": {
@@ -1495,22 +1474,22 @@
     "SDES / Sitadel": 1,
     "Insee": 1,
     "EUR-Lex": 1,
-    "Service-Public.fr": 4
+    "Service-Public.fr": 3
   },
   "health": {
     "sources_total": 15,
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 71,
-    "rejected": 1196,
+    "retained": 70,
+    "rejected": 1167,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
-        "retained": 4,
-        "last_success": "2026-09-28T14:03:23+00:00",
+        "retained": 3,
+        "last_success": "2026-09-28T23:19:42+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1518,7 +1497,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-28T14:03:26+00:00",
+        "last_success": "2026-09-28T23:19:49+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1526,7 +1505,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-28T14:03:27+00:00",
+        "last_success": "2026-09-28T23:19:50+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1534,7 +1513,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-28T14:03:28+00:00",
+        "last_success": "2026-09-28T23:19:52+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1542,7 +1521,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-28T14:03:46+00:00",
+        "last_success": "2026-09-28T23:20:13+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1550,7 +1529,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-28T14:03:54+00:00",
+        "last_success": "2026-09-28T23:20:26+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1558,7 +1537,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-28T14:03:54+00:00",
+        "last_success": "2026-09-28T23:20:26+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1566,7 +1545,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-28T14:03:55+00:00",
+        "last_success": "2026-09-28T23:20:27+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1574,7 +1553,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-28T14:03:56+00:00",
+        "last_success": "2026-09-28T23:20:28+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1582,7 +1561,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-28T14:03:57+00:00",
+        "last_success": "2026-09-28T23:20:29+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1590,7 +1569,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-28T14:03:58+00:00",
+        "last_success": "2026-09-28T23:20:31+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1598,7 +1577,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-28T14:03:59+00:00",
+        "last_success": "2026-09-28T23:20:32+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1606,7 +1585,7 @@
         "ok": true,
         "status": "ok",
         "retained": 7,
-        "last_success": "2026-09-28T14:04:00+00:00",
+        "last_success": "2026-09-28T23:20:34+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1614,7 +1593,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-28T14:04:01+00:00",
+        "last_success": "2026-09-28T23:20:35+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1622,7 +1601,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-28T14:04:01+00:00",
+        "last_success": "2026-09-28T23:20:36+00:00",
         "fallback": false
       }
     }
