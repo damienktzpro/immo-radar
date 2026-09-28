@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-27T21:24:31+00:00",
+  "generated_at": "2026-09-28T05:30:44+00:00",
   "items": [
     {
       "id": "4bdc739d80a38664",
@@ -23,6 +23,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux."
+    },
+    {
+      "id": "fd75873a0933614c",
+      "title": "Diagnostic structurel obligatoire : De plus en plus de mairies l'exigent des copropriétés",
+      "summary": "Rénovation",
+      "url": "https://www.mysweetimmo.com/2026/09/27/diagnostic-structurel-obligatoire-de-plus-en-plus-de-mairies-lexigent-des-coproprietes/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Diagnostic structurel obligatoire : De plus en plus de mairies l'exigent des copropriétés."
     },
     {
       "id": "f629b217c0f3827c",
@@ -107,6 +128,26 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immo2 et d’autres acteurs de l’immobilier s’associent pour lancer l’Observatoire de l’immobilier digital."
+    },
+    {
+      "id": "8d66d62195a705d0",
+      "title": "Métiers de syndic et de gestion immobilière : « pour attirer les talents, le quotidien des professionnels doit changer",
+      "summary": "» Le 28/09/2026 à 07H03 Recruter et fidéliser suppose de regarder les métiers de l'immobilier en face : charge de travail pesante, assemblées générales tardives, incivilités, mais aussi manque de perspectives et de moyens. À Lyon, deux plénières du congrès de l’UNIS ont mêlé réponses de terrain et regards de jeunes professionnels. Leur fil commun : améliorer les conditions d’exercice et redonner toute sa place à l’expertise hu",
+      "url": "https://www.journaldelagence.com/1413804-metiers-de-syndic-et-de-gestion-immobiliere-pour-attirer-les-talents-le-quotidien-des-professionnels-doit-changer",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Métiers de syndic et de gestion immobilière : « pour attirer les talents, le quotidien des professionnels doit changer."
     },
     {
       "id": "f82a93e3ff384824",
@@ -4640,7 +4681,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : « La concurrence nous oblige à être meilleurs » Guillaume Martinaud (Orpi)."
     },
     {
       "id": "49fec611d31a12ca",
@@ -4704,6 +4745,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Belles Demeures : deux nouvelles offres pour garantir une meilleure visibilité aux agences."
+    },
+    {
+      "id": "c54dbc8aefeb8d4b",
+      "title": "Immobilier et crise locative : « On est sur un marché qui s’assouplit un petit peu » David Benbassat (Bien’ici)",
+      "summary": "Immobilier et crise locative : « On est sur un marché qui s’assouplit un petit peu » David Benbassat (Bien’ici)",
+      "url": "https://www.mysweetimmo.com/2026/07/27/immobilier-et-crise-locative-on-est-sur-un-marche-qui-sassouplit-un-petit-peu-david-benbassat/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier et crise locative : « On est sur un marché qui s’assouplit un petit peu » David Benbassat (Bien’ici)."
     },
     {
       "id": "773d75a1499ae3b3",
@@ -4958,6 +5020,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Les réseaux Stéphane Plaza Immobilier et Sixième Avenue actent leur séparation."
     },
     {
+      "id": "32a4fb3f2ee7b7c7",
+      "title": "Agents immobiliers : « Beaucoup ne savent pas calculer ce que leur réseau leur coûte » Michael Benchabat (MeilleursBiens)",
+      "summary": "Agents immobiliers : « Beaucoup ne savent pas calculer ce que leur réseau leur coûte » Michael Benchabat (MeilleursBiens)",
+      "url": "https://www.mysweetimmo.com/2026/07/17/agents-immobiliers-beaucoup-ne-savent-pas-calculer-ce-que-leur-reseau-leur-coute-michael-benchabat-meilleursbiens/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : « Beaucoup ne savent pas calculer ce que leur réseau leur coûte » Michael Benchabat (MeilleursBiens)."
+    },
+    {
       "id": "7f53bedcbc1d04f9",
       "title": "Promotion : Nexity et BPCE souhaitent créer une entreprise commune dédiée à l’immobilier neuf",
       "summary": "16 juillet 2026 - Nexity et le Groupe BPCE ont annoncé être entrés en négociations exclusives en vue d’une double opération concernant leurs activités de distribution. Leur objectif : [...]",
@@ -5103,6 +5186,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Communication immobilière : Réservez votre nom de profil sur WhatsApp."
+    },
+    {
+      "id": "24d001471b0ceb2d",
+      "title": "Proptech : « Parler d’intelligence artificielle, c’est déjà has been » Jesus Diaz (Septeo)",
+      "summary": "Proptech : « Parler d’intelligence artificielle, c’est déjà has been » Jesus Diaz (Septeo)",
+      "url": "https://www.mysweetimmo.com/2026/07/15/proptech-parler-dintelligence-artificielle-cest-deja-has-been-jesus-diaz-septeo/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-07-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Proptech : « Parler d’intelligence artificielle, c’est déjà has been » Jesus Diaz (Septeo)."
     },
     {
       "id": "835b5e22c72ab043",
