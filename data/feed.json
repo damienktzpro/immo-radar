@@ -1,7 +1,48 @@
 {
-  "generated_at": "2026-09-28T05:30:35+00:00",
+  "generated_at": "2026-09-28T14:04:02+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "df6e6aeec881ea02",
+      "title": "Taxe sur les logements vacants : ce qui va changer pour les propriétaires en 2027",
+      "summary": "Le 28/09/2026 à 09H52 Un logement qui reste vide pourrait coûter plus cher à son propriétaire dès 2027. La loi de finances pour 2026 prévoit de fusionner les deux taxes actuelles sur les logements vacants et permet aux communes de relever les taux, jusqu’à 60 % dans certains cas. Qu'est-ce que cela change pour les propriétaires ? Et quels sont les points à vérifier avec eux ? Un point utile pour pour les professionnels chargés",
+      "url": "https://www.journaldelagence.com/1413813-taxe-sur-les-logements-vacants-ce-qui-va-changer-pour-les-proprietaires-en-2027",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Taxe sur les logements vacants : ce qui va changer pour les propriétaires en 2027."
+    },
+    {
+      "id": "9cf43c21d940246b",
+      "title": "Proptech : Capifrance et Optimhome rachètent Immofit",
+      "summary": "28 septembre 2026 - DigitRE Group, la maison mère derrière les réseaux immobiliers Capifrance et Optimhome, a annoncé le rachat d’Immofit. Avec cette première acquisition technologique, le [...]",
+      "url": "https://immo2.pro/actualite-immobilier/proptech-capifrance-et-optimhome-rachetent-immofit/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Proptech : Capifrance et Optimhome rachètent Immofit."
+    },
     {
       "id": "4bdc739d80a38664",
       "title": "Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux",
@@ -68,7 +109,7 @@
     {
       "id": "8d66d62195a705d0",
       "title": "Métiers de syndic et de gestion immobilière : « pour attirer les talents, le quotidien des professionnels doit changer",
-      "summary": "» Le 28/09/2026 à 07H03 Recruter et fidéliser suppose de regarder les métiers de l'immobilier en face : charge de travail pesante, assemblées générales tardives, incivilités, mais aussi manque de perspectives et de moyens. À Lyon, deux plénières du congrès de l’UNIS ont mêlé réponses de terrain et regards de jeunes professionnels. Leur fil commun : améliorer les conditions d’exercice et redonner toute sa place à l’expertise hu",
+      "summary": "int utile pour pour les professionnels chargés de vendre ou de louer ces biens. » Le 28/09/2026 à 07H03 Recruter et fidéliser suppose de regarder les métiers de l'immobilier en face : charge de travail pesante, assemblées générales tardives, incivilités, mais aussi manque de perspectives et de moyens. À Lyon, deux plénières du congrès de l’UNIS ont mêlé réponses de terrain et regards de jeunes professionnels. Leur fil commun",
       "url": "https://www.journaldelagence.com/1413804-metiers-de-syndic-et-de-gestion-immobiliere-pour-attirer-les-talents-le-quotidien-des-professionnels-doit-changer",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -649,27 +690,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Agents immobiliers : votre corps est votre premier outil de travail, prenez-en soin."
     },
     {
-      "id": "9d3cee4e2c35ce4d",
-      "title": "Agents immobiliers : avant de gérer les objections, apprenez à gérer vos propres réactions",
-      "summary": "pratiques. Aujourd'hui, vous avez rendez-vous avec Elfie Prissette, ostéopathe. Le 16/09/2026 à 06H56 Dans un rendez-vous vendeur, quelques secondes suffisent parfois pour perdre la main : une estimation refusée, des honoraires contestés, une exclusivité refusée… et le conseiller se met à argumenter avant même d'avoir réellement écouté. Dominique Piredda, coach et formateur immobilier nous invite à regarder non plus seulement",
-      "url": "https://www.journaldelagence.com/1413593-agents-immobiliers-avant-de-gerer-les-objections-apprenez-a-gerer-vos-propres-reactions",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-16T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : avant de gérer les objections, apprenez à gérer vos propres réactions."
-    },
-    {
       "id": "8fcb6a3461823392",
       "title": "Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudiants, confrontés à une offre de plus en plus onéreuse et éclatée.",
       "summary": "16/09/2026",
@@ -793,27 +813,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : IA : SeLoger lance la Recherche Intelligente pour simplifier la recherche d’un bien immobilier."
-    },
-    {
-      "id": "1f0a768902ebc11f",
-      "title": "Une dizaine de grandes villes défendent l'encadrement des loyers",
-      "summary": "L'Essentiel 14/09/2026 Zoom L'encadrement des loyers, de moins en moins respecté par les bailleurs ? Zoom À Lyon et Villeurbanne, vers la fin de l'encadrement des loyers ?",
-      "url": "https://www.batiactu.com/edito/dizaine-grandes-villes-defendent-encadrement-loyers-75349.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "investisseur",
-        "pro",
-        "particulier"
-      ],
-      "published_at": "2026-09-14T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Une dizaine de grandes villes défendent l'encadrement des loyers."
     },
     {
       "id": "d7bd7c0414a1b626",
@@ -1254,26 +1253,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Licenciement chez Zillow : départ de plus de 500 employés."
     },
     {
-      "id": "7136582c4b1bb040",
-      "title": "Proptech : Dwelly lève 170 millions de dollars pour intégrer l’IA dans les agences de location",
-      "summary": "4 août 2026 - La proptech britannique Dwelly a annoncé une levée de fonds de 170 millions de dollars. Grâce à ce montant, la jeune pousse poursuit son objectif d’intégrer [...]",
-      "url": "https://immo2.pro/actualite-immobilier/proptech-dwelly-leve-170-millions-de-dollars-pour-integrer-lia-dans-les-agences-de-location/",
-      "source": "Immobilier 2.0",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-08-04T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Proptech : Dwelly lève 170 millions de dollars pour intégrer l’IA dans les agences de location."
-    },
-    {
       "id": "f7da610496535f86",
       "title": "Agents immobiliers : « La concurrence nous oblige à être meilleurs » Guillaume Martinaud (Orpi)",
       "summary": "Agents immobiliers : « La concurrence nous oblige à être meilleurs » Guillaume Martinaud (Orpi)",
@@ -1506,11 +1485,11 @@
     }
   ],
   "source_stats": {
-    "MySweetImmo": 16,
     "Journal de l'Agence": 13,
     "Immobilier 2.0": 13,
+    "MySweetImmo": 16,
     "ANIL": 11,
-    "Batiactu": 8,
+    "Batiactu": 7,
     "Légifrance": 2,
     "Horiz.io": 2,
     "SDES / Sitadel": 1,
@@ -1523,15 +1502,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 72,
-    "rejected": 1198,
+    "retained": 71,
+    "rejected": 1196,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 4,
-        "last_success": "2026-09-28T05:29:55+00:00",
+        "last_success": "2026-09-28T14:03:23+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1539,7 +1518,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-28T05:29:57+00:00",
+        "last_success": "2026-09-28T14:03:26+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1547,7 +1526,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-28T05:29:58+00:00",
+        "last_success": "2026-09-28T14:03:27+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1555,7 +1534,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-28T05:29:59+00:00",
+        "last_success": "2026-09-28T14:03:28+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1563,7 +1542,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-28T05:30:18+00:00",
+        "last_success": "2026-09-28T14:03:46+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1571,7 +1550,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-28T05:30:26+00:00",
+        "last_success": "2026-09-28T14:03:54+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1579,7 +1558,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-28T05:30:26+00:00",
+        "last_success": "2026-09-28T14:03:54+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1587,7 +1566,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-09-28T05:30:27+00:00",
+        "last_success": "2026-09-28T14:03:55+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1595,7 +1574,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-28T05:30:28+00:00",
+        "last_success": "2026-09-28T14:03:56+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1603,7 +1582,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-28T05:30:29+00:00",
+        "last_success": "2026-09-28T14:03:57+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1611,7 +1590,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-28T05:30:31+00:00",
+        "last_success": "2026-09-28T14:03:58+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1619,15 +1598,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-28T05:30:32+00:00",
+        "last_success": "2026-09-28T14:03:59+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 8,
-        "last_success": "2026-09-28T05:30:33+00:00",
+        "retained": 7,
+        "last_success": "2026-09-28T14:04:00+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1635,7 +1614,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-09-28T05:30:34+00:00",
+        "last_success": "2026-09-28T14:04:01+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1643,7 +1622,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-28T05:30:34+00:00",
+        "last_success": "2026-09-28T14:04:01+00:00",
         "fallback": false
       }
     }

@@ -1,8 +1,49 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-28T05:30:44+00:00",
+  "generated_at": "2026-09-28T14:04:12+00:00",
   "items": [
+    {
+      "id": "df6e6aeec881ea02",
+      "title": "Taxe sur les logements vacants : ce qui va changer pour les propriétaires en 2027",
+      "summary": "Le 28/09/2026 à 09H52 Un logement qui reste vide pourrait coûter plus cher à son propriétaire dès 2027. La loi de finances pour 2026 prévoit de fusionner les deux taxes actuelles sur les logements vacants et permet aux communes de relever les taux, jusqu’à 60 % dans certains cas. Qu'est-ce que cela change pour les propriétaires ? Et quels sont les points à vérifier avec eux ? Un point utile pour pour les professionnels chargés",
+      "url": "https://www.journaldelagence.com/1413813-taxe-sur-les-logements-vacants-ce-qui-va-changer-pour-les-proprietaires-en-2027",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Taxe sur les logements vacants : ce qui va changer pour les propriétaires en 2027."
+    },
+    {
+      "id": "9cf43c21d940246b",
+      "title": "Proptech : Capifrance et Optimhome rachètent Immofit",
+      "summary": "28 septembre 2026 - DigitRE Group, la maison mère derrière les réseaux immobiliers Capifrance et Optimhome, a annoncé le rachat d’Immofit. Avec cette première acquisition technologique, le [...]",
+      "url": "https://immo2.pro/actualite-immobilier/proptech-capifrance-et-optimhome-rachetent-immofit/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Proptech : Capifrance et Optimhome rachètent Immofit."
+    },
     {
       "id": "4bdc739d80a38664",
       "title": "Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux",
@@ -132,7 +173,7 @@
     {
       "id": "8d66d62195a705d0",
       "title": "Métiers de syndic et de gestion immobilière : « pour attirer les talents, le quotidien des professionnels doit changer",
-      "summary": "» Le 28/09/2026 à 07H03 Recruter et fidéliser suppose de regarder les métiers de l'immobilier en face : charge de travail pesante, assemblées générales tardives, incivilités, mais aussi manque de perspectives et de moyens. À Lyon, deux plénières du congrès de l’UNIS ont mêlé réponses de terrain et regards de jeunes professionnels. Leur fil commun : améliorer les conditions d’exercice et redonner toute sa place à l’expertise hu",
+      "summary": "int utile pour pour les professionnels chargés de vendre ou de louer ces biens. » Le 28/09/2026 à 07H03 Recruter et fidéliser suppose de regarder les métiers de l'immobilier en face : charge de travail pesante, assemblées générales tardives, incivilités, mais aussi manque de perspectives et de moyens. À Lyon, deux plénières du congrès de l’UNIS ont mêlé réponses de terrain et regards de jeunes professionnels. Leur fil commun",
       "url": "https://www.journaldelagence.com/1413804-metiers-de-syndic-et-de-gestion-immobiliere-pour-attirer-les-talents-le-quotidien-des-professionnels-doit-changer",
       "source": "Journal de l'Agence",
       "source_level": "C",
