@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-29T12:59:55+00:00",
+  "generated_at": "2026-09-29T22:20:52+00:00",
   "items": [
     {
       "id": "dae34c741a8f78ea",
@@ -25,9 +25,9 @@
       "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin août 2026 (France entière)."
     },
     {
-      "id": "5d3cd9aedc5bb510",
-      "title": "Immobilier : Les acheteurs reviennent, mais les ventes reculent",
-      "summary": "Nouveau Marché immobilier",
+      "id": "d4999eb072d4f67a",
+      "title": "Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/09/29/immobilier-les-acheteurs-reviennent-mais-les-ventes-reculent/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -43,7 +43,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Les acheteurs reviennent, mais les ventes reculent."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché."
     },
     {
       "id": "3eb906f23603cc2e",
@@ -110,7 +110,7 @@
     {
       "id": "735facccf8ef7a6b",
       "title": "Achat immobilier : Votre quartier vous protège-t-il de la chaleur ?",
-      "summary": "Nouveau Environnement",
+      "summary": "Environnement",
       "url": "https://www.mysweetimmo.com/2026/09/29/achat-immobilier-votre-quartier-vous-protege-t-il-de-la-chaleur/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -148,6 +148,48 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : TEDxleboncoin : une invitation à repenser notre manière d’habiter le monde qui vient."
+    },
+    {
+      "id": "9259fa7e75b88c9f",
+      "title": "Crédit immobilier : Le taux d’usure passe à 5,40%",
+      "summary": "Nouveau Investir / Financer",
+      "url": "https://www.mysweetimmo.com/2026/09/29/credit-immobilier-le-taux-dusure-passe-a-540/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Le taux d’usure passe à 5,40%."
+    },
+    {
+      "id": "f1dc89f605648235",
+      "title": "Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)",
+      "summary": "Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)",
+      "url": "https://www.mysweetimmo.com/2026/09/29/immobilier-on-va-aller-pleinement-vers-un-mlm-de-reseau-chez-capifrance-olivier-le-gallo-digitre/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)."
     },
     {
       "id": "df6e6aeec881ea02",
@@ -5711,11 +5753,11 @@
     {
       "id": "3b2255cb7e8a6f65",
       "title": "Informations Rapides · 28 mai 2026 · n° 130 Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) Indices Notaires-Insee des prix des logements anciens - premier trimestre 2026",
-      "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee true false https://www.sphinxonline.com/surveyserver/s/ccpesatisf/imageInsee2026/questionnaire.htm 2026-10-04 00:00:00.0 9054098 Votre avis est important pour l'amélioration de nos services Le questionnaire dure environ 6 minutes Souhaitez-vous participer à cette enquête ? Oui Non Aller au contenu Aide Thèmes Recherche English Presse Menu Menu Blog Presse Aide English Lancer la",
+      "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee false Aller au contenu Aide Thèmes Recherche English Presse Menu Menu Blog Presse Aide English Lancer la recherche sur le site Thèmes Statistiques et études Cherchez vos statistiques par… Thèmes Économie - conjoncture - comptes nationaux Démographie Entreprises Plus de thèmes… Niveaux géographiques France Toutes les régions ou tous les départements Toutes les communes Plus de ni",
       "url": "https://www.insee.fr/fr/statistiques/8995299",
       "source": "Insee",
       "source_level": "A",
-      "category": "marche",
+      "category": "territoires",
       "audiences": [
         "particulier",
         "investisseur",
