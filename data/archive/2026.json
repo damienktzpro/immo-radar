@@ -1,12 +1,74 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-28T23:20:44+00:00",
+  "generated_at": "2026-09-29T05:49:30+00:00",
   "items": [
+    {
+      "id": "5d3cd9aedc5bb510",
+      "title": "Immobilier : Les acheteurs reviennent, mais les ventes reculent",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/09/29/immobilier-les-acheteurs-reviennent-mais-les-ventes-reculent/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Les acheteurs reviennent, mais les ventes reculent."
+    },
+    {
+      "id": "3eb906f23603cc2e",
+      "title": "[Dossier exclusif] Immobilier de prestige : nouveaux acheteurs, nouvelles valeurs",
+      "summary": "Le 29/09/2026 à 06H28 Nouveaux millionnaires, acheteurs internationaux, Français en quête d’un lieu où vivre à l’année : le marché du prestige attire des profils bien plus variés que ses clichés. Leurs attentes évoluent, tandis que certains territoires deviennent eux-mêmes des marques de luxe. Fabrice Larceneux et Nathalie Gardes ont enquêté sur ces nouvelles façons d’acheter, d’habiter et de valoriser l’exception, à l'occasio",
+      "url": "https://www.journaldelagence.com/1413838-immobilier-de-prestige-nouveaux-acheteurs-nouvelles-valeurs",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Territoires",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : [Dossier exclusif] Immobilier de prestige : nouveaux acheteurs, nouvelles valeurs."
+    },
+    {
+      "id": "32e7c1cd34717cf4",
+      "title": "Baux d’habitation : ce qui change pour la rédaction des contrats types au 1er octobre 2026",
+      "summary": "r l’exception, à l'occasion d'un dossier exclusif pour le Journal de l'Agence ! Le 29/09/2026 à 06H23 Professionnels de l’immobilier, pensez à mettre à jour vos modèles de baux d’habitation. À partir du 1er octobre 2026, les contrats types de location vide, meublée et de colocation à bail unique évoluent. Clause résolutoire en cas d’impayé, mention d’une servitude de résidence principale pour certains biens, coordonnées des p",
+      "url": "https://www.journaldelagence.com/1413828-baux-dhabitation-ce-qui-change-pour-la-redaction-des-contrats-types-au-1er-octobre-2026",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Baux d’habitation : ce qui change pour la rédaction des contrats types au 1er octobre 2026."
+    },
     {
       "id": "df6e6aeec881ea02",
       "title": "Taxe sur les logements vacants : ce qui va changer pour les propriétaires en 2027",
-      "summary": "Le 28/09/2026 à 09H52 Un logement qui reste vide pourrait coûter plus cher à son propriétaire dès 2027. La loi de finances pour 2026 prévoit de fusionner les deux taxes actuelles sur les logements vacants et permet aux communes de relever les taux, jusqu’à 60 % dans certains cas. Qu'est-ce que cela change pour les propriétaires ? Et quels sont les points à vérifier avec eux ? Un point utile pour pour les professionnels chargés",
+      "summary": "ées des parties : voici ce qu’il faut vérifier avant les prochaines signatures. Le 28/09/2026 à 09H52 Un logement qui reste vide pourrait coûter plus cher à son propriétaire dès 2027. La loi de finances pour 2026 prévoit de fusionner les deux taxes actuelles sur les logements vacants et permet aux communes de relever les taux, jusqu’à 60 % dans certains cas. Qu'est-ce que cela change pour les propriétaires ? Et quels sont les",
       "url": "https://www.journaldelagence.com/1413813-taxe-sur-les-logements-vacants-ce-qui-va-changer-pour-les-proprietaires-en-2027",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -22,7 +84,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Taxe sur les logements vacants : ce qui va changer pour les propriétaires en 2027."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Taxe sur les logements vacants : ce qui va changer pour les propriétaires en 2027."
     },
     {
       "id": "9cf43c21d940246b",
