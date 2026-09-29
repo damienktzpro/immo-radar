@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-29T05:49:30+00:00",
+  "generated_at": "2026-09-29T12:59:55+00:00",
   "items": [
+    {
+      "id": "dae34c741a8f78ea",
+      "title": "Construction de logements : résultats à fin août 2026 (France entière)",
+      "summary": "Construction de logements : résultats à fin août 2026 (France entière) | Données et études statistiques Aller au menu principal Aller à la recherche Aller au contenu principal Recherche Rechercher Rechercher Menu Fermer le menu Changement climatique Ouvrir le menu Changement climatique Chiffres clés du climat Émissions nationales de gaz à effet de serre Émissions mondiales de gaz à effet de serre Empreinte carbone Climat et société Énergie Ouvrir le menu Énergie Bilan et chiffres clés de l’énerg",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/construction-de-logements-resultats-fin-aout-2026-france-entiere?rubrique=&dossier=1047",
+      "source": "SDES / Sitadel",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Donnée officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Construction",
+      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin août 2026 (France entière)."
+    },
     {
       "id": "5d3cd9aedc5bb510",
       "title": "Immobilier : Les acheteurs reviennent, mais les ventes reculent",
@@ -64,6 +85,69 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Baux d’habitation : ce qui change pour la rédaction des contrats types au 1er octobre 2026."
+    },
+    {
+      "id": "42380751a38a4231",
+      "title": "Anticiper les travaux en copropriété grâce au plan pluriannuel",
+      "summary": "Nouveau Rénovation Article sponsorisé",
+      "url": "https://www.mysweetimmo.com/2026/09/29/anticiper-les-travaux-en-copropriete-grace-au-plan-pluriannuel/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Anticiper les travaux en copropriété grâce au plan pluriannuel."
+    },
+    {
+      "id": "735facccf8ef7a6b",
+      "title": "Achat immobilier : Votre quartier vous protège-t-il de la chaleur ?",
+      "summary": "Nouveau Environnement",
+      "url": "https://www.mysweetimmo.com/2026/09/29/achat-immobilier-votre-quartier-vous-protege-t-il-de-la-chaleur/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Achat immobilier : Votre quartier vous protège-t-il de la chaleur ?."
+    },
+    {
+      "id": "81fa5c05f37862b2",
+      "title": "TEDxleboncoin : une invitation à repenser notre manière d’habiter le monde qui vient",
+      "summary": "29 septembre 2026 - Le 30 septembre prochain, leboncoin invite les pros de l’immobilier à son tout premier événement TEDx. Sous le thème « Habiter le monde qui vient », cette soirée est une [...]",
+      "url": "https://immo2.pro/actualite-immobilier/tedxleboncoin-une-invitation-a-repenser-notre-maniere-dhabiter-le-monde-qui-vient/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : TEDxleboncoin : une invitation à repenser notre manière d’habiter le monde qui vient."
     },
     {
       "id": "df6e6aeec881ea02",
@@ -2985,27 +3069,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : MaPrimeRénov’ : Isolation, fenêtres, chauffage… les nouvelles règles au 1er septembre 2026."
-    },
-    {
-      "id": "0cbc5f28ae84efd7",
-      "title": "Construction de logements : résultats à fin juillet 2026 (France entière)",
-      "summary": "Construction de logements : résultats à fin juillet 2026 (France entière) | Données et études statistiques Aller au menu principal Aller à la recherche Aller au contenu principal Recherche Rechercher Rechercher Menu Fermer le menu Changement climatique Ouvrir le menu Changement climatique Chiffres clés du climat Émissions nationales de gaz à effet de serre Émissions mondiales de gaz à effet de serre Empreinte carbone Climat et société Énergie Ouvrir le menu Énergie Bilan et chiffres clés de l’én",
-      "url": "https://www.statistiques.developpement-durable.gouv.fr/construction-de-logements-resultats-fin-juillet-2026-france-entiere?rubrique=&dossier=1047",
-      "source": "SDES / Sitadel",
-      "source_level": "A",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-28T09:00:00+00:00",
-      "status": "Donnée officielle",
-      "importance": 88,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Construction",
-      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin juillet 2026 (France entière)."
     },
     {
       "id": "e4dc03dc96f1e3b1",

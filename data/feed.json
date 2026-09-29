@@ -1,7 +1,70 @@
 {
-  "generated_at": "2026-09-29T05:49:21+00:00",
+  "generated_at": "2026-09-29T12:59:44+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "dae34c741a8f78ea",
+      "title": "Construction de logements : résultats à fin août 2026 (France entière)",
+      "summary": "Construction de logements : résultats à fin août 2026 (France entière) | Données et études statistiques Aller au menu principal Aller à la recherche Aller au contenu principal Recherche Rechercher Rechercher Menu Fermer le menu Changement climatique Ouvrir le menu Changement climatique Chiffres clés du climat Émissions nationales de gaz à effet de serre Émissions mondiales de gaz à effet de serre Empreinte carbone Climat et société Énergie Ouvrir le menu Énergie Bilan et chiffres clés de l’énerg",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/construction-de-logements-resultats-fin-aout-2026-france-entiere?rubrique=&dossier=1047",
+      "source": "SDES / Sitadel",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Donnée officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Construction",
+      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin août 2026 (France entière)."
+    },
+    {
+      "id": "42380751a38a4231",
+      "title": "Anticiper les travaux en copropriété grâce au plan pluriannuel",
+      "summary": "Nouveau Rénovation Article sponsorisé",
+      "url": "https://www.mysweetimmo.com/2026/09/29/anticiper-les-travaux-en-copropriete-grace-au-plan-pluriannuel/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Anticiper les travaux en copropriété grâce au plan pluriannuel."
+    },
+    {
+      "id": "735facccf8ef7a6b",
+      "title": "Achat immobilier : Votre quartier vous protège-t-il de la chaleur ?",
+      "summary": "Nouveau Environnement",
+      "url": "https://www.mysweetimmo.com/2026/09/29/achat-immobilier-votre-quartier-vous-protege-t-il-de-la-chaleur/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Achat immobilier : Votre quartier vous protège-t-il de la chaleur ?."
+    },
     {
       "id": "5d3cd9aedc5bb510",
       "title": "Immobilier : Les acheteurs reviennent, mais les ventes reculent",
@@ -63,6 +126,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Baux d’habitation : ce qui change pour la rédaction des contrats types au 1er octobre 2026."
+    },
+    {
+      "id": "81fa5c05f37862b2",
+      "title": "TEDxleboncoin : une invitation à repenser notre manière d’habiter le monde qui vient",
+      "summary": "29 septembre 2026 - Le 30 septembre prochain, leboncoin invite les pros de l’immobilier à son tout premier événement TEDx. Sous le thème « Habiter le monde qui vient », cette soirée est une [...]",
+      "url": "https://immo2.pro/actualite-immobilier/tedxleboncoin-une-invitation-a-repenser-notre-maniere-dhabiter-le-monde-qui-vient/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : TEDxleboncoin : une invitation à repenser notre manière d’habiter le monde qui vient."
     },
     {
       "id": "df6e6aeec881ea02",
@@ -127,10 +211,10 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux."
     },
     {
-      "id": "f629b217c0f3827c",
-      "title": "Immobilier : Paris classée à faible risque de bulle par UBS",
-      "summary": "Marché immobilier",
-      "url": "https://www.mysweetimmo.com/2026/09/26/immobilier-paris-classee-a-faible-risque-de-bulle-par-ubs/",
+      "id": "fd75873a0933614c",
+      "title": "Diagnostic structurel obligatoire : De plus en plus de mairies l'exigent des copropriétés",
+      "summary": "Rénovation",
+      "url": "https://www.mysweetimmo.com/2026/09/27/diagnostic-structurel-obligatoire-de-plus-en-plus-de-mairies-lexigent-des-coproprietes/",
       "source": "MySweetImmo",
       "source_level": "C",
       "category": "marche",
@@ -139,13 +223,13 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-09-26T09:00:00+00:00",
+      "published_at": "2026-09-27T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Paris classée à faible risque de bulle par UBS."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Diagnostic structurel obligatoire : De plus en plus de mairies l'exigent des copropriétés."
     },
     {
       "id": "8d66d62195a705d0",
@@ -336,27 +420,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Prime carburant : Jusqu’à 1 000 € pour les salariés, ce que les agents immobiliers doivent savoir."
     },
     {
-      "id": "9ad4f65e06359370",
-      "title": "Réseaux immobiliers : REGM rejoint Efficity pour accélérer son développement",
-      "summary": "Vie Pro",
-      "url": "https://www.mysweetimmo.com/2026/09/22/reseaux-immobiliers-regm-rejoint-efficity-pour-accelerer-son-developpement/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-22T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Réseaux immobiliers : REGM rejoint Efficity pour accélérer son développement."
-    },
-    {
       "id": "9cc7ee0625bceca6",
       "title": "RENT 2026 : « Une Fashion Week pour l’immobilier ! » Stéphane Scarella (RENT)",
       "summary": "RENT 2026 : « Une Fashion Week pour l’immobilier ! » Stéphane Scarella (RENT)",
@@ -459,27 +522,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Une délégation du ministère vietnamien de la Construction reçue à l’ANIL."
-    },
-    {
-      "id": "e0387f6b62f3b82b",
-      "title": "Cadastre : Ce qui change pour une vente immobilière",
-      "summary": "Dans l'actu",
-      "url": "https://www.mysweetimmo.com/2026/09/21/cadastre-ce-qui-change-pour-une-vente-immobiliere/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-21T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Cadastre : Ce qui change pour une vente immobilière."
     },
     {
       "id": "0b7cebbee17b71bc",
@@ -1045,27 +1087,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Portail immobilier : idealista débarque en France avec 1 an de diffusion gratuite."
     },
     {
-      "id": "0cbc5f28ae84efd7",
-      "title": "Construction de logements : résultats à fin juillet 2026 (France entière)",
-      "summary": "Construction de logements : résultats à fin juillet 2026 (France entière) | Données et études statistiques Aller au menu principal Aller à la recherche Aller au contenu principal Recherche Rechercher Rechercher Menu Fermer le menu Changement climatique Ouvrir le menu Changement climatique Chiffres clés du climat Émissions nationales de gaz à effet de serre Émissions mondiales de gaz à effet de serre Empreinte carbone Climat et société Énergie Ouvrir le menu Énergie Bilan et chiffres clés de l’én",
-      "url": "https://www.statistiques.developpement-durable.gouv.fr/construction-de-logements-resultats-fin-juillet-2026-france-entiere?rubrique=&dossier=1047",
-      "source": "SDES / Sitadel",
-      "source_level": "A",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-28T09:00:00+00:00",
-      "status": "Donnée officielle",
-      "importance": 88,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Construction",
-      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin juillet 2026 (France entière)."
-    },
-    {
       "id": "2182d63921f42b7c",
       "title": "Indicateur des taux : une remontée contenue des taux dans un contexte plus incertain",
       "summary": "26 août 2026 Au troisième trimestre 2026, les taux immobiliers enregistrent une légère remontée sur l’ensemble des maturités. Les évolutions restent toutefois contenues et tradui-sent davantage des ajustements progressifs qu’un véritable retournement de tendance.",
@@ -1190,27 +1211,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Logements vacants : ce qui change à partir de 2027."
-    },
-    {
-      "id": "31c82e6b8fcdf1d2",
-      "title": "Urbanisme, voisinage, construction : quelles questions ont préoccupé les ménages en 2025 ?",
-      "summary": "17 août 2026 En 2025, les ADIL ont réalisé plus de 26 000 consultations sur les questions d'urbanisme, de droit notarial et de relations de voisinage.",
-      "url": "https://www.anil.org/actualites-evenements/details/urbanisme-voisinage-construction-quelles-questions-ont-preoccupe-les-menages-en-2025/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-17T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Urbanisme, voisinage, construction : quelles questions ont préoccupé les ménages en 2025 ?."
     },
     {
       "id": "33a90cc6968cbcba",
@@ -1465,14 +1465,14 @@
     }
   ],
   "source_stats": {
+    "SDES / Sitadel": 1,
     "MySweetImmo": 16,
     "Journal de l'Agence": 13,
-    "Immobilier 2.0": 13,
-    "ANIL": 11,
+    "Immobilier 2.0": 14,
+    "ANIL": 10,
     "Batiactu": 7,
     "Légifrance": 2,
     "Horiz.io": 2,
-    "SDES / Sitadel": 1,
     "Insee": 1,
     "EUR-Lex": 1,
     "Service-Public.fr": 3
@@ -1490,7 +1490,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-29T05:48:27+00:00",
+        "last_success": "2026-09-29T12:59:07+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1498,7 +1498,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-29T05:48:31+00:00",
+        "last_success": "2026-09-29T12:59:09+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1506,7 +1506,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-29T05:48:32+00:00",
+        "last_success": "2026-09-29T12:59:10+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1514,7 +1514,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-29T05:48:33+00:00",
+        "last_success": "2026-09-29T12:59:11+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1522,7 +1522,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-29T05:48:59+00:00",
+        "last_success": "2026-09-29T12:59:26+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1530,7 +1530,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-29T05:49:10+00:00",
+        "last_success": "2026-09-29T12:59:34+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1538,15 +1538,15 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-29T05:49:10+00:00",
+        "last_success": "2026-09-29T12:59:34+00:00",
         "fallback": false
       },
       "ANIL": {
         "level": "B",
         "ok": true,
         "status": "ok",
-        "retained": 11,
-        "last_success": "2026-09-29T05:49:11+00:00",
+        "retained": 10,
+        "last_success": "2026-09-29T12:59:35+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1554,7 +1554,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-29T05:49:12+00:00",
+        "last_success": "2026-09-29T12:59:36+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1562,7 +1562,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-29T05:49:13+00:00",
+        "last_success": "2026-09-29T12:59:37+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1570,7 +1570,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-29T05:49:15+00:00",
+        "last_success": "2026-09-29T12:59:38+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1578,7 +1578,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-29T05:49:16+00:00",
+        "last_success": "2026-09-29T12:59:39+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1586,15 +1586,15 @@
         "ok": true,
         "status": "ok",
         "retained": 7,
-        "last_success": "2026-09-29T05:49:18+00:00",
+        "last_success": "2026-09-29T12:59:41+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 13,
-        "last_success": "2026-09-29T05:49:19+00:00",
+        "retained": 14,
+        "last_success": "2026-09-29T12:59:41+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1602,7 +1602,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-29T05:49:20+00:00",
+        "last_success": "2026-09-29T12:59:43+00:00",
         "fallback": false
       }
     }
