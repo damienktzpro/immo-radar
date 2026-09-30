@@ -1,7 +1,50 @@
 {
-  "generated_at": "2026-09-29T22:20:42+00:00",
+  "generated_at": "2026-09-30T05:39:16+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "8a518c413e95682e",
+      "title": "L’IA répond à tout, mais les acquéreurs hésitent : comment les aider à se décider ?",
+      "summary": "ts l’éducation financière, l’intelligence artificielle et l’avenir du logement. Le 30/09/2026 à 07H03 L’intelligence artificielle s’installe à grande vitesse dans le parcours immobilier. En quelques secondes, elle donne à l’acquéreur l’impression de pouvoir rechercher un bien, l’estimer, analyser un DPE, décrypter une copropriété, évaluer des travaux ou comprendre un marché. Cette apparente maîtrise devrait accélérer la prise",
+      "url": "https://www.journaldelagence.com/1413791-lia-repond-a-tout-mais-les-acquereurs-hesitent-comment-les-aider-a-se-decider",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : L’IA répond à tout, mais les acquéreurs hésitent : comment les aider à se décider ?."
+    },
+    {
+      "id": "b12e4ee566fb542d",
+      "title": "Arrêté du 28 septembre 2026 relatif au calcul des aides personnelles au logement et de l'aide à l'accession sociale et à la sortie de l'insalubrité spécifique à l'outre-mer",
+      "summary": "Texte officiel lié à l’immobilier, publié au Journal officiel et récupéré via l’API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054913928",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Arrêté du 28 septembre 2026 relatif au calcul des aides personnelles au logement et de l'aide à l'accession sociale et à la sor….",
+      "legal_stage": "jorf"
+    },
     {
       "id": "dae34c741a8f78ea",
       "title": "Construction de logements : résultats à fin août 2026 (France entière)",
@@ -110,7 +153,7 @@
     {
       "id": "42380751a38a4231",
       "title": "Anticiper les travaux en copropriété grâce au plan pluriannuel",
-      "summary": "Nouveau Rénovation Article sponsorisé",
+      "summary": "Rénovation Article sponsorisé",
       "url": "https://www.mysweetimmo.com/2026/09/29/anticiper-les-travaux-en-copropriete-grace-au-plan-pluriannuel/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -131,7 +174,7 @@
     {
       "id": "3eb906f23603cc2e",
       "title": "[Dossier exclusif] Immobilier de prestige : nouveaux acheteurs, nouvelles valeurs",
-      "summary": "Le 29/09/2026 à 06H28 Nouveaux millionnaires, acheteurs internationaux, Français en quête d’un lieu où vivre à l’année : le marché du prestige attire des profils bien plus variés que ses clichés. Leurs attentes évoluent, tandis que certains territoires deviennent eux-mêmes des marques de luxe. Fabrice Larceneux et Nathalie Gardes ont enquêté sur ces nouvelles façons d’acheter, d’habiter et de valoriser l’exception, à l'occasio",
+      "summary": "e produit exactement l’inverse. Éclairage et vue du terrain de Peter Jorgensen. Le 29/09/2026 à 06H28 Nouveaux millionnaires, acheteurs internationaux, Français en quête d’un lieu où vivre à l’année : le marché du prestige attire des profils bien plus variés que ses clichés. Leurs attentes évoluent, tandis que certains territoires deviennent eux-mêmes des marques de luxe. Fabrice Larceneux et Nathalie Gardes ont enquêté sur c",
       "url": "https://www.journaldelagence.com/1413838-immobilier-de-prestige-nouveaux-acheteurs-nouvelles-valeurs",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -690,26 +733,6 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Affaire Matera : jusqu’où peut-on externaliser les missions d’un syndic de copropriété ?."
-    },
-    {
-      "id": "1c68eba888666d67",
-      "title": "Taxe foncière : après une hausse contenue en 2026, ce qui pourrait changer pour vos clients en 2027",
-      "summary": "investissement et le rôle que peuvent jouer les professionnels de l’immobilier. Le 17/09/2026 à 07H05 Après une année 2026 marquée par une hausse contenue de la taxe foncière, l’accalmie pourrait être de courte durée. En 2027, la revalorisation des bases cadastrales pourrait approcher 3 %, tandis que la mise à jour de certaines caractéristiques des logements pourrait également alourdir la note de certains propriétaires. Sans",
-      "url": "https://www.journaldelagence.com/1413623-taxe-fonciere-apres-une-hausse-contenue-en-2026-a-quoi-faut-il-sattendre-en-2027",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-09-17T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Taxe foncière : après une hausse contenue en 2026, ce qui pourrait changer pour vos clients en 2027."
     },
     {
       "id": "538b25ded75bbbb5",
@@ -1359,6 +1382,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vente immobilière : quel délai pour faire rectifier un acte notarié ?."
     },
     {
+      "id": "8e475dc9b365c3a3",
+      "title": "Ce qui change en octobre 2026",
+      "summary": "Santé, logement, heure d’hiver... Découvrez les changements intervenant à partir de ce mois d’octobre.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18466?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": null,
+      "status": "Information officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Ce qui change en octobre 2026."
+    },
+    {
       "id": "40a9c169ee7c45fa",
       "title": "SignalConso, le site pour signaler les pratiques abusives",
       "summary": "Prix non affiché, démarchage téléphonique, arnaque à la rénovation énergétique, faux courriers administratifs, publicité dissimulée par des influenceurs, arnaques après les incendies, produits dangereux, retard de livraison... Vous pouvez signaler ces litiges sur le site SignalConso. La plateforme enregistre aujourd'hui 1 million de signalements. Service Public vous rappelle le mode d'emploi de ce dispositif de protection des consommateurs.",
@@ -1399,37 +1443,16 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source officielle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Révision des baux commerciaux et professionnels : les indices du deuxième trimestre 2026 sont parus."
-    },
-    {
-      "id": "8e475dc9b365c3a3",
-      "title": "Ce qui change en octobre 2026",
-      "summary": "Santé, logement, heure d’hiver... Découvrez les changements intervenant à partir de ce mois d’octobre.",
-      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18466?xtor=RSS-111",
-      "source": "Service-Public.fr",
-      "source_level": "A",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": null,
-      "status": "Information officielle",
-      "importance": 88,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Ce qui change en octobre 2026."
     }
   ],
   "source_stats": {
+    "Journal de l'Agence": 13,
+    "Légifrance": 3,
     "SDES / Sitadel": 1,
     "MySweetImmo": 16,
-    "Journal de l'Agence": 13,
     "Immobilier 2.0": 14,
     "ANIL": 10,
     "Batiactu": 5,
-    "Légifrance": 2,
     "Horiz.io": 2,
     "Insee": 1,
     "EUR-Lex": 1,
@@ -1440,15 +1463,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 68,
-    "rejected": 1173,
+    "retained": 69,
+    "rejected": 1216,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-29T22:20:00+00:00",
+        "last_success": "2026-09-30T05:38:39+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1456,7 +1479,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-29T22:20:02+00:00",
+        "last_success": "2026-09-30T05:38:41+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1464,7 +1487,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-29T22:20:03+00:00",
+        "last_success": "2026-09-30T05:38:41+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1472,7 +1495,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-29T22:20:05+00:00",
+        "last_success": "2026-09-30T05:38:43+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1480,7 +1503,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-29T22:20:23+00:00",
+        "last_success": "2026-09-30T05:39:00+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1488,7 +1511,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-29T22:20:34+00:00",
+        "last_success": "2026-09-30T05:39:07+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1496,7 +1519,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-29T22:20:34+00:00",
+        "last_success": "2026-09-30T05:39:07+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1504,7 +1527,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-29T22:20:35+00:00",
+        "last_success": "2026-09-30T05:39:08+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1512,7 +1535,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-29T22:20:36+00:00",
+        "last_success": "2026-09-30T05:39:09+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1520,7 +1543,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-29T22:20:37+00:00",
+        "last_success": "2026-09-30T05:39:11+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1528,7 +1551,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-29T22:20:38+00:00",
+        "last_success": "2026-09-30T05:39:12+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1536,7 +1559,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-29T22:20:39+00:00",
+        "last_success": "2026-09-30T05:39:13+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1544,7 +1567,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-09-29T22:20:41+00:00",
+        "last_success": "2026-09-30T05:39:14+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1552,7 +1575,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-09-29T22:20:42+00:00",
+        "last_success": "2026-09-30T05:39:15+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1560,7 +1583,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-29T22:20:42+00:00",
+        "last_success": "2026-09-30T05:39:15+00:00",
         "fallback": false
       }
     }

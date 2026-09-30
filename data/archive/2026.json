@@ -1,8 +1,51 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-29T22:20:52+00:00",
+  "generated_at": "2026-09-30T05:39:27+00:00",
   "items": [
+    {
+      "id": "8a518c413e95682e",
+      "title": "L’IA répond à tout, mais les acquéreurs hésitent : comment les aider à se décider ?",
+      "summary": "ts l’éducation financière, l’intelligence artificielle et l’avenir du logement. Le 30/09/2026 à 07H03 L’intelligence artificielle s’installe à grande vitesse dans le parcours immobilier. En quelques secondes, elle donne à l’acquéreur l’impression de pouvoir rechercher un bien, l’estimer, analyser un DPE, décrypter une copropriété, évaluer des travaux ou comprendre un marché. Cette apparente maîtrise devrait accélérer la prise",
+      "url": "https://www.journaldelagence.com/1413791-lia-repond-a-tout-mais-les-acquereurs-hesitent-comment-les-aider-a-se-decider",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : L’IA répond à tout, mais les acquéreurs hésitent : comment les aider à se décider ?."
+    },
+    {
+      "id": "b12e4ee566fb542d",
+      "title": "Arrêté du 28 septembre 2026 relatif au calcul des aides personnelles au logement et de l'aide à l'accession sociale et à la sortie de l'insalubrité spécifique à l'outre-mer",
+      "summary": "Texte officiel lié à l’immobilier, publié au Journal officiel et récupéré via l’API officielle Légifrance.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054913928",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Texte officiel",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Arrêté du 28 septembre 2026 relatif au calcul des aides personnelles au logement et de l'aide à l'accession sociale et à la sor….",
+      "legal_stage": "jorf"
+    },
     {
       "id": "dae34c741a8f78ea",
       "title": "Construction de logements : résultats à fin août 2026 (France entière)",
@@ -48,7 +91,7 @@
     {
       "id": "3eb906f23603cc2e",
       "title": "[Dossier exclusif] Immobilier de prestige : nouveaux acheteurs, nouvelles valeurs",
-      "summary": "Le 29/09/2026 à 06H28 Nouveaux millionnaires, acheteurs internationaux, Français en quête d’un lieu où vivre à l’année : le marché du prestige attire des profils bien plus variés que ses clichés. Leurs attentes évoluent, tandis que certains territoires deviennent eux-mêmes des marques de luxe. Fabrice Larceneux et Nathalie Gardes ont enquêté sur ces nouvelles façons d’acheter, d’habiter et de valoriser l’exception, à l'occasio",
+      "summary": "e produit exactement l’inverse. Éclairage et vue du terrain de Peter Jorgensen. Le 29/09/2026 à 06H28 Nouveaux millionnaires, acheteurs internationaux, Français en quête d’un lieu où vivre à l’année : le marché du prestige attire des profils bien plus variés que ses clichés. Leurs attentes évoluent, tandis que certains territoires deviennent eux-mêmes des marques de luxe. Fabrice Larceneux et Nathalie Gardes ont enquêté sur c",
       "url": "https://www.journaldelagence.com/1413838-immobilier-de-prestige-nouveaux-acheteurs-nouvelles-valeurs",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -89,7 +132,7 @@
     {
       "id": "42380751a38a4231",
       "title": "Anticiper les travaux en copropriété grâce au plan pluriannuel",
-      "summary": "Nouveau Rénovation Article sponsorisé",
+      "summary": "Rénovation Article sponsorisé",
       "url": "https://www.mysweetimmo.com/2026/09/29/anticiper-les-travaux-en-copropriete-grace-au-plan-pluriannuel/",
       "source": "MySweetImmo",
       "source_level": "C",
