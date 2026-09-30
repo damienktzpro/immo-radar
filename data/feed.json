@@ -1,7 +1,69 @@
 {
-  "generated_at": "2026-09-30T05:39:16+00:00",
+  "generated_at": "2026-09-30T12:42:18+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "3d5cb78726683cfe",
+      "title": "Plus-value immobilière : Les notaires veulent passer de 30 à 22 ans",
+      "summary": "Nouveau Fiscalite",
+      "url": "https://www.mysweetimmo.com/2026/09/30/plus-value-immobiliere-les-notaires-veulent-passer-de-30-a-22-ans/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Plus-value immobilière : Les notaires veulent passer de 30 à 22 ans."
+    },
+    {
+      "id": "e36ffca62d0dfa10",
+      "title": "Crise du logement : Léon XIV appelle à « chercher des solutions plus justes",
+      "summary": "Nouveau Société »",
+      "url": "https://www.mysweetimmo.com/2026/09/30/crise-du-logement-leon-xiv-appelle-a-chercher-des-solutions-plus-justes/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Crise du logement : Léon XIV appelle à « chercher des solutions plus justes."
+    },
+    {
+      "id": "6b2d4cac8c5ed420",
+      "title": "Arrêtez de prospecter seul : construisez votre réseau d’ambassadeurs",
+      "summary": "Le 30/09/2026 à 07H45 La plupart des agents immobiliers dépensent leur énergie à aller chercher des inconnus. Les plus performants font l'inverse : ils se rendent indispensables auprès de leur cercle proche, qui se charge ensuite de les recommander. Yann Raoult nous éclaire pour passer d'une prospection qui pousse à une recommandation qui attire. Intermed : un nouveau rendez-vous pour les professionnels du crédit Le 30/09/2026",
+      "url": "https://www.journaldelagence.com/1413856-arretez-de-prospecter-seul-construisez-votre-reseau-dambassadeurs",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Arrêtez de prospecter seul : construisez votre réseau d’ambassadeurs."
+    },
     {
       "id": "8a518c413e95682e",
       "title": "L’IA répond à tout, mais les acquéreurs hésitent : comment les aider à se décider ?",
@@ -22,6 +84,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : L’IA répond à tout, mais les acquéreurs hésitent : comment les aider à se décider ?."
+    },
+    {
+      "id": "b9fcb44822abb978",
+      "title": "Logement étudiant : la Fondation I Loge You et ses alliés appellent à nouveau les propriétaires",
+      "summary": "30 septembre 2026 - Dans le cadre de la rentrée étudiante, la Fondation I Loge You, la FNAIM et le réseau Cohabilis ont lancé une grande campagne d’affichage afin de promouvoir la [...]",
+      "url": "https://immo2.pro/actualite-immobilier/logement-etudiant-la-fondation-i-loge-you-et-ses-allies-appellent-a-nouveau-les-proprietaires/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement étudiant : la Fondation I Loge You et ses alliés appellent à nouveau les propriétaires."
     },
     {
       "id": "b12e4ee566fb542d",
@@ -69,7 +152,7 @@
     {
       "id": "9259fa7e75b88c9f",
       "title": "Crédit immobilier : Le taux d’usure passe à 5,40%",
-      "summary": "Nouveau Investir / Financer",
+      "summary": "Investir / Financer",
       "url": "https://www.mysweetimmo.com/2026/09/29/credit-immobilier-le-taux-dusure-passe-a-540/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -151,27 +234,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)."
     },
     {
-      "id": "42380751a38a4231",
-      "title": "Anticiper les travaux en copropriété grâce au plan pluriannuel",
-      "summary": "Rénovation Article sponsorisé",
-      "url": "https://www.mysweetimmo.com/2026/09/29/anticiper-les-travaux-en-copropriete-grace-au-plan-pluriannuel/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-29T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Anticiper les travaux en copropriété grâce au plan pluriannuel."
-    },
-    {
       "id": "3eb906f23603cc2e",
       "title": "[Dossier exclusif] Immobilier de prestige : nouveaux acheteurs, nouvelles valeurs",
       "summary": "e produit exactement l’inverse. Éclairage et vue du terrain de Peter Jorgensen. Le 29/09/2026 à 06H28 Nouveaux millionnaires, acheteurs internationaux, Français en quête d’un lieu où vivre à l’année : le marché du prestige attire des profils bien plus variés que ses clichés. Leurs attentes évoluent, tandis que certains territoires deviennent eux-mêmes des marques de luxe. Fabrice Larceneux et Nathalie Gardes ont enquêté sur c",
@@ -232,6 +294,48 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : TEDxleboncoin : une invitation à repenser notre manière d’habiter le monde qui vient."
+    },
+    {
+      "id": "569634545f0cc244",
+      "title": "Vente interactive : « En 2027, 50 % de nos conseillers utiliseront Immofit » (O. Le Gallo, DigitRE Group) Réseau de mandataires Olivier Le Gallo, président de DigitRE Groupe. - © D.R.",
+      "summary": "Baux commerciaux : deux jours pour actualiser et sécuriser ses pratiques Services pour évaluer Contenu sponsorisé Lefebvre Dalloz Compétences. - © D.R. Foncia ADB : Zahir Keenoo quite ses fonctions « d’un commun accord » avec la direction Agence immobilière indépendante Président de Foncia ADB depuis octobre 2024, Zahir Keenoo quitte la présidence « d’un commun accord » avec la direction du groupe Emeria, maison mère de Foncia",
+      "url": "https://www.immomatin.com/franchise/reseau-mandataires/vente-interactive-en-2027-50-de-nos-conseillers-utiliseront-immofit-o-le-gallo-digitre-group.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vente interactive : « En 2027, 50 % de nos conseillers utiliseront Immofit » (O. Le Gallo, DigitRE Group) Réseau de mandataires…."
+    },
+    {
+      "id": "6864afa0bc9647bf",
+      "title": "Baux commerciaux : deux jours pour actualiser et sécuriser ses pratiques Services pour évaluer Contenu sponsorisé Lefebvre Dalloz Compétences. - © D.R.",
+      "summary": ") Réseau de mandataires Olivier Le Gallo, président de DigitRE Groupe. - © D.R. Foncia ADB : Zahir Keenoo quite ses fonctions « d’un commun accord » avec la direction Agence immobilière indépendante Président de Foncia ADB depuis octobre 2024, Zahir Keenoo quitte la présidence « d’un commun accord » avec la direction du groupe Emeria, maison mère de Foncia, indique le groupe le 28 septembre 2026. Zahir Keenoo quitte ses fonct",
+      "url": "https://www.immomatin.com/evaluation/services-evaluer/baux-commerciaux-deux-jours-pour-actualiser-et-securiser-ses-pratiques.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Baux commerciaux : deux jours pour actualiser et sécuriser ses pratiques Services pour évaluer Contenu sponsorisé Lefebvre Dall…."
     },
     {
       "id": "df6e6aeec881ea02",
@@ -377,27 +481,6 @@
       "territory": "France",
       "topic": "Territoires",
       "why_it_matters": "Source institutionnelle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Quelles aides locales pour vos travaux ?."
-    },
-    {
-      "id": "3e7f0a8954a40544",
-      "title": "Immobilier : La Cour de cassation donne raison à Matera sur son modèle coopératif",
-      "summary": "Copropriete",
-      "url": "https://www.mysweetimmo.com/2026/09/24/immobilier-la-cour-de-cassation-donne-raison-a-matera-sur-son-modele-cooperatif/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-24T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : La Cour de cassation donne raison à Matera sur son modèle coopératif."
     },
     {
       "id": "db66c6ddb8859c9b",
@@ -775,27 +858,6 @@
       "territory": "France",
       "topic": "Investir",
       "why_it_matters": "Source expert / blog à confronter aux données officielles. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spéciali…."
-    },
-    {
-      "id": "8fcb6a3461823392",
-      "title": "Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudiants, confrontés à une offre de plus en plus onéreuse et éclatée.",
-      "summary": "16/09/2026",
-      "url": "https://www.batiactu.com/edito/crise-logement-frappe-plein-fouet-etudiants-75374.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-16T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Zoom La crise du logement frappe de plein fouet les étudiants LOGEMENT. La tension locative touche particulièrement les étudian…."
     },
     {
       "id": "4c916bd1daee564c",
@@ -1235,27 +1297,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : HeyGen lance un générateur de vidéos IA dédié aux pros de l’immobilier."
     },
     {
-      "id": "bdf8a551019bd962",
-      "title": "Licenciement chez Zillow : départ de plus de 500 employés",
-      "summary": "10 août 2026 - Une vague de licenciements s’est produite chez Zillow. En effet, le portail immobilier américain a renvoyé plus de 500 employés. Soit un licenciement d’environ 7 % [...]",
-      "url": "https://immo2.pro/actualite-immobilier/licenciement-chez-zillow-depart-de-plus-de-500-employes/",
-      "source": "Immobilier 2.0",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-10T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Licenciement chez Zillow : départ de plus de 500 employés."
-    },
-    {
       "id": "f7da610496535f86",
       "title": "Agents immobiliers : « La concurrence nous oblige à être meilleurs » Guillaume Martinaud (Orpi)",
       "summary": "Agents immobiliers : « La concurrence nous oblige à être meilleurs » Guillaume Martinaud (Orpi)",
@@ -1382,6 +1423,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vente immobilière : quel délai pour faire rectifier un acte notarié ?."
     },
     {
+      "id": "2803ce901c572315",
+      "title": "Crédit immobilier : quels sont les plafonds du taux d’usure à compter du 1er octobre ?",
+      "summary": "Vous envisagez de souscrire un prêt immobilier ? Vous souhaitez savoir combien va vous coûter le crédit en plus de la somme empruntée ? Découvrez les plafonds légaux des taux d’intérêt, applicables à un crédit immobilier à compter du 1 er octobre.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17054?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": null,
+      "status": "Information officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source officielle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : quels sont les plafonds du taux d’usure à compter du 1er octobre ?."
+    },
+    {
       "id": "8e475dc9b365c3a3",
       "title": "Ce qui change en octobre 2026",
       "summary": "Santé, logement, heure d’hiver... Découvrez les changements intervenant à partir de ce mois d’octobre.",
@@ -1446,32 +1508,33 @@
     }
   ],
   "source_stats": {
-    "Journal de l'Agence": 13,
+    "MySweetImmo": 16,
+    "Journal de l'Agence": 14,
+    "Immobilier 2.0": 14,
     "Légifrance": 3,
     "SDES / Sitadel": 1,
-    "MySweetImmo": 16,
-    "Immobilier 2.0": 14,
+    "Immo Matin": 2,
     "ANIL": 10,
-    "Batiactu": 5,
+    "Batiactu": 4,
     "Horiz.io": 2,
     "Insee": 1,
     "EUR-Lex": 1,
-    "Service-Public.fr": 3
+    "Service-Public.fr": 4
   },
   "health": {
     "sources_total": 15,
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 69,
-    "rejected": 1216,
+    "retained": 72,
+    "rejected": 1209,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
-        "retained": 3,
-        "last_success": "2026-09-30T05:38:39+00:00",
+        "retained": 4,
+        "last_success": "2026-09-30T12:41:27+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1479,7 +1542,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-30T05:38:41+00:00",
+        "last_success": "2026-09-30T12:41:30+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1487,7 +1550,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-30T05:38:41+00:00",
+        "last_success": "2026-09-30T12:41:31+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1495,7 +1558,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-30T05:38:43+00:00",
+        "last_success": "2026-09-30T12:41:32+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1503,7 +1566,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-30T05:39:00+00:00",
+        "last_success": "2026-09-30T12:41:54+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1511,7 +1574,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-30T05:39:07+00:00",
+        "last_success": "2026-09-30T12:42:05+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1519,7 +1582,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-30T05:39:07+00:00",
+        "last_success": "2026-09-30T12:42:05+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1527,7 +1590,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-30T05:39:08+00:00",
+        "last_success": "2026-09-30T12:42:06+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1535,7 +1598,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-30T05:39:09+00:00",
+        "last_success": "2026-09-30T12:42:07+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1543,15 +1606,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-30T05:39:11+00:00",
+        "last_success": "2026-09-30T12:42:09+00:00",
         "fallback": false
       },
       "Immo Matin": {
         "level": "C",
         "ok": true,
-        "status": "empty",
-        "retained": 0,
-        "last_success": "2026-09-30T05:39:12+00:00",
+        "status": "ok",
+        "retained": 2,
+        "last_success": "2026-09-30T12:42:10+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1559,15 +1622,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-30T05:39:13+00:00",
+        "last_success": "2026-09-30T12:42:12+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 5,
-        "last_success": "2026-09-30T05:39:14+00:00",
+        "retained": 4,
+        "last_success": "2026-09-30T12:42:13+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1575,7 +1638,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-09-30T05:39:15+00:00",
+        "last_success": "2026-09-30T12:42:15+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1583,7 +1646,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-30T05:39:15+00:00",
+        "last_success": "2026-09-30T12:42:17+00:00",
         "fallback": false
       }
     }

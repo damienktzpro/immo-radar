@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-30T05:39:27+00:00",
+  "generated_at": "2026-09-30T12:42:28+00:00",
   "items": [
     {
       "id": "8a518c413e95682e",
@@ -23,6 +23,89 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : L’IA répond à tout, mais les acquéreurs hésitent : comment les aider à se décider ?."
+    },
+    {
+      "id": "3d5cb78726683cfe",
+      "title": "Plus-value immobilière : Les notaires veulent passer de 30 à 22 ans",
+      "summary": "Nouveau Fiscalite",
+      "url": "https://www.mysweetimmo.com/2026/09/30/plus-value-immobiliere-les-notaires-veulent-passer-de-30-a-22-ans/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Plus-value immobilière : Les notaires veulent passer de 30 à 22 ans."
+    },
+    {
+      "id": "e36ffca62d0dfa10",
+      "title": "Crise du logement : Léon XIV appelle à « chercher des solutions plus justes",
+      "summary": "Nouveau Société »",
+      "url": "https://www.mysweetimmo.com/2026/09/30/crise-du-logement-leon-xiv-appelle-a-chercher-des-solutions-plus-justes/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Crise du logement : Léon XIV appelle à « chercher des solutions plus justes."
+    },
+    {
+      "id": "6b2d4cac8c5ed420",
+      "title": "Arrêtez de prospecter seul : construisez votre réseau d’ambassadeurs",
+      "summary": "Le 30/09/2026 à 07H45 La plupart des agents immobiliers dépensent leur énergie à aller chercher des inconnus. Les plus performants font l'inverse : ils se rendent indispensables auprès de leur cercle proche, qui se charge ensuite de les recommander. Yann Raoult nous éclaire pour passer d'une prospection qui pousse à une recommandation qui attire. Intermed : un nouveau rendez-vous pour les professionnels du crédit Le 30/09/2026",
+      "url": "https://www.journaldelagence.com/1413856-arretez-de-prospecter-seul-construisez-votre-reseau-dambassadeurs",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Arrêtez de prospecter seul : construisez votre réseau d’ambassadeurs."
+    },
+    {
+      "id": "b9fcb44822abb978",
+      "title": "Logement étudiant : la Fondation I Loge You et ses alliés appellent à nouveau les propriétaires",
+      "summary": "30 septembre 2026 - Dans le cadre de la rentrée étudiante, la Fondation I Loge You, la FNAIM et le réseau Cohabilis ont lancé une grande campagne d’affichage afin de promouvoir la [...]",
+      "url": "https://immo2.pro/actualite-immobilier/logement-etudiant-la-fondation-i-loge-you-et-ses-allies-appellent-a-nouveau-les-proprietaires/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement étudiant : la Fondation I Loge You et ses alliés appellent à nouveau les propriétaires."
     },
     {
       "id": "b12e4ee566fb542d",
@@ -195,7 +278,7 @@
     {
       "id": "9259fa7e75b88c9f",
       "title": "Crédit immobilier : Le taux d’usure passe à 5,40%",
-      "summary": "Nouveau Investir / Financer",
+      "summary": "Investir / Financer",
       "url": "https://www.mysweetimmo.com/2026/09/29/credit-immobilier-le-taux-dusure-passe-a-540/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -274,6 +357,48 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Proptech : Capifrance et Optimhome rachètent Immofit."
+    },
+    {
+      "id": "569634545f0cc244",
+      "title": "Vente interactive : « En 2027, 50 % de nos conseillers utiliseront Immofit » (O. Le Gallo, DigitRE Group) Réseau de mandataires Olivier Le Gallo, président de DigitRE Groupe. - © D.R.",
+      "summary": "Baux commerciaux : deux jours pour actualiser et sécuriser ses pratiques Services pour évaluer Contenu sponsorisé Lefebvre Dalloz Compétences. - © D.R. Foncia ADB : Zahir Keenoo quite ses fonctions « d’un commun accord » avec la direction Agence immobilière indépendante Président de Foncia ADB depuis octobre 2024, Zahir Keenoo quitte la présidence « d’un commun accord » avec la direction du groupe Emeria, maison mère de Foncia",
+      "url": "https://www.immomatin.com/franchise/reseau-mandataires/vente-interactive-en-2027-50-de-nos-conseillers-utiliseront-immofit-o-le-gallo-digitre-group.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vente interactive : « En 2027, 50 % de nos conseillers utiliseront Immofit » (O. Le Gallo, DigitRE Group) Réseau de mandataires…."
+    },
+    {
+      "id": "6864afa0bc9647bf",
+      "title": "Baux commerciaux : deux jours pour actualiser et sécuriser ses pratiques Services pour évaluer Contenu sponsorisé Lefebvre Dalloz Compétences. - © D.R.",
+      "summary": ") Réseau de mandataires Olivier Le Gallo, président de DigitRE Groupe. - © D.R. Foncia ADB : Zahir Keenoo quite ses fonctions « d’un commun accord » avec la direction Agence immobilière indépendante Président de Foncia ADB depuis octobre 2024, Zahir Keenoo quitte la présidence « d’un commun accord » avec la direction du groupe Emeria, maison mère de Foncia, indique le groupe le 28 septembre 2026. Zahir Keenoo quitte ses fonct",
+      "url": "https://www.immomatin.com/evaluation/services-evaluer/baux-commerciaux-deux-jours-pour-actualiser-et-securiser-ses-pratiques.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Baux commerciaux : deux jours pour actualiser et sécuriser ses pratiques Services pour évaluer Contenu sponsorisé Lefebvre Dall…."
     },
     {
       "id": "4bdc739d80a38664",
