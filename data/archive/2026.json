@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-30T12:42:28+00:00",
+  "generated_at": "2026-09-30T22:21:13+00:00",
   "items": [
     {
       "id": "8a518c413e95682e",
@@ -27,7 +27,7 @@
     {
       "id": "3d5cb78726683cfe",
       "title": "Plus-value immobilière : Les notaires veulent passer de 30 à 22 ans",
-      "summary": "Nouveau Fiscalite",
+      "summary": "Fiscalite",
       "url": "https://www.mysweetimmo.com/2026/09/30/plus-value-immobiliere-les-notaires-veulent-passer-de-30-a-22-ans/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -48,7 +48,7 @@
     {
       "id": "e36ffca62d0dfa10",
       "title": "Crise du logement : Léon XIV appelle à « chercher des solutions plus justes",
-      "summary": "Nouveau Société »",
+      "summary": "Société »",
       "url": "https://www.mysweetimmo.com/2026/09/30/crise-du-logement-leon-xiv-appelle-a-chercher-des-solutions-plus-justes/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -106,6 +106,69 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement étudiant : la Fondation I Loge You et ses alliés appellent à nouveau les propriétaires."
+    },
+    {
+      "id": "fd193ddf17aff2d9",
+      "title": "Portail immobilier : nouvellement arrivé en France, idealista signe un accord avec Orpi et L’Adresse",
+      "summary": "30 septembre 2026 - Peu de temps après son arrivée sur le marché français, le portail immobilier idealista a annoncé la signature d’un partenariat commercial avec le réseau coopératif Orpi, [...]",
+      "url": "https://immo2.pro/actualite-immobilier/portail-immobilier-nouvellement-arrive-en-france-idealista-signe-un-accord-avec-orpi-et-ladresse/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Portail immobilier : nouvellement arrivé en France, idealista signe un accord avec Orpi et L’Adresse."
+    },
+    {
+      "id": "69cbfad99819dc49",
+      "title": "Les courtiers indépendants ont accès au capital de Pretto",
+      "summary": "30 septembre 2026 - Une nouvelle étape a été franchie dans le développement du réseau de mandataires de Pretto. En effet, pour la première fois, le courtier en crédit immobilier a annoncé [...]",
+      "url": "https://immo2.pro/actualite-immobilier/les-courtiers-independants-ont-acces-au-capital-de-pretto/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Les courtiers indépendants ont accès au capital de Pretto."
+    },
+    {
+      "id": "baff59e1ca6eb19d",
+      "title": "Diagnostic immobilier : Trois fédérations s’unissent pour parler d’une seule voix",
+      "summary": "30 septembre 2026 - L’Alliance du Diagnostic Immobilier, Filiance et Sidiane ont annoncé la création de l’UFD3I : l’Union des Fédérations du Diagnostic Immobilier, des [...]",
+      "url": "https://immo2.pro/actualite-immobilier/diagnostic-immobilier-trois-federations-sunissent-pour-parler-dune-seule-voix/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Diagnostic immobilier : Trois fédérations s’unissent pour parler d’une seule voix."
     },
     {
       "id": "b12e4ee566fb542d",
@@ -316,6 +379,48 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)."
+    },
+    {
+      "id": "29233dd8f9d34172",
+      "title": "Bâtiment et Logement deviennent un terrain de débats pour la présidentielle 2027",
+      "summary": "En débat 29/09/2026 En débat \"Mon ambition : mettre un million de logements en plus sur le marché\", B. Retailleau En débat \"Une relance puissante et robuste du secteur du bâtiment\", M. Le Pen En débat \"Une grande loi de programmation pluriannuelle pour le logement dès l'été 2027\", G. Attal Vidéo BTP et logement : que proposent les candidats à la présidentielle à Batimat ?",
+      "url": "https://www.batiactu.com/edito/presidentielle-2027-quatre-candidats-face-aux-professionnels-75475.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Bâtiment et Logement deviennent un terrain de débats pour la présidentielle 2027."
+    },
+    {
+      "id": "6d7c71c70ab81192",
+      "title": "L’APL revalorisée au 1er octobre",
+      "summary": "Les aides personnelles au logement (APL, ALF, ALS) sont revalorisées chaque 1 er octobre en fonction de l’évolution de l’indice de référence des loyers (IRL) du 2 e trimestre de l’année en cours. Un arrêté du 28 septembre 2026 confirme leur évolution.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A16807?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "status": "Information officielle",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source officielle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : L’APL revalorisée au 1er octobre."
     },
     {
       "id": "df6e6aeec881ea02",
