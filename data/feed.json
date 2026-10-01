@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-09-30T22:21:01+00:00",
+  "generated_at": "2026-10-01T06:03:18+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "f1b9db5e196c4169",
+      "title": "Canicule : 91 % des Français appellent à repenser le logement",
+      "summary": "Nouveau Rénovation",
+      "url": "https://www.mysweetimmo.com/2026/10/01/canicule-91-des-francais-appellent-a-repenser-le-logement/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Canicule : 91 % des Français appellent à repenser le logement."
+    },
+    {
+      "id": "874950425f6550d3",
+      "title": "Au-delà des critères de recherche : comment détecter ce qui compte vraiment pour vos acquéreurs",
+      "summary": "es opérations et les points d’attention à connaître avant d’accepter un mandat. Le 01/10/2026 à 06H46 Ils cherchent une maison avec jardin… et achètent finalement un appartement avec terrasse. Pour les agents immobiliers, ce décalage entre les critères annoncés et le choix final peut rendre l’accompagnement déroutant. En s’appuyant sur les sciences comportementales, Nordine Mouaouia explique comment dépasser la liste de souha",
+      "url": "https://www.journaldelagence.com/1413865-au-dela-des-criteres-de-recherche-comment-detecter-ce-qui-compte-vraiment-pour-vos-acquereurs",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Au-delà des critères de recherche : comment détecter ce qui compte vraiment pour vos acquéreurs."
+    },
     {
       "id": "3d5cb78726683cfe",
       "title": "Plus-value immobilière : Les notaires veulent passer de 30 à 22 ans",
@@ -47,22 +89,23 @@
     {
       "id": "6b2d4cac8c5ed420",
       "title": "Arrêtez de prospecter seul : construisez votre réseau d’ambassadeurs",
-      "summary": "Le 30/09/2026 à 07H45 La plupart des agents immobiliers dépensent leur énergie à aller chercher des inconnus. Les plus performants font l'inverse : ils se rendent indispensables auprès de leur cercle proche, qui se charge ensuite de les recommander. Yann Raoult nous éclaire pour passer d'une prospection qui pousse à une recommandation qui attire. Intermed : un nouveau rendez-vous pour les professionnels du crédit Le 30/09/2026",
+      "summary": "aits pour mieux comprendre ce qui compte pour un acquéreur, au fil des visites. Le 30/09/2026 à 07H45 La plupart des agents immobiliers dépensent leur énergie à aller chercher des inconnus. Les plus performants font l'inverse : ils se rendent indispensables auprès de leur cercle proche, qui se charge ensuite de les recommander. Yann Raoult nous éclaire pour passer d'une prospection qui pousse à une recommandation qui attire.",
       "url": "https://www.journaldelagence.com/1413856-arretez-de-prospecter-seul-construisez-votre-reseau-dambassadeurs",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "pro",
+      "category": "marche",
       "audiences": [
-        "pro",
-        "investisseur"
+        "particulier",
+        "investisseur",
+        "pro"
       ],
       "published_at": "2026-09-30T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Arrêtez de prospecter seul : construisez votre réseau d’ambassadeurs."
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Arrêtez de prospecter seul : construisez votre réseau d’ambassadeurs."
     },
     {
       "id": "8a518c413e95682e",
@@ -505,27 +548,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux."
     },
     {
-      "id": "f629b217c0f3827c",
-      "title": "Immobilier : Paris classée à faible risque de bulle par UBS",
-      "summary": "Marché immobilier",
-      "url": "https://www.mysweetimmo.com/2026/09/26/immobilier-paris-classee-a-faible-risque-de-bulle-par-ubs/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-26T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Paris classée à faible risque de bulle par UBS."
-    },
-    {
       "id": "8d66d62195a705d0",
       "title": "Métiers de syndic et de gestion immobilière : « pour attirer les talents, le quotidien des professionnels doit changer",
       "summary": "int utile pour pour les professionnels chargés de vendre ou de louer ces biens. » Le 28/09/2026 à 07H03 Recruter et fidéliser suppose de regarder les métiers de l'immobilier en face : charge de travail pesante, assemblées générales tardives, incivilités, mais aussi manque de perspectives et de moyens. À Lyon, deux plénières du congrès de l’UNIS ont mêlé réponses de terrain et regards de jeunes professionnels. Leur fil commun",
@@ -795,27 +817,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Entre deux logements : Où stocker ses meubles pendant un déménagement ?."
-    },
-    {
-      "id": "c27b4ea5926b3f07",
-      "title": "Orpi rejoint idealista : le n°1 des réseaux d’agences immobilières françaises intègre le portail immobilier européen leader",
-      "summary": "des candidats à la location. Explications de Maître Caroline Dubuis-Talayrach. Le 21/09/2026 à 10H13 Une arrivée en France qui prend un départ remarqué. À peine une semaine après son entrée officielle sur le marché hexagonal, idealista annonce signer un premier accord d'envergure avec Orpi, premier réseau coopératif immobilier de France. Un accord symboliquement fort qui, dès les premiers jours, valide la stratégie d'idealist",
-      "url": "https://www.journaldelagence.com/1413682-orpi-rejoint-idealista-le-n1-des-reseaux-dagences-immobilieres-francaises-integre-le-portail-immobilier-europeen-leader",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-21T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Orpi rejoint idealista : le n°1 des réseaux d’agences immobilières françaises intègre le portail immobilier européen leader."
     },
     {
       "id": "37e3d272f1980731",
@@ -1425,26 +1426,6 @@
       "legal_stage": "jorf"
     },
     {
-      "id": "7a881e128944eaad",
-      "title": "Vente immobilière : quel délai pour faire rectifier un acte notarié ?",
-      "summary": "onner comme l'alternative de référence pour les professionnels de l'immobilier. Le 21/09/2026 à 06H29 Une erreur s’est glissée dans un acte notarié de vente immobilière ? Attention à ne pas trop attendre pour agir. Dans un arrêt du 16 avril 2026, la Cour de cassation précise que l’action en rectification est soumise à un délai de prescription de 5 ans, et non au délai de 30 ans applicable aux actions réelles immobilières. Une",
-      "url": "https://www.journaldelagence.com/1413659-vente-immobiliere-quel-delai-pour-faire-rectifier-un-acte-notarie",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-04-16T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vente immobilière : quel délai pour faire rectifier un acte notarié ?."
-    },
-    {
       "id": "2803ce901c572315",
       "title": "Crédit immobilier : quels sont les plafonds du taux d’usure à compter du 1er octobre ?",
       "summary": "Vous envisagez de souscrire un prêt immobilier ? Vous souhaitez savoir combien va vous coûter le crédit en plus de la somme empruntée ? Découvrez les plafonds légaux des taux d’intérêt, applicables à un crédit immobilier à compter du 1 er octobre.",
@@ -1510,7 +1491,7 @@
   ],
   "source_stats": {
     "MySweetImmo": 16,
-    "Journal de l'Agence": 14,
+    "Journal de l'Agence": 13,
     "Immobilier 2.0": 15,
     "Légifrance": 3,
     "SDES / Sitadel": 1,
@@ -1527,15 +1508,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 72,
-    "rejected": 1210,
+    "retained": 71,
+    "rejected": 1214,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 4,
-        "last_success": "2026-09-30T22:20:18+00:00",
+        "last_success": "2026-10-01T06:02:17+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1543,7 +1524,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-30T22:20:20+00:00",
+        "last_success": "2026-10-01T06:02:22+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1551,7 +1532,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-30T22:20:22+00:00",
+        "last_success": "2026-10-01T06:02:23+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1559,7 +1540,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-09-30T22:20:23+00:00",
+        "last_success": "2026-10-01T06:02:30+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1567,7 +1548,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-30T22:20:42+00:00",
+        "last_success": "2026-10-01T06:02:56+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1575,7 +1556,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-30T22:20:50+00:00",
+        "last_success": "2026-10-01T06:03:07+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1583,7 +1564,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-30T22:20:51+00:00",
+        "last_success": "2026-10-01T06:03:07+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1591,7 +1572,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-09-30T22:20:52+00:00",
+        "last_success": "2026-10-01T06:03:08+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1599,7 +1580,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-09-30T22:20:53+00:00",
+        "last_success": "2026-10-01T06:03:09+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1607,7 +1588,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-30T22:20:54+00:00",
+        "last_success": "2026-10-01T06:03:10+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1615,7 +1596,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-09-30T22:20:56+00:00",
+        "last_success": "2026-10-01T06:03:12+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1623,7 +1604,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-09-30T22:20:57+00:00",
+        "last_success": "2026-10-01T06:03:13+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1631,7 +1612,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-30T22:20:59+00:00",
+        "last_success": "2026-10-01T06:03:15+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1639,7 +1620,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-09-30T22:20:59+00:00",
+        "last_success": "2026-10-01T06:03:16+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1647,7 +1628,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-09-30T22:21:00+00:00",
+        "last_success": "2026-10-01T06:03:17+00:00",
         "fallback": false
       }
     }

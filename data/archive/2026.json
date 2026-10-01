@@ -1,8 +1,50 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-09-30T22:21:13+00:00",
+  "generated_at": "2026-10-01T06:03:30+00:00",
   "items": [
+    {
+      "id": "f1b9db5e196c4169",
+      "title": "Canicule : 91 % des Français appellent à repenser le logement",
+      "summary": "Nouveau Rénovation",
+      "url": "https://www.mysweetimmo.com/2026/10/01/canicule-91-des-francais-appellent-a-repenser-le-logement/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Canicule : 91 % des Français appellent à repenser le logement."
+    },
+    {
+      "id": "874950425f6550d3",
+      "title": "Au-delà des critères de recherche : comment détecter ce qui compte vraiment pour vos acquéreurs",
+      "summary": "es opérations et les points d’attention à connaître avant d’accepter un mandat. Le 01/10/2026 à 06H46 Ils cherchent une maison avec jardin… et achètent finalement un appartement avec terrasse. Pour les agents immobiliers, ce décalage entre les critères annoncés et le choix final peut rendre l’accompagnement déroutant. En s’appuyant sur les sciences comportementales, Nordine Mouaouia explique comment dépasser la liste de souha",
+      "url": "https://www.journaldelagence.com/1413865-au-dela-des-criteres-de-recherche-comment-detecter-ce-qui-compte-vraiment-pour-vos-acquereurs",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Au-delà des critères de recherche : comment détecter ce qui compte vraiment pour vos acquéreurs."
+    },
     {
       "id": "8a518c413e95682e",
       "title": "L’IA répond à tout, mais les acquéreurs hésitent : comment les aider à se décider ?",
@@ -69,22 +111,23 @@
     {
       "id": "6b2d4cac8c5ed420",
       "title": "Arrêtez de prospecter seul : construisez votre réseau d’ambassadeurs",
-      "summary": "Le 30/09/2026 à 07H45 La plupart des agents immobiliers dépensent leur énergie à aller chercher des inconnus. Les plus performants font l'inverse : ils se rendent indispensables auprès de leur cercle proche, qui se charge ensuite de les recommander. Yann Raoult nous éclaire pour passer d'une prospection qui pousse à une recommandation qui attire. Intermed : un nouveau rendez-vous pour les professionnels du crédit Le 30/09/2026",
+      "summary": "aits pour mieux comprendre ce qui compte pour un acquéreur, au fil des visites. Le 30/09/2026 à 07H45 La plupart des agents immobiliers dépensent leur énergie à aller chercher des inconnus. Les plus performants font l'inverse : ils se rendent indispensables auprès de leur cercle proche, qui se charge ensuite de les recommander. Yann Raoult nous éclaire pour passer d'une prospection qui pousse à une recommandation qui attire.",
       "url": "https://www.journaldelagence.com/1413856-arretez-de-prospecter-seul-construisez-votre-reseau-dambassadeurs",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "pro",
+      "category": "marche",
       "audiences": [
-        "pro",
-        "investisseur"
+        "particulier",
+        "investisseur",
+        "pro"
       ],
       "published_at": "2026-09-30T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Arrêtez de prospecter seul : construisez votre réseau d’ambassadeurs."
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Arrêtez de prospecter seul : construisez votre réseau d’ambassadeurs."
     },
     {
       "id": "b9fcb44822abb978",
