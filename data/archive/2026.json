@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-01T06:03:30+00:00",
+  "generated_at": "2026-10-01T13:25:35+00:00",
   "items": [
     {
       "id": "f1b9db5e196c4169",
@@ -44,6 +44,46 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Au-delà des critères de recherche : comment détecter ce qui compte vraiment pour vos acquéreurs."
+    },
+    {
+      "id": "00ceb809ada5cd79",
+      "title": "idealista accélère : les réseaux emblématiques l’Adresse, Era et 6ème Avenue font à leur tour confiance au portail n°1 en Europe",
+      "summary": "Le 01/10/2026 à 10H30 Quelques mois seulement après son arrivée sur le marché français, idealista ne ralentit pas. Trois réseaux immobiliers emblématiques : l'Adresse, ERA et 6ème Avenue rejoignent la plateforme, portant à plus de 10 000 le nombre d'agences partenaires en France. Un cap qui, à peine le portail lancé, témoigne de la vitesse à laquelle idealista s'est imposé comme un acteur incontournable pour les professionnels",
+      "url": "https://www.journaldelagence.com/1413890-idealista-accelere-les-reseaux-emblematiques-ladresse-era-et-6eme-avenue-font-a-leur-tour-confiance-au-portail-n1-en-europe",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : idealista accélère : les réseaux emblématiques l’Adresse, Era et 6ème Avenue font à leur tour confiance au portail n°1 en Europe."
+    },
+    {
+      "id": "ade843347cc04446",
+      "title": "Céder un domaine viticole : des transactions qui exigent de l’expertise",
+      "summary": "me un acteur incontournable pour les professionnels de l'immobilier hexagonaux. Le 01/10/2026 à 07H07 À l’heure des vendanges en Champagne, les vignes rappellent qu’un domaine viticole est bien plus qu’une propriété à vendre. Sa cession engage une activité économique, un patrimoine et parfois plusieurs générations de savoir-faire. Philippe Petit, œnologue de formation et fondateur de VITACEAE Transactions, décrypte les spécif",
+      "url": "https://www.journaldelagence.com/1413875-ceder-un-domaine-viticole-des-transactions-qui-exigent-de-lexpertise",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Céder un domaine viticole : des transactions qui exigent de l’expertise."
     },
     {
       "id": "8a518c413e95682e",
@@ -509,7 +549,7 @@
     {
       "id": "569634545f0cc244",
       "title": "Vente interactive : « En 2027, 50 % de nos conseillers utiliseront Immofit » (O. Le Gallo, DigitRE Group) Réseau de mandataires Olivier Le Gallo, président de DigitRE Groupe. - © D.R.",
-      "summary": "Baux commerciaux : deux jours pour actualiser et sécuriser ses pratiques Services pour évaluer Contenu sponsorisé Lefebvre Dalloz Compétences. - © D.R. Foncia ADB : Zahir Keenoo quite ses fonctions « d’un commun accord » avec la direction Agence immobilière indépendante Président de Foncia ADB depuis octobre 2024, Zahir Keenoo quitte la présidence « d’un commun accord » avec la direction du groupe Emeria, maison mère de Foncia",
+      "summary": "idealista accélère : l’Adresse, Era et 6ème Avenue font à leur tour confiance au portail n° 1 en Europe Sites pour les professionnels Contenu sponsorisé idealista - © D.R. Foncia ADB : Zahir Keenoo quitte ses fonctions « d’un commun accord » avec la direction Agence immobilière indépendante Président de Foncia ADB depuis octobre 2024, Zahir Keenoo quitte la présidence « d’un commun accord » avec la direction du groupe Emeria,",
       "url": "https://www.immomatin.com/franchise/reseau-mandataires/vente-interactive-en-2027-50-de-nos-conseillers-utiliseront-immofit-o-le-gallo-digitre-group.html",
       "source": "Immo Matin",
       "source_level": "C",
@@ -547,6 +587,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Baux commerciaux : deux jours pour actualiser et sécuriser ses pratiques Services pour évaluer Contenu sponsorisé Lefebvre Dall…."
+    },
+    {
+      "id": "59afb9d01880d50b",
+      "title": "idealista accélère : l’Adresse, Era et 6ème Avenue font à leur tour confiance au portail n° 1 en Europe Sites pour les professionnels Contenu sponsorisé idealista - © D.R.",
+      "summary": ") Réseau de mandataires Olivier Le Gallo, président de DigitRE Groupe. - © D.R. Foncia ADB : Zahir Keenoo quitte ses fonctions « d’un commun accord » avec la direction Agence immobilière indépendante Président de Foncia ADB depuis octobre 2024, Zahir Keenoo quitte la présidence « d’un commun accord » avec la direction du groupe Emeria, maison mère de Foncia, indique le groupe le 28 septembre 2026. Zahir Keenoo quitte ses fonc",
+      "url": "https://www.immomatin.com/portails/sites-professionnels/idealista-accelere-l-adresse-era-et-6eme-avenue-font-a-leur-tour-confiance-au-portail-n-1-en-europe.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : idealista accélère : l’Adresse, Era et 6ème Avenue font à leur tour confiance au portail n° 1 en Europe Sites pour les professi…."
     },
     {
       "id": "4bdc739d80a38664",
@@ -675,8 +736,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immo2 et d’autres acteurs de l’immobilier s’associent pour lancer l’Observatoire de l’immobilier digital."
     },
     {
-      "id": "8d66d62195a705d0",
-      "title": "Métiers de syndic et de gestion immobilière : « pour attirer les talents, le quotidien des professionnels doit changer",
+      "id": "2f71a619ee0dda48",
+      "title": "Syndic et gestion immobilière : « pour attirer les talents, le quotidien des professionnels doit changer",
       "summary": "int utile pour pour les professionnels chargés de vendre ou de louer ces biens. » Le 28/09/2026 à 07H03 Recruter et fidéliser suppose de regarder les métiers de l'immobilier en face : charge de travail pesante, assemblées générales tardives, incivilités, mais aussi manque de perspectives et de moyens. À Lyon, deux plénières du congrès de l’UNIS ont mêlé réponses de terrain et regards de jeunes professionnels. Leur fil commun",
       "url": "https://www.journaldelagence.com/1413804-metiers-de-syndic-et-de-gestion-immobiliere-pour-attirer-les-talents-le-quotidien-des-professionnels-doit-changer",
       "source": "Journal de l'Agence",
@@ -692,7 +753,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Métiers de syndic et de gestion immobilière : « pour attirer les talents, le quotidien des professionnels doit changer."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Syndic et gestion immobilière : « pour attirer les talents, le quotidien des professionnels doit changer."
     },
     {
       "id": "f82a93e3ff384824",
