@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-02T12:44:04+00:00",
+  "generated_at": "2026-10-02T22:18:45+00:00",
   "items": [
     {
       "id": "77be9b7e40afdbed",
@@ -26,7 +26,7 @@
     {
       "id": "13ebfbf12745afca",
       "title": "Hausse des taux : Le marché immobilier peut-il résister ?",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/10/02/hausse-des-taux-le-marche-immobilier-peut-il-resister/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -47,7 +47,7 @@
     {
       "id": "12019a30bee355f7",
       "title": "Immobilier : Les Français rêvent de campagne et de petites villes",
-      "summary": "Nouveau Etudes et Sondages",
+      "summary": "Etudes et Sondages",
       "url": "https://www.mysweetimmo.com/2026/10/02/immobilier-les-francais-revent-de-campagne-et-de-petites-villes/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -1635,6 +1635,48 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Assurance, logement : les priorités d'Édouard Philippe face au changement climatique."
     },
     {
+      "id": "77976513e8b83bb0",
+      "title": "L'œil de MAP : à Boulogne, un ancien atelier de menuiserie et des garages réinventés en maison",
+      "summary": "18/09/2026 Des chiffres, l'actu : cette semaine, facture salée pour l'emploi 17/09/2026",
+      "url": "https://www.batiactu.com/edito/a-boulogne-un-ancien-atelier-menuiserie-et-garages-75395.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : L'œil de MAP : à Boulogne, un ancien atelier de menuiserie et des garages réinventés en maison."
+    },
+    {
+      "id": "d38e85009e41a45e",
+      "title": "Des chiffres, l'actu : cette semaine, facture salée pour l'emploi",
+      "summary": "L'œil de MAP : à Boulogne, un ancien atelier de menuiserie et des garages réinventés en maison 18/09/2026 17/09/2026",
+      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-emploi-75378.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Des chiffres, l'actu : cette semaine, facture salée pour l'emploi."
+    },
+    {
       "id": "5bdc805aca399f17",
       "title": "Au-delà du prix et de la vente : ce qui fait vraiment la satisfaction d’un vendeur",
       "summary": "les professionnels de l’immobilier doivent savoir pour informer leurs clients. Le 17/09/2026 à 06H29 « On aurait peut-être pu en tirer un peu plus… » Même après une vente réussie, le doute peut subsister chez le vendeur. Car obtenir le bon prix ne suffit pas toujours à satisfaire pleinement un vendeur : encore faut-il que celui-ci mesure la valeur du travail accompli par l’agent immobilier. Nordine Mouaouia décrypte les resso",
@@ -2338,27 +2380,6 @@
       "territory": "France",
       "topic": "Credit",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier."
-    },
-    {
-      "id": "bc02ecb21bb28184",
-      "title": "Des chiffres, l'actu : cette semaine, facture salée pour le logement neuf",
-      "summary": "La halle des sports de Sète rénovée joue avec les codes de l'univers maritime 11/09/2026 10/09/2026",
-      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-logement-75310.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-11T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Des chiffres, l'actu : cette semaine, facture salée pour le logement neuf."
     },
     {
       "id": "d7bd7c0414a1b626",
@@ -5917,27 +5938,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : CoStar lance sa plateforme immobilière en France."
-    },
-    {
-      "id": "46a497ca90c31e6c",
-      "title": "Des chiffres, l'actu : cette semaine, facture salée pour le logement social",
-      "summary": "Des chiffres, l'actu : cette semaine, facture salée pour les TPE 16/07/2026 09/07/2026",
-      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-logement-74943.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-16T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Des chiffres, l'actu : cette semaine, facture salée pour le logement social."
     },
     {
       "id": "4c1970be64377870",
