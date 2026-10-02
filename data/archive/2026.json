@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-01T22:45:02+00:00",
+  "generated_at": "2026-10-02T05:46:20+00:00",
   "items": [
     {
       "id": "77be9b7e40afdbed",
@@ -22,6 +22,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Matchstone : quand l’immobilier professionnel passe du tri au matching."
+    },
+    {
+      "id": "13ebfbf12745afca",
+      "title": "Hausse des taux : Le marché immobilier peut-il résister ?",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/10/02/hausse-des-taux-le-marche-immobilier-peut-il-resister/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Hausse des taux : Le marché immobilier peut-il résister ?."
     },
     {
       "id": "f1b9db5e196c4169",
@@ -125,6 +146,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : SeLoger rachète Ouest-France Immo et muscle sa présence dans le Grand Ouest."
+    },
+    {
+      "id": "0cd4e26a24ffd09f",
+      "title": "Immobilier Île-de-France : Près de 10 m² perdus à mensualité égale",
+      "summary": "Les vrais prix de l'immobilier",
+      "url": "https://www.mysweetimmo.com/2026/10/01/immobilier-ile-de-france-pres-de-10-m%c2%b2-perdus-a-mensualite-egale/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Île-de-France : Près de 10 m² perdus à mensualité égale."
     },
     {
       "id": "8a518c413e95682e",
