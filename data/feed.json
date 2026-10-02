@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-10-02T05:46:12+00:00",
+  "generated_at": "2026-10-02T12:43:55+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "12019a30bee355f7",
+      "title": "Immobilier : Les Français rêvent de campagne et de petites villes",
+      "summary": "Nouveau Etudes et Sondages",
+      "url": "https://www.mysweetimmo.com/2026/10/02/immobilier-les-francais-revent-de-campagne-et-de-petites-villes/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Les Français rêvent de campagne et de petites villes."
+    },
     {
       "id": "13ebfbf12745afca",
       "title": "Hausse des taux : Le marché immobilier peut-il résister ?",
@@ -24,9 +45,30 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Hausse des taux : Le marché immobilier peut-il résister ?."
     },
     {
+      "id": "ef90571601ce3e4a",
+      "title": "2027 : le point de bascule vers un immobilier plus numérique et plus humain ?",
+      "summary": "Le 02/10/2026 à 09H35 Des logiciels toujours plus nombreux, mais encore trop de doubles saisies, de documents à chercher et de temps perdu : le numérique n’a pas tenu toutes ses promesses dans l’immobilier. Et si 2027 changeait la donne ? Dans cette tribune, Reda Mahfoud, dirigeant d’Orisha Real Estate, analyse la convergence des évolutions réglementaires, de l’intelligence artificielle et des attentes clients. Avec un enjeu c",
+      "url": "https://www.journaldelagence.com/1413946-2027-le-point-de-bascule-vers-un-immobilier-plus-numerique-et-plus-humain",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : 2027 : le point de bascule vers un immobilier plus numérique et plus humain ?."
+    },
+    {
       "id": "77be9b7e40afdbed",
       "title": "Matchstone : quand l’immobilier professionnel passe du tri au matching",
-      "summary": "Le 02/10/2026 à 00H00 Dans l’immobilier professionnel, les opportunités existent. Pourtant, elles n’arrivent pas toujours aux bons interlocuteurs. « Ce qui compte, ce n’est pas la visibilité d’une annonce, c’est ce qu’elle rapporte » Le 02/10/2026 à 00H00 Après deux ans de correction, les transactions repartent à Paris. Mais l'offre progresse, les délais restent longs et les acquéreurs comparent. Redha Benhamouda, directeur co",
+      "summary": ": rendre aux professionnels du temps pour conseiller, négocier et accompagner. Le 02/10/2026 à 00H00 Dans l’immobilier professionnel, les opportunités existent. Pourtant, elles n’arrivent pas toujours aux bons interlocuteurs. « Ce qui compte, ce n’est pas la visibilité d’une annonce, c’est ce qu’elle rapporte » Le 02/10/2026 à 00H00 Après deux ans de correction, les transactions repartent à Paris. Mais l'offre progresse, les",
       "url": "https://www.journaldelagence.com/1413821-matchstone-quand-limmobilier-professionnel-passe-du-tri-au-matching",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -166,6 +208,111 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Au-delà des critères de recherche : comment détecter ce qui compte vraiment pour vos acquéreurs."
+    },
+    {
+      "id": "9663e947aba11de1",
+      "title": "Construction de logements",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, cap sur Batimat Cette semaine, c'est depuis le salon Batimat que Batiactu vous propose son habituelle sélection de cinq actualités, en chiffres. 01/10/2026 Matériaux biosourcés Coût des rénovations Ventes de pompes à chaleur Architecture bioclimatique",
+      "url": "https://www.batiactu.com/edito/construction-de-logements-75497.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements."
+    },
+    {
+      "id": "592c5ac7fa014b69",
+      "title": "Matériaux biosourcés",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, cap sur Batimat Cette semaine, c'est depuis le salon Batimat que Batiactu vous propose son habituelle sélection de cinq actualités, en chiffres. 01/10/2026 Construction de logements Coût des rénovations Ventes de pompes à chaleur Architecture bioclimatique",
+      "url": "https://www.batiactu.com/edito/materiaux-biosources-75497.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Matériaux biosourcés."
+    },
+    {
+      "id": "e9bc23832cc4b90b",
+      "title": "Coût des rénovations",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, cap sur Batimat Cette semaine, c'est depuis le salon Batimat que Batiactu vous propose son habituelle sélection de cinq actualités, en chiffres. 01/10/2026 Construction de logements Matériaux biosourcés Ventes de pompes à chaleur Architecture bioclimatique",
+      "url": "https://www.batiactu.com/edito/cout-des-renovations-75497.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Coût des rénovations."
+    },
+    {
+      "id": "0ca423dc81db5d87",
+      "title": "Ventes de pompes à chaleur",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, cap sur Batimat Cette semaine, c'est depuis le salon Batimat que Batiactu vous propose son habituelle sélection de cinq actualités, en chiffres. 01/10/2026 Construction de logements Matériaux biosourcés Coût des rénovations Architecture bioclimatique",
+      "url": "https://www.batiactu.com/edito/ventes-de-pompes-a-chaleur-75497.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Ventes de pompes à chaleur."
+    },
+    {
+      "id": "b58f3daa4c5bbd2c",
+      "title": "Architecture bioclimatique",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, cap sur Batimat Cette semaine, c'est depuis le salon Batimat que Batiactu vous propose son habituelle sélection de cinq actualités, en chiffres. 01/10/2026 Construction de logements Matériaux biosourcés Coût des rénovations Ventes de pompes à chaleur",
+      "url": "https://www.batiactu.com/edito/architecture-bioclimatique-75497.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Architecture bioclimatique."
     },
     {
       "id": "3d5cb78726683cfe",
@@ -400,48 +547,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Le taux d’usure passe à 5,40%."
     },
     {
-      "id": "d4999eb072d4f67a",
-      "title": "Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché",
-      "summary": "Marché immobilier",
-      "url": "https://www.mysweetimmo.com/2026/09/29/immobilier-les-acheteurs-reviennent-mais-les-ventes-reculent/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-29T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché."
-    },
-    {
-      "id": "735facccf8ef7a6b",
-      "title": "Achat immobilier : Votre quartier vous protège-t-il de la chaleur ?",
-      "summary": "Environnement",
-      "url": "https://www.mysweetimmo.com/2026/09/29/achat-immobilier-votre-quartier-vous-protege-t-il-de-la-chaleur/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-29T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Achat immobilier : Votre quartier vous protège-t-il de la chaleur ?."
-    },
-    {
       "id": "f1dc89f605648235",
       "title": "Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)",
       "summary": "Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)",
@@ -461,6 +566,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)."
+    },
+    {
+      "id": "d4999eb072d4f67a",
+      "title": "Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché",
+      "summary": "Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/09/29/immobilier-les-acheteurs-reviennent-mais-les-ventes-reculent/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché."
     },
     {
       "id": "3eb906f23603cc2e",
@@ -899,26 +1025,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Rénovation énergétique : une nouvelle obligation pour les professionnels."
-    },
-    {
-      "id": "3c7ba82d784f2a44",
-      "title": "Affaire Matera : jusqu’où peut-on externaliser les missions d’un syndic de copropriété ?",
-      "summary": "de se tendre. Pour les professionnels de l'immobilier, que faut-il en retenir ? Le 23/09/2026 à 06H46 Jusqu’où un prestataire peut-il accompagner la gestion d’une copropriété sans devenir lui-même syndic ? Dans un arrêt du 17 septembre 2026, la Cour de cassation valide le modèle d’assistance proposé par Matera aux syndicats coopératifs. Une décision importante pour les professionnels de la copropriété, qui précise la frontièr",
-      "url": "https://www.journaldelagence.com/1413723-affaire-matera-jusquou-peut-on-externaliser-les-missions-dun-syndic-de-copropriete",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-09-17T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Affaire Matera : jusqu’où peut-on externaliser les missions d’un syndic de copropriété ?."
     },
     {
       "id": "538b25ded75bbbb5",
@@ -1447,10 +1553,10 @@
   "source_stats": {
     "MySweetImmo": 16,
     "Journal de l'Agence": 14,
+    "Batiactu": 7,
     "Immobilier 2.0": 15,
     "Légifrance": 2,
     "SDES / Sitadel": 1,
-    "Batiactu": 2,
     "Service-Public.fr": 3,
     "Immo Matin": 2,
     "ANIL": 10,
@@ -1463,15 +1569,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 69,
-    "rejected": 1331,
+    "retained": 74,
+    "rejected": 1332,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-02T05:45:31+00:00",
+        "last_success": "2026-10-02T12:43:02+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1479,7 +1585,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-02T05:45:34+00:00",
+        "last_success": "2026-10-02T12:43:08+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1487,7 +1593,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-02T05:45:35+00:00",
+        "last_success": "2026-10-02T12:43:09+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1495,7 +1601,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-02T05:45:36+00:00",
+        "last_success": "2026-10-02T12:43:10+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1503,7 +1609,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-02T05:45:54+00:00",
+        "last_success": "2026-10-02T12:43:33+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1511,7 +1617,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-02T05:46:04+00:00",
+        "last_success": "2026-10-02T12:43:44+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1519,7 +1625,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-02T05:46:04+00:00",
+        "last_success": "2026-10-02T12:43:44+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1527,7 +1633,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-02T05:46:04+00:00",
+        "last_success": "2026-10-02T12:43:46+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1535,7 +1641,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-02T05:46:05+00:00",
+        "last_success": "2026-10-02T12:43:47+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1543,7 +1649,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-02T05:46:06+00:00",
+        "last_success": "2026-10-02T12:43:48+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1551,7 +1657,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-02T05:46:07+00:00",
+        "last_success": "2026-10-02T12:43:50+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1559,15 +1665,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-02T05:46:08+00:00",
+        "last_success": "2026-10-02T12:43:51+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 2,
-        "last_success": "2026-10-02T05:46:10+00:00",
+        "retained": 7,
+        "last_success": "2026-10-02T12:43:52+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1575,7 +1681,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-10-02T05:46:11+00:00",
+        "last_success": "2026-10-02T12:43:53+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1583,7 +1689,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-02T05:46:11+00:00",
+        "last_success": "2026-10-02T12:43:55+00:00",
         "fallback": false
       }
     }

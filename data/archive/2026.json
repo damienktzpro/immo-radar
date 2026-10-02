@@ -1,12 +1,12 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-02T05:46:20+00:00",
+  "generated_at": "2026-10-02T12:44:04+00:00",
   "items": [
     {
       "id": "77be9b7e40afdbed",
       "title": "Matchstone : quand l’immobilier professionnel passe du tri au matching",
-      "summary": "Le 02/10/2026 à 00H00 Dans l’immobilier professionnel, les opportunités existent. Pourtant, elles n’arrivent pas toujours aux bons interlocuteurs. « Ce qui compte, ce n’est pas la visibilité d’une annonce, c’est ce qu’elle rapporte » Le 02/10/2026 à 00H00 Après deux ans de correction, les transactions repartent à Paris. Mais l'offre progresse, les délais restent longs et les acquéreurs comparent. Redha Benhamouda, directeur co",
+      "summary": ": rendre aux professionnels du temps pour conseiller, négocier et accompagner. Le 02/10/2026 à 00H00 Dans l’immobilier professionnel, les opportunités existent. Pourtant, elles n’arrivent pas toujours aux bons interlocuteurs. « Ce qui compte, ce n’est pas la visibilité d’une annonce, c’est ce qu’elle rapporte » Le 02/10/2026 à 00H00 Après deux ans de correction, les transactions repartent à Paris. Mais l'offre progresse, les",
       "url": "https://www.journaldelagence.com/1413821-matchstone-quand-limmobilier-professionnel-passe-du-tri-au-matching",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -43,6 +43,48 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Hausse des taux : Le marché immobilier peut-il résister ?."
+    },
+    {
+      "id": "12019a30bee355f7",
+      "title": "Immobilier : Les Français rêvent de campagne et de petites villes",
+      "summary": "Nouveau Etudes et Sondages",
+      "url": "https://www.mysweetimmo.com/2026/10/02/immobilier-les-francais-revent-de-campagne-et-de-petites-villes/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Les Français rêvent de campagne et de petites villes."
+    },
+    {
+      "id": "ef90571601ce3e4a",
+      "title": "2027 : le point de bascule vers un immobilier plus numérique et plus humain ?",
+      "summary": "Le 02/10/2026 à 09H35 Des logiciels toujours plus nombreux, mais encore trop de doubles saisies, de documents à chercher et de temps perdu : le numérique n’a pas tenu toutes ses promesses dans l’immobilier. Et si 2027 changeait la donne ? Dans cette tribune, Reda Mahfoud, dirigeant d’Orisha Real Estate, analyse la convergence des évolutions réglementaires, de l’intelligence artificielle et des attentes clients. Avec un enjeu c",
+      "url": "https://www.journaldelagence.com/1413946-2027-le-point-de-bascule-vers-un-immobilier-plus-numerique-et-plus-humain",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : 2027 : le point de bascule vers un immobilier plus numérique et plus humain ?."
     },
     {
       "id": "f1b9db5e196c4169",
@@ -167,6 +209,111 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Île-de-France : Près de 10 m² perdus à mensualité égale."
+    },
+    {
+      "id": "9663e947aba11de1",
+      "title": "Construction de logements",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, cap sur Batimat Cette semaine, c'est depuis le salon Batimat que Batiactu vous propose son habituelle sélection de cinq actualités, en chiffres. 01/10/2026 Matériaux biosourcés Coût des rénovations Ventes de pompes à chaleur Architecture bioclimatique",
+      "url": "https://www.batiactu.com/edito/construction-de-logements-75497.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements."
+    },
+    {
+      "id": "592c5ac7fa014b69",
+      "title": "Matériaux biosourcés",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, cap sur Batimat Cette semaine, c'est depuis le salon Batimat que Batiactu vous propose son habituelle sélection de cinq actualités, en chiffres. 01/10/2026 Construction de logements Coût des rénovations Ventes de pompes à chaleur Architecture bioclimatique",
+      "url": "https://www.batiactu.com/edito/materiaux-biosources-75497.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Matériaux biosourcés."
+    },
+    {
+      "id": "e9bc23832cc4b90b",
+      "title": "Coût des rénovations",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, cap sur Batimat Cette semaine, c'est depuis le salon Batimat que Batiactu vous propose son habituelle sélection de cinq actualités, en chiffres. 01/10/2026 Construction de logements Matériaux biosourcés Ventes de pompes à chaleur Architecture bioclimatique",
+      "url": "https://www.batiactu.com/edito/cout-des-renovations-75497.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Coût des rénovations."
+    },
+    {
+      "id": "0ca423dc81db5d87",
+      "title": "Ventes de pompes à chaleur",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, cap sur Batimat Cette semaine, c'est depuis le salon Batimat que Batiactu vous propose son habituelle sélection de cinq actualités, en chiffres. 01/10/2026 Construction de logements Matériaux biosourcés Coût des rénovations Architecture bioclimatique",
+      "url": "https://www.batiactu.com/edito/ventes-de-pompes-a-chaleur-75497.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Ventes de pompes à chaleur."
+    },
+    {
+      "id": "b58f3daa4c5bbd2c",
+      "title": "Architecture bioclimatique",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, cap sur Batimat Cette semaine, c'est depuis le salon Batimat que Batiactu vous propose son habituelle sélection de cinq actualités, en chiffres. 01/10/2026 Construction de logements Matériaux biosourcés Coût des rénovations Ventes de pompes à chaleur",
+      "url": "https://www.batiactu.com/edito/architecture-bioclimatique-75497.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Architecture bioclimatique."
     },
     {
       "id": "8a518c413e95682e",
