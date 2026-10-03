@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-10-03T05:24:14+00:00",
+  "generated_at": "2026-10-03T11:44:49+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "b45cbbec1aaccb76",
+      "title": "Logement : Les toilettes, une pause, un refuge et parfois un bureau !",
+      "summary": "Nouveau Etudes et Sondages",
+      "url": "https://www.mysweetimmo.com/2026/10/03/logement-les-toilettes-une-pause-un-refuge-et-parfois-un-bureau/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : Les toilettes, une pause, un refuge et parfois un bureau !."
+    },
     {
       "id": "12019a30bee355f7",
       "title": "Immobilier : Les Français rêvent de campagne et de petites villes",
@@ -84,27 +105,6 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Matchstone : quand l’immobilier professionnel passe du tri au matching."
-    },
-    {
-      "id": "f1b9db5e196c4169",
-      "title": "Canicule : 91 % des Français appellent à repenser le logement",
-      "summary": "Rénovation",
-      "url": "https://www.mysweetimmo.com/2026/10/01/canicule-91-des-francais-appellent-a-repenser-le-logement/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-01T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Canicule : 91 % des Français appellent à repenser le logement."
     },
     {
       "id": "0cd4e26a24ffd09f",
@@ -1569,14 +1569,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 74,
-    "rejected": 1402,
+    "rejected": 1404,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 4,
-        "last_success": "2026-10-03T05:23:23+00:00",
+        "last_success": "2026-10-03T11:44:09+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1584,7 +1584,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-03T05:23:27+00:00",
+        "last_success": "2026-10-03T11:44:12+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1592,7 +1592,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-03T05:23:28+00:00",
+        "last_success": "2026-10-03T11:44:13+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1600,7 +1600,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-03T05:23:30+00:00",
+        "last_success": "2026-10-03T11:44:14+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1608,7 +1608,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-03T05:23:52+00:00",
+        "last_success": "2026-10-03T11:44:29+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1616,7 +1616,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-03T05:24:04+00:00",
+        "last_success": "2026-10-03T11:44:41+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1624,7 +1624,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-03T05:24:04+00:00",
+        "last_success": "2026-10-03T11:44:41+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1632,7 +1632,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-03T05:24:05+00:00",
+        "last_success": "2026-10-03T11:44:42+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1640,7 +1640,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-03T05:24:06+00:00",
+        "last_success": "2026-10-03T11:44:42+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1648,7 +1648,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-03T05:24:07+00:00",
+        "last_success": "2026-10-03T11:44:43+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1656,7 +1656,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-03T05:24:09+00:00",
+        "last_success": "2026-10-03T11:44:45+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1664,7 +1664,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-03T05:24:10+00:00",
+        "last_success": "2026-10-03T11:44:46+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1672,7 +1672,7 @@
         "ok": true,
         "status": "ok",
         "retained": 9,
-        "last_success": "2026-10-03T05:24:12+00:00",
+        "last_success": "2026-10-03T11:44:47+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1680,7 +1680,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-10-03T05:24:13+00:00",
+        "last_success": "2026-10-03T11:44:48+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1688,7 +1688,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-03T05:24:14+00:00",
+        "last_success": "2026-10-03T11:44:48+00:00",
         "fallback": false
       }
     }
