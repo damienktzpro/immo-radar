@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T12:28:04+00:00",
+  "generated_at": "2026-10-04T21:33:52+00:00",
   "version": "7.1",
   "items": [
     {
       "id": "8b1495d4b9404609",
       "title": "Immobilier 3ème trimestre 2026 : Les prix baissent, les acheteurs hésitent",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/10/04/immobilier-3eme-trimestre-2026-les-prix-baissent-les-acheteurs-hesitent/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -1565,18 +1565,18 @@
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 15,
-    "sources_degraded": 0,
+    "sources_ok": 14,
+    "sources_degraded": 1,
     "errors": 0,
     "retained": 74,
-    "rejected": 1361,
+    "rejected": 423,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 4,
-        "last_success": "2026-10-04T12:27:12+00:00",
+        "last_success": "2026-10-04T21:33:02+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1584,7 +1584,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-04T12:27:15+00:00",
+        "last_success": "2026-10-04T21:33:05+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1592,7 +1592,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-04T12:27:16+00:00",
+        "last_success": "2026-10-04T21:33:06+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1600,7 +1600,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-04T12:27:18+00:00",
+        "last_success": "2026-10-04T21:33:07+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1608,23 +1608,24 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-04T12:27:38+00:00",
+        "last_success": "2026-10-04T21:33:22+00:00",
         "fallback": false
       },
       "Légifrance": {
         "level": "A",
-        "ok": true,
-        "status": "ok",
+        "ok": false,
+        "status": "degraded",
         "retained": 2,
-        "last_success": "2026-10-04T12:27:48+00:00",
-        "fallback": false
+        "last_success": "2026-10-04T12:28:04+00:00",
+        "fallback": true,
+        "error_type": "RuntimeError"
       },
       "EUR-Lex": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-04T12:27:48+00:00",
+        "last_success": "2026-10-04T21:33:43+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1632,7 +1633,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-04T12:27:49+00:00",
+        "last_success": "2026-10-04T21:33:44+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1640,7 +1641,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-04T12:27:50+00:00",
+        "last_success": "2026-10-04T21:33:45+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1648,7 +1649,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-04T12:27:51+00:00",
+        "last_success": "2026-10-04T21:33:46+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1656,7 +1657,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-04T12:27:53+00:00",
+        "last_success": "2026-10-04T21:33:47+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1664,7 +1665,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-04T12:28:00+00:00",
+        "last_success": "2026-10-04T21:33:48+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1672,7 +1673,7 @@
         "ok": true,
         "status": "ok",
         "retained": 9,
-        "last_success": "2026-10-04T12:28:01+00:00",
+        "last_success": "2026-10-04T21:33:50+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1680,7 +1681,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-10-04T12:28:02+00:00",
+        "last_success": "2026-10-04T21:33:50+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1688,10 +1689,16 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-04T12:28:03+00:00",
+        "last_success": "2026-10-04T21:33:51+00:00",
         "fallback": false
       }
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "source": "Légifrance",
+      "error": "PISTE Légifrance indisponible : 429 Client Error: Too Many Requests for url: https://api.piste.gouv.fr/dila/legifrance/lf-engine-app/consult/lastNJo",
+      "fallback": true
+    }
+  ]
 }
