@@ -1,12 +1,12 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-05T05:48:52+00:00",
+  "generated_at": "2026-10-05T14:49:39+00:00",
   "items": [
     {
       "id": "af416194883a72eb",
       "title": "Crédit immobilier : des taux en hausse, à quoi s’attendre pour 2027 ?",
-      "summary": "Le 05/10/2026 à 07H04 Les banques relèvent leurs taux de crédit en octobre, tandis que le marché immobilier perd de son élan. Dans son nouvel édiTAUX, Bruno Rouleau analyse les tensions qui pèsent sur le financement et l’activité. Entre contraintes bancaires et soutiens publics jugés insuffisants, son diagnostic invite à la prudence pour début 2027. Défendre le droit à rémunération des agences et de leurs conseillers : les con",
+      "summary": "er les confusions entre valeur du bien, crédit restant et montant de la soulte. Le 05/10/2026 à 07H04 Les banques relèvent leurs taux de crédit en octobre, tandis que le marché immobilier perd de son élan. Dans son nouvel édiTAUX, Bruno Rouleau analyse les tensions qui pèsent sur le financement et l’activité. Entre contraintes bancaires et soutiens publics jugés insuffisants, son diagnostic invite à la prudence pour début 202",
       "url": "https://www.journaldelagence.com/1413954-credit-immobilier-des-taux-en-hausse-a-quoi-sattendre-pour-2027",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -23,6 +23,68 @@
       "territory": "France",
       "topic": "Credit",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : des taux en hausse, à quoi s’attendre pour 2027 ?."
+    },
+    {
+      "id": "88a89558019a6c00",
+      "title": "Immobilier Paris : Les moins de 40 ans prennent le pouvoir",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/10/05/immobilier-a-paris-les-moins-de-40-ans-prennent-le-pouvoir/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Paris : Les moins de 40 ans prennent le pouvoir."
+    },
+    {
+      "id": "67b842fb23f095f8",
+      "title": "Formation initiale obligatoire des collaborateurs : ce que l’on sait du décret actuellement en discussion au CNTGI",
+      "summary": "Le 05/10/2026 à 15H56 Qui devra se former, pendant combien de temps et selon quelles modalités ? Alors que les discussions s’animent au CNTGI autour de la formation initiale obligatoire des collaborateurs de l’immobilier, les professionnels attendent toujours de connaître les règles qui s’imposeront à eux. Le décret n’est pas encore publié et plusieurs arbitrages restent ouverts. Olivier Beddeleem fait le point sur le cadre dé",
+      "url": "https://www.journaldelagence.com/1413998-formation-initiale-obligatoire-des-collaborateurs-ce-que-lon-sait-du-decret-actuellement-en-discussion-au-cntgi",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Formation initiale obligatoire des collaborateurs : ce que l’on sait du décret actuellement en discussion au CNTGI."
+    },
+    {
+      "id": "7cf9ae2d660ca3a2",
+      "title": "Divorce et rachat de soulte : quelle valeur retenir pour le bien ?",
+      "summary": "r le cadre déjà posé, les pistes envisagées et les questions encore en suspens. Le 05/10/2026 à 10H35 Lorsqu’un couple divorce et que l’un souhaite conserver le logement, sa valeur peut devenir un point de blocage. Pour l’agent immobilier sollicité, l’enjeu est de proposer une estimation actuelle, documentée et compréhensible par les deux parties. Driss Bouharrou, expert judiciaire près la cour d’appel d’Amiens, explique comm",
+      "url": "https://www.journaldelagence.com/1413971-divorce-et-rachat-de-soulte-quelle-valeur-retenir-pour-le-bien",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Divorce et rachat de soulte : quelle valeur retenir pour le bien ?."
     },
     {
       "id": "8b1495d4b9404609",
@@ -110,7 +172,7 @@
     {
       "id": "12019a30bee355f7",
       "title": "Immobilier : Les Français rêvent de campagne et de petites villes",
-      "summary": "Etudes et Sondages",
+      "summary": "Immobilier : Les Français rêvent de campagne et de petites villes",
       "url": "https://www.mysweetimmo.com/2026/10/02/immobilier-les-francais-revent-de-campagne-et-de-petites-villes/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -148,6 +210,48 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : 2027 : le point de bascule vers un immobilier plus numérique et plus humain ?."
+    },
+    {
+      "id": "353d007ee198a882",
+      "title": "Carnet Anne-Claire Mialot devient numéro 2 de CDC Habitat NOMINATION. La directrice générale de l'Anru a été nommée directrice générale du bailleur social de la Caisse des dépôts.",
+      "summary": "En débat Le Trésor pointe les effets inflationnistes des aides publiques au logement POLITIQUE DU LOGEMENT. Dans une note publiée le 2 octobre 2026, la direction du Trésor à Bercy revient sur les fragilités structurelles du ... 05/10/2026 05/10/2026",
+      "url": "https://www.batiactu.com/edito/anne-claire-mialot-devient-numero-2-cdc-habitat-75525.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-10-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Carnet Anne-Claire Mialot devient numéro 2 de CDC Habitat NOMINATION. La directrice générale de l'Anru a été nommée directrice…."
+    },
+    {
+      "id": "22161d018cacf36f",
+      "title": "Analyse Coup de rabot sur la location meublée, une mesure \"assassine\" pour le logement ?",
+      "summary": "02/10/2026 En débat PLF 2027 : entre inquiétudes et appels au compromis, le bâtiment réagit",
+      "url": "https://www.batiactu.com/edito/immobilier-rabotages-fiscaux-vue-location-meublee-rendre-75512.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Analyse Coup de rabot sur la location meublée, une mesure \"assassine\" pour le logement ?."
     },
     {
       "id": "f1b9db5e196c4169",
@@ -192,9 +296,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Au-delà des critères de recherche : comment détecter ce qui compte vraiment pour vos acquéreurs."
     },
     {
-      "id": "00ceb809ada5cd79",
-      "title": "idealista accélère : les réseaux emblématiques l’Adresse, Era et 6ème Avenue font à leur tour confiance au portail n°1 en Europe",
-      "summary": "les contours du rapprochement entre les deux portails immobiliers. Décryptage. Le 01/10/2026 à 10H30 Quelques mois seulement après son arrivée sur le marché français, idealista ne ralentit pas. Trois réseaux immobiliers emblématiques : l'Adresse, ERA et 6ème Avenue rejoignent la plateforme, portant à plus de 10 000 le nombre d'agences partenaires en France. Un cap qui, à peine le portail lancé, témoigne de la vitesse à laquel",
+      "id": "a6c3590915e2de13",
+      "title": "idealista accélère : les réseaux emblématiques l’Adresse, Era et Sixième Avenue font à leur tour confiance au portail n°1 en Europe",
+      "summary": "les contours du rapprochement entre les deux portails immobiliers. Décryptage. Le 01/10/2026 à 10H30 Quelques mois seulement après son arrivée sur le marché français, idealista ne ralentit pas. Trois réseaux immobiliers emblématiques : l'Adresse, ERA et Sixième Avenue rejoignent la plateforme, portant à plus de 10 000 le nombre d'agences partenaires en France. Un cap qui, à peine le portail lancé, témoigne de la vitesse à laq",
       "url": "https://www.journaldelagence.com/1413890-idealista-accelere-les-reseaux-emblematiques-ladresse-era-et-6eme-avenue-font-a-leur-tour-confiance-au-portail-n1-en-europe",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -210,7 +314,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : idealista accélère : les réseaux emblématiques l’Adresse, Era et 6ème Avenue font à leur tour confiance au portail n°1 en Europe."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : idealista accélère : les réseaux emblématiques l’Adresse, Era et Sixième Avenue font à leur tour confiance au portail n°1 en Eu…."
     },
     {
       "id": "ade843347cc04446",
@@ -1258,6 +1362,48 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : SeLoger lance Top Position pour les promoteurs."
     },
     {
+      "id": "77976513e8b83bb0",
+      "title": "L'œil de MAP : à Boulogne, un ancien atelier de menuiserie et des garages réinventés en maison",
+      "summary": "Des chiffres, l'actu : cette semaine, cap sur le budget 2027 23/09/2026 18/09/2026",
+      "url": "https://www.batiactu.com/edito/a-boulogne-un-ancien-atelier-menuiserie-et-garages-75395.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : L'œil de MAP : à Boulogne, un ancien atelier de menuiserie et des garages réinventés en maison."
+    },
+    {
+      "id": "895550fd885848fb",
+      "title": "Des chiffres, l'actu : cette semaine, cap sur le budget 2027",
+      "summary": "23/09/2026 L'œil de MAP : à Boulogne, un ancien atelier de menuiserie et des garages réinventés en maison 18/09/2026",
+      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-cap-sur-budget-2027-75428.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Des chiffres, l'actu : cette semaine, cap sur le budget 2027."
+    },
+    {
       "id": "d9359f81f850ce6f",
       "title": "Nouvelle Parole d'expert : Travaux de rénovation énergétique : comment repérer et éviter les arnaques ?",
       "summary": "22 septembre 2026 Certaines entreprises adoptent des pratiques peu éthiques envers les consommateurs telles que : le démarchage abusif, l'émission de devis obscurs, l'inclusion de crédits dissimulés, ou encore l'utilisation de labels de qualité trompeurs. Mais alors…",
@@ -1696,27 +1842,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Assurance, logement : les priorités d'Édouard Philippe face au changement climatique."
-    },
-    {
-      "id": "77976513e8b83bb0",
-      "title": "L'œil de MAP : à Boulogne, un ancien atelier de menuiserie et des garages réinventés en maison",
-      "summary": "18/09/2026 Des chiffres, l'actu : cette semaine, facture salée pour l'emploi 17/09/2026",
-      "url": "https://www.batiactu.com/edito/a-boulogne-un-ancien-atelier-menuiserie-et-garages-75395.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : L'œil de MAP : à Boulogne, un ancien atelier de menuiserie et des garages réinventés en maison."
     },
     {
       "id": "d38e85009e41a45e",
