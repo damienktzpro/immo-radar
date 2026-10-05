@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-04T21:34:05+00:00",
+  "generated_at": "2026-10-05T05:48:52+00:00",
   "items": [
+    {
+      "id": "af416194883a72eb",
+      "title": "Crédit immobilier : des taux en hausse, à quoi s’attendre pour 2027 ?",
+      "summary": "Le 05/10/2026 à 07H04 Les banques relèvent leurs taux de crédit en octobre, tandis que le marché immobilier perd de son élan. Dans son nouvel édiTAUX, Bruno Rouleau analyse les tensions qui pèsent sur le financement et l’activité. Entre contraintes bancaires et soutiens publics jugés insuffisants, son diagnostic invite à la prudence pour début 2027. Défendre le droit à rémunération des agences et de leurs conseillers : les con",
+      "url": "https://www.journaldelagence.com/1413954-credit-immobilier-des-taux-en-hausse-a-quoi-sattendre-pour-2027",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : des taux en hausse, à quoi s’attendre pour 2027 ?."
+    },
     {
       "id": "8b1495d4b9404609",
       "title": "Immobilier 3ème trimestre 2026 : Les prix baissent, les acheteurs hésitent",
@@ -68,7 +89,7 @@
     {
       "id": "13ebfbf12745afca",
       "title": "Hausse des taux : Le marché immobilier peut-il résister ?",
-      "summary": "Marché immobilier",
+      "summary": "Hausse des taux : Le marché immobilier peut-il résister ?",
       "url": "https://www.mysweetimmo.com/2026/10/02/hausse-des-taux-le-marche-immobilier-peut-il-resister/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -110,11 +131,11 @@
     {
       "id": "ef90571601ce3e4a",
       "title": "2027 : le point de bascule vers un immobilier plus numérique et plus humain ?",
-      "summary": "Le 02/10/2026 à 09H35 Des logiciels toujours plus nombreux, mais encore trop de doubles saisies, de documents à chercher et de temps perdu : le numérique n’a pas tenu toutes ses promesses dans l’immobilier. Et si 2027 changeait la donne ? Dans cette tribune, Reda Mahfoud, dirigeant d’Orisha Real Estate, analyse la convergence des évolutions réglementaires, de l’intelligence artificielle et des attentes clients. Avec un enjeu c",
+      "summary": "anges et délais pour agir : des points essentiels pour faire valoir vos droits. Le 02/10/2026 à 09H35 Des logiciels toujours plus nombreux, mais encore trop de doubles saisies, de documents à chercher et de temps perdu : le numérique n’a pas tenu toutes ses promesses dans l’immobilier. Et si 2027 changeait la donne ? Dans cette tribune, Reda Mahfoud, dirigeant d’Orisha Real Estate, analyse la convergence des évolutions réglem",
       "url": "https://www.journaldelagence.com/1413946-2027-le-point-de-bascule-vers-un-immobilier-plus-numerique-et-plus-humain",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "marche",
+      "category": "lois",
       "audiences": [
         "particulier",
         "investisseur",
@@ -122,16 +143,16 @@
       ],
       "published_at": "2026-10-02T09:00:00+00:00",
       "status": "Publication",
-      "importance": 73,
+      "importance": 76,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : 2027 : le point de bascule vers un immobilier plus numérique et plus humain ?."
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : 2027 : le point de bascule vers un immobilier plus numérique et plus humain ?."
     },
     {
       "id": "f1b9db5e196c4169",
       "title": "Canicule : 91 % des Français appellent à repenser le logement",
-      "summary": "Rénovation",
+      "summary": "Canicule : 91 % des Français appellent à repenser le logement",
       "url": "https://www.mysweetimmo.com/2026/10/01/canicule-91-des-francais-appellent-a-repenser-le-logement/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -571,7 +592,7 @@
     {
       "id": "d4999eb072d4f67a",
       "title": "Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché",
       "url": "https://www.mysweetimmo.com/2026/09/29/immobilier-les-acheteurs-reviennent-mais-les-ventes-reculent/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -654,7 +675,7 @@
     {
       "id": "735facccf8ef7a6b",
       "title": "Achat immobilier : Votre quartier vous protège-t-il de la chaleur ?",
-      "summary": "Environnement",
+      "summary": "Achat immobilier : Votre quartier vous protège-t-il de la chaleur ?",
       "url": "https://www.mysweetimmo.com/2026/09/29/achat-immobilier-votre-quartier-vous-protege-t-il-de-la-chaleur/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -884,7 +905,7 @@
     {
       "id": "4bdc739d80a38664",
       "title": "Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux",
-      "summary": "Environnement",
+      "summary": "Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux",
       "url": "https://www.mysweetimmo.com/2026/09/27/logement-social-et-biodiversite-action-logement-sallie-a-la-ligue-pour-la-protection-des-oiseaux/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -926,7 +947,7 @@
     {
       "id": "f629b217c0f3827c",
       "title": "Immobilier : Paris classée à faible risque de bulle par UBS",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier : Paris classée à faible risque de bulle par UBS",
       "url": "https://www.mysweetimmo.com/2026/09/26/immobilier-paris-classee-a-faible-risque-de-bulle-par-ubs/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -942,7 +963,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Paris classée à faible risque de bulle par UBS."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Paris classée à faible risque de bulle par UBS."
     },
     {
       "id": "dae9c69cef2a18e9",

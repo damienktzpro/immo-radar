@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-10-04T21:33:52+00:00",
+  "generated_at": "2026-10-05T05:48:43+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "af416194883a72eb",
+      "title": "Crédit immobilier : des taux en hausse, à quoi s’attendre pour 2027 ?",
+      "summary": "Le 05/10/2026 à 07H04 Les banques relèvent leurs taux de crédit en octobre, tandis que le marché immobilier perd de son élan. Dans son nouvel édiTAUX, Bruno Rouleau analyse les tensions qui pèsent sur le financement et l’activité. Entre contraintes bancaires et soutiens publics jugés insuffisants, son diagnostic invite à la prudence pour début 2027. Défendre le droit à rémunération des agences et de leurs conseillers : les con",
+      "url": "https://www.journaldelagence.com/1413954-credit-immobilier-des-taux-en-hausse-a-quoi-sattendre-pour-2027",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : des taux en hausse, à quoi s’attendre pour 2027 ?."
+    },
     {
       "id": "8b1495d4b9404609",
       "title": "Immobilier 3ème trimestre 2026 : Les prix baissent, les acheteurs hésitent",
@@ -66,11 +87,11 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Les Français rêvent de campagne et de petites villes."
     },
     {
-      "id": "ef90571601ce3e4a",
-      "title": "2027 : le point de bascule vers un immobilier plus numérique et plus humain ?",
-      "summary": "Le 02/10/2026 à 09H35 Des logiciels toujours plus nombreux, mais encore trop de doubles saisies, de documents à chercher et de temps perdu : le numérique n’a pas tenu toutes ses promesses dans l’immobilier. Et si 2027 changeait la donne ? Dans cette tribune, Reda Mahfoud, dirigeant d’Orisha Real Estate, analyse la convergence des évolutions réglementaires, de l’intelligence artificielle et des attentes clients. Avec un enjeu c",
-      "url": "https://www.journaldelagence.com/1413946-2027-le-point-de-bascule-vers-un-immobilier-plus-numerique-et-plus-humain",
-      "source": "Journal de l'Agence",
+      "id": "13ebfbf12745afca",
+      "title": "Hausse des taux : Le marché immobilier peut-il résister ?",
+      "summary": "Hausse des taux : Le marché immobilier peut-il résister ?",
+      "url": "https://www.mysweetimmo.com/2026/10/02/hausse-des-taux-le-marche-immobilier-peut-il-resister/",
+      "source": "MySweetImmo",
       "source_level": "C",
       "category": "marche",
       "audiences": [
@@ -84,7 +105,28 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : 2027 : le point de bascule vers un immobilier plus numérique et plus humain ?."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Hausse des taux : Le marché immobilier peut-il résister ?."
+    },
+    {
+      "id": "ef90571601ce3e4a",
+      "title": "2027 : le point de bascule vers un immobilier plus numérique et plus humain ?",
+      "summary": "anges et délais pour agir : des points essentiels pour faire valoir vos droits. Le 02/10/2026 à 09H35 Des logiciels toujours plus nombreux, mais encore trop de doubles saisies, de documents à chercher et de temps perdu : le numérique n’a pas tenu toutes ses promesses dans l’immobilier. Et si 2027 changeait la donne ? Dans cette tribune, Reda Mahfoud, dirigeant d’Orisha Real Estate, analyse la convergence des évolutions réglem",
+      "url": "https://www.journaldelagence.com/1413946-2027-le-point-de-bascule-vers-un-immobilier-plus-numerique-et-plus-humain",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : 2027 : le point de bascule vers un immobilier plus numérique et plus humain ?."
     },
     {
       "id": "77be9b7e40afdbed",
@@ -107,10 +149,10 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Matchstone : quand l’immobilier professionnel passe du tri au matching."
     },
     {
-      "id": "0cd4e26a24ffd09f",
-      "title": "Immobilier Île-de-France : Près de 10 m² perdus à mensualité égale",
-      "summary": "Les vrais prix de l'immobilier",
-      "url": "https://www.mysweetimmo.com/2026/10/01/immobilier-ile-de-france-pres-de-10-m%c2%b2-perdus-a-mensualite-egale/",
+      "id": "f1b9db5e196c4169",
+      "title": "Canicule : 91 % des Français appellent à repenser le logement",
+      "summary": "Canicule : 91 % des Français appellent à repenser le logement",
+      "url": "https://www.mysweetimmo.com/2026/10/01/canicule-91-des-francais-appellent-a-repenser-le-logement/",
       "source": "MySweetImmo",
       "source_level": "C",
       "category": "marche",
@@ -125,7 +167,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Île-de-France : Près de 10 m² perdus à mensualité égale."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Canicule : 91 % des Français appellent à repenser le logement."
     },
     {
       "id": "cc5014bf16d7844a",
@@ -547,6 +589,48 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Le taux d’usure passe à 5,40%."
     },
     {
+      "id": "735facccf8ef7a6b",
+      "title": "Achat immobilier : Votre quartier vous protège-t-il de la chaleur ?",
+      "summary": "Achat immobilier : Votre quartier vous protège-t-il de la chaleur ?",
+      "url": "https://www.mysweetimmo.com/2026/09/29/achat-immobilier-votre-quartier-vous-protege-t-il-de-la-chaleur/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Achat immobilier : Votre quartier vous protège-t-il de la chaleur ?."
+    },
+    {
+      "id": "d4999eb072d4f67a",
+      "title": "Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché",
+      "summary": "Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché",
+      "url": "https://www.mysweetimmo.com/2026/09/29/immobilier-les-acheteurs-reviennent-mais-les-ventes-reculent/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché."
+    },
+    {
       "id": "f1dc89f605648235",
       "title": "Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)",
       "summary": "Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)",
@@ -566,27 +650,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)."
-    },
-    {
-      "id": "d4999eb072d4f67a",
-      "title": "Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché",
-      "summary": "Marché immobilier",
-      "url": "https://www.mysweetimmo.com/2026/09/29/immobilier-les-acheteurs-reviennent-mais-les-ventes-reculent/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-29T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché."
     },
     {
       "id": "3eb906f23603cc2e",
@@ -732,6 +795,69 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Proptech : Capifrance et Optimhome rachètent Immofit."
+    },
+    {
+      "id": "4bdc739d80a38664",
+      "title": "Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux",
+      "summary": "Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux",
+      "url": "https://www.mysweetimmo.com/2026/09/27/logement-social-et-biodiversite-action-logement-sallie-a-la-ligue-pour-la-protection-des-oiseaux/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux."
+    },
+    {
+      "id": "f629b217c0f3827c",
+      "title": "Immobilier : Paris classée à faible risque de bulle par UBS",
+      "summary": "Immobilier : Paris classée à faible risque de bulle par UBS",
+      "url": "https://www.mysweetimmo.com/2026/09/26/immobilier-paris-classee-a-faible-risque-de-bulle-par-ubs/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Paris classée à faible risque de bulle par UBS."
+    },
+    {
+      "id": "50817d5d649868a3",
+      "title": "Immobilier : 1 600 € pour se loger à la rentrée, la piste des chambres chez les seniors",
+      "summary": "Immobilier : 1 600 € pour se loger à la rentrée, la piste des chambres chez les seniors",
+      "url": "https://www.mysweetimmo.com/2026/09/25/logement-etudiant-la-fnaim-fait-appel-aux-seniors/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : 1 600 € pour se loger à la rentrée, la piste des chambres chez les seniors."
     },
     {
       "id": "2f71a619ee0dda48",
@@ -922,27 +1048,6 @@
       "why_it_matters": "Source institutionnelle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Une délégation du ministère vietnamien de la Construction reçue à l’ANIL."
     },
     {
-      "id": "0b7cebbee17b71bc",
-      "title": "Entre deux logements : Où stocker ses meubles pendant un déménagement ?",
-      "summary": "Vendre avant d’avoir trouvé son prochain logement, attendre la fin des travaux, quitter une location avant d’avoir les clés du suivant : entre deux adresses, meubles et cartons n’ont parfois nulle part où aller. Garde-meuble, self-stockage, stockage mobile : tour d’horizon des solutions pour traverser cette période sans s’encombrer. Contenu sponsorisé par locakase",
-      "url": "https://www.mysweetimmo.com/2026/09/21/entre-deux-logements-ou-stocker-ses-meubles-pendant-un-demenagement/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-21T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Entre deux logements : Où stocker ses meubles pendant un déménagement ?."
-    },
-    {
       "id": "37e3d272f1980731",
       "title": "Peut-on faire confiance aux IA pour effectuer une estimation immobilière ?",
       "summary": "21 septembre 2026 - Avec l’évolution fulgurante d’outils tels que ChatGPT, Gemini ou Claude, la tentation d’automatiser ses estimations immobilières avec l’IA est grande. [...]",
@@ -1067,27 +1172,6 @@
       "territory": "France",
       "topic": "Investir",
       "why_it_matters": "Source expert / blog à confronter aux données officielles. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spéciali…."
-    },
-    {
-      "id": "4c916bd1daee564c",
-      "title": "Crédit immobilier : 35 % d’endettement, 25 ans maximum… les règles du HCSF ne bougent pas",
-      "summary": "d’une première estimation des travaux dans l’accompagnement d’une transaction. Le 23/09/2026 à 07H05 Le Haut Conseil de stabilité financière (HCSF) ne change rien aux règles d’octroi des crédits immobiliers. Réuni le 15 septembre 2026 à Bercy, il confirme le maintien du plafond de 35 % de taux d’effort, de la durée maximale de 25 ans et de la marge de flexibilité de 20 % accordée aux banques. Une décision qui suscite de vives",
-      "url": "https://www.journaldelagence.com/1413704-credit-immobilier-35-dendettement-25-ans-maximum-les-regles-du-hcsf-ne-bougent-pas",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "credit",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-15T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Credit",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : 35 % d’endettement, 25 ans maximum… les règles du HCSF ne bougent pas."
     },
     {
       "id": "6a768cd44fd2c1a9",
@@ -1339,48 +1423,6 @@
       "why_it_matters": "Source institutionnelle. Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets. Point suivi : Indicateur des taux : une remontée contenue des taux dans un contexte plus incertain."
     },
     {
-      "id": "5e1010a8936eaca7",
-      "title": "Agents immobiliers : « Ne payez que les annonces que vous diffusez » Jonathan Le Corronc-Clady et Didier Bertrand (FNAIM Région Sud)",
-      "summary": "Agents immobiliers : « Ne payez que les annonces que vous diffusez » Jonathan Le Corronc-Clady et Didier Bertrand (FNAIM Région Sud)",
-      "url": "https://www.mysweetimmo.com/2026/08/25/agents-immobiliers-ne-payez-que-les-annonces-que-vous-diffusez-jonathan-le-corronc-clady-et-didier-bertrand-fnaim-region-sud/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-25T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : « Ne payez que les annonces que vous diffusez » Jonathan Le Corronc-Clady et Didier Bertrand (FNAIM Région…."
-    },
-    {
-      "id": "c1bc45232a171c55",
-      "title": "« Demain, les agents immobiliers vont manager des intelligences métiers » Guillaume Girard (Septeo Proptech)",
-      "summary": "« Demain, les agents immobiliers vont manager des intelligences métiers » Guillaume Girard (Septeo Proptech)",
-      "url": "https://www.mysweetimmo.com/2026/08/24/demain-les-agents-immobiliers-vont-manager-des-intelligences-metiers-guillaume-girard-septeo-proptech/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-08-24T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : « Demain, les agents immobiliers vont manager des intelligences métiers » Guillaume Girard (Septeo Proptech)."
-    },
-    {
       "id": "ec323fee403f01dc",
       "title": "Mon locataire se plaint du bruit d'un autre locataire. Comment faire ?",
       "summary": "21 août 2026 Un propriétaire bailleur peut être sollicité lorsqu'un locataire subit des troubles de voisinage.",
@@ -1421,48 +1463,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Logements vacants : ce qui change à partir de 2027."
-    },
-    {
-      "id": "f7da610496535f86",
-      "title": "Agents immobiliers : « La concurrence nous oblige à être meilleurs » Guillaume Martinaud (Orpi)",
-      "summary": "Agents immobiliers : « La concurrence nous oblige à être meilleurs » Guillaume Martinaud (Orpi)",
-      "url": "https://www.mysweetimmo.com/2026/07/30/agents-immobiliers-la-concurrence-nous-oblige-a-etre-meilleurs-guillaume-martinaud-orpi/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-30T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : « La concurrence nous oblige à être meilleurs » Guillaume Martinaud (Orpi)."
-    },
-    {
-      "id": "c54dbc8aefeb8d4b",
-      "title": "Immobilier et crise locative : « On est sur un marché qui s’assouplit un petit peu » David Benbassat (Bien’ici)",
-      "summary": "Immobilier et crise locative : « On est sur un marché qui s’assouplit un petit peu » David Benbassat (Bien’ici)",
-      "url": "https://www.mysweetimmo.com/2026/07/27/immobilier-et-crise-locative-on-est-sur-un-marche-qui-sassouplit-un-petit-peu-david-benbassat/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-27T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier et crise locative : « On est sur un marché qui s’assouplit un petit peu » David Benbassat (Bien’ici)."
     },
     {
       "id": "3b2255cb7e8a6f65",
@@ -1551,8 +1551,8 @@
     }
   ],
   "source_stats": {
-    "MySweetImmo": 16,
     "Journal de l'Agence": 14,
+    "MySweetImmo": 16,
     "Batiactu": 9,
     "Immobilier 2.0": 15,
     "Légifrance": 2,
@@ -1565,18 +1565,18 @@
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 14,
-    "sources_degraded": 1,
+    "sources_ok": 15,
+    "sources_degraded": 0,
     "errors": 0,
     "retained": 74,
-    "rejected": 423,
+    "rejected": 1358,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 4,
-        "last_success": "2026-10-04T21:33:02+00:00",
+        "last_success": "2026-10-05T05:47:52+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1584,7 +1584,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-04T21:33:05+00:00",
+        "last_success": "2026-10-05T05:47:57+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1592,7 +1592,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-04T21:33:06+00:00",
+        "last_success": "2026-10-05T05:47:57+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1600,7 +1600,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-04T21:33:07+00:00",
+        "last_success": "2026-10-05T05:47:59+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1608,24 +1608,23 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-04T21:33:22+00:00",
+        "last_success": "2026-10-05T05:48:19+00:00",
         "fallback": false
       },
       "Légifrance": {
         "level": "A",
-        "ok": false,
-        "status": "degraded",
+        "ok": true,
+        "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-04T12:28:04+00:00",
-        "fallback": true,
-        "error_type": "RuntimeError"
+        "last_success": "2026-10-05T05:48:30+00:00",
+        "fallback": false
       },
       "EUR-Lex": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-04T21:33:43+00:00",
+        "last_success": "2026-10-05T05:48:30+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1633,7 +1632,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-04T21:33:44+00:00",
+        "last_success": "2026-10-05T05:48:32+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1641,7 +1640,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-04T21:33:45+00:00",
+        "last_success": "2026-10-05T05:48:32+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1649,7 +1648,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-04T21:33:46+00:00",
+        "last_success": "2026-10-05T05:48:34+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1657,7 +1656,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-04T21:33:47+00:00",
+        "last_success": "2026-10-05T05:48:35+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1665,7 +1664,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-04T21:33:48+00:00",
+        "last_success": "2026-10-05T05:48:37+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1673,7 +1672,7 @@
         "ok": true,
         "status": "ok",
         "retained": 9,
-        "last_success": "2026-10-04T21:33:50+00:00",
+        "last_success": "2026-10-05T05:48:39+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1681,7 +1680,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-10-04T21:33:50+00:00",
+        "last_success": "2026-10-05T05:48:40+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1689,16 +1688,10 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-04T21:33:51+00:00",
+        "last_success": "2026-10-05T05:48:42+00:00",
         "fallback": false
       }
     }
   },
-  "errors": [
-    {
-      "source": "Légifrance",
-      "error": "PISTE Légifrance indisponible : 429 Client Error: Too Many Requests for url: https://api.piste.gouv.fr/dila/legifrance/lf-engine-app/consult/lastNJo",
-      "fallback": true
-    }
-  ]
+  "errors": []
 }
