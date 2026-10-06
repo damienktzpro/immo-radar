@@ -1,13 +1,34 @@
 {
-  "generated_at": "2026-10-06T06:27:44+00:00",
+  "generated_at": "2026-10-06T18:34:16+00:00",
   "version": "7.1",
   "items": [
     {
-      "id": "964fb1abbbe54746",
-      "title": "[Dossier exclusif] Immobilier de prestige : l’art et l’exigence d’une parcours client sans friction",
-      "summary": "Le 06/10/2026 à 06H57 Une adresse rare et une vue spectaculaire ne suffisent plus : dans l’immobilier de prestige, le luxe se mesure aussi au temps gagné, à la discrétion et à l’absence de complications. Après un premier volet consacré aux nouveaux acheteurs et aux nouvelles valeurs du marché, notre dossier exclusif se poursuit avec Nathalie Gardes. Elle décrypte cinq mutations qui redessinent la transaction et le rôle du prof",
-      "url": "https://www.journaldelagence.com/1414006-dossier-exclusif-immobilier-de-prestige-lart-et-lexigence-dune-parcours-client-sans-friction",
-      "source": "Journal de l'Agence",
+      "id": "b43806586176ad5e",
+      "title": "Nouvelle Parole d'expert : Quelle est la protection apportée par un dossier de surendettement vis-à-vis de l’expulsion ?",
+      "summary": "06 octobre 2026 Que vous soyez locataire ou propriétaire, sachez que la procédure de surendettement est ouverte à toute personne de bonne foi, qui n'arrive pas à faire face à ses dettes exigibles et à échoir, qu'elles soient de consommation ou de crédits. Comment…",
+      "url": "https://www.anil.org/parole-expert-logement-location/dossier-de-surendettement-suite-a-lexpulsion/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Nouvelle Parole d'expert : Quelle est la protection apportée par un dossier de surendettement vis-à-vis de l’expulsion ?."
+    },
+    {
+      "id": "665701111a7f8668",
+      "title": "Agents immobiliers et IA: Serez-vous recommandés par ChatGPT, Claude ou Gemini ?",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/10/06/agents-immobiliers-et-ia-serez-vous-recommandes-par-chatgpt-claude-ou-gemini/",
+      "source": "MySweetImmo",
       "source_level": "C",
       "category": "marche",
       "audiences": [
@@ -21,7 +42,90 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : [Dossier exclusif] Immobilier de prestige : l’art et l’exigence d’une parcours client sans friction."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers et IA: Serez-vous recommandés par ChatGPT, Claude ou Gemini ?."
+    },
+    {
+      "id": "6f23b83e9b6fa595",
+      "title": "Proptech : Bricks.co prépare le rachat d’Izola Bank pour bâtir sa banque de l’immobilier",
+      "summary": "Nouveau Investir / Financer",
+      "url": "https://www.mysweetimmo.com/2026/10/06/avec-le-rachat-izola-bank-bricks-co-veut-batir-la-banque-digitale-de-limmobilier/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Proptech : Bricks.co prépare le rachat d’Izola Bank pour bâtir sa banque de l’immobilier."
+    },
+    {
+      "id": "2797138f410f32d6",
+      "title": "Immobilier : New York en tête des grandes fortunes de moins de 40 ans",
+      "summary": "Nouveau Luxe",
+      "url": "https://www.mysweetimmo.com/2026/10/06/immobilier-new-york-en-tete-des-grandes-fortunes-de-moins-de-40-ans/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : New York en tête des grandes fortunes de moins de 40 ans."
+    },
+    {
+      "id": "efa0da589e7432e5",
+      "title": "PLF 2027 : quelles mesures impactent l’immobilier ?",
+      "summary": "Le 06/10/2026 à 15H20 Accession, investissement locatif, aides au logement, rénovation énergétique… Le projet de loi de finances pour 2027, déposé à l’Assemblée nationale le 1er octobre dernier, comporte plusieurs mesures qui pourraient directement affecter le marché du logement. Tour d’horizon des principales dispositions à retenir pour les professionnels de l’immobilier. [Dossier exclusif] Immobilier de prestige : l’art et l",
+      "url": "https://www.journaldelagence.com/1414034-plf-2027-quelles-mesures-impactent-limmobilier",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : PLF 2027 : quelles mesures impactent l’immobilier ?."
+    },
+    {
+      "id": "16bd4e7a18c52c95",
+      "title": "[Dossier exclusif] Immobilier de prestige : l’art et l’exigence d’un parcours client sans friction",
+      "summary": "des principales dispositions à retenir pour les professionnels de l’immobilier. Le 06/10/2026 à 06H57 Une adresse rare et une vue spectaculaire ne suffisent plus : dans l’immobilier de prestige, le luxe se mesure aussi au temps gagné, à la discrétion et à l’absence de complications. Après un premier volet consacré aux nouveaux acheteurs et aux nouvelles valeurs du marché, notre dossier exclusif se poursuit avec Nathalie Garde",
+      "url": "https://www.journaldelagence.com/1414006-dossier-exclusif-immobilier-de-prestige-lart-et-lexigence-dune-parcours-client-sans-friction",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : [Dossier exclusif] Immobilier de prestige : l’art et l’exigence d’un parcours client sans friction."
     },
     {
       "id": "4352f341a7543c49",
@@ -42,6 +146,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vendre un potentiel plutôt qu’un existant : quand l’agent immobilier devient chef de projet."
+    },
+    {
+      "id": "b4fcc582a65e51a6",
+      "title": "Agents immobiliers : Transformez vos annonces en vidéos sans montage",
+      "summary": "Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/10/05/agent-immobilier-transformez-vos-annonces-en-videos-sans-montage/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : Transformez vos annonces en vidéos sans montage."
     },
     {
       "id": "88a89558019a6c00",
@@ -129,7 +254,7 @@
     {
       "id": "353d007ee198a882",
       "title": "Carnet Anne-Claire Mialot devient numéro 2 de CDC Habitat NOMINATION. La directrice générale de l'Anru a été nommée directrice générale du bailleur social de la Caisse des dépôts.",
-      "summary": "Zoom Canicules : les solutions des professionnels pour adapter les logements sous les toits ADAPTATION. Isolation, protections solaires, ventilation naturelle… Un livre blanc vient d'être publié par le Syndicat des entreprises de ... 05/10/2026 05/10/2026",
+      "summary": "05/10/2026",
       "url": "https://www.batiactu.com/edito/anne-claire-mialot-devient-numero-2-cdc-habitat-75525.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -148,9 +273,30 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Carnet Anne-Claire Mialot devient numéro 2 de CDC Habitat NOMINATION. La directrice générale de l'Anru a été nommée directrice…."
     },
     {
+      "id": "d33c2107d4d97180",
+      "title": "Zoom Canicules : les solutions des professionnels pour adapter les logements sous les toits",
+      "summary": "05/10/2026 Décryptage À Paris, le casse-tête de l'adaptation des toits en zinc aux canicules",
+      "url": "https://www.batiactu.com/edito/canicules-solutions-professionnels-adapter-logements-75526.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Zoom Canicules : les solutions des professionnels pour adapter les logements sous les toits."
+    },
+    {
       "id": "8b1495d4b9404609",
       "title": "Immobilier 3ème trimestre 2026 : Les prix baissent, les acheteurs hésitent",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier 3ème trimestre 2026 : Les prix baissent, les acheteurs hésitent",
       "url": "https://www.mysweetimmo.com/2026/10/04/immobilier-3eme-trimestre-2026-les-prix-baissent-les-acheteurs-hesitent/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -171,7 +317,7 @@
     {
       "id": "b45cbbec1aaccb76",
       "title": "Logement : Les toilettes, une pause, un refuge et parfois un bureau !",
-      "summary": "Etudes et Sondages",
+      "summary": "Logement : Les toilettes, une pause, un refuge et parfois un bureau !",
       "url": "https://www.mysweetimmo.com/2026/10/03/logement-les-toilettes-une-pause-un-refuge-et-parfois-un-bureau/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -525,7 +671,7 @@
     {
       "id": "e36ffca62d0dfa10",
       "title": "Crise du logement : Léon XIV appelle à « chercher des solutions plus justes",
-      "summary": "Société »",
+      "summary": "»",
       "url": "https://www.mysweetimmo.com/2026/09/30/crise-du-logement-leon-xiv-appelle-a-chercher-des-solutions-plus-justes/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -755,27 +901,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Achat immobilier : Votre quartier vous protège-t-il de la chaleur ?."
     },
     {
-      "id": "d4999eb072d4f67a",
-      "title": "Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché",
-      "summary": "Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché",
-      "url": "https://www.mysweetimmo.com/2026/09/29/immobilier-les-acheteurs-reviennent-mais-les-ventes-reculent/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-29T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché."
-    },
-    {
       "id": "f1dc89f605648235",
       "title": "Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)",
       "summary": "Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)",
@@ -816,26 +941,6 @@
       "territory": "France",
       "topic": "Territoires",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : [Dossier exclusif] Immobilier de prestige : nouveaux acheteurs, nouvelles valeurs."
-    },
-    {
-      "id": "32e7c1cd34717cf4",
-      "title": "Baux d’habitation : ce qui change pour la rédaction des contrats types au 1er octobre 2026",
-      "summary": "r l’exception, à l'occasion d'un dossier exclusif pour le Journal de l'Agence ! Le 29/09/2026 à 06H23 Professionnels de l’immobilier, pensez à mettre à jour vos modèles de baux d’habitation. À partir du 1er octobre 2026, les contrats types de location vide, meublée et de colocation à bail unique évoluent. Clause résolutoire en cas d’impayé, mention d’une servitude de résidence principale pour certains biens, coordonnées des p",
-      "url": "https://www.journaldelagence.com/1413828-baux-dhabitation-ce-qui-change-pour-la-redaction-des-contrats-types-au-1er-octobre-2026",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-09-29T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Baux d’habitation : ce qui change pour la rédaction des contrats types au 1er octobre 2026."
     },
     {
       "id": "29233dd8f9d34172",
@@ -880,6 +985,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : TEDxleboncoin : une invitation à repenser notre manière d’habiter le monde qui vient."
     },
     {
+      "id": "6d7c71c70ab81192",
+      "title": "L’APL revalorisée au 1er octobre",
+      "summary": "Les aides personnelles au logement (APL, ALF, ALS) sont revalorisées chaque 1 er octobre en fonction de l’évolution de l’indice de référence des loyers (IRL) du 2 e trimestre de l’année en cours. Un arrêté du 28 septembre 2026 confirme leur évolution.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A16807?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "status": "Information officielle",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source officielle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : L’APL revalorisée au 1er octobre."
+    },
+    {
       "id": "9cf43c21d940246b",
       "title": "Proptech : Capifrance et Optimhome rachètent Immofit",
       "summary": "28 septembre 2026 - DigitRE Group, la maison mère derrière les réseaux immobiliers Capifrance et Optimhome, a annoncé le rachat d’Immofit. Avec cette première acquisition technologique, le [...]",
@@ -898,48 +1024,6 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Proptech : Capifrance et Optimhome rachètent Immofit."
-    },
-    {
-      "id": "4bdc739d80a38664",
-      "title": "Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux",
-      "summary": "Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux",
-      "url": "https://www.mysweetimmo.com/2026/09/27/logement-social-et-biodiversite-action-logement-sallie-a-la-ligue-pour-la-protection-des-oiseaux/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-27T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement social et biodiversité : Action Logement s’allie à la Ligue pour la Protection des Oiseaux."
-    },
-    {
-      "id": "f629b217c0f3827c",
-      "title": "Immobilier : Paris classée à faible risque de bulle par UBS",
-      "summary": "Immobilier : Paris classée à faible risque de bulle par UBS",
-      "url": "https://www.mysweetimmo.com/2026/09/26/immobilier-paris-classee-a-faible-risque-de-bulle-par-ubs/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-26T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Paris classée à faible risque de bulle par UBS."
     },
     {
       "id": "ce61243370453f81",
@@ -1235,27 +1319,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : IA : SeLoger lance la Recherche Intelligente pour simplifier la recherche d’un bien immobilier."
     },
     {
-      "id": "0d946c5404153d72",
-      "title": "Immobilier : « Les Français n’ont jamais autant cherché sur SeLoger » Baptiste Capron",
-      "summary": "Immobilier : « Les Français n’ont jamais autant cherché sur SeLoger » Baptiste Capron",
-      "url": "https://www.mysweetimmo.com/2026/09/09/immobilier-les-francais-nont-jamais-autant-cherche-sur-seloger-baptiste-capron/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-09T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : « Les Français n’ont jamais autant cherché sur SeLoger » Baptiste Capron."
-    },
-    {
       "id": "727d4dc3d0e96ec4",
       "title": "Cyberattaque : 48 millions de personnes exposées dans une fuite massive de Zéro Logement Vacant",
       "summary": "9 septembre 2026 - Le site Zéro Logement Vacant aurait été victime d’une cyberattaque au cours des derniers jours. En effet, le pirate informatique ZeroBytes, déjà à l’origine du [...]",
@@ -1443,27 +1506,6 @@
       "why_it_matters": "Source institutionnelle. Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets. Point suivi : Indicateur des taux : une remontée contenue des taux dans un contexte plus incertain."
     },
     {
-      "id": "ec323fee403f01dc",
-      "title": "Mon locataire se plaint du bruit d'un autre locataire. Comment faire ?",
-      "summary": "21 août 2026 Un propriétaire bailleur peut être sollicité lorsqu'un locataire subit des troubles de voisinage.",
-      "url": "https://www.anil.org/actualites-evenements/details/mon-locataire-se-plaint-du-bruit-dun-autre-locataire-comment-faire/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "investisseur",
-        "pro",
-        "particulier"
-      ],
-      "published_at": "2026-08-21T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Mon locataire se plaint du bruit d'un autre locataire. Comment faire ?."
-    },
-    {
       "id": "3b2255cb7e8a6f65",
       "title": "Informations Rapides · 28 mai 2026 · n° 130 Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) Indices Notaires-Insee des prix des logements anciens - premier trimestre 2026",
       "summary": "Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) - Informations rapides - 130 | Insee false Aller au contenu Aide Thèmes Recherche English Presse Menu Menu Blog Presse Aide English Lancer la recherche sur le site Thèmes Statistiques et études Cherchez vos statistiques par… Thèmes Économie - conjoncture - comptes nationaux Démographie Entreprises Plus de thèmes… Niveaux géographiques France Toutes les régions ou tous les départements Toutes les communes Plus de ni",
@@ -1505,34 +1547,56 @@
       "topic": "Droit européen",
       "why_it_matters": "Source officielle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Directive (UE) 2024/1275 sur la performance énergétique des bâtiments.",
       "legal_stage": "jorf"
+    },
+    {
+      "id": "2803ce901c572315",
+      "title": "Crédit immobilier : quels sont les plafonds du taux d’usure à compter du 1er octobre ?",
+      "summary": "Vous envisagez de souscrire un prêt immobilier ? Vous souhaitez savoir combien va vous coûter le crédit en plus de la somme empruntée ? Découvrez les plafonds légaux des taux d’intérêt, applicables à un crédit immobilier à compter du 1 er octobre.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17054?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": null,
+      "status": "Information officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source officielle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : quels sont les plafonds du taux d’usure à compter du 1er octobre ?."
     }
   ],
   "source_stats": {
-    "Journal de l'Agence": 15,
+    "ANIL": 9,
     "MySweetImmo": 16,
-    "Batiactu": 11,
+    "Journal de l'Agence": 15,
+    "Batiactu": 12,
     "Immobilier 2.0": 15,
     "Légifrance": 1,
     "SDES / Sitadel": 1,
-    "ANIL": 9,
+    "Service-Public.fr": 2,
     "Horiz.io": 2,
     "Insee": 1,
     "EUR-Lex": 1
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 15,
+    "sources_ok": 14,
     "sources_degraded": 0,
-    "errors": 0,
-    "retained": 72,
-    "rejected": 1330,
+    "errors": 1,
+    "retained": 75,
+    "rejected": 1329,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
-        "status": "empty",
-        "retained": 0,
-        "last_success": "2026-10-06T06:27:04+00:00",
+        "status": "ok",
+        "retained": 3,
+        "last_success": "2026-10-06T18:25:41+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1540,7 +1604,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-06T06:27:07+00:00",
+        "last_success": "2026-10-06T18:25:42+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1548,7 +1612,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-06T06:27:08+00:00",
+        "last_success": "2026-10-06T18:25:46+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1556,23 +1620,24 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-06T06:27:09+00:00",
+        "last_success": "2026-10-06T18:25:47+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
         "level": "A",
-        "ok": true,
-        "status": "empty",
+        "ok": false,
+        "status": "error",
         "retained": 0,
-        "last_success": "2026-10-06T06:27:26+00:00",
-        "fallback": false
+        "last_success": null,
+        "fallback": false,
+        "error_type": "ConnectTimeout"
       },
       "Légifrance": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-06T06:27:36+00:00",
+        "last_success": "2026-10-06T18:34:07+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1580,7 +1645,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-06T06:27:36+00:00",
+        "last_success": "2026-10-06T18:34:07+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1588,7 +1653,7 @@
         "ok": true,
         "status": "ok",
         "retained": 9,
-        "last_success": "2026-10-06T06:27:37+00:00",
+        "last_success": "2026-10-06T18:34:08+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1596,7 +1661,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-06T06:27:38+00:00",
+        "last_success": "2026-10-06T18:34:09+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1604,7 +1669,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-06T06:27:39+00:00",
+        "last_success": "2026-10-06T18:34:10+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1612,7 +1677,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-06T06:27:40+00:00",
+        "last_success": "2026-10-06T18:34:11+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1620,15 +1685,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-06T06:27:41+00:00",
+        "last_success": "2026-10-06T18:34:12+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 11,
-        "last_success": "2026-10-06T06:27:43+00:00",
+        "retained": 12,
+        "last_success": "2026-10-06T18:34:13+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1636,7 +1701,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-10-06T06:27:43+00:00",
+        "last_success": "2026-10-06T18:34:14+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1644,10 +1709,16 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-06T06:27:44+00:00",
+        "last_success": "2026-10-06T18:34:15+00:00",
         "fallback": false
       }
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "source": "Sénat / DOSLEG",
+      "error": "HTTPSConnectionPool(host='data.senat.fr', port=443): Max retries exceeded with url: /data/dosleg/dosleg.zip (Caused by ConnectTimeoutError(<HTTPSConnection(host='data.senat.fr', port=443) at 0x7f27620e5100>, 'Connection to data.senat.fr timed out. (connect timeout=60)'))",
+      "fallback": false
+    }
+  ]
 }
