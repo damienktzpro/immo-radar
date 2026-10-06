@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-05T14:49:25+00:00",
+  "generated_at": "2026-10-06T00:07:03+00:00",
   "version": "7.1",
   "items": [
     {
       "id": "88a89558019a6c00",
       "title": "Immobilier Paris : Les moins de 40 ans prennent le pouvoir",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/10/05/immobilier-a-paris-les-moins-de-40-ans-prennent-le-pouvoir/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -839,27 +839,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : TEDxleboncoin : une invitation à repenser notre manière d’habiter le monde qui vient."
     },
     {
-      "id": "6d7c71c70ab81192",
-      "title": "L’APL revalorisée au 1er octobre",
-      "summary": "Les aides personnelles au logement (APL, ALF, ALS) sont revalorisées chaque 1 er octobre en fonction de l’évolution de l’indice de référence des loyers (IRL) du 2 e trimestre de l’année en cours. Un arrêté du 28 septembre 2026 confirme leur évolution.",
-      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A16807?xtor=RSS-111",
-      "source": "Service-Public.fr",
-      "source_level": "A",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-28T09:00:00+00:00",
-      "status": "Information officielle",
-      "importance": 91,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source officielle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : L’APL revalorisée au 1er octobre."
-    },
-    {
       "id": "df6e6aeec881ea02",
       "title": "Taxe sur les logements vacants : ce qui va changer pour les propriétaires en 2027",
       "summary": "ées des parties : voici ce qu’il faut vérifier avant les prochaines signatures. Le 28/09/2026 à 09H52 Un logement qui reste vide pourrait coûter plus cher à son propriétaire dès 2027. La loi de finances pour 2026 prévoit de fusionner les deux taxes actuelles sur les logements vacants et permet aux communes de relever les taux, jusqu’à 60 % dans certains cas. Qu'est-ce que cela change pour les propriétaires ? Et quels sont les",
@@ -1024,28 +1003,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Un bailleur social porte plainte contre trois de ses cadres dirigeants JUSTICE. Un bailleur social a porté plainte contre trois…."
-    },
-    {
-      "id": "a123f45b30202c94",
-      "title": "Arrêté du 18 septembre 2026 relatif à la composition de la commission nationale prévue à l'article L. 302-9-1-1 du code de la construction et de l'habitation",
-      "summary": "Texte officiel concernant la construction, les professionnels du secteur ou le Code de la construction et de l’habitation.",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054888695",
-      "source": "Légifrance",
-      "source_level": "A",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-24T00:00:00+00:00",
-      "status": "Publié au JORF",
-      "importance": 91,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Construction / Réglementation",
-      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Arrêté du 18 septembre 2026 relatif à la composition de la commission nationale prévue à l'article L. 302-9-1-1 du code de la c….",
-      "legal_stage": "jorf"
     },
     {
       "id": "895550fd885848fb",
@@ -1548,48 +1505,6 @@
       "topic": "Droit européen",
       "why_it_matters": "Source officielle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Directive (UE) 2024/1275 sur la performance énergétique des bâtiments.",
       "legal_stage": "jorf"
-    },
-    {
-      "id": "2803ce901c572315",
-      "title": "Crédit immobilier : quels sont les plafonds du taux d’usure à compter du 1er octobre ?",
-      "summary": "Vous envisagez de souscrire un prêt immobilier ? Vous souhaitez savoir combien va vous coûter le crédit en plus de la somme empruntée ? Découvrez les plafonds légaux des taux d’intérêt, applicables à un crédit immobilier à compter du 1 er octobre.",
-      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17054?xtor=RSS-111",
-      "source": "Service-Public.fr",
-      "source_level": "A",
-      "category": "credit",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": null,
-      "status": "Information officielle",
-      "importance": 88,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Credit",
-      "why_it_matters": "Source officielle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : quels sont les plafonds du taux d’usure à compter du 1er octobre ?."
-    },
-    {
-      "id": "8e475dc9b365c3a3",
-      "title": "Ce qui change en octobre 2026",
-      "summary": "Santé, logement, heure d’hiver... Découvrez les changements intervenant à partir de ce mois d’octobre.",
-      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18466?xtor=RSS-111",
-      "source": "Service-Public.fr",
-      "source_level": "A",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": null,
-      "status": "Information officielle",
-      "importance": 88,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Ce qui change en octobre 2026."
     }
   ],
   "source_stats": {
@@ -1597,9 +1512,8 @@
     "Journal de l'Agence": 15,
     "Batiactu": 11,
     "Immobilier 2.0": 15,
-    "Légifrance": 2,
+    "Légifrance": 1,
     "SDES / Sitadel": 1,
-    "Service-Public.fr": 3,
     "ANIL": 9,
     "Horiz.io": 2,
     "Insee": 1,
@@ -1610,15 +1524,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 76,
-    "rejected": 1352,
+    "retained": 72,
+    "rejected": 1330,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
-        "status": "ok",
-        "retained": 4,
-        "last_success": "2026-10-05T14:48:41+00:00",
+        "status": "empty",
+        "retained": 0,
+        "last_success": "2026-10-06T00:06:19+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1626,7 +1540,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-05T14:48:44+00:00",
+        "last_success": "2026-10-06T00:06:24+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1634,7 +1548,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-05T14:48:45+00:00",
+        "last_success": "2026-10-06T00:06:25+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1642,7 +1556,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-05T14:48:46+00:00",
+        "last_success": "2026-10-06T00:06:27+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1650,15 +1564,15 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-05T14:49:07+00:00",
+        "last_success": "2026-10-06T00:06:45+00:00",
         "fallback": false
       },
       "Légifrance": {
         "level": "A",
         "ok": true,
         "status": "ok",
-        "retained": 2,
-        "last_success": "2026-10-05T14:49:15+00:00",
+        "retained": 1,
+        "last_success": "2026-10-06T00:06:54+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1666,7 +1580,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-05T14:49:16+00:00",
+        "last_success": "2026-10-06T00:06:54+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1674,7 +1588,7 @@
         "ok": true,
         "status": "ok",
         "retained": 9,
-        "last_success": "2026-10-05T14:49:16+00:00",
+        "last_success": "2026-10-06T00:06:55+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1682,7 +1596,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-05T14:49:17+00:00",
+        "last_success": "2026-10-06T00:06:56+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1690,7 +1604,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-05T14:49:18+00:00",
+        "last_success": "2026-10-06T00:06:57+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1698,7 +1612,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-05T14:49:20+00:00",
+        "last_success": "2026-10-06T00:06:59+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1706,7 +1620,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-05T14:49:21+00:00",
+        "last_success": "2026-10-06T00:07:00+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1714,7 +1628,7 @@
         "ok": true,
         "status": "ok",
         "retained": 11,
-        "last_success": "2026-10-05T14:49:22+00:00",
+        "last_success": "2026-10-06T00:07:01+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1722,7 +1636,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-10-05T14:49:23+00:00",
+        "last_success": "2026-10-06T00:07:02+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1730,7 +1644,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-05T14:49:24+00:00",
+        "last_success": "2026-10-06T00:07:03+00:00",
         "fallback": false
       }
     }

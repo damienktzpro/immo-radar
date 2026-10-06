@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-05T14:49:39+00:00",
+  "generated_at": "2026-10-06T00:07:15+00:00",
   "items": [
     {
       "id": "af416194883a72eb",
@@ -27,7 +27,7 @@
     {
       "id": "88a89558019a6c00",
       "title": "Immobilier Paris : Les moins de 40 ans prennent le pouvoir",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/10/05/immobilier-a-paris-les-moins-de-40-ans-prennent-le-pouvoir/",
       "source": "MySweetImmo",
       "source_level": "C",
