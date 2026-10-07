@@ -1,12 +1,12 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-07T06:07:10+00:00",
+  "generated_at": "2026-10-07T13:31:53+00:00",
   "items": [
     {
       "id": "da7a638e13fea1e3",
       "title": "Les résultats de votre agence baissent ? Cherchez la cause avant d’augmenter la pression",
-      "summary": "Le 07/10/2026 à 07H09 Moins de mandats, des relances qui s’espacent, un CRM mal renseigné… Face à des résultats en baisse, le réflexe d'un dirigeant d'agence immobilière est souvent de réclamer davantage d’efforts. Mais encore faut-il comprendre ce qui bloque. Sabrina Robles Lebailly montre comment la méthode des « 5 pourquoi » aide les dirigeants d’agences à dépasser les symptômes pour identifier les causes et adapter leur ac",
+      "summary": "e 1er octobre 2026 et ses conséquences pour les professionnels de l’immobilier. Le 07/10/2026 à 07H09 Moins de mandats, des relances qui s’espacent, un CRM mal renseigné… Face à des résultats en baisse, le réflexe d'un dirigeant d'agence immobilière est souvent de réclamer davantage d’efforts. Mais encore faut-il comprendre ce qui bloque. Sabrina Robles Lebailly montre comment la méthode des « 5 pourquoi » aide les dirigeants",
       "url": "https://www.journaldelagence.com/1414016-les-resultats-de-votre-agence-baissent-cherchez-la-cause-avant-daugmenter-la-pression",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -22,6 +22,69 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Les résultats de votre agence baissent ? Cherchez la cause avant d’augmenter la pression."
+    },
+    {
+      "id": "6e4bad3b5af15126",
+      "title": "Crédit immobilier : LCL ouvre la porte aux travailleurs indépendants et aux freelances",
+      "summary": "Nouveau Société",
+      "url": "https://www.mysweetimmo.com/2026/10/07/credit-immobilier-lcl-ouvre-la-porte-aux-travailleurs-independants-et-aux-freelances/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-07T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : LCL ouvre la porte aux travailleurs indépendants et aux freelances."
+    },
+    {
+      "id": "ea30442c8396b276",
+      "title": "Présidentielle 2027 : les propositions de Jean-Luc Mélenchon sur le logement",
+      "summary": "Le 07/10/2026 à 14H05 Construction, rénovation énergétique, permis de louer, transmission… Jean-Luc Mélenchon défend une intervention publique renforcée pour répondre à la crise du logement. Après Bruno Retailleau et Marine Le Pen, le Journal de l’Agence poursuit son tour d’horizon des propositions pour la présidentielle de 2027. Décryptage. Vente d’un local commercial : pas d’honoraires d’agence pour un locataire qui exerce s",
+      "url": "https://www.journaldelagence.com/1414045-presidentielle-2027-quelles-sont-les-propositions-de-jean-luc-melenchon-sur-le-logement",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-07T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Territoires",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Présidentielle 2027 : les propositions de Jean-Luc Mélenchon sur le logement."
+    },
+    {
+      "id": "ab3346c847e89401",
+      "title": "Vente d’un local commercial : pas d’honoraires d’agence pour un locataire qui exerce son droit de préférence",
+      "summary": "son tour d’horizon des propositions pour la présidentielle de 2027. Décryptage. Le 07/10/2026 à 13H48 Le locataire commercial qui exerce son droit de préférence n’a pas à supporter les honoraires de négociation de l’agent immobilier. S’il les a payés, il peut en obtenir la restitution, même en sachant qu’ils n’étaient pas dus. Maître Cyril Sabatié décrypte un arrêt rendu le 1er octobre 2026 et ses conséquences pour les profes",
+      "url": "https://www.journaldelagence.com/1414047-vente-dun-local-commercial-pas-dhonoraires-dagence-pour-le-locataire-qui-exerce-son-droit-de-preference",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-07T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Territoires",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Vente d’un local commercial : pas d’honoraires d’agence pour un locataire qui exerce son droit de préférence."
     },
     {
       "id": "b43806586176ad5e",
@@ -129,7 +192,7 @@
     {
       "id": "2797138f410f32d6",
       "title": "Immobilier : New York en tête des grandes fortunes de moins de 40 ans",
-      "summary": "Immobilier : New York en tête des grandes fortunes de moins de 40 ans",
+      "summary": "Luxe",
       "url": "https://www.mysweetimmo.com/2026/10/06/immobilier-new-york-en-tete-des-grandes-fortunes-de-moins-de-40-ans/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -734,7 +797,7 @@
     {
       "id": "3d5cb78726683cfe",
       "title": "Plus-value immobilière : Les notaires veulent passer de 30 à 22 ans",
-      "summary": "Fiscalite",
+      "summary": "Plus-value immobilière : Les notaires veulent passer de 30 à 22 ans",
       "url": "https://www.mysweetimmo.com/2026/09/30/plus-value-immobiliere-les-notaires-veulent-passer-de-30-a-22-ans/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -750,7 +813,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Plus-value immobilière : Les notaires veulent passer de 30 à 22 ans."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Plus-value immobilière : Les notaires veulent passer de 30 à 22 ans."
     },
     {
       "id": "e36ffca62d0dfa10",
@@ -1049,7 +1112,7 @@
     {
       "id": "9259fa7e75b88c9f",
       "title": "Crédit immobilier : Le taux d’usure passe à 5,40%",
-      "summary": "Investir / Financer",
+      "summary": "Crédit immobilier : Le taux d’usure passe à 5,40%",
       "url": "https://www.mysweetimmo.com/2026/09/29/credit-immobilier-le-taux-dusure-passe-a-540/",
       "source": "MySweetImmo",
       "source_level": "C",
