@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-07T13:31:53+00:00",
+  "generated_at": "2026-10-07T23:09:33+00:00",
   "items": [
+    {
+      "id": "0c1e8093029e8672",
+      "title": "De nouvelles données sur les loyers sont disponibles",
+      "summary": "07 octobre 2026 Les Observatoires locaux des loyers ( OLL ) actualisent annuellement leurs productions statistiques et des résultats 2025 sont désormais disponibles pour les territoires suivants : agglomération de Lorient, de Vannes, d’Auray Quiberon, d’Aix-les-Bains,…",
+      "url": "https://www.observatoires-des-loyers.org/connaitre-les-loyers/carte-des-niveaux-de-loyers",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-07T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Territoires",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : De nouvelles données sur les loyers sont disponibles."
+    },
     {
       "id": "da7a638e13fea1e3",
       "title": "Les résultats de votre agence baissent ? Cherchez la cause avant d’augmenter la pression",
@@ -26,7 +47,7 @@
     {
       "id": "6e4bad3b5af15126",
       "title": "Crédit immobilier : LCL ouvre la porte aux travailleurs indépendants et aux freelances",
-      "summary": "Nouveau Société",
+      "summary": "Société",
       "url": "https://www.mysweetimmo.com/2026/10/07/credit-immobilier-lcl-ouvre-la-porte-aux-travailleurs-independants-et-aux-freelances/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -85,6 +106,46 @@
       "territory": "France",
       "topic": "Territoires",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Vente d’un local commercial : pas d’honoraires d’agence pour un locataire qui exerce son droit de préférence."
+    },
+    {
+      "id": "5172dd0dddedf02a",
+      "title": "Mobili’Femme donne rendez-vous aux pros de l’immobilier le 16 octobre pour un cocktail caritatif",
+      "summary": "7 octobre 2026 - Les professionnels de l’immobilier sont invités, par Les agents immobiliers ont du cœur, à découvrir la plateforme MOBILI’Femme dans les locaux du Figaro [...]",
+      "url": "https://immo2.pro/actualite-immobilier/mobilifemme-donne-rendez-vous-aux-pros-de-limmobilier-le-16-octobre-pour-un-cocktail-caritatif/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-07T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Mobili’Femme donne rendez-vous aux pros de l’immobilier le 16 octobre pour un cocktail caritatif."
+    },
+    {
+      "id": "4f4288ba2d258e6e",
+      "title": "Proptech : Joe AI lève 2 millions d’euros pour automatiser le traitement des leads immobiliers",
+      "summary": "7 octobre 2026 - Joe AI a annoncé une levée de fonds de 2 millions d’euros. Avec ce tour de table mené par Xplore et le soutien de Plug and Play Ventures, la jeune pousse souhaite […]",
+      "url": "https://immo2.pro/actualite-immobilier/proptech-joe-ai-leve-2-millions-deuros-pour-automatiser-le-traitement-des-leads-immobiliers/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-07T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Proptech : Joe AI lève 2 millions d’euros pour automatiser le traitement des leads immobiliers."
     },
     {
       "id": "b43806586176ad5e",
@@ -3382,27 +3443,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : DPE 2027 : changement de statut pour 300 000 passoires thermiques."
-    },
-    {
-      "id": "0c1e8093029e8672",
-      "title": "De nouvelles données sur les loyers sont disponibles",
-      "summary": "06 septembre 2026 Les Observatoires locaux des loyers ( OLL ) actualisent annuellement leurs productions statistiques et des résultats 2025 sont désormais disponibles pour les territoires suivants : agglomération de Lorient, de Vannes, d’Auray Quiberon, d’Aix-les-Bains,…",
-      "url": "https://www.observatoires-des-loyers.org/connaitre-les-loyers/carte-des-niveaux-de-loyers",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "territoires",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-06T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Territoires",
-      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : De nouvelles données sur les loyers sont disponibles."
     },
     {
       "id": "0b88468604d15b7f",
