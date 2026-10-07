@@ -1,8 +1,28 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-06T18:34:31+00:00",
+  "generated_at": "2026-10-07T06:07:10+00:00",
   "items": [
+    {
+      "id": "da7a638e13fea1e3",
+      "title": "Les résultats de votre agence baissent ? Cherchez la cause avant d’augmenter la pression",
+      "summary": "Le 07/10/2026 à 07H09 Moins de mandats, des relances qui s’espacent, un CRM mal renseigné… Face à des résultats en baisse, le réflexe d'un dirigeant d'agence immobilière est souvent de réclamer davantage d’efforts. Mais encore faut-il comprendre ce qui bloque. Sabrina Robles Lebailly montre comment la méthode des « 5 pourquoi » aide les dirigeants d’agences à dépasser les symptômes pour identifier les causes et adapter leur ac",
+      "url": "https://www.journaldelagence.com/1414016-les-resultats-de-votre-agence-baissent-cherchez-la-cause-avant-daugmenter-la-pression",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-07T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Les résultats de votre agence baissent ? Cherchez la cause avant d’augmenter la pression."
+    },
     {
       "id": "b43806586176ad5e",
       "title": "Nouvelle Parole d'expert : Quelle est la protection apportée par un dossier de surendettement vis-à-vis de l’expulsion ?",
@@ -67,7 +87,7 @@
     {
       "id": "665701111a7f8668",
       "title": "Agents immobiliers et IA: Serez-vous recommandés par ChatGPT, Claude ou Gemini ?",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/10/06/agents-immobiliers-et-ia-serez-vous-recommandes-par-chatgpt-claude-ou-gemini/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -88,7 +108,7 @@
     {
       "id": "6f23b83e9b6fa595",
       "title": "Proptech : Bricks.co prépare le rachat d’Izola Bank pour bâtir sa banque de l’immobilier",
-      "summary": "Nouveau Investir / Financer",
+      "summary": "Investir / Financer",
       "url": "https://www.mysweetimmo.com/2026/10/06/avec-le-rachat-izola-bank-bricks-co-veut-batir-la-banque-digitale-de-limmobilier/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -109,7 +129,7 @@
     {
       "id": "2797138f410f32d6",
       "title": "Immobilier : New York en tête des grandes fortunes de moins de 40 ans",
-      "summary": "Nouveau Luxe",
+      "summary": "Immobilier : New York en tête des grandes fortunes de moins de 40 ans",
       "url": "https://www.mysweetimmo.com/2026/10/06/immobilier-new-york-en-tete-des-grandes-fortunes-de-moins-de-40-ans/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -130,7 +150,7 @@
     {
       "id": "efa0da589e7432e5",
       "title": "PLF 2027 : quelles mesures impactent l’immobilier ?",
-      "summary": "Le 06/10/2026 à 15H20 Accession, investissement locatif, aides au logement, rénovation énergétique… Le projet de loi de finances pour 2027, déposé à l’Assemblée nationale le 1er octobre dernier, comporte plusieurs mesures qui pourraient directement affecter le marché du logement. Tour d’horizon des principales dispositions à retenir pour les professionnels de l’immobilier. [Dossier exclusif] Immobilier de prestige : l’art et l",
+      "summary": "s et adapter leur accompagnement, sans transformer l’échange en interrogatoire. Le 06/10/2026 à 15H20 Accession, investissement locatif, aides au logement, rénovation énergétique… Le projet de loi de finances pour 2027, déposé à l’Assemblée nationale le 1er octobre dernier, comporte plusieurs mesures qui pourraient directement affecter le marché du logement. Tour d’horizon des principales dispositions à retenir pour les profe",
       "url": "https://www.journaldelagence.com/1414034-plf-2027-quelles-mesures-impactent-limmobilier",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -147,6 +167,27 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : PLF 2027 : quelles mesures impactent l’immobilier ?."
+    },
+    {
+      "id": "2b362f8b0a74d3b2",
+      "title": "Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spécialiste du LMNP. 17 Septembre 2026",
+      "summary": "inconvénients que nous allons vous détailler dans cet article. 06 Octobre 2026 Déclaration LMNP 2026 : le guide complet Si vous êtes ici, c'est que vous avez décidé de louer sous statut LMNP. Bon choix ! Maintenant, il reste la partie des papiers avec la fameuse déclaration LMNP. Pas de panique, nous vous guidons dans cet article ! 15 Septembre 2026 LMNP et charges déductibles 2026 : explications Le statut LMNP propose un cer",
+      "url": "https://horiz.io/investissement-immobilier/interview-de-florian-investir-en-meuble-en-lmnp",
+      "source": "Horiz.io",
+      "source_level": "D",
+      "category": "investir",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-10-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 66,
+      "relevance": 66,
+      "territory": "France",
+      "topic": "Investir",
+      "why_it_matters": "Source expert / blog à confronter aux données officielles. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spéciali…."
     },
     {
       "id": "af416194883a72eb",
@@ -2173,27 +2214,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source expert / blog à confronter aux données officielles. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : 4,3 % en novembre 2023."
-    },
-    {
-      "id": "2b362f8b0a74d3b2",
-      "title": "Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spécialiste du LMNP. 17 Septembre 2026",
-      "summary": "Déclaration LMNP 2026 : le guide complet Si vous êtes ici, c'est que vous avez décidé de louer sous statut LMNP. Bon choix ! Maintenant, il reste la partie des papiers avec la fameuse déclaration LMNP. Pas de panique, nous vous guidons dans cet article ! 15 Septembre 2026 LMNP et charges déductibles 2026 : explications Le statut LMNP propose un certain nombre d’avantages, mais également de spécificités, notamment concernant le",
-      "url": "https://horiz.io/investissement-immobilier/interview-de-florian-investir-en-meuble-en-lmnp",
-      "source": "Horiz.io",
-      "source_level": "D",
-      "category": "investir",
-      "audiences": [
-        "investisseur",
-        "pro",
-        "particulier"
-      ],
-      "published_at": "2026-09-17T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 66,
-      "relevance": 66,
-      "territory": "France",
-      "topic": "Investir",
-      "why_it_matters": "Source expert / blog à confronter aux données officielles. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spéciali…."
     },
     {
       "id": "8fcb6a3461823392",
