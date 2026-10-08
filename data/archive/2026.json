@@ -1,8 +1,50 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-07T23:09:33+00:00",
+  "generated_at": "2026-10-08T06:12:33+00:00",
   "items": [
+    {
+      "id": "ead559ae658ee1f3",
+      "title": "Immobilier : Un bilan contrasté au 3e trimestre chez Orpi",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/10/08/immobilier-un-bilan-contraste-au-3e-trimestre-chez-orpi/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Un bilan contrasté au 3e trimestre chez Orpi."
+    },
+    {
+      "id": "63335c50fbd2d4d4",
+      "title": "Agents immobiliers : quatre habitudes pour mieux vivre vos journées à rallonge",
+      "summary": "Le 08/10/2026 à 06H46 Un déjeuner entre deux visites, des cafés pour tenir, un dernier mail avant de dormir… Dans l’immobilier, les journées débordent facilement sur les besoins du corps. Comment préserver son énergie quand le planning change sans cesse ? Gaëlle Coulm, praticienne en thérapie nutritionnelle, propose quatre réflexes simples pour mieux manger, s’hydrater et récupérer, sans bouleverser son organisation. Président",
+      "url": "https://www.journaldelagence.com/1414022-agents-immobiliers-quatre-habitudes-pour-mieux-vivre-vos-journees-a-rallonge",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : quatre habitudes pour mieux vivre vos journées à rallonge."
+    },
     {
       "id": "0c1e8093029e8672",
       "title": "De nouvelles données sur les loyers sont disponibles",
@@ -68,11 +110,11 @@
     {
       "id": "ea30442c8396b276",
       "title": "Présidentielle 2027 : les propositions de Jean-Luc Mélenchon sur le logement",
-      "summary": "Le 07/10/2026 à 14H05 Construction, rénovation énergétique, permis de louer, transmission… Jean-Luc Mélenchon défend une intervention publique renforcée pour répondre à la crise du logement. Après Bruno Retailleau et Marine Le Pen, le Journal de l’Agence poursuit son tour d’horizon des propositions pour la présidentielle de 2027. Décryptage. Vente d’un local commercial : pas d’honoraires d’agence pour un locataire qui exerce s",
+      "summary": "pour mieux manger, s’hydrater et récupérer, sans bouleverser son organisation. Le 07/10/2026 à 14H05 Construction, rénovation énergétique, permis de louer, transmission… Jean-Luc Mélenchon défend une intervention publique renforcée pour répondre à la crise du logement. Après Bruno Retailleau et Marine Le Pen, le Journal de l’Agence poursuit son tour d’horizon des propositions pour la présidentielle de 2027. Décryptage. Vente",
       "url": "https://www.journaldelagence.com/1414045-presidentielle-2027-quelles-sont-les-propositions-de-jean-luc-melenchon-sur-le-logement",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "territoires",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
@@ -83,7 +125,7 @@
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Territoires",
+      "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Présidentielle 2027 : les propositions de Jean-Luc Mélenchon sur le logement."
     },
     {
@@ -253,7 +295,7 @@
     {
       "id": "2797138f410f32d6",
       "title": "Immobilier : New York en tête des grandes fortunes de moins de 40 ans",
-      "summary": "Luxe",
+      "summary": "Immobilier : New York en tête des grandes fortunes de moins de 40 ans",
       "url": "https://www.mysweetimmo.com/2026/10/06/immobilier-new-york-en-tete-des-grandes-fortunes-de-moins-de-40-ans/",
       "source": "MySweetImmo",
       "source_level": "C",
