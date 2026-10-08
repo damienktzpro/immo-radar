@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-08T06:12:33+00:00",
+  "generated_at": "2026-10-08T13:38:03+00:00",
   "items": [
+    {
+      "id": "07d6510fb2a19333",
+      "title": "Impayé de loyer : à qui s’adresser ? L’ADIL peut vous aider à y voir plus clair",
+      "summary": "08 octobre 2026 Un impayé de loyer peut rapidement devenir une source d’inquiétude, aussi bien pour le locataire que pour le propriétaire bailleur. Face à une situation d’impayé, plusieurs interlocuteurs peuvent être concernés : bailleur, Caf ou MSA , travailleur…",
+      "url": "https://www.anil.org/actualites-evenements/details/impaye-de-loyer-a-qui-sadresser-ladil-peut-vous-aider-a-y-voir-plus-clair/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-10-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Impayé de loyer : à qui s’adresser ? L’ADIL peut vous aider à y voir plus clair."
+    },
     {
       "id": "ead559ae658ee1f3",
       "title": "Immobilier : Un bilan contrasté au 3e trimestre chez Orpi",
@@ -27,23 +48,22 @@
     {
       "id": "63335c50fbd2d4d4",
       "title": "Agents immobiliers : quatre habitudes pour mieux vivre vos journées à rallonge",
-      "summary": "Le 08/10/2026 à 06H46 Un déjeuner entre deux visites, des cafés pour tenir, un dernier mail avant de dormir… Dans l’immobilier, les journées débordent facilement sur les besoins du corps. Comment préserver son énergie quand le planning change sans cesse ? Gaëlle Coulm, praticienne en thérapie nutritionnelle, propose quatre réflexes simples pour mieux manger, s’hydrater et récupérer, sans bouleverser son organisation. Président",
+      "summary": "immobilier habilité ? Ce que les professionnels doivent retenir de ce jugement. Le 08/10/2026 à 06H46 Un déjeuner entre deux visites, des cafés pour tenir, un dernier mail avant de dormir… Dans l’immobilier, les journées débordent facilement sur les besoins du corps. Comment préserver son énergie quand le planning change sans cesse ? Gaëlle Coulm, praticienne en thérapie nutritionnelle, propose quatre réflexes simples pour mi",
       "url": "https://www.journaldelagence.com/1414022-agents-immobiliers-quatre-habitudes-pour-mieux-vivre-vos-journees-a-rallonge",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "marche",
+      "category": "pro",
       "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
+        "pro",
+        "investisseur"
       ],
       "published_at": "2026-10-08T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : quatre habitudes pour mieux vivre vos journées à rallonge."
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Agents immobiliers : quatre habitudes pour mieux vivre vos journées à rallonge."
     },
     {
       "id": "0c1e8093029e8672",
@@ -316,7 +336,7 @@
     {
       "id": "efa0da589e7432e5",
       "title": "PLF 2027 : quelles mesures impactent l’immobilier ?",
-      "summary": "s et adapter leur accompagnement, sans transformer l’échange en interrogatoire. Le 06/10/2026 à 15H20 Accession, investissement locatif, aides au logement, rénovation énergétique… Le projet de loi de finances pour 2027, déposé à l’Assemblée nationale le 1er octobre dernier, comporte plusieurs mesures qui pourraient directement affecter le marché du logement. Tour d’horizon des principales dispositions à retenir pour les profe",
+      "summary": "s et adapter leur accompagnement, sans transformer l’échange en interrogatoire. Le 06/10/2026 à 15H20 Accession à la propriété, investissement locatif, aides au logement, rénovation énergétique… Le projet de loi de finances pour 2027, déposé à l’Assemblée nationale le 1er octobre dernier, comporte plusieurs mesures qui pourraient directement affecter le marché du logement. Tour d’horizon des principales dispositions à retenir",
       "url": "https://www.journaldelagence.com/1414034-plf-2027-quelles-mesures-impactent-limmobilier",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -1359,27 +1379,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vente interactive : « En 2027, 50 % de nos conseillers utiliseront Immofit » (O. Le Gallo, DigitRE Group) Réseau de mandataires…."
     },
     {
-      "id": "6864afa0bc9647bf",
-      "title": "Baux commerciaux : deux jours pour actualiser et sécuriser ses pratiques Services pour évaluer Contenu sponsorisé Lefebvre Dalloz Compétences. - © D.R.",
-      "summary": ") Réseau de mandataires Olivier Le Gallo, président de DigitRE Groupe. - © D.R. Foncia ADB : Zahir Keenoo quite ses fonctions « d’un commun accord » avec la direction Agence immobilière indépendante Président de Foncia ADB depuis octobre 2024, Zahir Keenoo quitte la présidence « d’un commun accord » avec la direction du groupe Emeria, maison mère de Foncia, indique le groupe le 28 septembre 2026. Zahir Keenoo quitte ses fonct",
-      "url": "https://www.immomatin.com/evaluation/services-evaluer/baux-commerciaux-deux-jours-pour-actualiser-et-securiser-ses-pratiques.html",
-      "source": "Immo Matin",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-28T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Baux commerciaux : deux jours pour actualiser et sécuriser ses pratiques Services pour évaluer Contenu sponsorisé Lefebvre Dall…."
-    },
-    {
       "id": "59afb9d01880d50b",
       "title": "idealista accélère : l’Adresse, Era et 6ème Avenue font à leur tour confiance au portail n° 1 en Europe Sites pour les professionnels Contenu sponsorisé idealista - © D.R.",
       "summary": ") Réseau de mandataires Olivier Le Gallo, président de DigitRE Groupe. - © D.R. Foncia ADB : Zahir Keenoo quitte ses fonctions « d’un commun accord » avec la direction Agence immobilière indépendante Président de Foncia ADB depuis octobre 2024, Zahir Keenoo quitte la présidence « d’un commun accord » avec la direction du groupe Emeria, maison mère de Foncia, indique le groupe le 28 septembre 2026. Zahir Keenoo quitte ses fonc",
@@ -1399,6 +1398,47 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : idealista accélère : l’Adresse, Era et 6ème Avenue font à leur tour confiance au portail n° 1 en Europe Sites pour les professi…."
+    },
+    {
+      "id": "17382ab933456531",
+      "title": "RENT 2026 : des usages de l’IA aux défis du logement",
+      "summary": "Le 08/10/2026 à 14H37 L’IA transforme les usages. La crise du logement appelle des réponses. Les 4 et 5 novembre à Paris, RENT réunira, pour cette 14e édition, les professionnels autour de ces deux défis. Dans cette optique, le salon s’inscrira au cœur de la première Semaine de l’immobilier et du logement, du 2 au 7 novembre. Explications. Coaching immobilier : PAP obtient gain de cause. Ce que les agents immobiliers doivent r",
+      "url": "https://www.journaldelagence.com/1414093-rent-2026-des-usages-de-lia-aux-defis-du-logement",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : RENT 2026 : des usages de l’IA aux défis du logement."
+    },
+    {
+      "id": "1a20474252e3ebf7",
+      "title": "Coaching immobilier : PAP obtient gain de cause. Ce que les agents immobiliers doivent retenir",
+      "summary": "mière Semaine de l’immobilier et du logement, du 2 au 7 novembre. Explications. Le 08/10/2026 à 13H08 Panneaux « À vendre », services de coaching, comparaison des tarifs d'agences : la FNAIM des Alpes-Maritimes contestait les pratiques de PAP. Le 28 septembre 2026, le tribunal de commerce de Nice a rejeté toutes ses demandes, écartant les accusations de pratiques commerciales trompeuses et de publicité comparative illicite. A",
+      "url": "https://www.journaldelagence.com/1414070-coaching-immobilier-pap-obtient-gain-de-cause-ce-que-les-agents-immobiliers-doivent-retenir",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Coaching immobilier : PAP obtient gain de cause. Ce que les agents immobiliers doivent retenir."
     },
     {
       "id": "4bdc739d80a38664",
@@ -2259,6 +2299,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Des chiffres, l'actu : cette semaine, facture salée pour l'emploi."
     },
     {
+      "id": "6afd6839ccb88d25",
+      "title": "Services pour évaluer Contenu sponsorisé Baux commerciaux : deux jours pour actualiser et sécuriser ses pratiques",
+      "summary": "positif Jeanbrun : « Nous sommes plutôt satisfaits du démarrage 2026 » (Nexity) Sites pour les professionnels Contenu sponsorisé SeLoger neuf lance Top Position pour booster la visibilité des programmes Services pour évaluer Diagnostic immobilier : Création de l’UFD3I, l’union de trois fédérations de diagnostiqueurs Syndic de copropriété : la Cour de cassation conforte le modèle de Matera Sites d'évaluation La Cour de cassati",
+      "url": "https://www.immomatin.com/evaluation/services-evaluer/baux-commerciaux-deux-jours-pour-actualiser-et-securiser-ses-pratiques.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Services pour évaluer Contenu sponsorisé Baux commerciaux : deux jours pour actualiser et sécuriser ses pratiques."
+    },
+    {
       "id": "5bdc805aca399f17",
       "title": "Au-delà du prix et de la vente : ce qui fait vraiment la satisfaction d’un vendeur",
       "summary": "les professionnels de l’immobilier doivent savoir pour informer leurs clients. Le 17/09/2026 à 06H29 « On aurait peut-être pu en tirer un peu plus… » Même après une vente réussie, le doute peut subsister chez le vendeur. Car obtenir le bon prix ne suffit pas toujours à satisfaire pleinement un vendeur : encore faut-il que celui-ci mesure la valeur du travail accompli par l’agent immobilier. Nordine Mouaouia décrypte les resso",
@@ -2359,6 +2420,69 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Affaire Matera : jusqu’où peut-on externaliser les missions d’un syndic de copropriété ?."
+    },
+    {
+      "id": "1d23903fa583602e",
+      "title": "Agence immobilière indépendante Dispositif Jeanbrun : « Nous sommes plutôt satisfaits du démarrage 2026 » (Nexity)",
+      "summary": "sse, Era et Sixième Avenue font à leur tour confiance au portail n° 1 en Europe Services pour évaluer Contenu sponsorisé Baux commerciaux : deux jours pour actualiser et sécuriser ses pratiques Sites pour les professionnels Contenu sponsorisé SeLoger neuf lance Top Position pour booster la visibilité des programmes Services pour évaluer Diagnostic immobilier : Création de l’UFD3I, l’union de trois fédérations de diagnostiqueu",
+      "url": "https://www.immomatin.com/franchise/agence-immobiliere-independante/dispositif-jeanbrun-nous-sommes-plutot-satisfaits-du-demarrage-2026-nexity.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Agence immobilière indépendante Dispositif Jeanbrun : « Nous sommes plutôt satisfaits du démarrage 2026 » (Nexity)."
+    },
+    {
+      "id": "a4d2a9a1208a8de2",
+      "title": "Sites pour les professionnels Contenu sponsorisé SeLoger neuf lance Top Position pour booster la visibilité des programmes",
+      "summary": "sorisé Baux commerciaux : deux jours pour actualiser et sécuriser ses pratiques Services pour évaluer Diagnostic immobilier : Création de l’UFD3I, l’union de trois fédérations de diagnostiqueurs Syndic de copropriété : la Cour de cassation conforte le modèle de Matera Sites d'évaluation La Cour de cassation a mis un terme, le 17 septembre 2026, à un contentieux opposant Matera à plusieurs organisations et acteurs de l’adminis",
+      "url": "https://www.immomatin.com/portails/sites-professionnels/seloger-neuf-lance-top-position-pour-booster-la-visibilite-des-programmes.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Sites pour les professionnels Contenu sponsorisé SeLoger neuf lance Top Position pour booster la visibilité des programmes."
+    },
+    {
+      "id": "b7f29c2b50750774",
+      "title": "Services pour évaluer Diagnostic immobilier : Création de l’UFD3I, l’union de trois fédérations de diagnostiqueurs",
+      "summary": "orisé SeLoger neuf lance Top Position pour booster la visibilité des programmes Syndic de copropriété : la Cour de cassation conforte le modèle de Matera Sites d'évaluation La Cour de cassation a mis un terme, le 17 septembre 2026, à un contentieux opposant Matera à plusieurs organisations et acteurs de l’administration de biens. En rejetant leur pourvoi, elle confirme que les services proposés par la proptech aux... La Cour",
+      "url": "https://www.immomatin.com/evaluation/services-evaluer/diagnostic-immobilier-creation-de-l-ufd3i-l-union-de-trois-federations-de-diagnostiqueurs.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Services pour évaluer Diagnostic immobilier : Création de l’UFD3I, l’union de trois fédérations de diagnostiqueurs."
     },
     {
       "id": "538b25ded75bbbb5",
