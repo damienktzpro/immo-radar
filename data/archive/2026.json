@@ -1,12 +1,12 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-09T06:24:06+00:00",
+  "generated_at": "2026-10-09T13:35:57+00:00",
   "items": [
     {
       "id": "5ef31a938467f36b",
       "title": "Facture d’électricité : comment alléger les charges de son agence ?",
-      "summary": "Le 09/10/2026 à 00H00 La gestion d’une agence immobilière implique de nombreux frais et charges chaque mois. Avec l’augmentation du coût de l’électricité, des factures d’énergie élevées peuvent constituer un poids sur un budget. Il apparaît alors essentiel de trouver une méthode pour comparer efficacement les offres. IA et immobilier : leboncoin immo adapte ses offres aux nouveaux usages Le 09/10/2026 à 00H00 Des réponses immé",
+      "summary": "l’importance de vérifier les chiffres derrière un argumentaire bien construit. Le 09/10/2026 à 00H00 La gestion d’une agence immobilière implique de nombreux frais et charges chaque mois. Avec l’augmentation du coût de l’électricité, des factures d’énergie élevées peuvent constituer un poids sur un budget. Il apparaît alors essentiel de trouver une méthode pour comparer efficacement les offres. IA et immobilier : leboncoin im",
       "url": "https://www.journaldelagence.com/1414040-facture-delectricite-comment-alleger-les-charges-de-son-agence",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -84,6 +84,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Jacques Attali aux professionnels de l'immobilier : « Vous êtes très mauvais en termes de lobby."
+    },
+    {
+      "id": "f65e281d5ba294ca",
+      "title": "Estimation immobilière : un prix convaincant généré par l’IA est-il un prix fiable ?",
+      "summary": "Le 09/10/2026 à 08H55 Demander à une IA d’estimer un logement prend quelques secondes. Mais quelle confiance accorder au résultat ? Yanport a comparé deux modèles d’IA générative à son propre outil d’évaluation sur 1 071 biens. Des écarts de prix aux réponses variables pour un même logement, ce test rappelle l’importance de vérifier les chiffres derrière un argumentaire bien construit. Facture d’électricité : comment alléger l",
+      "url": "https://www.journaldelagence.com/1414109-estimation-immobiliere-un-prix-convaincant-genere-par-lia-est-il-un-prix-fiable",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Estimation immobilière : un prix convaincant généré par l’IA est-il un prix fiable ?."
     },
     {
       "id": "07d6510fb2a19333",
@@ -167,6 +188,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : SeLoger Neuf propose aux promoteurs d’augmenter leur visibilité avec Top Position."
+    },
+    {
+      "id": "abb0d06bf02698b6",
+      "title": "Logement : les députés votent et élargissent le nouveau \"PTZ Familles\"",
+      "summary": "L'Essentiel 08/10/2026 Baisse de la natalité : le logement en question",
+      "url": "https://www.batiactu.com/edito/plf-2027-ptz-familles-mis-sur-rails-a-assemblee-75558.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : les députés votent et élargissent le nouveau \"PTZ Familles\"."
     },
     {
       "id": "0c1e8093029e8672",
