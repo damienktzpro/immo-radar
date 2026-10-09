@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-09T13:35:57+00:00",
+  "generated_at": "2026-10-09T22:43:01+00:00",
   "items": [
     {
       "id": "5ef31a938467f36b",
@@ -67,7 +67,7 @@
     {
       "id": "d896c63d0a87bd9a",
       "title": "Jacques Attali aux professionnels de l'immobilier : « Vous êtes très mauvais en termes de lobby",
-      "summary": "Nouveau Vie Pro »",
+      "summary": "Vie Pro »",
       "url": "https://www.mysweetimmo.com/2026/10/09/jacques-attali-aux-professionnels-de-limmobilier-il-faut-faire-rever-avec-la-ville/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -88,7 +88,7 @@
     {
       "id": "f65e281d5ba294ca",
       "title": "Estimation immobilière : un prix convaincant généré par l’IA est-il un prix fiable ?",
-      "summary": "Le 09/10/2026 à 08H55 Demander à une IA d’estimer un logement prend quelques secondes. Mais quelle confiance accorder au résultat ? Yanport a comparé deux modèles d’IA générative à son propre outil d’évaluation sur 1 071 biens. Des écarts de prix aux réponses variables pour un même logement, ce test rappelle l’importance de vérifier les chiffres derrière un argumentaire bien construit. Facture d’électricité : comment alléger l",
+      "summary": "tech B2B pendant plus de 25 ans. Olivier Martineau, CPTO, est entrepreneur […] Le 09/10/2026 à 08H55 Demander à une IA d’estimer un logement prend quelques secondes. Mais quelle confiance accorder au résultat ? Yanport a comparé deux modèles d’IA générative à son propre outil d’évaluation sur 1 071 biens. Des écarts de prix aux réponses variables pour un même logement, ce test rappelle l’importance de vérifier les chiffres de",
       "url": "https://www.journaldelagence.com/1414109-estimation-immobiliere-un-prix-convaincant-genere-par-lia-est-il-un-prix-fiable",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -105,6 +105,47 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Estimation immobilière : un prix convaincant généré par l’IA est-il un prix fiable ?."
+    },
+    {
+      "id": "80d50dd0293b68ba",
+      "title": "OMNY connecte vos biens aux IA",
+      "summary": "Le 09/10/2026 à 15H47 Les fondateurs et le pitchFondée en 2025 par Franck Le Tendre et Olivier Martineau, Omny part d’un double constat. Les particuliers se perdent dans des centaines d’annonces, et les professionnels croulent sous des contacts mal qualifiés. Franck Le Tendre a dirigé des entreprises tech B2B pendant plus de 25 ans. Olivier Martineau, CPTO, est entrepreneur […] Estimation immobilière : un prix convaincant géné",
+      "url": "https://www.journaldelagence.com/1414122-omny-connecte-vos-biens-aux-ia",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : OMNY connecte vos biens aux IA."
+    },
+    {
+      "id": "adc22a484e83893e",
+      "title": "Analyse Encadrement des loyers : des économies qui se chiffrent en centaines d'euros par an",
+      "summary": "09/10/2026 L'Essentiel Une dizaine de grandes villes défendent l'encadrement des loyers Zoom L'encadrement des loyers, de moins en moins respecté par les bailleurs ?",
+      "url": "https://www.batiactu.com/edito/encadrement-loyers-centaines-euros-economies-annuelles-75575.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Analyse Encadrement des loyers : des économies qui se chiffrent en centaines d'euros par an."
     },
     {
       "id": "07d6510fb2a19333",
