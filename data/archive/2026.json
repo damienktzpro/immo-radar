@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-08T23:25:15+00:00",
+  "generated_at": "2026-10-09T06:24:06+00:00",
   "items": [
     {
       "id": "5ef31a938467f36b",
@@ -63,6 +63,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Leadia : pourquoi Solution.immo a choisi de créer son propre logiciel immobilier ?."
+    },
+    {
+      "id": "d896c63d0a87bd9a",
+      "title": "Jacques Attali aux professionnels de l'immobilier : « Vous êtes très mauvais en termes de lobby",
+      "summary": "Nouveau Vie Pro »",
+      "url": "https://www.mysweetimmo.com/2026/10/09/jacques-attali-aux-professionnels-de-limmobilier-il-faut-faire-rever-avec-la-ville/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Jacques Attali aux professionnels de l'immobilier : « Vous êtes très mauvais en termes de lobby."
     },
     {
       "id": "07d6510fb2a19333",
@@ -376,7 +397,7 @@
     {
       "id": "6f23b83e9b6fa595",
       "title": "Proptech : Bricks.co prépare le rachat d’Izola Bank pour bâtir sa banque de l’immobilier",
-      "summary": "Investir / Financer",
+      "summary": "Proptech : Bricks.co prépare le rachat d’Izola Bank pour bâtir sa banque de l’immobilier",
       "url": "https://www.mysweetimmo.com/2026/10/06/avec-le-rachat-izola-bank-bricks-co-veut-batir-la-banque-digitale-de-limmobilier/",
       "source": "MySweetImmo",
       "source_level": "C",
