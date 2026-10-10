@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-10-10T05:59:15+00:00",
+  "generated_at": "2026-10-10T12:38:54+00:00",
   "version": "7.1",
   "items": [
     {
-      "id": "d896c63d0a87bd9a",
-      "title": "Jacques Attali aux professionnels de l'immobilier : « Vous êtes très mauvais en termes de lobby",
+      "id": "235886a823d884e8",
+      "title": "Journée mondiale de la santé mentale",
+      "summary": "10 octobre 2026 Le logement, c’est un lieu où l’on vit, où l’on se repose, où l’on doit pouvoir se sentir en sécurité. Lorsqu’il est dégradé, indigne, trop cher ou source de difficultés, il peut aussi devenir une source de stress et peser sur le bien-être au…",
+      "url": "https://www.anil.org/actualites-evenements/details/journee-mondiale-de-la-sante-mentale/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-10T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Journée mondiale de la santé mentale."
+    },
+    {
+      "id": "1a15581fe76eb1d6",
+      "title": "Jacques Attali aux professionnels de l’immobilier : « Vous êtes très mauvais en termes de lobby",
       "summary": "Vie Pro »",
       "url": "https://www.mysweetimmo.com/2026/10/09/jacques-attali-aux-professionnels-de-limmobilier-il-faut-faire-rever-avec-la-ville/",
       "source": "MySweetImmo",
@@ -21,7 +42,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Jacques Attali aux professionnels de l'immobilier : « Vous êtes très mauvais en termes de lobby."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Jacques Attali aux professionnels de l’immobilier : « Vous êtes très mauvais en termes de lobby."
     },
     {
       "id": "80d50dd0293b68ba",
@@ -561,27 +582,6 @@
       "why_it_matters": "Source expert / blog à confronter aux données officielles. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spéciali…."
     },
     {
-      "id": "b4fcc582a65e51a6",
-      "title": "Agents immobiliers : Transformez vos annonces en vidéos sans montage",
-      "summary": "Vie Pro",
-      "url": "https://www.mysweetimmo.com/2026/10/05/agent-immobilier-transformez-vos-annonces-en-videos-sans-montage/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-05T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : Transformez vos annonces en vidéos sans montage."
-    },
-    {
       "id": "88a89558019a6c00",
       "title": "Immobilier Paris : Les moins de 40 ans prennent le pouvoir",
       "summary": "Marché immobilier",
@@ -601,6 +601,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Paris : Les moins de 40 ans prennent le pouvoir."
+    },
+    {
+      "id": "09cd51f755d37875",
+      "title": "PLF 2027 : Ce qui changerait pour les propriétaires de logements loués meublés",
+      "summary": "Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/10/05/plf-2027-ce-qui-changerait-pour-les-proprietaires-de-logements-loues-meubles/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : PLF 2027 : Ce qui changerait pour les propriétaires de logements loués meublés."
     },
     {
       "id": "67b842fb23f095f8",
@@ -1629,10 +1650,10 @@
     }
   ],
   "source_stats": {
+    "ANIL": 10,
     "MySweetImmo": 16,
     "Journal de l'Agence": 16,
     "Batiactu": 13,
-    "ANIL": 9,
     "Immobilier 2.0": 16,
     "Horiz.io": 2,
     "Légifrance": 1,
@@ -1646,15 +1667,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 78,
-    "rejected": 1348,
+    "retained": 79,
+    "rejected": 1349,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-10T05:58:27+00:00",
+        "last_success": "2026-10-10T12:38:19+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1662,7 +1683,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-10T05:58:30+00:00",
+        "last_success": "2026-10-10T12:38:21+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1670,7 +1691,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-10T05:58:31+00:00",
+        "last_success": "2026-10-10T12:38:22+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1678,7 +1699,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-10T05:58:32+00:00",
+        "last_success": "2026-10-10T12:38:23+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1686,7 +1707,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-10T05:58:52+00:00",
+        "last_success": "2026-10-10T12:38:38+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1694,7 +1715,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-10T05:59:04+00:00",
+        "last_success": "2026-10-10T12:38:46+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1702,15 +1723,15 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-10T05:59:04+00:00",
+        "last_success": "2026-10-10T12:38:46+00:00",
         "fallback": false
       },
       "ANIL": {
         "level": "B",
         "ok": true,
         "status": "ok",
-        "retained": 9,
-        "last_success": "2026-10-10T05:59:05+00:00",
+        "retained": 10,
+        "last_success": "2026-10-10T12:38:47+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1718,7 +1739,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-10T05:59:06+00:00",
+        "last_success": "2026-10-10T12:38:48+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1726,7 +1747,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-10T05:59:07+00:00",
+        "last_success": "2026-10-10T12:38:49+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1734,7 +1755,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-10T05:59:08+00:00",
+        "last_success": "2026-10-10T12:38:50+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1742,7 +1763,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-10T05:59:09+00:00",
+        "last_success": "2026-10-10T12:38:51+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1750,7 +1771,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-10-10T05:59:11+00:00",
+        "last_success": "2026-10-10T12:38:52+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1758,7 +1779,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-10T05:59:12+00:00",
+        "last_success": "2026-10-10T12:38:53+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1766,7 +1787,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-10T05:59:14+00:00",
+        "last_success": "2026-10-10T12:38:53+00:00",
         "fallback": false
       }
     }

@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-10T05:59:23+00:00",
+  "generated_at": "2026-10-10T12:39:12+00:00",
   "items": [
+    {
+      "id": "235886a823d884e8",
+      "title": "Journée mondiale de la santé mentale",
+      "summary": "10 octobre 2026 Le logement, c’est un lieu où l’on vit, où l’on se repose, où l’on doit pouvoir se sentir en sécurité. Lorsqu’il est dégradé, indigne, trop cher ou source de difficultés, il peut aussi devenir une source de stress et peser sur le bien-être au…",
+      "url": "https://www.anil.org/actualites-evenements/details/journee-mondiale-de-la-sante-mentale/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-10T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Journée mondiale de la santé mentale."
+    },
     {
       "id": "5ef31a938467f36b",
       "title": "Facture d’électricité : comment alléger les charges de son agence ?",
@@ -65,8 +86,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Leadia : pourquoi Solution.immo a choisi de créer son propre logiciel immobilier ?."
     },
     {
-      "id": "d896c63d0a87bd9a",
-      "title": "Jacques Attali aux professionnels de l'immobilier : « Vous êtes très mauvais en termes de lobby",
+      "id": "1a15581fe76eb1d6",
+      "title": "Jacques Attali aux professionnels de l’immobilier : « Vous êtes très mauvais en termes de lobby",
       "summary": "Vie Pro »",
       "url": "https://www.mysweetimmo.com/2026/10/09/jacques-attali-aux-professionnels-de-limmobilier-il-faut-faire-rever-avec-la-ville/",
       "source": "MySweetImmo",
@@ -83,7 +104,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Jacques Attali aux professionnels de l'immobilier : « Vous êtes très mauvais en termes de lobby."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Jacques Attali aux professionnels de l’immobilier : « Vous êtes très mauvais en termes de lobby."
     },
     {
       "id": "f65e281d5ba294ca",
@@ -706,6 +727,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Zoom Canicules : les solutions des professionnels pour adapter les logements sous les toits."
+    },
+    {
+      "id": "09cd51f755d37875",
+      "title": "PLF 2027 : Ce qui changerait pour les propriétaires de logements loués meublés",
+      "summary": "Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/10/05/plf-2027-ce-qui-changerait-pour-les-proprietaires-de-logements-loues-meubles/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : PLF 2027 : Ce qui changerait pour les propriétaires de logements loués meublés."
     },
     {
       "id": "8b1495d4b9404609",
