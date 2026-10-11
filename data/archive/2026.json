@@ -1,8 +1,50 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-11T05:54:41+00:00",
+  "generated_at": "2026-10-11T12:58:18+00:00",
   "items": [
+    {
+      "id": "7022b46da7e1c31e",
+      "title": "Immobilier logistique : Les entreprises chinoises renforcent leur présence en France",
+      "summary": "Nouveau Économie et Business",
+      "url": "https://www.mysweetimmo.com/2026/10/11/immobilier-logistique-les-entreprises-chinoises-renforcent-leur-presence-en-france/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier logistique : Les entreprises chinoises renforcent leur présence en France."
+    },
+    {
+      "id": "1bf439dcdadf4efc",
+      "title": "Immobilier de santé : Les investissements battent un record",
+      "summary": "Nouveau Économie et Business",
+      "url": "https://www.mysweetimmo.com/2026/10/11/immobilier-de-sante-les-investissements-battent-un-record/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier de santé : Les investissements battent un record."
+    },
     {
       "id": "235886a823d884e8",
       "title": "Journée mondiale de la santé mentale",
@@ -316,7 +358,7 @@
     {
       "id": "6e4bad3b5af15126",
       "title": "Crédit immobilier : LCL ouvre la porte aux travailleurs indépendants et aux freelances",
-      "summary": "Société",
+      "summary": "Crédit immobilier : LCL ouvre la porte aux travailleurs indépendants et aux freelances",
       "url": "https://www.mysweetimmo.com/2026/10/07/credit-immobilier-lcl-ouvre-la-porte-aux-travailleurs-independants-et-aux-freelances/",
       "source": "MySweetImmo",
       "source_level": "C",
