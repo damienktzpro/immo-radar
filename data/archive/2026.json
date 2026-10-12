@@ -1,12 +1,12 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-12T06:05:59+00:00",
+  "generated_at": "2026-10-12T15:36:20+00:00",
   "items": [
     {
       "id": "50c9f346cc2ed4ec",
       "title": "Estimation immobilière : comment évaluer un local commercial ?",
-      "summary": "Le 12/10/2026 à 06H49 Deux commerces peuvent afficher exactement la même surface et pourtant ne pas présenter la même valeur locative. Derrière cette différence se cache une notion très concrète : la surface pondérée. Explications de Driss Bouharrou, expert judiaire près la Cour d’appel d’Amiens et fondateur bouharrou-expertise. OMNY connecte vos biens aux IA Le 09/10/2026 à 15H47 Les fondateurs et le pitchFondée en 2025 par F",
+      "summary": "s’ajoute aux difficultés de financement et à l’allongement des délais de vente. Le 12/10/2026 à 06H49 Deux commerces peuvent afficher exactement la même surface et pourtant ne pas présenter la même valeur locative. Derrière cette différence se cache une notion très concrète : la surface pondérée. Explications de Driss Bouharrou, expert judiaire près la Cour d’appel d’Amiens et fondateur bouharrou-expertise. OMNY connecte vos",
       "url": "https://www.journaldelagence.com/1414135-estimation-immobiliere-comment-evaluer-un-local-commercial",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -22,7 +22,90 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Territoires",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés. Point suivi : Estimation immobilière : comment évaluer un local commercial ?."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Estimation immobilière : comment évaluer un local commercial ?."
+    },
+    {
+      "id": "2ce1368e896757b9",
+      "title": "Immobilier 3ème trimestre 2026 : 22 % de contacts en moins sur les annonces",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/10/12/immobilier-3eme-trimestre-2026-22-de-contacts-en-moins-sur-les-annonces/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier 3ème trimestre 2026 : 22 % de contacts en moins sur les annonces."
+    },
+    {
+      "id": "56699500ba44d65e",
+      "title": "Incertitude fiscale et difficultés de financement : ce que les agents immobiliers indépendants observent sur le terrain",
+      "summary": "Le 12/10/2026 à 10H48 Alors que le volume des transactions immobilières progressent pour le cinquième trimestre consécutif selon le dernier l'Observatoire Interkab de La Boîte Immo, l’incertitude entourant le budget 2027 pèse déjà sur le marché. En effet, 79 % des agents immobiliers indépendants estiment qu’elle freine les décisions de leurs clients. Un attentisme qui s’ajoute aux difficultés de financement et à l’allongement",
+      "url": "https://www.journaldelagence.com/1414143-incertitude-fiscale-et-difficultes-de-financement-ce-que-les-agents-immobiliers-independants-observent-sur-le-terrain",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Incertitude fiscale et difficultés de financement : ce que les agents immobiliers indépendants observent sur le terrain."
+    },
+    {
+      "id": "c31ac098c1e757ee",
+      "title": "Proptech : Vasco lève 1,7 million d’euros pour investir dans la rénovation énergétique",
+      "summary": "12 octobre 2026 - La proptech bordelaise Vasco a annoncé une levée de fonds de 1,7 million d’euros auprès des fonds à impact Aquiti. Son objectif ? Financer 1000 rénovations énergétiques [...]",
+      "url": "https://immo2.pro/actualite-immobilier/proptech-vasco-leve-17-million-deuros-pour-investir-dans-la-renovation-energetique/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Proptech : Vasco lève 1,7 million d’euros pour investir dans la rénovation énergétique."
+    },
+    {
+      "id": "32a22711c40c6749",
+      "title": "Investissement immobilier : Bricks.co rachète une banque pour construire la « banque digitale de l’immobilier",
+      "summary": "» 12 octobre 2026 - Devant une foule de 1500 personnes, la plateforme d’investissement immobilier Bricks.co a annoncé qu’elle a signé un accord en vue d’acquérir Isola Bank, un [...]",
+      "url": "https://immo2.pro/actualite-immobilier/investissement-immobilier-bricks-co-rachete-une-banque-pour-construire-la-banque-digitale-de-limmobilier/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Investissement immobilier : Bricks.co rachète une banque pour construire la « banque digitale de l’immobilier."
     },
     {
       "id": "7022b46da7e1c31e",
@@ -255,7 +338,7 @@
     {
       "id": "ead559ae658ee1f3",
       "title": "Immobilier : Un bilan contrasté au 3e trimestre chez Orpi",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier : Un bilan contrasté au 3e trimestre chez Orpi",
       "url": "https://www.mysweetimmo.com/2026/10/08/immobilier-un-bilan-contraste-au-3e-trimestre-chez-orpi/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -271,7 +354,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Un bilan contrasté au 3e trimestre chez Orpi."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Un bilan contrasté au 3e trimestre chez Orpi."
     },
     {
       "id": "63335c50fbd2d4d4",
