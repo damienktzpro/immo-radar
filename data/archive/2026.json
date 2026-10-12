@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-11T22:03:29+00:00",
+  "generated_at": "2026-10-12T06:05:59+00:00",
   "items": [
+    {
+      "id": "50c9f346cc2ed4ec",
+      "title": "Estimation immobilière : comment évaluer un local commercial ?",
+      "summary": "Le 12/10/2026 à 06H49 Deux commerces peuvent afficher exactement la même surface et pourtant ne pas présenter la même valeur locative. Derrière cette différence se cache une notion très concrète : la surface pondérée. Explications de Driss Bouharrou, expert judiaire près la Cour d’appel d’Amiens et fondateur bouharrou-expertise. OMNY connecte vos biens aux IA Le 09/10/2026 à 15H47 Les fondateurs et le pitchFondée en 2025 par F",
+      "url": "https://www.journaldelagence.com/1414135-estimation-immobiliere-comment-evaluer-un-local-commercial",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Territoires",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés. Point suivi : Estimation immobilière : comment évaluer un local commercial ?."
+    },
     {
       "id": "7022b46da7e1c31e",
       "title": "Immobilier logistique : Les entreprises chinoises renforcent leur présence en France",
