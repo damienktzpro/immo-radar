@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-12T15:36:20+00:00",
+  "generated_at": "2026-10-13T00:47:27+00:00",
   "items": [
     {
       "id": "50c9f346cc2ed4ec",
@@ -25,9 +25,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Estimation immobilière : comment évaluer un local commercial ?."
     },
     {
-      "id": "2ce1368e896757b9",
-      "title": "Immobilier 3ème trimestre 2026 : 22 % de contacts en moins sur les annonces",
-      "summary": "Nouveau Marché immobilier",
+      "id": "0e1638137170ea39",
+      "title": "Immobilier : Le marché est-il vraiment en train de basculer ?",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/10/12/immobilier-3eme-trimestre-2026-22-de-contacts-en-moins-sur-les-annonces/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -43,7 +43,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier 3ème trimestre 2026 : 22 % de contacts en moins sur les annonces."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Le marché est-il vraiment en train de basculer ?."
     },
     {
       "id": "56699500ba44d65e",
@@ -338,7 +338,7 @@
     {
       "id": "ead559ae658ee1f3",
       "title": "Immobilier : Un bilan contrasté au 3e trimestre chez Orpi",
-      "summary": "Immobilier : Un bilan contrasté au 3e trimestre chez Orpi",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/10/08/immobilier-un-bilan-contraste-au-3e-trimestre-chez-orpi/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -354,7 +354,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Un bilan contrasté au 3e trimestre chez Orpi."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Un bilan contrasté au 3e trimestre chez Orpi."
     },
     {
       "id": "63335c50fbd2d4d4",
@@ -1484,7 +1484,7 @@
     {
       "id": "d4999eb072d4f67a",
       "title": "Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché",
-      "summary": "Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/09/29/immobilier-les-acheteurs-reviennent-mais-les-ventes-reculent/",
       "source": "MySweetImmo",
       "source_level": "C",
