@@ -1,8 +1,113 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-13T00:47:27+00:00",
+  "generated_at": "2026-10-13T14:18:47+00:00",
   "items": [
+    {
+      "id": "578ad62627577224",
+      "title": "Crédit immobilier en recul : CAFPI appelle les pouvoirs publics à agir",
+      "summary": "Nouveau Politique",
+      "url": "https://www.mysweetimmo.com/2026/10/13/credit-immobilier-en-recul-cafpi-appelle-les-pouvoirs-publics-a-agir/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier en recul : CAFPI appelle les pouvoirs publics à agir."
+    },
+    {
+      "id": "23ad324d91a6beac",
+      "title": "Immobilier : le PTZ parentalité pourrait financer jusqu’à 100 000 € pour les familles",
+      "summary": "Nouveau Investir / Financer",
+      "url": "https://www.mysweetimmo.com/2026/10/13/immobilier-le-ptz-parentalite-pourrait-financer-jusqua-100-000-e-pour-les-familles/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : le PTZ parentalité pourrait financer jusqu’à 100 000 € pour les familles."
+    },
+    {
+      "id": "ad8316dd51f77ad3",
+      "title": "Honoraires immobiliers : un siècle d’histoire pour comprendre pourquoi le modèle s’essouffle",
+      "summary": "Le 13/10/2026 à 09H10 Et si le véritable problème des honoraires immobiliers n'était pas la loi Hoguet, mais un modèle de rémunération qui n'a pas suivi l'évolution du marché ? En retraçant un siècle d'histoire immobilière, Cédric Dossou-Yovo, fondateur d'IA Lab Immo, met en lumière un paradoxe : des commissions de plus en plus lourdes pour les ménages, tandis que les professionnels supportent un risque économique croissant. U",
+      "url": "https://www.journaldelagence.com/1414171-honoraires-immobiliers-un-siecle-dhistoire-pour-comprendre-pourquoi-le-modele-sessouffle",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Honoraires immobiliers : un siècle d’histoire pour comprendre pourquoi le modèle s’essouffle."
+    },
+    {
+      "id": "e38376ef98b5e72f",
+      "title": "Inter-agence : comment sécuriser juridiquement vos accords ?",
+      "summary": "a rémunération des agents immobiliers à l'heure de l'intelligence artificielle. Le 13/10/2026 à 07H24 L’inter-agence ou inter-cabinet est aujourd’hui une pratique courante dans le secteur immobilier. Dans un marché compétitif, de nombreux professionnels acceptent de partager leurs honoraires pour conclure une transaction : en contrepartie, ils doublent leur visibilité, élargissent leur palette d’outils et multiplient leurs ch",
+      "url": "https://www.journaldelagence.com/1414164-inter-agence-comment-securiser-juridiquement-vos-accords",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Inter-agence : comment sécuriser juridiquement vos accords ?."
+    },
+    {
+      "id": "788f127aa755e5bd",
+      "title": "[Dossier exclusif] Immobilier de prestige : le véritable luxe, c’est d’aider ses clients à choisir",
+      "summary": "qui sécurisent chaque partie. Le point avec Sacha Boyer, fondateur de MyNotary. Le 13/10/2026 à 07H04 Dans l'immobilier de prestige, les acquéreurs peuvent parfois tout acheter, mais peinent à faire leur choix. Pour les agents immobiliers, multiplier les visites et les propositions ne suffit plus : leur véritable valeur ajoutée réside dans leur capacité à comprendre les hésitations des clients et à les aider à décider. Nordin",
+      "url": "https://www.journaldelagence.com/1414157-dossier-exclusif-immobilier-de-prestige-le-veritable-luxe-cest-daider-ses-clients-a-choisir",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : [Dossier exclusif] Immobilier de prestige : le véritable luxe, c’est d’aider ses clients à choisir."
+    },
     {
       "id": "50c9f346cc2ed4ec",
       "title": "Estimation immobilière : comment évaluer un local commercial ?",
@@ -48,7 +153,7 @@
     {
       "id": "56699500ba44d65e",
       "title": "Incertitude fiscale et difficultés de financement : ce que les agents immobiliers indépendants observent sur le terrain",
-      "summary": "Le 12/10/2026 à 10H48 Alors que le volume des transactions immobilières progressent pour le cinquième trimestre consécutif selon le dernier l'Observatoire Interkab de La Boîte Immo, l’incertitude entourant le budget 2027 pèse déjà sur le marché. En effet, 79 % des agents immobiliers indépendants estiment qu’elle freine les décisions de leurs clients. Un attentisme qui s’ajoute aux difficultés de financement et à l’allongement",
+      "summary": "ble levier de différenciation et de performance face à des acquéreurs fortunés. Le 12/10/2026 à 10H48 Alors que le volume des transactions immobilières progressent pour le cinquième trimestre consécutif selon le dernier l'Observatoire Interkab de La Boîte Immo, l’incertitude entourant le budget 2027 pèse déjà sur le marché. En effet, 79 % des agents immobiliers indépendants estiment qu’elle freine les décisions de leurs clien",
       "url": "https://www.journaldelagence.com/1414143-incertitude-fiscale-et-difficultes-de-financement-ce-que-les-agents-immobiliers-independants-observent-sur-le-terrain",
       "source": "Journal de l'Agence",
       "source_level": "C",
