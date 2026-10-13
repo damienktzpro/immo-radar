@@ -1,12 +1,12 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-13T14:18:47+00:00",
+  "generated_at": "2026-10-13T22:50:48+00:00",
   "items": [
     {
       "id": "578ad62627577224",
       "title": "Crédit immobilier en recul : CAFPI appelle les pouvoirs publics à agir",
-      "summary": "Nouveau Politique",
+      "summary": "Politique",
       "url": "https://www.mysweetimmo.com/2026/10/13/credit-immobilier-en-recul-cafpi-appelle-les-pouvoirs-publics-a-agir/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -27,7 +27,7 @@
     {
       "id": "23ad324d91a6beac",
       "title": "Immobilier : le PTZ parentalité pourrait financer jusqu’à 100 000 € pour les familles",
-      "summary": "Nouveau Investir / Financer",
+      "summary": "Investir / Financer",
       "url": "https://www.mysweetimmo.com/2026/10/13/immobilier-le-ptz-parentalite-pourrait-financer-jusqua-100-000-e-pour-les-familles/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -48,7 +48,7 @@
     {
       "id": "ad8316dd51f77ad3",
       "title": "Honoraires immobiliers : un siècle d’histoire pour comprendre pourquoi le modèle s’essouffle",
-      "summary": "Le 13/10/2026 à 09H10 Et si le véritable problème des honoraires immobiliers n'était pas la loi Hoguet, mais un modèle de rémunération qui n'a pas suivi l'évolution du marché ? En retraçant un siècle d'histoire immobilière, Cédric Dossou-Yovo, fondateur d'IA Lab Immo, met en lumière un paradoxe : des commissions de plus en plus lourdes pour les ménages, tandis que les professionnels supportent un risque économique croissant. U",
+      "summary": "désormais de transformer ces partenariats en audience et en contacts qualifiés. Le 13/10/2026 à 09H10 Et si le véritable problème des honoraires immobiliers n'était pas la loi Hoguet, mais un modèle de rémunération qui n'a pas suivi l'évolution du marché ? En retraçant un siècle d'histoire immobilière, Cédric Dossou-Yovo, fondateur d'IA Lab Immo, met en lumière un paradoxe : des commissions de plus en plus lourdes pour les mé",
       "url": "https://www.journaldelagence.com/1414171-honoraires-immobiliers-un-siecle-dhistoire-pour-comprendre-pourquoi-le-modele-sessouffle",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -107,6 +107,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : [Dossier exclusif] Immobilier de prestige : le véritable luxe, c’est d’aider ses clients à choisir."
+    },
+    {
+      "id": "61fdc92271acdf4d",
+      "title": "Mandataires : Propriétés-Privées.com, Dr House Immo et BSK Immobilier diffuseront leurs annonces sur idealista.fr",
+      "summary": "Le 13/10/2026 à 16H16 Après les réseaux d’agences, idealista accueille à son tour trois réseaux de mandataires, qui représentent près de 9 000 conseillers. Un signal fort pour un portail encore récent en France, dont l’enjeu sera désormais de transformer ces partenariats en audience et en contacts qualifiés. Honoraires immobiliers : un siècle d’histoire pour comprendre pourquoi le modèle s’essouffle Le 13/10/2026 à 09H10 Et si",
+      "url": "https://www.journaldelagence.com/1414194-mandataires-proprietes-privees-com-dr-house-immo-et-bsk-immobilier-diffuseront-leurs-annonces-sur-idealista-fr",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Mandataires : Propriétés-Privées.com, Dr House Immo et BSK Immobilier diffuseront leurs annonces sur idealista.fr."
     },
     {
       "id": "50c9f346cc2ed4ec",

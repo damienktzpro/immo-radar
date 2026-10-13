@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-13T14:18:28+00:00",
+  "generated_at": "2026-10-13T22:50:32+00:00",
   "version": "7.1",
   "items": [
     {
       "id": "578ad62627577224",
       "title": "Crédit immobilier en recul : CAFPI appelle les pouvoirs publics à agir",
-      "summary": "Nouveau Politique",
+      "summary": "Politique",
       "url": "https://www.mysweetimmo.com/2026/10/13/credit-immobilier-en-recul-cafpi-appelle-les-pouvoirs-publics-a-agir/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -26,7 +26,7 @@
     {
       "id": "23ad324d91a6beac",
       "title": "Immobilier : le PTZ parentalité pourrait financer jusqu’à 100 000 € pour les familles",
-      "summary": "Nouveau Investir / Financer",
+      "summary": "Investir / Financer",
       "url": "https://www.mysweetimmo.com/2026/10/13/immobilier-le-ptz-parentalite-pourrait-financer-jusqua-100-000-e-pour-les-familles/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -45,9 +45,30 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : le PTZ parentalité pourrait financer jusqu’à 100 000 € pour les familles."
     },
     {
+      "id": "61fdc92271acdf4d",
+      "title": "Mandataires : Propriétés-Privées.com, Dr House Immo et BSK Immobilier diffuseront leurs annonces sur idealista.fr",
+      "summary": "Le 13/10/2026 à 16H16 Après les réseaux d’agences, idealista accueille à son tour trois réseaux de mandataires, qui représentent près de 9 000 conseillers. Un signal fort pour un portail encore récent en France, dont l’enjeu sera désormais de transformer ces partenariats en audience et en contacts qualifiés. Honoraires immobiliers : un siècle d’histoire pour comprendre pourquoi le modèle s’essouffle Le 13/10/2026 à 09H10 Et si",
+      "url": "https://www.journaldelagence.com/1414194-mandataires-proprietes-privees-com-dr-house-immo-et-bsk-immobilier-diffuseront-leurs-annonces-sur-idealista-fr",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Mandataires : Propriétés-Privées.com, Dr House Immo et BSK Immobilier diffuseront leurs annonces sur idealista.fr."
+    },
+    {
       "id": "ad8316dd51f77ad3",
       "title": "Honoraires immobiliers : un siècle d’histoire pour comprendre pourquoi le modèle s’essouffle",
-      "summary": "Le 13/10/2026 à 09H10 Et si le véritable problème des honoraires immobiliers n'était pas la loi Hoguet, mais un modèle de rémunération qui n'a pas suivi l'évolution du marché ? En retraçant un siècle d'histoire immobilière, Cédric Dossou-Yovo, fondateur d'IA Lab Immo, met en lumière un paradoxe : des commissions de plus en plus lourdes pour les ménages, tandis que les professionnels supportent un risque économique croissant. U",
+      "summary": "désormais de transformer ces partenariats en audience et en contacts qualifiés. Le 13/10/2026 à 09H10 Et si le véritable problème des honoraires immobiliers n'était pas la loi Hoguet, mais un modèle de rémunération qui n'a pas suivi l'évolution du marché ? En retraçant un siècle d'histoire immobilière, Cédric Dossou-Yovo, fondateur d'IA Lab Immo, met en lumière un paradoxe : des commissions de plus en plus lourdes pour les mé",
       "url": "https://www.journaldelagence.com/1414171-honoraires-immobiliers-un-siecle-dhistoire-pour-comprendre-pourquoi-le-modele-sessouffle",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -522,26 +543,6 @@
       "territory": "France",
       "topic": "Territoires",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Vente d’un local commercial : pas d’honoraires d’agence pour un locataire qui exerce son droit de préférence."
-    },
-    {
-      "id": "da7a638e13fea1e3",
-      "title": "Les résultats de votre agence baissent ? Cherchez la cause avant d’augmenter la pression",
-      "summary": "e 1er octobre 2026 et ses conséquences pour les professionnels de l’immobilier. Le 07/10/2026 à 07H09 Moins de mandats, des relances qui s’espacent, un CRM mal renseigné… Face à des résultats en baisse, le réflexe d'un dirigeant d'agence immobilière est souvent de réclamer davantage d’efforts. Mais encore faut-il comprendre ce qui bloque. Sabrina Robles Lebailly montre comment la méthode des « 5 pourquoi » aide les dirigeants",
-      "url": "https://www.journaldelagence.com/1414016-les-resultats-de-votre-agence-baissent-cherchez-la-cause-avant-daugmenter-la-pression",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-10-07T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Les résultats de votre agence baissent ? Cherchez la cause avant d’augmenter la pression."
     },
     {
       "id": "5172dd0dddedf02a",
@@ -1587,14 +1588,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 75,
-    "rejected": 1195,
+    "rejected": 1196,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-13T14:17:50+00:00",
+        "last_success": "2026-10-13T22:49:36+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1602,7 +1603,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-13T14:17:53+00:00",
+        "last_success": "2026-10-13T22:49:39+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1610,7 +1611,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-13T14:17:54+00:00",
+        "last_success": "2026-10-13T22:49:40+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1618,7 +1619,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-13T14:17:55+00:00",
+        "last_success": "2026-10-13T22:49:42+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1626,7 +1627,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-13T14:18:12+00:00",
+        "last_success": "2026-10-13T22:50:08+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1634,7 +1635,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-13T14:18:20+00:00",
+        "last_success": "2026-10-13T22:50:22+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1642,7 +1643,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-13T14:18:20+00:00",
+        "last_success": "2026-10-13T22:50:22+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1650,7 +1651,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-13T14:18:21+00:00",
+        "last_success": "2026-10-13T22:50:23+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1658,7 +1659,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-13T14:18:22+00:00",
+        "last_success": "2026-10-13T22:50:24+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1666,7 +1667,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-13T14:18:23+00:00",
+        "last_success": "2026-10-13T22:50:25+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1674,7 +1675,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-13T14:18:24+00:00",
+        "last_success": "2026-10-13T22:50:27+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1682,7 +1683,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-13T14:18:25+00:00",
+        "last_success": "2026-10-13T22:50:28+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1690,7 +1691,7 @@
         "ok": true,
         "status": "ok",
         "retained": 12,
-        "last_success": "2026-10-13T14:18:26+00:00",
+        "last_success": "2026-10-13T22:50:30+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1698,7 +1699,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-13T14:18:27+00:00",
+        "last_success": "2026-10-13T22:50:31+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1706,7 +1707,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-13T14:18:27+00:00",
+        "last_success": "2026-10-13T22:50:31+00:00",
         "fallback": false
       }
     }
