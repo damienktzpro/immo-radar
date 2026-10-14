@@ -1,8 +1,28 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-13T22:50:48+00:00",
+  "generated_at": "2026-10-14T05:00:12+00:00",
   "items": [
+    {
+      "id": "490b775c97b02520",
+      "title": "Agents immobiliers : vos émotions peuvent-elles compromettre une vente ?",
+      "summary": "Le 14/10/2026 à 06H40 Ramener un vendeur à la raison, encourager un acquéreur à écouter son coup de cœur… L'agent immobilier jongle quotidiennement avec les émotions de ses clients. Mais qu'en est-il des siennes ? Entre pression commerciale, peur de perdre une vente et envie de bien faire, Dominique Piredda nous rappelle que le professionnel est lui aussi un acteur émotionnel de la transaction. Mandataires : Propriétés-Privées",
+      "url": "https://www.journaldelagence.com/1414178-et-si-les-emotions-de-lagent-immobilier-compliquaient-aussi-la-transaction",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Agents immobiliers : vos émotions peuvent-elles compromettre une vente ?."
+    },
     {
       "id": "578ad62627577224",
       "title": "Crédit immobilier en recul : CAFPI appelle les pouvoirs publics à agir",
@@ -111,23 +131,22 @@
     {
       "id": "61fdc92271acdf4d",
       "title": "Mandataires : Propriétés-Privées.com, Dr House Immo et BSK Immobilier diffuseront leurs annonces sur idealista.fr",
-      "summary": "Le 13/10/2026 à 16H16 Après les réseaux d’agences, idealista accueille à son tour trois réseaux de mandataires, qui représentent près de 9 000 conseillers. Un signal fort pour un portail encore récent en France, dont l’enjeu sera désormais de transformer ces partenariats en audience et en contacts qualifiés. Honoraires immobiliers : un siècle d’histoire pour comprendre pourquoi le modèle s’essouffle Le 13/10/2026 à 09H10 Et si",
+      "summary": "elle que le professionnel est lui aussi un acteur émotionnel de la transaction. Le 13/10/2026 à 16H16 Après les réseaux d’agences, idealista accueille à son tour trois réseaux de mandataires, qui représentent près de 9 000 conseillers. Un signal fort pour un portail encore récent en France, dont l’enjeu sera désormais de transformer ces partenariats en audience et en contacts qualifiés. Honoraires immobiliers : un siècle d’hi",
       "url": "https://www.journaldelagence.com/1414194-mandataires-proprietes-privees-com-dr-house-immo-et-bsk-immobilier-diffuseront-leurs-annonces-sur-idealista-fr",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "marche",
+      "category": "pro",
       "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
+        "pro",
+        "investisseur"
       ],
       "published_at": "2026-10-13T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Mandataires : Propriétés-Privées.com, Dr House Immo et BSK Immobilier diffuseront leurs annonces sur idealista.fr."
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Mandataires : Propriétés-Privées.com, Dr House Immo et BSK Immobilier diffuseront leurs annonces sur idealista.fr."
     },
     {
       "id": "50c9f346cc2ed4ec",
