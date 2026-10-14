@@ -1,12 +1,33 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-14T05:00:12+00:00",
+  "generated_at": "2026-10-14T12:00:38+00:00",
   "items": [
+    {
+      "id": "6fa4c6d7edaa2297",
+      "title": "Impayé de loyers : Yves, propriétaire bailleur, témoigne",
+      "summary": "14 octobre 2026 Face à un impayé de loyers de 11 000 €, Yves, propriétaire bailleur dans les Hautes-Pyrénées, ne savait pas quelles démarches entreprendre. Il a sollicité l’ADIL 65 pour connaître ses droits et être orienté vers les professionnels compétents.",
+      "url": "https://www.anil.org/actualites-evenements/details/impaye-de-loyers-yves-proprietaire-bailleur-temoigne/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-10-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Impayé de loyers : Yves, propriétaire bailleur, témoigne."
+    },
     {
       "id": "490b775c97b02520",
       "title": "Agents immobiliers : vos émotions peuvent-elles compromettre une vente ?",
-      "summary": "Le 14/10/2026 à 06H40 Ramener un vendeur à la raison, encourager un acquéreur à écouter son coup de cœur… L'agent immobilier jongle quotidiennement avec les émotions de ses clients. Mais qu'en est-il des siennes ? Entre pression commerciale, peur de perdre une vente et envie de bien faire, Dominique Piredda nous rappelle que le professionnel est lui aussi un acteur émotionnel de la transaction. Mandataires : Propriétés-Privées",
+      "summary": "atifs et protection des données personnelles, les questions restent nombreuses. Le 14/10/2026 à 06H40 Ramener un vendeur à la raison, encourager un acquéreur à écouter son coup de cœur… L'agent immobilier jongle quotidiennement avec les émotions de ses clients. Mais qu'en est-il des siennes ? Entre pression commerciale, peur de perdre une vente et envie de bien faire, Dominique Piredda nous rappelle que le professionnel est l",
       "url": "https://www.journaldelagence.com/1414178-et-si-les-emotions-de-lagent-immobilier-compliquaient-aussi-la-transaction",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -22,6 +43,26 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Agents immobiliers : vos émotions peuvent-elles compromettre une vente ?."
+    },
+    {
+      "id": "8a121925f589a39d",
+      "title": "Loyers impayés : vers un fichier national des mauvais payeurs ? Le débat est relancé",
+      "summary": "Le 14/10/2026 à 07H02 Faut-il créer un fichier national pour identifier les locataires qui multiplient volontairement les impayés ? Relancée par le ministre du Logement Vincent Jeanbrun, cette proposition divise propriétaires, professionnels de l'immobilier et associations de locataires. Entre sécurisation des revenus locatifs et protection des données personnelles, les questions restent nombreuses. Agents immobiliers : vos ém",
+      "url": "https://www.journaldelagence.com/1414187-loyers-impayes-vers-un-fichier-national-des-mauvais-payeurs-le-debat-est-relance",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Loyers impayés : vers un fichier national des mauvais payeurs ? Le débat est relancé."
     },
     {
       "id": "578ad62627577224",

@@ -1,11 +1,52 @@
 {
-  "generated_at": "2026-10-14T05:00:02+00:00",
+  "generated_at": "2026-10-14T12:00:19+00:00",
   "version": "7.1",
   "items": [
     {
+      "id": "6fa4c6d7edaa2297",
+      "title": "Impayé de loyers : Yves, propriétaire bailleur, témoigne",
+      "summary": "14 octobre 2026 Face à un impayé de loyers de 11 000 €, Yves, propriétaire bailleur dans les Hautes-Pyrénées, ne savait pas quelles démarches entreprendre. Il a sollicité l’ADIL 65 pour connaître ses droits et être orienté vers les professionnels compétents.",
+      "url": "https://www.anil.org/actualites-evenements/details/impaye-de-loyers-yves-proprietaire-bailleur-temoigne/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-10-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Impayé de loyers : Yves, propriétaire bailleur, témoigne."
+    },
+    {
+      "id": "8a121925f589a39d",
+      "title": "Loyers impayés : vers un fichier national des mauvais payeurs ? Le débat est relancé",
+      "summary": "Le 14/10/2026 à 07H02 Faut-il créer un fichier national pour identifier les locataires qui multiplient volontairement les impayés ? Relancée par le ministre du Logement Vincent Jeanbrun, cette proposition divise propriétaires, professionnels de l'immobilier et associations de locataires. Entre sécurisation des revenus locatifs et protection des données personnelles, les questions restent nombreuses. Agents immobiliers : vos ém",
+      "url": "https://www.journaldelagence.com/1414187-loyers-impayes-vers-un-fichier-national-des-mauvais-payeurs-le-debat-est-relance",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Loyers impayés : vers un fichier national des mauvais payeurs ? Le débat est relancé."
+    },
+    {
       "id": "490b775c97b02520",
       "title": "Agents immobiliers : vos émotions peuvent-elles compromettre une vente ?",
-      "summary": "Le 14/10/2026 à 06H40 Ramener un vendeur à la raison, encourager un acquéreur à écouter son coup de cœur… L'agent immobilier jongle quotidiennement avec les émotions de ses clients. Mais qu'en est-il des siennes ? Entre pression commerciale, peur de perdre une vente et envie de bien faire, Dominique Piredda nous rappelle que le professionnel est lui aussi un acteur émotionnel de la transaction. Mandataires : Propriétés-Privées",
+      "summary": "atifs et protection des données personnelles, les questions restent nombreuses. Le 14/10/2026 à 06H40 Ramener un vendeur à la raison, encourager un acquéreur à écouter son coup de cœur… L'agent immobilier jongle quotidiennement avec les émotions de ses clients. Mais qu'en est-il des siennes ? Entre pression commerciale, peur de perdre une vente et envie de bien faire, Dominique Piredda nous rappelle que le professionnel est l",
       "url": "https://www.journaldelagence.com/1414178-et-si-les-emotions-de-lagent-immobilier-compliquaient-aussi-la-transaction",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -520,27 +561,6 @@
       "territory": "France",
       "topic": "Territoires",
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : De nouvelles données sur les loyers sont disponibles."
-    },
-    {
-      "id": "ea30442c8396b276",
-      "title": "Présidentielle 2027 : les propositions de Jean-Luc Mélenchon sur le logement",
-      "summary": "pour mieux manger, s’hydrater et récupérer, sans bouleverser son organisation. Le 07/10/2026 à 14H05 Construction, rénovation énergétique, permis de louer, transmission… Jean-Luc Mélenchon défend une intervention publique renforcée pour répondre à la crise du logement. Après Bruno Retailleau et Marine Le Pen, le Journal de l’Agence poursuit son tour d’horizon des propositions pour la présidentielle de 2027. Décryptage. Vente",
-      "url": "https://www.journaldelagence.com/1414045-presidentielle-2027-quelles-sont-les-propositions-de-jean-luc-melenchon-sur-le-logement",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-07T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Présidentielle 2027 : les propositions de Jean-Luc Mélenchon sur le logement."
     },
     {
       "id": "5172dd0dddedf02a",
@@ -1399,27 +1419,6 @@
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Nouvelle Parole d'expert : Carnet d'information du logement : comment CLÉA vous aide à mieux gérer votre logement."
     },
     {
-      "id": "65ddedab971bab63",
-      "title": "Votre logement a été touché par un incendie, une tempête ou un autre phénomène climatique ?",
-      "summary": "03 septembre 2026 Vous ne savez pas par où commencer vos démarches ? Le réseau des ADIL est là pour vous accompagner, gratuitement et en toute neutralité.",
-      "url": "https://www.anil.org/actualites-evenements/details/votre-logement-a-ete-touche-par-un-incendie-une-tempete-ou-un-autre-phenomene-climatique/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-03T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Votre logement a été touché par un incendie, une tempête ou un autre phénomène climatique ?."
-    },
-    {
       "id": "5e1010a8936eaca7",
       "title": "Agents immobiliers : « Ne payez que les annonces que vous diffusez » Jonathan Le Corronc-Clady et Didier Bertrand (FNAIM Région Sud)",
       "summary": "Agents immobiliers : « Ne payez que les annonces que vous diffusez » Jonathan Le Corronc-Clady et Didier Bertrand (FNAIM Région Sud)",
@@ -1547,6 +1546,27 @@
       "legal_stage": "jorf"
     },
     {
+      "id": "e5b891181cd81757",
+      "title": "Pompes à chaleur : les critères pour bénéficier de la prime « coup de pouce chauffage » évoluent",
+      "summary": "La prime « coup de pouce chauffage » est une aide financière permettant aux propriétaires et aux locataires de remplacer leur système de chauffage par une installation qui consomme moins d'énergie. Les conditions pour en bénéficier pour l’installation d’une pompe à chaleur ou d’un système solaire combiné ont évolué le 1 er septembre. Service Public vous présente les nouvelles modalités.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19057?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": null,
+      "status": "Information officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source officielle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Pompes à chaleur : les critères pour bénéficier de la prime « coup de pouce chauffage » évoluent."
+    },
+    {
       "id": "9c236516c38b76a4",
       "title": "Un nouveau simulateur pour identifier les solutions de chauffage renouvelable adaptées à votre logement",
       "summary": "Réseau de chaleur, pompe à chaleur, géothermie, solaire thermique… Vous envisagez de changer de système de chauffage ? Un nouveau simulateur gratuit vous permet d'identifier les solutions de chauffage renouvelable adaptées à votre logement ou à votre copropriété. Service Public vous explique.",
@@ -1569,31 +1589,31 @@
     }
   ],
   "source_stats": {
+    "ANIL": 10,
     "Journal de l'Agence": 15,
     "MySweetImmo": 16,
     "Immobilier 2.0": 16,
-    "ANIL": 10,
     "Batiactu": 12,
     "Horiz.io": 2,
     "SDES / Sitadel": 1,
     "Insee": 1,
     "EUR-Lex": 1,
-    "Service-Public.fr": 1
+    "Service-Public.fr": 2
   },
   "health": {
     "sources_total": 15,
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 75,
-    "rejected": 1128,
+    "retained": 76,
+    "rejected": 1130,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
-        "retained": 1,
-        "last_success": "2026-10-14T04:59:14+00:00",
+        "retained": 2,
+        "last_success": "2026-10-14T11:59:34+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1601,7 +1621,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-14T04:59:16+00:00",
+        "last_success": "2026-10-14T11:59:36+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1609,7 +1629,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-14T04:59:17+00:00",
+        "last_success": "2026-10-14T11:59:37+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1617,7 +1637,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-14T04:59:18+00:00",
+        "last_success": "2026-10-14T11:59:38+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1625,7 +1645,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-14T04:59:36+00:00",
+        "last_success": "2026-10-14T11:59:59+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1633,7 +1653,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-14T04:59:45+00:00",
+        "last_success": "2026-10-14T12:00:09+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1641,7 +1661,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-14T04:59:45+00:00",
+        "last_success": "2026-10-14T12:00:09+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1649,7 +1669,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-14T04:59:50+00:00",
+        "last_success": "2026-10-14T12:00:10+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1657,7 +1677,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-14T04:59:50+00:00",
+        "last_success": "2026-10-14T12:00:11+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1665,7 +1685,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-14T04:59:51+00:00",
+        "last_success": "2026-10-14T12:00:13+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1673,7 +1693,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-14T04:59:53+00:00",
+        "last_success": "2026-10-14T12:00:14+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1681,7 +1701,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-14T04:59:54+00:00",
+        "last_success": "2026-10-14T12:00:15+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1689,7 +1709,7 @@
         "ok": true,
         "status": "ok",
         "retained": 12,
-        "last_success": "2026-10-14T04:59:55+00:00",
+        "last_success": "2026-10-14T12:00:17+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1697,7 +1717,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-14T05:00:00+00:00",
+        "last_success": "2026-10-14T12:00:18+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1705,7 +1725,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-14T05:00:01+00:00",
+        "last_success": "2026-10-14T12:00:18+00:00",
         "fallback": false
       }
     }
