@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-10-14T12:00:19+00:00",
+  "generated_at": "2026-10-14T17:17:21+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "ff289727fe0996ba",
+      "title": "Baromètre QUALITEL 2026 : les Français face aux difficultés pour se loger et à la qualité de leur logement",
+      "summary": "14 octobre 2026 Trouver un logement, en assumer le coût et s’y sentir bien : la 10ᵉ édition du Baromètre QUALITEL dresse un état des lieux des conditions de logement des Français et de leurs attentes pour l’avenir. Réalisée avec Ipsos bva auprès de 3 300 personnes,…",
+      "url": "https://www.anil.org/actualites-evenements/details/barometre-qualitel-2026-les-francais-face-aux-difficultes-pour-se-loger-et-a-la-qualite-de-leur-logement/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Baromètre QUALITEL 2026 : les Français face aux difficultés pour se loger et à la qualité de leur logement."
+    },
     {
       "id": "6fa4c6d7edaa2297",
       "title": "Impayé de loyers : Yves, propriétaire bailleur, témoigne",
@@ -24,9 +45,50 @@
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Impayé de loyers : Yves, propriétaire bailleur, témoigne."
     },
     {
+      "id": "10468d1e2642bd59",
+      "title": "Rachat de Stéphane Plaza Immobilier : « Seuls les résultats compteront ! », Stéphane Plaza et Xavier Belvaux (WIF Group)",
+      "summary": "Nouveau Podcasts",
+      "url": "https://www.mysweetimmo.com/2026/10/14/rachat-de-stephane-plaza-immobilier-seuls-les-resultats-compteront-stephane-plaza-et-xavier-belvaux-wif-group/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Rachat de Stéphane Plaza Immobilier : « Seuls les résultats compteront ! », Stéphane Plaza et Xavier Belvaux (WIF Group)."
+    },
+    {
+      "id": "8da34bd31491533b",
+      "title": "Stéphane Plaza Immobilier : les ambitions de WIF Group pour relancer le réseau",
+      "summary": "Le 14/10/2026 à 14H45 C'est une nouvelle étape pour Stéphane Plaza Immobilier. Désormais intégré à WIF Group aux côtés de We Invest France et de La Signature Immo, le réseau conserve son identité et son fondateur, qui entre au capital du groupe. Avec près de 140 points de vente, 1 000 professionnels et de fortes ambitions dans l'intelligence artificielle, le nouvel ensemble entend changer d'échelle. Loyers impayés : vers un fi",
+      "url": "https://www.journaldelagence.com/1414206-stephane-plaza-immobilier-les-ambitions-de-wif-group-pour-relancer-le-reseau",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Stéphane Plaza Immobilier : les ambitions de WIF Group pour relancer le réseau."
+    },
+    {
       "id": "8a121925f589a39d",
       "title": "Loyers impayés : vers un fichier national des mauvais payeurs ? Le débat est relancé",
-      "summary": "Le 14/10/2026 à 07H02 Faut-il créer un fichier national pour identifier les locataires qui multiplient volontairement les impayés ? Relancée par le ministre du Logement Vincent Jeanbrun, cette proposition divise propriétaires, professionnels de l'immobilier et associations de locataires. Entre sécurisation des revenus locatifs et protection des données personnelles, les questions restent nombreuses. Agents immobiliers : vos ém",
+      "summary": "dans l'intelligence artificielle, le nouvel ensemble entend changer d'échelle. Le 14/10/2026 à 07H02 Faut-il créer un fichier national pour identifier les locataires qui multiplient volontairement les impayés ? Relancée par le ministre du Logement Vincent Jeanbrun, cette proposition divise propriétaires, professionnels de l'immobilier et associations de locataires. Entre sécurisation des revenus locatifs et protection des don",
       "url": "https://www.journaldelagence.com/1414187-loyers-impayes-vers-un-fichier-national-des-mauvais-payeurs-le-debat-est-relance",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -64,27 +126,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Agents immobiliers : vos émotions peuvent-elles compromettre une vente ?."
     },
     {
-      "id": "578ad62627577224",
-      "title": "Crédit immobilier en recul : CAFPI appelle les pouvoirs publics à agir",
-      "summary": "Politique",
-      "url": "https://www.mysweetimmo.com/2026/10/13/credit-immobilier-en-recul-cafpi-appelle-les-pouvoirs-publics-a-agir/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "credit",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-13T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Credit",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier en recul : CAFPI appelle les pouvoirs publics à agir."
-    },
-    {
       "id": "23ad324d91a6beac",
       "title": "Immobilier : le PTZ parentalité pourrait financer jusqu’à 100 000 € pour les familles",
       "summary": "Investir / Financer",
@@ -104,6 +145,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : le PTZ parentalité pourrait financer jusqu’à 100 000 € pour les familles."
+    },
+    {
+      "id": "578ad62627577224",
+      "title": "Crédit immobilier en recul : CAFPI appelle les pouvoirs publics à agir",
+      "summary": "Politique",
+      "url": "https://www.mysweetimmo.com/2026/10/13/credit-immobilier-en-recul-cafpi-appelle-les-pouvoirs-publics-a-agir/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier en recul : CAFPI appelle les pouvoirs publics à agir."
     },
     {
       "id": "61fdc92271acdf4d",
@@ -314,6 +376,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier logistique : Les entreprises chinoises renforcent leur présence en France."
     },
     {
+      "id": "1bf439dcdadf4efc",
+      "title": "Immobilier de santé : Les investissements battent un record",
+      "summary": "Économie et Business",
+      "url": "https://www.mysweetimmo.com/2026/10/11/immobilier-de-sante-les-investissements-battent-un-record/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier de santé : Les investissements battent un record."
+    },
+    {
       "id": "235886a823d884e8",
       "title": "Journée mondiale de la santé mentale",
       "summary": "10 octobre 2026 Le logement, c’est un lieu où l’on vit, où l’on se repose, où l’on doit pouvoir se sentir en sécurité. Lorsqu’il est dégradé, indigne, trop cher ou source de difficultés, il peut aussi devenir une source de stress et peser sur le bien-être au…",
@@ -480,26 +563,6 @@
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Impayé de loyer : à qui s’adresser ? L’ADIL peut vous aider à y voir plus clair."
     },
     {
-      "id": "63335c50fbd2d4d4",
-      "title": "Agents immobiliers : quatre habitudes pour mieux vivre vos journées à rallonge",
-      "summary": "immobilier habilité ? Ce que les professionnels doivent retenir de ce jugement. Le 08/10/2026 à 06H46 Un déjeuner entre deux visites, des cafés pour tenir, un dernier mail avant de dormir… Dans l’immobilier, les journées débordent facilement sur les besoins du corps. Comment préserver son énergie quand le planning change sans cesse ? Gaëlle Coulm, praticienne en thérapie nutritionnelle, propose quatre réflexes simples pour mi",
-      "url": "https://www.journaldelagence.com/1414022-agents-immobiliers-quatre-habitudes-pour-mieux-vivre-vos-journees-a-rallonge",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-10-08T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Agents immobiliers : quatre habitudes pour mieux vivre vos journées à rallonge."
-    },
-    {
       "id": "abb0d06bf02698b6",
       "title": "Logement : les députés votent et élargissent le nouveau \"PTZ Familles\"",
       "summary": "L'Essentiel 08/10/2026 Baisse de la natalité : le logement en question",
@@ -664,27 +727,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Paris : Les moins de 40 ans prennent le pouvoir."
-    },
-    {
-      "id": "09cd51f755d37875",
-      "title": "PLF 2027 : Ce qui changerait pour les propriétaires de logements loués meublés",
-      "summary": "Règlementation",
-      "url": "https://www.mysweetimmo.com/2026/10/05/plf-2027-ce-qui-changerait-pour-les-proprietaires-de-logements-loues-meubles/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-05T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : PLF 2027 : Ce qui changerait pour les propriétaires de logements loués meublés."
     },
     {
       "id": "353d007ee198a882",
@@ -1398,27 +1440,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Cyberattaque : 48 millions de personnes exposées dans une fuite massive de Zéro Logement Vacant."
     },
     {
-      "id": "7fc49254b3b4fd88",
-      "title": "Nouvelle Parole d'expert : Carnet d'information du logement : comment CLÉA vous aide à mieux gérer votre logement",
-      "summary": "08 septembre 2026 Plans, diagnostics, factures, notices des équipements... Au fil des années, les documents liés à un logement s'accumulent et il devient difficile de tout retrouver. Développé par QUALITEL, CLÉA est une solution numérique qui permet de créer et gérer…",
-      "url": "https://www.anil.org/parole-expert-logement-habiter-vie-pratique/carnet-dinformation-du-logement-comment-clea-vous-aide-a-mieux-gerer-votre-logement/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-08T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Nouvelle Parole d'expert : Carnet d'information du logement : comment CLÉA vous aide à mieux gérer votre logement."
-    },
-    {
       "id": "5e1010a8936eaca7",
       "title": "Agents immobiliers : « Ne payez que les annonces que vous diffusez » Jonathan Le Corronc-Clady et Didier Bertrand (FNAIM Région Sud)",
       "summary": "Agents immobiliers : « Ne payez que les annonces que vous diffusez » Jonathan Le Corronc-Clady et Didier Bertrand (FNAIM Région Sud)",
@@ -1480,27 +1501,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : « La concurrence nous oblige à être meilleurs » Guillaume Martinaud (Orpi)."
-    },
-    {
-      "id": "c54dbc8aefeb8d4b",
-      "title": "Immobilier et crise locative : « On est sur un marché qui s’assouplit un petit peu » David Benbassat (Bien’ici)",
-      "summary": "Immobilier et crise locative : « On est sur un marché qui s’assouplit un petit peu » David Benbassat (Bien’ici)",
-      "url": "https://www.mysweetimmo.com/2026/07/27/immobilier-et-crise-locative-on-est-sur-un-marche-qui-sassouplit-un-petit-peu-david-benbassat/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-07-27T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier et crise locative : « On est sur un marché qui s’assouplit un petit peu » David Benbassat (Bien’ici)."
     },
     {
       "id": "3b2255cb7e8a6f65",
@@ -1590,8 +1590,8 @@
   ],
   "source_stats": {
     "ANIL": 10,
-    "Journal de l'Agence": 15,
     "MySweetImmo": 16,
+    "Journal de l'Agence": 15,
     "Immobilier 2.0": 16,
     "Batiactu": 12,
     "Horiz.io": 2,
@@ -1602,18 +1602,18 @@
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 15,
-    "sources_degraded": 0,
+    "sources_ok": 14,
+    "sources_degraded": 1,
     "errors": 0,
     "retained": 76,
-    "rejected": 1130,
+    "rejected": 1129,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-14T11:59:34+00:00",
+        "last_success": "2026-10-14T17:16:33+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1621,7 +1621,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-14T11:59:36+00:00",
+        "last_success": "2026-10-14T17:16:35+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1629,23 +1629,24 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-14T11:59:37+00:00",
+        "last_success": "2026-10-14T17:16:36+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
         "level": "A",
-        "ok": true,
-        "status": "ok",
+        "ok": false,
+        "status": "degraded",
         "retained": 1,
-        "last_success": "2026-10-14T11:59:38+00:00",
-        "fallback": false
+        "last_success": "2026-10-14T12:00:19+00:00",
+        "fallback": true,
+        "error_type": "RetryError"
       },
       "Sénat / DOSLEG": {
         "level": "A",
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-14T11:59:59+00:00",
+        "last_success": "2026-10-14T17:17:05+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1653,7 +1654,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-14T12:00:09+00:00",
+        "last_success": "2026-10-14T17:17:13+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1661,7 +1662,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-14T12:00:09+00:00",
+        "last_success": "2026-10-14T17:17:13+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1669,7 +1670,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-14T12:00:10+00:00",
+        "last_success": "2026-10-14T17:17:14+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1677,7 +1678,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-14T12:00:11+00:00",
+        "last_success": "2026-10-14T17:17:15+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1685,7 +1686,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-14T12:00:13+00:00",
+        "last_success": "2026-10-14T17:17:16+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1693,7 +1694,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-14T12:00:14+00:00",
+        "last_success": "2026-10-14T17:17:17+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1701,7 +1702,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-14T12:00:15+00:00",
+        "last_success": "2026-10-14T17:17:18+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1709,7 +1710,7 @@
         "ok": true,
         "status": "ok",
         "retained": 12,
-        "last_success": "2026-10-14T12:00:17+00:00",
+        "last_success": "2026-10-14T17:17:20+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1717,7 +1718,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-14T12:00:18+00:00",
+        "last_success": "2026-10-14T17:17:20+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1725,10 +1726,16 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-14T12:00:18+00:00",
+        "last_success": "2026-10-14T17:17:20+00:00",
         "fallback": false
       }
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "source": "SDES / Sitadel",
+      "error": "HTTPSConnectionPool(host='www.statistiques.developpement-durable.gouv.fr', port=443): Max retries exceeded with url: /la-construction-neuve (Caused by ResponseError('too many 503 error responses'))",
+      "fallback": true
+    }
+  ]
 }

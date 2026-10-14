@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-14T12:00:38+00:00",
+  "generated_at": "2026-10-14T17:17:37+00:00",
   "items": [
     {
       "id": "6fa4c6d7edaa2297",
@@ -23,6 +23,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Impayé de loyers : Yves, propriétaire bailleur, témoigne."
+    },
+    {
+      "id": "ff289727fe0996ba",
+      "title": "Baromètre QUALITEL 2026 : les Français face aux difficultés pour se loger et à la qualité de leur logement",
+      "summary": "14 octobre 2026 Trouver un logement, en assumer le coût et s’y sentir bien : la 10ᵉ édition du Baromètre QUALITEL dresse un état des lieux des conditions de logement des Français et de leurs attentes pour l’avenir. Réalisée avec Ipsos bva auprès de 3 300 personnes,…",
+      "url": "https://www.anil.org/actualites-evenements/details/barometre-qualitel-2026-les-francais-face-aux-difficultes-pour-se-loger-et-a-la-qualite-de-leur-logement/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Baromètre QUALITEL 2026 : les Français face aux difficultés pour se loger et à la qualité de leur logement."
     },
     {
       "id": "490b775c97b02520",
@@ -47,7 +68,7 @@
     {
       "id": "8a121925f589a39d",
       "title": "Loyers impayés : vers un fichier national des mauvais payeurs ? Le débat est relancé",
-      "summary": "Le 14/10/2026 à 07H02 Faut-il créer un fichier national pour identifier les locataires qui multiplient volontairement les impayés ? Relancée par le ministre du Logement Vincent Jeanbrun, cette proposition divise propriétaires, professionnels de l'immobilier et associations de locataires. Entre sécurisation des revenus locatifs et protection des données personnelles, les questions restent nombreuses. Agents immobiliers : vos ém",
+      "summary": "dans l'intelligence artificielle, le nouvel ensemble entend changer d'échelle. Le 14/10/2026 à 07H02 Faut-il créer un fichier national pour identifier les locataires qui multiplient volontairement les impayés ? Relancée par le ministre du Logement Vincent Jeanbrun, cette proposition divise propriétaires, professionnels de l'immobilier et associations de locataires. Entre sécurisation des revenus locatifs et protection des don",
       "url": "https://www.journaldelagence.com/1414187-loyers-impayes-vers-un-fichier-national-des-mauvais-payeurs-le-debat-est-relance",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -63,6 +84,47 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Loyers impayés : vers un fichier national des mauvais payeurs ? Le débat est relancé."
+    },
+    {
+      "id": "10468d1e2642bd59",
+      "title": "Rachat de Stéphane Plaza Immobilier : « Seuls les résultats compteront ! », Stéphane Plaza et Xavier Belvaux (WIF Group)",
+      "summary": "Nouveau Podcasts",
+      "url": "https://www.mysweetimmo.com/2026/10/14/rachat-de-stephane-plaza-immobilier-seuls-les-resultats-compteront-stephane-plaza-et-xavier-belvaux-wif-group/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Rachat de Stéphane Plaza Immobilier : « Seuls les résultats compteront ! », Stéphane Plaza et Xavier Belvaux (WIF Group)."
+    },
+    {
+      "id": "8da34bd31491533b",
+      "title": "Stéphane Plaza Immobilier : les ambitions de WIF Group pour relancer le réseau",
+      "summary": "Le 14/10/2026 à 14H45 C'est une nouvelle étape pour Stéphane Plaza Immobilier. Désormais intégré à WIF Group aux côtés de We Invest France et de La Signature Immo, le réseau conserve son identité et son fondateur, qui entre au capital du groupe. Avec près de 140 points de vente, 1 000 professionnels et de fortes ambitions dans l'intelligence artificielle, le nouvel ensemble entend changer d'échelle. Loyers impayés : vers un fi",
+      "url": "https://www.journaldelagence.com/1414206-stephane-plaza-immobilier-les-ambitions-de-wif-group-pour-relancer-le-reseau",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Stéphane Plaza Immobilier : les ambitions de WIF Group pour relancer le réseau."
     },
     {
       "id": "578ad62627577224",
