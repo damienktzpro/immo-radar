@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-14T21:46:36+00:00",
+  "generated_at": "2026-10-15T05:00:00+00:00",
   "items": [
+    {
+      "id": "2a7102a9ea2a6fa2",
+      "title": "Encadrement des loyers : l’avenir du dispositif se joue maintenant",
+      "summary": "Le 15/10/2026 à 06H30 À quelques jours d'un vote attendu au Sénat le 21 octobre, l'avenir de l'encadrement des loyers est plus que jamais en question. Prolongation, réforme ou fin de l'expérimentation ? Dans un rapport publié ce 14 octobre, la Cour des comptes pointe les limites du dispositif et envisage deux scénarios pour la suite. De son côté, l'UNIS alerte sur les risques pour l'offre locative et appelle les parlementaires",
+      "url": "https://www.journaldelagence.com/1414211-encadrement-des-loyers-lavenir-du-dispositif-se-joue-maintenant",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Encadrement des loyers : l’avenir du dispositif se joue maintenant."
+    },
     {
       "id": "6fa4c6d7edaa2297",
       "title": "Impayé de loyers : Yves, propriétaire bailleur, témoigne",
@@ -88,7 +109,7 @@
     {
       "id": "10468d1e2642bd59",
       "title": "Rachat de Stéphane Plaza Immobilier : « Seuls les résultats compteront ! », Stéphane Plaza et Xavier Belvaux (WIF Group)",
-      "summary": "Nouveau Podcasts",
+      "summary": "Podcasts",
       "url": "https://www.mysweetimmo.com/2026/10/14/rachat-de-stephane-plaza-immobilier-seuls-les-resultats-compteront-stephane-plaza-et-xavier-belvaux-wif-group/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -109,7 +130,7 @@
     {
       "id": "8da34bd31491533b",
       "title": "Stéphane Plaza Immobilier : les ambitions de WIF Group pour relancer le réseau",
-      "summary": "Le 14/10/2026 à 14H45 C'est une nouvelle étape pour Stéphane Plaza Immobilier. Désormais intégré à WIF Group aux côtés de We Invest France et de La Signature Immo, le réseau conserve son identité et son fondateur, qui entre au capital du groupe. Avec près de 140 points de vente, 1 000 professionnels et de fortes ambitions dans l'intelligence artificielle, le nouvel ensemble entend changer d'échelle. Loyers impayés : vers un fi",
+      "summary": "les risques pour l'offre locative et appelle les parlementaires à la prudence. Le 14/10/2026 à 14H45 C'est une nouvelle étape pour Stéphane Plaza Immobilier. Désormais intégré à WIF Group aux côtés de We Invest France et de La Signature Immo, le réseau conserve son identité et son fondateur, qui entre au capital du groupe. Avec près de 140 points de vente, 1 000 professionnels et de fortes ambitions dans l'intelligence artifi",
       "url": "https://www.journaldelagence.com/1414206-stephane-plaza-immobilier-les-ambitions-de-wif-group-pour-relancer-le-reseau",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -124,7 +145,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Stéphane Plaza Immobilier : les ambitions de WIF Group pour relancer le réseau."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Stéphane Plaza Immobilier : les ambitions de WIF Group pour relancer le réseau."
     },
     {
       "id": "578ad62627577224",
