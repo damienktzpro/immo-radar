@@ -1,12 +1,12 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-15T11:37:31+00:00",
+  "generated_at": "2026-10-15T17:06:39+00:00",
   "items": [
     {
       "id": "2a7102a9ea2a6fa2",
       "title": "Encadrement des loyers : l’avenir du dispositif se joue maintenant",
-      "summary": "Le 15/10/2026 à 06H30 À quelques jours d'un vote attendu au Sénat le 21 octobre, l'avenir de l'encadrement des loyers est plus que jamais en question. Prolongation, réforme ou fin de l'expérimentation ? Dans un rapport publié ce 14 octobre, la Cour des comptes pointe les limites du dispositif et envisage deux scénarios pour la suite. De son côté, l'UNIS alerte sur les risques pour l'offre locative et appelle les parlementaires",
+      "summary": "enseignements du dernier Tableau de bord de l'Observatoire Crédit Logement/CSA. Le 15/10/2026 à 06H30 À quelques jours d'un vote attendu au Sénat le 21 octobre, l'avenir de l'encadrement des loyers est plus que jamais en question. Prolongation, réforme ou fin de l'expérimentation ? Dans un rapport publié ce 14 octobre, la Cour des comptes pointe les limites du dispositif et envisage deux scénarios pour la suite. De son côté,",
       "url": "https://www.journaldelagence.com/1414211-encadrement-des-loyers-lavenir-du-dispositif-se-joue-maintenant",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -22,12 +22,12 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Encadrement des loyers : l’avenir du dispositif se joue maintenant."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Encadrement des loyers : l’avenir du dispositif se joue maintenant."
     },
     {
       "id": "d8f0efac0175938b",
       "title": "Logement : Plus cher, plus difficile, un avenir qui inquiète",
-      "summary": "Nouveau Société",
+      "summary": "Société",
       "url": "https://www.mysweetimmo.com/2026/10/15/logement-plus-cher-plus-difficile-un-avenir-qui-inquiete/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -44,6 +44,132 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : Plus cher, plus difficile, un avenir qui inquiète."
+    },
+    {
+      "id": "dc5567b1dcca8b1f",
+      "title": "Taux de crédit immobilier : 3,40 % en septembre, le marché en récession selon Crédit Logement",
+      "summary": "Nouveau Investir / Financer",
+      "url": "https://www.mysweetimmo.com/2026/10/15/taux-credit-immobilier-septembre-2026/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Taux de crédit immobilier : 3,40 % en septembre, le marché en récession selon Crédit Logement."
+    },
+    {
+      "id": "c0b961038017031e",
+      "title": "Agences immobilières : Belles Demeures lance Boost Social Immo pour cibler les acheteurs sur les réseaux sociaux",
+      "summary": "Belles Demeures lance Boost Social Immo pour diffuser les biens de prestige sur Facebook et Instagram. L’outil combine reciblage des visiteurs du portail et ciblage de nouveaux acheteurs, avec jusqu’à trois biens mis en avant chaque mois. Contenu sponsorisé par Belles Demeures",
+      "url": "https://www.mysweetimmo.com/2026/10/15/immobilier-belles-demeures-lance-boost-social-immo-pour-cibler-les-acheteurs-sur-les-reseaux-sociaux/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agences immobilières : Belles Demeures lance Boost Social Immo pour cibler les acheteurs sur les réseaux sociaux."
+    },
+    {
+      "id": "03142d0dcf469a21",
+      "title": "Crédits immobiliers : taux en hausse, marchés en panne… Quelles perspectives pour 2027 ?",
+      "summary": "Le 15/10/2026 à 14H29 La remontée des taux de crédit immobilier s'accélère, tandis que la demande des ménages s'essouffle et que la production de prêts repart à la baisse. Avec un taux moyen déjà porté à 3,43 % à la mi-octobre, les perspectives s'assombrissent pour les marchés immobiliers. Alors, à quoi les professionnels de l'immobilier doivent-ils se préparer pour 2027 ? Soyez les plus informés sur votre secteur grâce aux pr",
+      "url": "https://www.journaldelagence.com/1414220-credits-immobiliers-taux-en-hausse-marches-en-panne-quelles-perspectives-pour-2027",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédits immobiliers : taux en hausse, marchés en panne… Quelles perspectives pour 2027 ?."
+    },
+    {
+      "id": "b133875de3bbeb72",
+      "title": "Immobilier : Legendre s'implante au Canada STRATÉGIE. Le spécialiste de l'immobilier Legendre vient d'ouvrir une agence à Montréal, au Canada. Une première pour l'entreprise hors d'Europe.",
+      "summary": "Économie 15/10/2026",
+      "url": "https://www.batiactu.com/edito/immobilier-legendre-s-implante-au-canada-75616.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Legendre s'implante au Canada STRATÉGIE. Le spécialiste de l'immobilier Legendre vient d'ouvrir une agence à Montr…."
+    },
+    {
+      "id": "01a209d6f54a84cc",
+      "title": "Belles Demeures lance Boost Social Immo pour valoriser vos annonces immobilières sur les réseaux sociaux",
+      "summary": "15 octobre 2026 - Le portail immobilier Belles Demeures a annoncé le lancement de Boost Social Immo, une solution automatisée pour promouvoir vos annonces immobilières auprès d’une [...]",
+      "url": "https://immo2.pro/actualite-immobilier/belles-demeures-lance-boost-social-immo-pour-valoriser-vos-annonces-immobilieres-sur-les-reseaux-sociaux/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Belles Demeures lance Boost Social Immo pour valoriser vos annonces immobilières sur les réseaux sociaux."
+    },
+    {
+      "id": "7cf049caebcb90a5",
+      "title": "leboncoin immo et Nodalview s’associent pour améliorer les standards de l’annonce immobilière",
+      "summary": "15 octobre 2026 - La plateforme leboncoin immo a annoncé un partenariat avec l’expert en marketing immobilier Nodalview. Grâce à cette collaboration, les pros de l’immobilier [...]",
+      "url": "https://immo2.pro/actualite-immobilier/leboncoin-immo-et-nodalview-sassocient-pour-ameliorer-les-standards-de-lannonce-immobiliere/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : leboncoin immo et Nodalview s’associent pour améliorer les standards de l’annonce immobilière."
     },
     {
       "id": "5b01dab58c62d9bd",
@@ -295,8 +421,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : [Dossier exclusif] Immobilier de prestige : le véritable luxe, c’est d’aider ses clients à choisir."
     },
     {
-      "id": "61fdc92271acdf4d",
-      "title": "Mandataires : Propriétés-Privées.com, Dr House Immo et BSK Immobilier diffuseront leurs annonces sur idealista.fr",
+      "id": "5dae30b86544f591",
+      "title": "Mandataires : Propriétés Privées, Dr House Immo et BSK Immobilier diffuseront leurs annonces sur idealista",
       "summary": "elle que le professionnel est lui aussi un acteur émotionnel de la transaction. Le 13/10/2026 à 16H16 Après les réseaux d’agences, idealista accueille à son tour trois réseaux de mandataires, qui représentent près de 9 000 conseillers. Un signal fort pour un portail encore récent en France, dont l’enjeu sera désormais de transformer ces partenariats en audience et en contacts qualifiés. Honoraires immobiliers : un siècle d’hi",
       "url": "https://www.journaldelagence.com/1414194-mandataires-proprietes-privees-com-dr-house-immo-et-bsk-immobilier-diffuseront-leurs-annonces-sur-idealista-fr",
       "source": "Journal de l'Agence",
@@ -312,7 +438,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Mandataires : Propriétés-Privées.com, Dr House Immo et BSK Immobilier diffuseront leurs annonces sur idealista.fr."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Mandataires : Propriétés Privées, Dr House Immo et BSK Immobilier diffuseront leurs annonces sur idealista."
     },
     {
       "id": "50c9f346cc2ed4ec",
