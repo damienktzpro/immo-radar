@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-10-15T04:59:41+00:00",
+  "generated_at": "2026-10-15T11:37:12+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "d8f0efac0175938b",
+      "title": "Logement : Plus cher, plus difficile, un avenir qui inquiète",
+      "summary": "Nouveau Société",
+      "url": "https://www.mysweetimmo.com/2026/10/15/logement-plus-cher-plus-difficile-un-avenir-qui-inquiete/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : Plus cher, plus difficile, un avenir qui inquiète."
+    },
     {
       "id": "2a7102a9ea2a6fa2",
       "title": "Encadrement des loyers : l’avenir du dispositif se joue maintenant",
@@ -22,6 +43,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Encadrement des loyers : l’avenir du dispositif se joue maintenant."
+    },
+    {
+      "id": "5b01dab58c62d9bd",
+      "title": "Quelle revalorisation pour les retraites complémentaires du privé ?",
+      "summary": "En tant que salarié du secteur privé, vous bénéficiez durant votre retraite d'une pension complémentaire qui vient s’ajouter à votre retraite de base versée par la Sécurité sociale. Le 14 octobre 2026, les représentants des organisations patronales et syndicales qui composent le conseil d’administration de l’Agirc-Arrco ont décidé de revaloriser cette pension de retraite complémentaire dès le 1 er novembre 2026.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17790?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-14T09:00:00+00:00",
+      "status": "Information officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source officielle. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Quelle revalorisation pour les retraites complémentaires du privé ?."
     },
     {
       "id": "ff289727fe0996ba",
@@ -395,27 +437,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier logistique : Les entreprises chinoises renforcent leur présence en France."
-    },
-    {
-      "id": "1bf439dcdadf4efc",
-      "title": "Immobilier de santé : Les investissements battent un record",
-      "summary": "Économie et Business",
-      "url": "https://www.mysweetimmo.com/2026/10/11/immobilier-de-sante-les-investissements-battent-un-record/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-11T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier de santé : Les investissements battent un record."
     },
     {
       "id": "235886a823d884e8",
@@ -1546,6 +1567,48 @@
       "legal_stage": "jorf"
     },
     {
+      "id": "f756fb74f4dd48db",
+      "title": "Le nouvel indice de référence des loyers vient de paraître",
+      "summary": "L’indice de référence des loyers (IRL) au 3 e trimestre 2026 vient d’être publié. Cet indicateur sert de base pour réviser le loyer d'un logement loué vide ou meublé avec un bail d'habitation. Il a progressé de 1,57 % sur un an, après une augmentation de 1,15 % au deuxième trimestre.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17342?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": null,
+      "status": "Information officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source officielle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Le nouvel indice de référence des loyers vient de paraître."
+    },
+    {
+      "id": "8e475dc9b365c3a3",
+      "title": "Ce qui change en octobre 2026",
+      "summary": "Santé, logement, heure d’hiver... Découvrez les changements intervenant à partir de ce mois d’octobre.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18466?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": null,
+      "status": "Information officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Ce qui change en octobre 2026."
+    },
+    {
       "id": "e5b891181cd81757",
       "title": "Pompes à chaleur : les critères pour bénéficier de la prime « coup de pouce chauffage » évoluent",
       "summary": "La prime « coup de pouce chauffage » est une aide financière permettant aux propriétaires et aux locataires de remplacer leur système de chauffage par une installation qui consomme moins d'énergie. Les conditions pour en bénéficier pour l’installation d’une pompe à chaleur ou d’un système solaire combiné ont évolué le 1 er septembre. Service Public vous présente les nouvelles modalités.",
@@ -1589,31 +1652,31 @@
     }
   ],
   "source_stats": {
-    "Journal de l'Agence": 15,
-    "ANIL": 10,
     "MySweetImmo": 16,
+    "Journal de l'Agence": 15,
+    "Service-Public.fr": 5,
+    "ANIL": 10,
     "Immobilier 2.0": 16,
     "Batiactu": 12,
     "Horiz.io": 2,
     "SDES / Sitadel": 1,
     "Insee": 1,
-    "EUR-Lex": 1,
-    "Service-Public.fr": 2
+    "EUR-Lex": 1
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 12,
-    "sources_degraded": 2,
-    "errors": 1,
-    "retained": 76,
-    "rejected": 1082,
+    "sources_ok": 15,
+    "sources_degraded": 0,
+    "errors": 0,
+    "retained": 79,
+    "rejected": 1130,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
-        "retained": 2,
-        "last_success": "2026-10-15T04:47:16+00:00",
+        "retained": 5,
+        "last_success": "2026-10-15T11:36:20+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1621,7 +1684,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-15T04:47:19+00:00",
+        "last_success": "2026-10-15T11:36:23+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1629,33 +1692,31 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-15T04:47:21+00:00",
+        "last_success": "2026-10-15T11:36:24+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
         "level": "A",
-        "ok": false,
-        "status": "degraded",
+        "ok": true,
+        "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-14T21:46:23+00:00",
-        "fallback": true,
-        "error_type": "RetryError"
+        "last_success": "2026-10-15T11:36:26+00:00",
+        "fallback": false
       },
       "Sénat / DOSLEG": {
         "level": "A",
-        "ok": false,
-        "status": "error",
+        "ok": true,
+        "status": "empty",
         "retained": 0,
-        "last_success": null,
-        "fallback": false,
-        "error_type": "ConnectTimeout"
+        "last_success": "2026-10-15T11:36:51+00:00",
+        "fallback": false
       },
       "Légifrance": {
         "level": "A",
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-15T04:55:56+00:00",
+        "last_success": "2026-10-15T11:37:02+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1663,7 +1724,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-15T04:55:56+00:00",
+        "last_success": "2026-10-15T11:37:02+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1671,7 +1732,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-15T04:55:57+00:00",
+        "last_success": "2026-10-15T11:37:02+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1679,7 +1740,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-15T04:55:58+00:00",
+        "last_success": "2026-10-15T11:37:03+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1687,7 +1748,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-15T04:55:59+00:00",
+        "last_success": "2026-10-15T11:37:05+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1695,7 +1756,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-15T04:56:01+00:00",
+        "last_success": "2026-10-15T11:37:06+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1703,24 +1764,23 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-15T04:56:02+00:00",
+        "last_success": "2026-10-15T11:37:07+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
-        "ok": false,
-        "status": "degraded",
+        "ok": true,
+        "status": "ok",
         "retained": 12,
-        "last_success": "2026-10-14T21:46:23+00:00",
-        "fallback": true,
-        "error_type": "ConnectionError"
+        "last_success": "2026-10-15T11:37:09+00:00",
+        "fallback": false
       },
       "Immobilier 2.0": {
         "level": "C",
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-15T04:59:40+00:00",
+        "last_success": "2026-10-15T11:37:10+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1728,26 +1788,10 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-15T04:59:41+00:00",
+        "last_success": "2026-10-15T11:37:11+00:00",
         "fallback": false
       }
     }
   },
-  "errors": [
-    {
-      "source": "SDES / Sitadel",
-      "error": "HTTPSConnectionPool(host='www.statistiques.developpement-durable.gouv.fr', port=443): Max retries exceeded with url: /la-construction-neuve (Caused by ResponseError('too many 503 error responses'))",
-      "fallback": true
-    },
-    {
-      "source": "Sénat / DOSLEG",
-      "error": "HTTPSConnectionPool(host='data.senat.fr', port=443): Max retries exceeded with url: /data/dosleg/dosleg.zip (Caused by ConnectTimeoutError(<HTTPSConnection(host='data.senat.fr', port=443) at 0x7f41c371a690>, 'Connection to data.senat.fr timed out. (connect timeout=60)'))",
-      "fallback": false
-    },
-    {
-      "source": "Batiactu",
-      "error": "HTTPSConnectionPool(host='www.batiactu.com', port=443): Max retries exceeded with url: /theme/theme-logement.php (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.batiactu.com', port=443): Read timed out. (read timeout=22)\"))",
-      "fallback": true
-    }
-  ]
+  "errors": []
 }
