@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-16T11:31:20+00:00",
+  "generated_at": "2026-10-16T16:44:27+00:00",
   "items": [
     {
       "id": "8256e7882e1131d8",
@@ -65,6 +65,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Salon RENT 2026 : le récap des tarifs (et l’offre exclusive Immo2)."
+    },
+    {
+      "id": "6f36eb376f1ba1f5",
+      "title": "Présidentielle 2027 : face à l’urgence de la crise du logement, Orpi réclame une loi intégrale",
+      "summary": "Le 16/10/2026 à 17H07 « Une politique du logement stable, lisible et efficace ». Voilà ce que Guillaume Martinaud, président du réseau Orpi, attend, entre autres, du prochain quinquennat. Nourri des contributions de plus de 16 000 citoyens, le réseau d’agences immobilières avance 4 propositions pour débloquer les projets, soutenir l’investissement et fluidifier les parcours résidentiels. Décryptage. Hier visible, demain recomm",
+      "url": "https://www.journaldelagence.com/1414260-presidentielle-2027-face-a-lurgence-de-la-crise-du-logement-orpi-reclame-une-loi-integrale",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Présidentielle 2027 : face à l’urgence de la crise du logement, Orpi réclame une loi intégrale."
     },
     {
       "id": "2a7102a9ea2a6fa2",
