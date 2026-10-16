@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-16T04:38:29+00:00",
+  "generated_at": "2026-10-16T11:31:20+00:00",
   "items": [
     {
       "id": "8256e7882e1131d8",
@@ -44,6 +44,27 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : « Avec l’IA, certaines annonces immobilières sont presque trop belles pour être vraies."
+    },
+    {
+      "id": "fb27fa7013a1335d",
+      "title": "Salon RENT 2026 : le récap des tarifs (et l’offre exclusive Immo2)",
+      "summary": "16 octobre 2026 - C’est l’automne ! Et dans l’immobilier, ça veut dire une chose : c’est le retour du RENT ! Incontournable rendez-vous pour celles et ceux qui [...]",
+      "url": "https://immo2.pro/actualite-immobilier/salon-rent-2026-le-recap-des-tarifs-et-loffre-exclusive-immo2/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Salon RENT 2026 : le récap des tarifs (et l’offre exclusive Immo2)."
     },
     {
       "id": "2a7102a9ea2a6fa2",
@@ -356,6 +377,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Stéphane Plaza Immobilier : les ambitions de WIF Group pour relancer le réseau."
+    },
+    {
+      "id": "9c8680e584cf0e00",
+      "title": "Immobilier Etats-Unis : eXp Realty propose jusqu’à 50 000 dollars pour préparer une vente",
+      "summary": "Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/10/14/immobilier-etats-unis-exp-realty-propose-jusqua-50-000-dollars-pour-preparer-une-vente/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Etats-Unis : eXp Realty propose jusqu’à 50 000 dollars pour préparer une vente."
     },
     {
       "id": "578ad62627577224",
