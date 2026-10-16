@@ -1,8 +1,50 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-15T21:28:36+00:00",
+  "generated_at": "2026-10-16T04:38:29+00:00",
   "items": [
+    {
+      "id": "8256e7882e1131d8",
+      "title": "Hier visible, demain recommandé : Omny connecte les biens des agences aux IA",
+      "summary": "Le 16/10/2026 à 00H00 Vos clients posent désormais leurs questions aux IA avant d'ouvrir un portail. Ils ne cherchent plus une liste d'annonces : ils attendent qu'une IA leur recommande les biens qui correspondent à leur projet. Pour une agence, la question change : mes biens sont-ils recommandés par ces IA ? Omny propose de faire ce branchement. « Avec l’IA, certaines annonces immobilières sont presque trop belles pour être v",
+      "url": "https://www.journaldelagence.com/1414152-hier-visible-demain-recommande-omny-connecte-les-biens-des-agences-aux-ia",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Hier visible, demain recommandé : Omny connecte les biens des agences aux IA."
+    },
+    {
+      "id": "ec6bc675250005c5",
+      "title": "« Avec l’IA, certaines annonces immobilières sont presque trop belles pour être vraies",
+      "summary": "s biens sont-ils recommandés par ces IA ? Omny propose de faire ce branchement. » Le 16/10/2026 à 00H00 Des annonces immobilières plus séduisantes, mais parfois trop éloignées de la réalité. Avec la démocratisation de l’IA, comment valoriser un bien sans décevoir les acquéreurs ? Thomas Lepelaars, cofondateur et CEO de Nodalview, explique comment attirer l’attention tout en préservant la confiance des futurs acheteurs. Crédit",
+      "url": "https://www.journaldelagence.com/1414221-avec-lia-certaines-annonces-immobilieres-sont-presque-trop-belles-pour-etre-vraies",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : « Avec l’IA, certaines annonces immobilières sont presque trop belles pour être vraies."
+    },
     {
       "id": "2a7102a9ea2a6fa2",
       "title": "Encadrement des loyers : l’avenir du dispositif se joue maintenant",
@@ -48,7 +90,7 @@
     {
       "id": "dc5567b1dcca8b1f",
       "title": "Taux de crédit immobilier : 3,40 % en septembre, le marché en récession selon Crédit Logement",
-      "summary": "Nouveau Investir / Financer",
+      "summary": "Investir / Financer",
       "url": "https://www.mysweetimmo.com/2026/10/15/taux-credit-immobilier-septembre-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -90,7 +132,7 @@
     {
       "id": "03142d0dcf469a21",
       "title": "Crédits immobiliers : taux en hausse, marchés en panne… Quelles perspectives pour 2027 ?",
-      "summary": "Le 15/10/2026 à 14H29 La remontée des taux de crédit immobilier s'accélère, tandis que la demande des ménages s'essouffle et que la production de prêts repart à la baisse. Avec un taux moyen déjà porté à 3,43 % à la mi-octobre, les perspectives s'assombrissent pour les marchés immobiliers. Alors, à quoi les professionnels de l'immobilier doivent-ils se préparer pour 2027 ? Soyez les plus informés sur votre secteur grâce aux pr",
+      "summary": "mment attirer l’attention tout en préservant la confiance des futurs acheteurs. Le 15/10/2026 à 14H29 La remontée des taux de crédit immobilier s'accélère, tandis que la demande des ménages s'essouffle et que la production de prêts repart à la baisse. Avec un taux moyen déjà porté à 3,43 % à la mi-octobre, les perspectives s'assombrissent pour les marchés immobiliers. Alors, à quoi les professionnels de l'immobilier doivent-i",
       "url": "https://www.journaldelagence.com/1414220-credits-immobiliers-taux-en-hausse-marches-en-panne-quelles-perspectives-pour-2027",
       "source": "Journal de l'Agence",
       "source_level": "C",
