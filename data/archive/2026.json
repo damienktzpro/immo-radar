@@ -1,8 +1,50 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-17T04:35:22+00:00",
+  "generated_at": "2026-10-17T10:51:41+00:00",
   "items": [
+    {
+      "id": "39995b223a97768c",
+      "title": "Immobilier Bordeaux : La Grande Maison de Bernard Magrez vendue autour de 5,4 millions d'euros",
+      "summary": "Nouveau Vente",
+      "url": "https://www.mysweetimmo.com/2026/10/17/immobilier-bordeaux-la-grande-maison-de-bernard-magrez-vendue-autour-de-54-millions-deuros/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Bordeaux : La Grande Maison de Bernard Magrez vendue autour de 5,4 millions d'euros."
+    },
+    {
+      "id": "c1d87571964623ad",
+      "title": "Immobilier : Les Français préfèrent être propriétaires plutôt que gagner deux fois plus",
+      "summary": "Nouveau Etudes et Sondages",
+      "url": "https://www.mysweetimmo.com/2026/10/17/immobilier-les-francais-preferent-etre-proprietaires-plutot-que-gagner-deux-fois-plus/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Les Français préfèrent être propriétaires plutôt que gagner deux fois plus."
+    },
     {
       "id": "8256e7882e1131d8",
       "title": "Hier visible, demain recommandé : Omny connecte les biens des agences aux IA",
