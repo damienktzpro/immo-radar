@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-17T15:40:35+00:00",
+  "generated_at": "2026-10-17T20:41:06+00:00",
   "items": [
     {
       "id": "39995b223a97768c",
@@ -27,7 +27,7 @@
     {
       "id": "c1d87571964623ad",
       "title": "Immobilier : Les Français préfèrent être propriétaires plutôt que gagner deux fois plus",
-      "summary": "Nouveau Etudes et Sondages",
+      "summary": "Etudes et Sondages",
       "url": "https://www.mysweetimmo.com/2026/10/17/immobilier-les-francais-preferent-etre-proprietaires-plutot-que-gagner-deux-fois-plus/",
       "source": "MySweetImmo",
       "source_level": "C",
