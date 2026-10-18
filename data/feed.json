@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-10-18T04:48:29+00:00",
+  "generated_at": "2026-10-18T11:15:16+00:00",
   "version": "7.1",
   "items": [
     {
-      "id": "39995b223a97768c",
-      "title": "Immobilier Bordeaux : La Grande Maison de Bernard Magrez vendue autour de 5,4 millions d'euros",
+      "id": "26e4f7ce49b5bc91",
+      "title": "Immobilier Gassin : Une pépite avec plage privée à vendre 7,8 millions d’euros",
+      "summary": "Nouveau Luxe",
+      "url": "https://www.mysweetimmo.com/2026/10/18/immobilier-gassin-une-pepite-avec-plage-privee-a-vendre-78-millions-deuros/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Gassin : Une pépite avec plage privée à vendre 7,8 millions d’euros."
+    },
+    {
+      "id": "b2aea6d43506ddb9",
+      "title": "Immobilier Bordeaux : La Grande Maison de Bernard Magrez vendue autour de 5,4 millions d’euros",
       "summary": "Vente",
       "url": "https://www.mysweetimmo.com/2026/10/17/immobilier-bordeaux-la-grande-maison-de-bernard-magrez-vendue-autour-de-54-millions-deuros/",
       "source": "MySweetImmo",
@@ -21,7 +42,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Bordeaux : La Grande Maison de Bernard Magrez vendue autour de 5,4 millions d'euros."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Bordeaux : La Grande Maison de Bernard Magrez vendue autour de 5,4 millions d’euros."
     },
     {
       "id": "c1d87571964623ad",
@@ -337,27 +358,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Rachat de Stéphane Plaza Immobilier : « Seuls les résultats compteront ! », Stéphane Plaza et Xavier Belvaux (WIF Group)."
-    },
-    {
-      "id": "9c8680e584cf0e00",
-      "title": "Immobilier Etats-Unis : eXp Realty propose jusqu’à 50 000 dollars pour préparer une vente",
-      "summary": "Vie Pro",
-      "url": "https://www.mysweetimmo.com/2026/10/14/immobilier-etats-unis-exp-realty-propose-jusqua-50-000-dollars-pour-preparer-une-vente/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-14T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Etats-Unis : eXp Realty propose jusqu’à 50 000 dollars pour préparer une vente."
     },
     {
       "id": "8da34bd31491533b",
@@ -1522,18 +1522,18 @@
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 14,
+    "sources_ok": 15,
     "sources_degraded": 0,
-    "errors": 1,
+    "errors": 0,
     "retained": 72,
-    "rejected": 1192,
+    "rejected": 1191,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-10-18T04:39:53+00:00",
+        "last_success": "2026-10-18T11:14:34+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1541,7 +1541,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-18T04:39:57+00:00",
+        "last_success": "2026-10-18T11:14:37+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1549,7 +1549,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-18T04:39:58+00:00",
+        "last_success": "2026-10-18T11:14:37+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1557,24 +1557,23 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-18T04:39:59+00:00",
+        "last_success": "2026-10-18T11:14:39+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
         "level": "A",
-        "ok": false,
-        "status": "error",
+        "ok": true,
+        "status": "empty",
         "retained": 0,
-        "last_success": null,
-        "fallback": false,
-        "error_type": "ConnectTimeout"
+        "last_success": "2026-10-18T11:14:58+00:00",
+        "fallback": false
       },
       "Légifrance": {
         "level": "A",
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-18T04:48:20+00:00",
+        "last_success": "2026-10-18T11:15:07+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1582,7 +1581,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-18T04:48:20+00:00",
+        "last_success": "2026-10-18T11:15:07+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1590,7 +1589,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-18T04:48:21+00:00",
+        "last_success": "2026-10-18T11:15:08+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1598,7 +1597,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-18T04:48:22+00:00",
+        "last_success": "2026-10-18T11:15:09+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1606,7 +1605,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-18T04:48:23+00:00",
+        "last_success": "2026-10-18T11:15:10+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1614,7 +1613,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-18T04:48:25+00:00",
+        "last_success": "2026-10-18T11:15:11+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1622,7 +1621,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-18T04:48:26+00:00",
+        "last_success": "2026-10-18T11:15:12+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1630,7 +1629,7 @@
         "ok": true,
         "status": "ok",
         "retained": 6,
-        "last_success": "2026-10-18T04:48:27+00:00",
+        "last_success": "2026-10-18T11:15:14+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1638,7 +1637,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-18T04:48:28+00:00",
+        "last_success": "2026-10-18T11:15:15+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1646,16 +1645,10 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-18T04:48:28+00:00",
+        "last_success": "2026-10-18T11:15:15+00:00",
         "fallback": false
       }
     }
   },
-  "errors": [
-    {
-      "source": "Sénat / DOSLEG",
-      "error": "HTTPSConnectionPool(host='data.senat.fr', port=443): Max retries exceeded with url: /data/dosleg/dosleg.zip (Caused by ConnectTimeoutError(<HTTPSConnection(host='data.senat.fr', port=443) at 0x7fc2dbc9cdd0>, 'Connection to data.senat.fr timed out. (connect timeout=60)'))",
-      "fallback": false
-    }
-  ]
+  "errors": []
 }
