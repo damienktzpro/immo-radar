@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T16:03:49+00:00",
+  "generated_at": "2026-10-18T20:50:19+00:00",
   "version": "7.1",
   "items": [
     {
@@ -1522,9 +1522,9 @@
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 14,
+    "sources_ok": 15,
     "sources_degraded": 0,
-    "errors": 1,
+    "errors": 0,
     "retained": 72,
     "rejected": 1193,
     "by_source": {
@@ -1533,7 +1533,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-10-18T15:55:15+00:00",
+        "last_success": "2026-10-18T20:49:37+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1541,7 +1541,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-18T15:55:17+00:00",
+        "last_success": "2026-10-18T20:49:39+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1549,7 +1549,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-18T15:55:17+00:00",
+        "last_success": "2026-10-18T20:49:41+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1557,24 +1557,23 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-18T15:55:19+00:00",
+        "last_success": "2026-10-18T20:49:42+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
         "level": "A",
-        "ok": false,
-        "status": "error",
+        "ok": true,
+        "status": "empty",
         "retained": 0,
-        "last_success": null,
-        "fallback": false,
-        "error_type": "ConnectTimeout"
+        "last_success": "2026-10-18T20:50:00+00:00",
+        "fallback": false
       },
       "Légifrance": {
         "level": "A",
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-18T16:03:41+00:00",
+        "last_success": "2026-10-18T20:50:08+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1582,7 +1581,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-18T16:03:41+00:00",
+        "last_success": "2026-10-18T20:50:08+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1590,7 +1589,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-18T16:03:42+00:00",
+        "last_success": "2026-10-18T20:50:09+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1598,7 +1597,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-18T16:03:42+00:00",
+        "last_success": "2026-10-18T20:50:10+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1606,7 +1605,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-18T16:03:44+00:00",
+        "last_success": "2026-10-18T20:50:11+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1614,7 +1613,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-18T16:03:45+00:00",
+        "last_success": "2026-10-18T20:50:13+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1622,7 +1621,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-18T16:03:46+00:00",
+        "last_success": "2026-10-18T20:50:14+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1630,7 +1629,7 @@
         "ok": true,
         "status": "ok",
         "retained": 6,
-        "last_success": "2026-10-18T16:03:47+00:00",
+        "last_success": "2026-10-18T20:50:15+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1638,7 +1637,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-18T16:03:48+00:00",
+        "last_success": "2026-10-18T20:50:16+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1646,16 +1645,10 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-18T16:03:48+00:00",
+        "last_success": "2026-10-18T20:50:18+00:00",
         "fallback": false
       }
     }
   },
-  "errors": [
-    {
-      "source": "Sénat / DOSLEG",
-      "error": "HTTPSConnectionPool(host='data.senat.fr', port=443): Max retries exceeded with url: /data/dosleg/dosleg.zip (Caused by ConnectTimeoutError(<HTTPSConnection(host='data.senat.fr', port=443) at 0x7fce37a43380>, 'Connection to data.senat.fr timed out. (connect timeout=60)'))",
-      "fallback": false
-    }
-  ]
+  "errors": []
 }
