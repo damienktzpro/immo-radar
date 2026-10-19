@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:27:11+00:00",
+  "generated_at": "2026-10-19T22:24:53+00:00",
   "version": "7.1",
   "items": [
     {
@@ -1546,27 +1546,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Ce qui change en octobre 2026."
-    },
-    {
-      "id": "e5b891181cd81757",
-      "title": "Pompes à chaleur : les critères pour bénéficier de la prime « coup de pouce chauffage » évoluent",
-      "summary": "La prime « coup de pouce chauffage » est une aide financière permettant aux propriétaires et aux locataires de remplacer leur système de chauffage par une installation qui consomme moins d'énergie. Les conditions pour en bénéficier pour l’installation d’une pompe à chaleur ou d’un système solaire combiné ont évolué le 1 er septembre. Service Public vous présente les nouvelles modalités.",
-      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19057?xtor=RSS-111",
-      "source": "Service-Public.fr",
-      "source_level": "A",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": null,
-      "status": "Information officielle",
-      "importance": 88,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source officielle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Pompes à chaleur : les critères pour bénéficier de la prime « coup de pouce chauffage » évoluent."
     }
   ],
   "source_stats": {
@@ -1574,7 +1553,7 @@
     "MySweetImmo": 16,
     "Immobilier 2.0": 16,
     "Batiactu": 8,
-    "Service-Public.fr": 5,
+    "Service-Public.fr": 4,
     "ANIL": 10,
     "Horiz.io": 2,
     "SDES / Sitadel": 1,
@@ -1586,15 +1565,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 75,
-    "rejected": 1188,
+    "retained": 74,
+    "rejected": 1193,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
-        "retained": 5,
-        "last_success": "2026-10-19T13:26:20+00:00",
+        "retained": 4,
+        "last_success": "2026-10-19T22:24:13+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1602,7 +1581,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-19T13:26:23+00:00",
+        "last_success": "2026-10-19T22:24:15+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1610,7 +1589,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-19T13:26:25+00:00",
+        "last_success": "2026-10-19T22:24:16+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1618,7 +1597,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-19T13:26:26+00:00",
+        "last_success": "2026-10-19T22:24:17+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1626,7 +1605,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-19T13:26:49+00:00",
+        "last_success": "2026-10-19T22:24:34+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1634,7 +1613,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-19T13:27:00+00:00",
+        "last_success": "2026-10-19T22:24:44+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1642,7 +1621,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-19T13:27:00+00:00",
+        "last_success": "2026-10-19T22:24:44+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1650,7 +1629,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-19T13:27:01+00:00",
+        "last_success": "2026-10-19T22:24:45+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1658,7 +1637,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-19T13:27:02+00:00",
+        "last_success": "2026-10-19T22:24:46+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1666,7 +1645,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-19T13:27:04+00:00",
+        "last_success": "2026-10-19T22:24:47+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1674,7 +1653,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-19T13:27:06+00:00",
+        "last_success": "2026-10-19T22:24:48+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1682,7 +1661,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-19T13:27:07+00:00",
+        "last_success": "2026-10-19T22:24:49+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1690,7 +1669,7 @@
         "ok": true,
         "status": "ok",
         "retained": 8,
-        "last_success": "2026-10-19T13:27:09+00:00",
+        "last_success": "2026-10-19T22:24:51+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1698,7 +1677,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-19T13:27:10+00:00",
+        "last_success": "2026-10-19T22:24:51+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1706,7 +1685,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-19T13:27:10+00:00",
+        "last_success": "2026-10-19T22:24:52+00:00",
         "fallback": false
       }
     }
