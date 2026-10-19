@@ -1,12 +1,12 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-18T20:50:41+00:00",
+  "generated_at": "2026-10-19T04:49:09+00:00",
   "items": [
     {
       "id": "26e4f7ce49b5bc91",
       "title": "Immobilier Gassin : Une pépite avec plage privée à vendre 7,8 millions d’euros",
-      "summary": "Nouveau Luxe",
+      "summary": "Luxe",
       "url": "https://www.mysweetimmo.com/2026/10/18/immobilier-gassin-une-pepite-avec-plage-privee-a-vendre-78-millions-deuros/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -174,7 +174,7 @@
     {
       "id": "d8f0efac0175938b",
       "title": "Logement : Plus cher, plus difficile, un avenir qui inquiète",
-      "summary": "Société",
+      "summary": "Logement : Plus cher, plus difficile, un avenir qui inquiète",
       "url": "https://www.mysweetimmo.com/2026/10/15/logement-plus-cher-plus-difficile-un-avenir-qui-inquiete/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -486,7 +486,7 @@
     {
       "id": "578ad62627577224",
       "title": "Crédit immobilier en recul : CAFPI appelle les pouvoirs publics à agir",
-      "summary": "Politique",
+      "summary": "Crédit immobilier en recul : CAFPI appelle les pouvoirs publics à agir",
       "url": "https://www.mysweetimmo.com/2026/10/13/credit-immobilier-en-recul-cafpi-appelle-les-pouvoirs-publics-a-agir/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -715,7 +715,7 @@
     {
       "id": "7022b46da7e1c31e",
       "title": "Immobilier logistique : Les entreprises chinoises renforcent leur présence en France",
-      "summary": "Économie et Business",
+      "summary": "Immobilier logistique : Les entreprises chinoises renforcent leur présence en France",
       "url": "https://www.mysweetimmo.com/2026/10/11/immobilier-logistique-les-entreprises-chinoises-renforcent-leur-presence-en-france/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -736,7 +736,7 @@
     {
       "id": "1bf439dcdadf4efc",
       "title": "Immobilier de santé : Les investissements battent un record",
-      "summary": "Économie et Business",
+      "summary": "Immobilier de santé : Les investissements battent un record",
       "url": "https://www.mysweetimmo.com/2026/10/11/immobilier-de-sante-les-investissements-battent-un-record/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -943,7 +943,7 @@
     {
       "id": "ead559ae658ee1f3",
       "title": "Immobilier : Un bilan contrasté au 3e trimestre chez Orpi",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier : Un bilan contrasté au 3e trimestre chez Orpi",
       "url": "https://www.mysweetimmo.com/2026/10/08/immobilier-un-bilan-contraste-au-3e-trimestre-chez-orpi/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -959,7 +959,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Un bilan contrasté au 3e trimestre chez Orpi."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Un bilan contrasté au 3e trimestre chez Orpi."
     },
     {
       "id": "63335c50fbd2d4d4",
