@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-20T17:15:39+00:00",
+  "generated_at": "2026-10-20T21:42:08+00:00",
   "items": [
     {
       "id": "bdd19db7883954a3",
@@ -150,6 +150,48 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Squarimo rachète Enchères Immo et WinUp pour démocratiser la vente immobilière interactive."
     },
     {
+      "id": "a6aeb28bfccd26fd",
+      "title": "Rafraîchir sa cuisine avant de vendre : Brico Cash, IKEA ou Brico Dépôt, où acheter ses meubles de cuisine ?",
+      "summary": "Une cuisine vieillissante peut refroidir les acheteurs et devenir un argument de négociation lors d’une vente immobilière. Mais faut-il tout refaire pour mieux vendre ? Entre budget, délais et choix des meubles, Brico Cash, IKEA et Brico Dépôt proposent différentes solutions pour valoriser son logement sans se ruiner. Contenu sponsorisé par Brico Cash",
+      "url": "https://www.mysweetimmo.com/2026/10/20/rafraichir-sa-cuisine-avant-de-vendre-brico-cash-ikea-ou-brico-depot-ou-acheter-ses-meubles-de-cuisine/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Rafraîchir sa cuisine avant de vendre : Brico Cash, IKEA ou Brico Dépôt, où acheter ses meubles de cuisine ?."
+    },
+    {
+      "id": "9793a47a51d46686",
+      "title": "Immobilier : « Faire rêver avec la ville, oui. Mais encore faut-il pouvoir y habiter », François Gagnon (ERA)",
+      "summary": "Nouveau Dans l'actu",
+      "url": "https://www.mysweetimmo.com/2026/10/20/immobilier-faire-rever-avec-la-ville-oui-mais-encore-faut-il-pouvoir-y-habiter-francois-gagnon-era/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : « Faire rêver avec la ville, oui. Mais encore faut-il pouvoir y habiter », François Gagnon (ERA)."
+    },
+    {
       "id": "8a2870236579918a",
       "title": "Agents immobiliers et administrateurs de biens : quel avenir pour le syndicalisme patronal ?",
       "summary": "le communauté. Nathalie Gardes nous invite à regarder ces événements autrement. Le 19/10/2026 à 07H12 Les syndicats de l’immobilier traversent une crise silencieuse. Alors que les adhésions s’érodent, c’est toute la place du syndicalisme patronal qui interroge. Tribune d'Henry Buzy-Cazaux. SCI et sociétés à prépondérance immobilière : ce qui change pour les cessions de parts Le 19/10/2026 à 07H01 Céder les parts d'une SCI ou",
@@ -190,9 +232,30 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : SCI et sociétés à prépondérance immobilière : ce qui change pour les cessions de parts."
     },
     {
+      "id": "6b4996885dd52073",
+      "title": "Émeutes : Qui paie les dégâts dans les immeubles, les commerces et les agences immobilières ?",
+      "summary": "Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/10/19/emeutes-qui-paie-les-degats-dans-les-immeubles/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Émeutes : Qui paie les dégâts dans les immeubles, les commerces et les agences immobilières ?."
+    },
+    {
       "id": "26e4f7ce49b5bc91",
       "title": "Immobilier Gassin : Une pépite avec plage privée à vendre 7,8 millions d’euros",
-      "summary": "Luxe",
+      "summary": "Immobilier Gassin : Une pépite avec plage privée à vendre 7,8 millions d’euros",
       "url": "https://www.mysweetimmo.com/2026/10/18/immobilier-gassin-une-pepite-avec-plage-privee-a-vendre-78-millions-deuros/",
       "source": "MySweetImmo",
       "source_level": "C",
