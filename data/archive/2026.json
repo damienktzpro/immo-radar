@@ -1,12 +1,53 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-19T22:25:14+00:00",
+  "generated_at": "2026-10-20T04:57:55+00:00",
   "items": [
+    {
+      "id": "1f91eb3333969463",
+      "title": "Marché immobilier : la demande chute de 22 % malgré une offre de biens en hausse",
+      "summary": "Le 20/10/2026 à 06H50 Alors que l'offre de biens à vendre continue de progresser, la demande des acquéreurs marque nettement le pas. Prix presque stables, délais de diffusion qui s'allongent et pouvoir de négociation renforcé : le marché immobilier peine à retrouver une véritable dynamique. Que retenir du dernier Observatoire immobilier Bien’ici pour le troisième trimestre 2026 ? Décryptage des principaux indicateurs à connaît",
+      "url": "https://www.journaldelagence.com/1414292-marche-immobilier-la-demande-chute-de-22-malgre-une-offre-de-biens-en-hausse",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Marché immobilier : la demande chute de 22 % malgré une offre de biens en hausse."
+    },
+    {
+      "id": "f993aec69f4e9cf9",
+      "title": "Conventions annuelles : pourquoi les réseaux immobiliers ont-ils besoin de faire rêver ?",
+      "summary": "des principaux indicateurs à connaître pour les professionnels de l'immobilier. Le 20/10/2026 à 06H14 Pourquoi les réseaux immobiliers rivalisent-ils de créativité et de lieux spectaculaires pour leurs conventions annuelles ? Derrière les paillettes et l'effet « waouh » se joue bien plus qu'une opération de communication. Ces grands rendez-vous ont un pouvoir souvent sous-estimé : transformer des ambitions stratégiques en émo",
+      "url": "https://www.journaldelagence.com/1414281-conventions-annuelles-pourquoi-les-reseaux-immobiliers-ont-ils-besoin-de-faire-rever",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Conventions annuelles : pourquoi les réseaux immobiliers ont-ils besoin de faire rêver ?."
+    },
     {
       "id": "8a2870236579918a",
       "title": "Agents immobiliers et administrateurs de biens : quel avenir pour le syndicalisme patronal ?",
-      "summary": "Le 19/10/2026 à 07H12 Les syndicats de l’immobilier traversent une crise silencieuse. Alors que les adhésions s’érodent, c’est toute la place du syndicalisme patronal qui interroge. Tribune d'Henry Buzy-Cazaux. SCI et sociétés à prépondérance immobilière : ce qui change pour les cessions de parts Le 19/10/2026 à 07H01 Céder les parts d'une SCI ou d'une société à prépondérance immobilière nécessite désormais l'intervention obli",
+      "summary": "le communauté. Nathalie Gardes nous invite à regarder ces événements autrement. Le 19/10/2026 à 07H12 Les syndicats de l’immobilier traversent une crise silencieuse. Alors que les adhésions s’érodent, c’est toute la place du syndicalisme patronal qui interroge. Tribune d'Henry Buzy-Cazaux. SCI et sociétés à prépondérance immobilière : ce qui change pour les cessions de parts Le 19/10/2026 à 07H01 Céder les parts d'une SCI ou",
       "url": "https://www.journaldelagence.com/1414275-agents-immobiliers-et-administrateurs-de-biens-quel-avenir-pour-le-syndicalisme-patronal",
       "source": "Journal de l'Agence",
       "source_level": "C",
