@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-10-20T04:57:33+00:00",
+  "generated_at": "2026-10-20T11:45:51+00:00",
   "version": "7.1",
   "items": [
     {
+      "id": "bdd19db7883954a3",
+      "title": "Nouvelle Parole d'expert : Locataire ou bailleur : que faire en cas d’impayés de loyer ?",
+      "summary": "20 octobre 2026 Un impayé de loyer peut rapidement devenir difficile à gérer, pour le locataire comme pour le propriétaire bailleur. Pourtant, des solutions peuvent être recherchées dès les premières difficultés. Quelles démarches entreprendre ? À qui s’adresser ?…",
+      "url": "https://www.anil.org/parole-expert-logement-habiter-vie-pratique/locataire-ou-bailleur-que-faire-en-cas-dimpayes-de-loyer/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-10-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Nouvelle Parole d'expert : Locataire ou bailleur : que faire en cas d’impayés de loyer ?."
+    },
+    {
+      "id": "13d466670d42edbd",
+      "title": "Commerces et immeubles dégradés : le guide des bailleurs, propriétaires et copropriétés",
+      "summary": "Le 20/10/2026 à 12H21 Au lendemain des dégradations survenues le 17 octobre dans plusieurs villes de France, commerçants, propriétaires et gestionnaires immobiliers doivent faire face à l'urgence : sécuriser les locaux, déclarer les sinistres et préserver leurs droits. Quelles démarches entreprendre ? Quelles indemnisations espérer et quels recours envisager ? En solidarité avec les victimes, Maître Gabriel Neu-Janicki met son",
+      "url": "https://www.journaldelagence.com/1414302-commerces-et-immeubles-degrades-le-guide-des-bailleurs-proprietaires-et-coproprietes",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-10-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Commerces et immeubles dégradés : le guide des bailleurs, propriétaires et copropriétés."
+    },
+    {
       "id": "1f91eb3333969463",
       "title": "Marché immobilier : la demande chute de 22 % malgré une offre de biens en hausse",
-      "summary": "Le 20/10/2026 à 06H50 Alors que l'offre de biens à vendre continue de progresser, la demande des acquéreurs marque nettement le pas. Prix presque stables, délais de diffusion qui s'allongent et pouvoir de négociation renforcé : le marché immobilier peine à retrouver une véritable dynamique. Que retenir du dernier Observatoire immobilier Bien’ici pour le troisième trimestre 2026 ? Décryptage des principaux indicateurs à connaît",
+      "summary": "leur disposition à travers un guide pratique accompagné de modèles de lettres. Le 20/10/2026 à 06H50 Alors que l'offre de biens à vendre continue de progresser, la demande des acquéreurs marque nettement le pas. Prix presque stables, délais de diffusion qui s'allongent et pouvoir de négociation renforcé : le marché immobilier peine à retrouver une véritable dynamique. Que retenir du dernier Observatoire immobilier Bien’ici po",
       "url": "https://www.journaldelagence.com/1414292-marche-immobilier-la-demande-chute-de-22-malgre-une-offre-de-biens-en-hausse",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -605,30 +647,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Inter-agence : comment sécuriser juridiquement vos accords ?."
     },
     {
-      "id": "788f127aa755e5bd",
-      "title": "[Dossier exclusif] Immobilier de prestige : le véritable luxe, c’est d’aider ses clients à choisir",
-      "summary": "qui sécurisent chaque partie. Le point avec Sacha Boyer, fondateur de MyNotary. Le 13/10/2026 à 07H04 Dans l'immobilier de prestige, les acquéreurs peuvent parfois tout acheter, mais peinent à faire leur choix. Pour les agents immobiliers, multiplier les visites et les propositions ne suffit plus : leur véritable valeur ajoutée réside dans leur capacité à comprendre les hésitations des clients et à les aider à décider. Nordin",
-      "url": "https://www.journaldelagence.com/1414157-dossier-exclusif-immobilier-de-prestige-le-veritable-luxe-cest-daider-ses-clients-a-choisir",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-13T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : [Dossier exclusif] Immobilier de prestige : le véritable luxe, c’est d’aider ses clients à choisir."
-    },
-    {
       "id": "0e1638137170ea39",
       "title": "Immobilier : Le marché est-il vraiment en train de basculer ?",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier : Le marché est-il vraiment en train de basculer ?",
       "url": "https://www.mysweetimmo.com/2026/10/12/immobilier-3eme-trimestre-2026-22-de-contacts-en-moins-sur-les-annonces/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -896,27 +917,6 @@
       "territory": "France",
       "topic": "Territoires",
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : De nouvelles données sur les loyers sont disponibles."
-    },
-    {
-      "id": "6e4bad3b5af15126",
-      "title": "Crédit immobilier : LCL ouvre la porte aux travailleurs indépendants et aux freelances",
-      "summary": "Crédit immobilier : LCL ouvre la porte aux travailleurs indépendants et aux freelances",
-      "url": "https://www.mysweetimmo.com/2026/10/07/credit-immobilier-lcl-ouvre-la-porte-aux-travailleurs-independants-et-aux-freelances/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "credit",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-07T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Credit",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : LCL ouvre la porte aux travailleurs indépendants et aux freelances."
     },
     {
       "id": "5172dd0dddedf02a",
@@ -1336,6 +1336,27 @@
       "why_it_matters": "Source institutionnelle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Nouvelle Parole d'expert : Travaux de rénovation énergétique : comment repérer et éviter les arnaques ?."
     },
     {
+      "id": "9cc7ee0625bceca6",
+      "title": "RENT 2026 : « Une Fashion Week pour l’immobilier ! » Stéphane Scarella (RENT)",
+      "summary": "RENT 2026 : « Une Fashion Week pour l’immobilier ! » Stéphane Scarella (RENT)",
+      "url": "https://www.mysweetimmo.com/2026/09/22/rent-2026-une-fashion-week-pour-limmobilier-stephane-scarella-rent/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-09-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 : « Une Fashion Week pour l’immobilier ! » Stéphane Scarella (RENT)."
+    },
+    {
       "id": "056b016112942917",
       "title": "Une délégation du ministère vietnamien de la Construction reçue à l’ANIL",
       "summary": "21 septembre 2026 Le 21 septembre 2026, l’ANIL a accueilli une délégation interministérielle vietnamienne conduite par M. Nguyễn Văn Sinh, Vice-Ministre de la Construction du Vietnam, dans le cadre d’une visite d’étude consacrée aux politiques publiques du logement et…",
@@ -1376,27 +1397,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Peut-on faire confiance aux IA pour effectuer une estimation immobilière ?."
-    },
-    {
-      "id": "5a46dcc8b2aad310",
-      "title": "Rénovation énergétique : une nouvelle obligation pour les professionnels",
-      "summary": "18 septembre 2026 À partir du 1er octobre 2026, les professionnels proposant des travaux de rénovation énergétique devront faire référence au service public France Rénov’ dans leurs publicités et sur leurs sites web.",
-      "url": "https://www.anil.org/actualites-evenements/details/renovation-energetique-une-nouvelle-obligation-pour-les-professionnels/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Rénovation énergétique : une nouvelle obligation pour les professionnels."
     },
     {
       "id": "538b25ded75bbbb5",
@@ -1506,11 +1506,11 @@
     }
   ],
   "source_stats": {
+    "ANIL": 10,
     "Journal de l'Agence": 15,
     "MySweetImmo": 16,
     "Immobilier 2.0": 16,
     "Batiactu": 8,
-    "ANIL": 10,
     "Horiz.io": 2,
     "SDES / Sitadel": 1,
     "Insee": 1,
@@ -1523,14 +1523,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 72,
-    "rejected": 1212,
+    "rejected": 1221,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-20T04:56:41+00:00",
+        "last_success": "2026-10-20T11:45:10+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1538,7 +1538,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-20T04:56:43+00:00",
+        "last_success": "2026-10-20T11:45:12+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1546,7 +1546,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-20T04:56:44+00:00",
+        "last_success": "2026-10-20T11:45:13+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1554,7 +1554,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-20T04:56:45+00:00",
+        "last_success": "2026-10-20T11:45:15+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1562,7 +1562,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-20T04:57:10+00:00",
+        "last_success": "2026-10-20T11:45:32+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1570,7 +1570,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-20T04:57:21+00:00",
+        "last_success": "2026-10-20T11:45:41+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1578,7 +1578,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-20T04:57:21+00:00",
+        "last_success": "2026-10-20T11:45:41+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1586,7 +1586,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-20T04:57:22+00:00",
+        "last_success": "2026-10-20T11:45:42+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1594,7 +1594,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-20T04:57:23+00:00",
+        "last_success": "2026-10-20T11:45:43+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1602,7 +1602,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-20T04:57:24+00:00",
+        "last_success": "2026-10-20T11:45:44+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1610,7 +1610,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-20T04:57:26+00:00",
+        "last_success": "2026-10-20T11:45:45+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1618,7 +1618,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-20T04:57:27+00:00",
+        "last_success": "2026-10-20T11:45:46+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1626,7 +1626,7 @@
         "ok": true,
         "status": "ok",
         "retained": 8,
-        "last_success": "2026-10-20T04:57:29+00:00",
+        "last_success": "2026-10-20T11:45:48+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1634,7 +1634,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-20T04:57:30+00:00",
+        "last_success": "2026-10-20T11:45:48+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1642,7 +1642,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-20T04:57:32+00:00",
+        "last_success": "2026-10-20T11:45:51+00:00",
         "fallback": false
       }
     }

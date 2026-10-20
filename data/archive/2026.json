@@ -1,12 +1,33 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-20T04:57:55+00:00",
+  "generated_at": "2026-10-20T11:46:02+00:00",
   "items": [
+    {
+      "id": "bdd19db7883954a3",
+      "title": "Nouvelle Parole d'expert : Locataire ou bailleur : que faire en cas d’impayés de loyer ?",
+      "summary": "20 octobre 2026 Un impayé de loyer peut rapidement devenir difficile à gérer, pour le locataire comme pour le propriétaire bailleur. Pourtant, des solutions peuvent être recherchées dès les premières difficultés. Quelles démarches entreprendre ? À qui s’adresser ?…",
+      "url": "https://www.anil.org/parole-expert-logement-habiter-vie-pratique/locataire-ou-bailleur-que-faire-en-cas-dimpayes-de-loyer/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-10-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Nouvelle Parole d'expert : Locataire ou bailleur : que faire en cas d’impayés de loyer ?."
+    },
     {
       "id": "1f91eb3333969463",
       "title": "Marché immobilier : la demande chute de 22 % malgré une offre de biens en hausse",
-      "summary": "Le 20/10/2026 à 06H50 Alors que l'offre de biens à vendre continue de progresser, la demande des acquéreurs marque nettement le pas. Prix presque stables, délais de diffusion qui s'allongent et pouvoir de négociation renforcé : le marché immobilier peine à retrouver une véritable dynamique. Que retenir du dernier Observatoire immobilier Bien’ici pour le troisième trimestre 2026 ? Décryptage des principaux indicateurs à connaît",
+      "summary": "leur disposition à travers un guide pratique accompagné de modèles de lettres. Le 20/10/2026 à 06H50 Alors que l'offre de biens à vendre continue de progresser, la demande des acquéreurs marque nettement le pas. Prix presque stables, délais de diffusion qui s'allongent et pouvoir de négociation renforcé : le marché immobilier peine à retrouver une véritable dynamique. Que retenir du dernier Observatoire immobilier Bien’ici po",
       "url": "https://www.journaldelagence.com/1414292-marche-immobilier-la-demande-chute-de-22-malgre-une-offre-de-biens-en-hausse",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -43,6 +64,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Conventions annuelles : pourquoi les réseaux immobiliers ont-ils besoin de faire rêver ?."
+    },
+    {
+      "id": "13d466670d42edbd",
+      "title": "Commerces et immeubles dégradés : le guide des bailleurs, propriétaires et copropriétés",
+      "summary": "Le 20/10/2026 à 12H21 Au lendemain des dégradations survenues le 17 octobre dans plusieurs villes de France, commerçants, propriétaires et gestionnaires immobiliers doivent faire face à l'urgence : sécuriser les locaux, déclarer les sinistres et préserver leurs droits. Quelles démarches entreprendre ? Quelles indemnisations espérer et quels recours envisager ? En solidarité avec les victimes, Maître Gabriel Neu-Janicki met son",
+      "url": "https://www.journaldelagence.com/1414302-commerces-et-immeubles-degrades-le-guide-des-bailleurs-proprietaires-et-coproprietes",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-10-20T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Commerces et immeubles dégradés : le guide des bailleurs, propriétaires et copropriétés."
     },
     {
       "id": "8a2870236579918a",
@@ -713,7 +755,7 @@
     {
       "id": "0e1638137170ea39",
       "title": "Immobilier : Le marché est-il vraiment en train de basculer ?",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier : Le marché est-il vraiment en train de basculer ?",
       "url": "https://www.mysweetimmo.com/2026/10/12/immobilier-3eme-trimestre-2026-22-de-contacts-en-moins-sur-les-annonces/",
       "source": "MySweetImmo",
       "source_level": "C",
