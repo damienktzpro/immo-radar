@@ -1,8 +1,91 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-21T04:56:51+00:00",
+  "generated_at": "2026-10-21T12:01:07+00:00",
   "items": [
+    {
+      "id": "414c2a06c00c00ff",
+      "title": "Immobilier : La situation politique freine un acheteur étranger sur deux",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/10/21/immobilier-la-situation-politique-freine-un-acheteur-etranger-sur-deux/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : La situation politique freine un acheteur étranger sur deux."
+    },
+    {
+      "id": "2c82b4fc71db52a7",
+      "title": "Immobilier résidentiel : 647 millions d’euros investis, le marché patine au 3ème trimestre",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/10/21/immobilier-residentiel-647-millions-deuros-investis-le-marche-patine-au-3eme-trimestre/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier résidentiel : 647 millions d’euros investis, le marché patine au 3ème trimestre."
+    },
+    {
+      "id": "106abfae307a9a6f",
+      "title": "Diagnostics immobiliers : quels enjeux pour les professionnels de la vente ?",
+      "summary": "Le 21/10/2026 à 07H26 La vente d’un bien immobilier est marquée par l’obligation de fournir différents diagnostics pour lesquels les acteurs d’une vente, notaire et agent immobilier, ne sont pas exempts de contrôle. Un rappel utile de leurs obligations à respecter avec Corentin Bloch, expert en droit immobilier. Vis ma vie de conseiller immobilier : pourquoi j’ai choisi de travailler exclusivement en mandat exclusif Le 21/10/2",
+      "url": "https://www.journaldelagence.com/1414317-diagnostics-immobiliers-quels-enjeux-pour-les-professionnels-de-la-vente",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Diagnostics immobiliers : quels enjeux pour les professionnels de la vente ?."
+    },
+    {
+      "id": "d658efec264a947e",
+      "title": "Vis ma vie de conseiller immobilier : pourquoi j’ai choisi de travailler exclusivement en mandat exclusif",
+      "summary": "leurs obligations à respecter avec Corentin Bloch, expert en droit immobilier. Le 21/10/2026 à 06H55 Peut-on développer une activité de conseiller immobilier indépendant avec un modèle 100 % exclusif et sans aucun démarchage ? C’est le choix qu'a fait Arnaux Viallaneix depuis 2024. Il raconte : \"Moins de deux ans plus tard, les résultats sont là : des entrées de mandats conséquentes, une montée en gamme et des clients qui me",
+      "url": "https://www.journaldelagence.com/1414310-vis-ma-vie-de-conseiller-immobilier-pourquoi-jai-choisi-de-travailler-exclusivement-en-mandat-exclusif",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Vis ma vie de conseiller immobilier : pourquoi j’ai choisi de travailler exclusivement en mandat exclusif."
+    },
     {
       "id": "bdd19db7883954a3",
       "title": "Nouvelle Parole d'expert : Locataire ou bailleur : que faire en cas d’impayés de loyer ?",
@@ -27,7 +110,7 @@
     {
       "id": "1f91eb3333969463",
       "title": "Marché immobilier : la demande chute de 22 % malgré une offre de biens en hausse",
-      "summary": "leur disposition à travers un guide pratique accompagné de modèles de lettres. Le 20/10/2026 à 06H50 Alors que l'offre de biens à vendre continue de progresser, la demande des acquéreurs marque nettement le pas. Prix presque stables, délais de diffusion qui s'allongent et pouvoir de négociation renforcé : le marché immobilier peine à retrouver une véritable dynamique. Que retenir du dernier Observatoire immobilier Bien’ici po",
+      "summary": "s. Le point également sur les mesures de soutien annoncées par le Gouvernement. Le 20/10/2026 à 06H50 Alors que l'offre de biens à vendre continue de progresser, la demande des acquéreurs marque nettement le pas. Prix presque stables, délais de diffusion qui s'allongent et pouvoir de négociation renforcé : le marché immobilier peine à retrouver une véritable dynamique. Que retenir du dernier Observatoire immobilier Bien’ici p",
       "url": "https://www.journaldelagence.com/1414292-marche-immobilier-la-demande-chute-de-22-malgre-une-offre-de-biens-en-hausse",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -68,7 +151,7 @@
     {
       "id": "13d466670d42edbd",
       "title": "Commerces et immeubles dégradés : le guide des bailleurs, propriétaires et copropriétés",
-      "summary": "Le 20/10/2026 à 12H21 Au lendemain des dégradations survenues le 17 octobre dans plusieurs villes de France, commerçants, propriétaires et gestionnaires immobiliers doivent faire face à l'urgence : sécuriser les locaux, déclarer les sinistres et préserver leurs droits. Quelles démarches entreprendre ? Quelles indemnisations espérer et quels recours envisager ? En solidarité avec les victimes, Maître Gabriel Neu-Janicki met son",
+      "summary": "confient une nouvelle vente\". Voici comment fonctionne son modèle au quotidien. Le 20/10/2026 à 12H21 Après les dégradations des 17 et 18 octobre, commerçants, propriétaires et gestionnaires immobiliers doivent faire face à l'urgence : sécuriser les locaux, déclarer les sinistres et préserver leurs droits. Quelles démarches entreprendre ? Quelles indemnisations espérer et quels recours envisager ? Maître Gabriel Neu-Janicki u",
       "url": "https://www.journaldelagence.com/1414302-commerces-et-immeubles-degrades-le-guide-des-bailleurs-proprietaires-et-coproprietes",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -110,7 +193,7 @@
     {
       "id": "c2713d166129612d",
       "title": "Immobilier Isle-sur-la-Sorgue : Un mas à vendre où les chevaux ont aussi leur place",
-      "summary": "Vente",
+      "summary": "Immobilier Isle-sur-la-Sorgue : Un mas à vendre où les chevaux ont aussi leur place",
       "url": "https://www.mysweetimmo.com/2026/10/20/immobilier-isle-sur-la-sorgue-un-mas-a-vendre-ou-les-chevaux-ont-aussi-leur-place/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -126,7 +209,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Isle-sur-la-Sorgue : Un mas à vendre où les chevaux ont aussi leur place."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Isle-sur-la-Sorgue : Un mas à vendre où les chevaux ont aussi leur place."
     },
     {
       "id": "3d7293efa8c364b6",
@@ -173,7 +256,7 @@
     {
       "id": "9793a47a51d46686",
       "title": "Immobilier : « Faire rêver avec la ville, oui. Mais encore faut-il pouvoir y habiter », François Gagnon (ERA)",
-      "summary": "Nouveau Dans l'actu",
+      "summary": "Dans l'actu",
       "url": "https://www.mysweetimmo.com/2026/10/20/immobilier-faire-rever-avec-la-ville-oui-mais-encore-faut-il-pouvoir-y-habiter-francois-gagnon-era/",
       "source": "MySweetImmo",
       "source_level": "C",
