@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-20T21:42:08+00:00",
+  "generated_at": "2026-10-21T04:56:51+00:00",
   "items": [
     {
       "id": "bdd19db7883954a3",
@@ -89,7 +89,7 @@
     {
       "id": "445eca98c95b28ff",
       "title": "Bricks.co : 12 millions promis en 6 heures pour sa banque de l’immobilier",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/10/20/bricks-banque-immobilier-12-millions-souscription/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -110,7 +110,7 @@
     {
       "id": "c2713d166129612d",
       "title": "Immobilier Isle-sur-la-Sorgue : Un mas à vendre où les chevaux ont aussi leur place",
-      "summary": "Nouveau Vente",
+      "summary": "Vente",
       "url": "https://www.mysweetimmo.com/2026/10/20/immobilier-isle-sur-la-sorgue-un-mas-a-vendre-ou-les-chevaux-ont-aussi-leur-place/",
       "source": "MySweetImmo",
       "source_level": "C",
