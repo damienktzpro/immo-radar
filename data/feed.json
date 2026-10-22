@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T12:00:10+00:00",
+  "generated_at": "2026-10-22T17:23:38+00:00",
   "version": "7.1",
   "items": [
     {
@@ -24,9 +24,30 @@
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat."
     },
     {
+      "id": "4a255f1759205471",
+      "title": "Webinaire immobilier : Préparez vos ventes 2027 le 29 octobre",
+      "summary": "Nouveau Dans l'actu",
+      "url": "https://www.mysweetimmo.com/2026/10/22/webinaire-immobilier-preparez-vos-ventes-2027-le-29-octobre/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Webinaire immobilier : Préparez vos ventes 2027 le 29 octobre."
+    },
+    {
       "id": "ae633cab4a5db4e9",
       "title": "Émeutes : Votre taxe foncière va-t-elle payer la casse ?",
-      "summary": "Nouveau Règlementation",
+      "summary": "Règlementation",
       "url": "https://www.mysweetimmo.com/2026/10/22/emeutes-votre-taxe-fonciere-va-t-elle-payer-la-casse/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -43,6 +64,27 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Émeutes : Votre taxe foncière va-t-elle payer la casse ?."
+    },
+    {
+      "id": "c4b08a16ba3694ec",
+      "title": "Encadrement des loyers : le Sénat vote une prolongation de deux ans, sans extension du dispositif",
+      "summary": "Le 22/10/2026 à 14H30 L'encadrement des loyers pourrait finalement être prolongé jusqu'en 2028. Mercredi 21 octobre, le Sénat a largement adopté une proposition de loi maintenant l'expérimentation pour deux années supplémentaires, mais uniquement dans les territoires déjà concernés. Un compromis qui écarte plusieurs mesures de renforcement du dispositif et doit encore être validé par l'Assemblée nationale. Voici ce qu'il faut",
+      "url": "https://www.journaldelagence.com/1414377-encadrement-des-loyers-le-senat-vote-une-prolongation-de-deux-ans-sans-extension-du-dispositif",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Encadrement des loyers : le Sénat vote une prolongation de deux ans, sans extension du dispositif."
     },
     {
       "id": "414c2a06c00c00ff",
@@ -172,7 +214,7 @@
     {
       "id": "9793a47a51d46686",
       "title": "Immobilier : « Faire rêver avec la ville, oui. Mais encore faut-il pouvoir y habiter », François Gagnon (ERA)",
-      "summary": "Dans l'actu",
+      "summary": "Immobilier : « Faire rêver avec la ville, oui. Mais encore faut-il pouvoir y habiter », François Gagnon (ERA)",
       "url": "https://www.mysweetimmo.com/2026/10/20/immobilier-faire-rever-avec-la-ville-oui-mais-encore-faut-il-pouvoir-y-habiter-francois-gagnon-era/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -235,7 +277,7 @@
     {
       "id": "13d466670d42edbd",
       "title": "Commerces et immeubles dégradés : le guide des bailleurs, propriétaires et copropriétés",
-      "summary": "confient une nouvelle vente\". Voici comment fonctionne son modèle au quotidien. Le 20/10/2026 à 12H21 Après les dégradations des 17 et 18 octobre, commerçants, propriétaires et gestionnaires immobiliers doivent faire face à l'urgence : sécuriser les locaux, déclarer les sinistres et préserver leurs droits. Quelles démarches entreprendre ? Quelles indemnisations espérer et quels recours envisager ? Maître Gabriel Neu-Janicki u",
+      "summary": "confient une nouvelle vente\". Voici comment fonctionne son modèle au quotidien. Le 20/10/2026 à 12H21 Après les dégradations des 17 et 18 octobre, commerçants, propriétaires et gestionnaires immobiliers doivent faire face à l'urgence : sécuriser les locaux, déclarer les sinistres et préserver leurs droits. Quelles démarches entreprendre ? Quelles indemnisations espérer et quels recours envisager ? Maître Gabriel Neu-Janicki p",
       "url": "https://www.journaldelagence.com/1414302-commerces-et-immeubles-degrades-le-guide-des-bailleurs-proprietaires-et-coproprietes",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -256,7 +298,7 @@
     {
       "id": "1f91eb3333969463",
       "title": "Marché immobilier : la demande chute de 22 % malgré une offre de biens en hausse",
-      "summary": "s. Le point également sur les mesures de soutien annoncées par le Gouvernement. Le 20/10/2026 à 06H50 Alors que l'offre de biens à vendre continue de progresser, la demande des acquéreurs marque nettement le pas. Prix presque stables, délais de diffusion qui s'allongent et pouvoir de négociation renforcé : le marché immobilier peine à retrouver une véritable dynamique. Que retenir du dernier Observatoire immobilier Bien’ici p",
+      "summary": "ttres. Le point aussi sur les mesures de soutien annoncées par le Gouvernement. Le 20/10/2026 à 06H50 Alors que l'offre de biens à vendre continue de progresser, la demande des acquéreurs marque nettement le pas. Prix presque stables, délais de diffusion qui s'allongent et pouvoir de négociation renforcé : le marché immobilier peine à retrouver une véritable dynamique. Que retenir du dernier Observatoire immobilier Bien’ici p",
       "url": "https://www.journaldelagence.com/1414292-marche-immobilier-la-demande-chute-de-22-malgre-une-offre-de-biens-en-hausse",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -753,26 +795,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Loyers impayés : vers un fichier national des mauvais payeurs ? Le débat est relancé."
     },
     {
-      "id": "490b775c97b02520",
-      "title": "Agents immobiliers : vos émotions peuvent-elles compromettre une vente ?",
-      "summary": "atifs et protection des données personnelles, les questions restent nombreuses. Le 14/10/2026 à 06H40 Ramener un vendeur à la raison, encourager un acquéreur à écouter son coup de cœur… L'agent immobilier jongle quotidiennement avec les émotions de ses clients. Mais qu'en est-il des siennes ? Entre pression commerciale, peur de perdre une vente et envie de bien faire, Dominique Piredda nous rappelle que le professionnel est l",
-      "url": "https://www.journaldelagence.com/1414178-et-si-les-emotions-de-lagent-immobilier-compliquaient-aussi-la-transaction",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-10-14T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Agents immobiliers : vos émotions peuvent-elles compromettre une vente ?."
-    },
-    {
       "id": "23ad324d91a6beac",
       "title": "Immobilier : le PTZ parentalité pourrait financer jusqu’à 100 000 € pour les familles",
       "summary": "Investir / Financer",
@@ -792,27 +814,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : le PTZ parentalité pourrait financer jusqu’à 100 000 € pour les familles."
-    },
-    {
-      "id": "578ad62627577224",
-      "title": "Crédit immobilier en recul : CAFPI appelle les pouvoirs publics à agir",
-      "summary": "Crédit immobilier en recul : CAFPI appelle les pouvoirs publics à agir",
-      "url": "https://www.mysweetimmo.com/2026/10/13/credit-immobilier-en-recul-cafpi-appelle-les-pouvoirs-publics-a-agir/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "credit",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-13T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Credit",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier en recul : CAFPI appelle les pouvoirs publics à agir."
     },
     {
       "id": "c31ac098c1e757ee",
@@ -877,9 +878,30 @@
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Journée mondiale de la santé mentale."
     },
     {
+      "id": "95ab875b86dc4e6f",
+      "title": "De nouveaux modèles de bail et une notice d'information actualisée",
+      "summary": "Les modèles réglementaires de bail ont évolué au 1 er octobre 2026 pour les logements loués vides, meublés et les colocations à bail unique. Les nouveaux contrats types intègrent notamment la clause résolutoire applicable en cas d'impayés ou de non-versement du dépôt de garantie, ainsi que de nouvelles mentions relatives à l'occupation du logement. Un arrêté du 9 octobre 2026 met également à jour la notice d'information annexée au contrat de location.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19067?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "status": "Information officielle",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source officielle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : De nouveaux modèles de bail et une notice d'information actualisée."
+    },
+    {
       "id": "427d16338c0e6495",
       "title": "Contrats de location : avez-vous mis à jour la notice obligatoire ?",
-      "summary": "Le 22/10/2026 à 07H02 Après les contrats types modifiés au 1er octobre, une autre pièce du dossier locatif évolue. L’arrêté du 9 octobre 2026, publié au Journal officiel le 17 octobre, vient actualiser la notice d’information obligatoire annexée aux contrats de location à usage de résidence principale. Cette nouvelle version s’applique aux contrats conclus ou renouvelés depuis le 18 octobre 2026 (les baux en cours ne sont pas",
+      "summary": "nationale. Voici ce qu'il faut retenir pour les professionnels de l'immobilier. Le 22/10/2026 à 07H02 Après les contrats types modifiés au 1er octobre, une autre pièce du dossier locatif évolue. L’arrêté du 9 octobre 2026, publié au Journal officiel le 17 octobre, vient actualiser la notice d’information obligatoire annexée aux contrats de location à usage de résidence principale. Cette nouvelle version s’applique aux contrat",
       "url": "https://www.journaldelagence.com/1414344-contrats-de-location-avez-vous-mis-a-jour-la-notice-obligatoire",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -1385,32 +1407,33 @@
     "Journal de l'Agence": 15,
     "Immobilier 2.0": 16,
     "Batiactu": 5,
+    "Service-Public.fr": 1,
     "Horiz.io": 2,
     "Insee": 1,
     "EUR-Lex": 1
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 15,
+    "sources_ok": 14,
     "sources_degraded": 0,
-    "errors": 0,
-    "retained": 66,
-    "rejected": 1215,
+    "errors": 1,
+    "retained": 67,
+    "rejected": 1224,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
-        "status": "empty",
-        "retained": 0,
-        "last_success": "2026-10-22T11:59:16+00:00",
+        "status": "ok",
+        "retained": 1,
+        "last_success": "2026-10-22T17:15:01+00:00",
         "fallback": false
       },
       "Banque de France": {
         "level": "A",
         "ok": true,
-        "status": "empty",
-        "retained": 0,
-        "last_success": "2026-10-22T11:59:21+00:00",
+        "status": "ok",
+        "retained": 1,
+        "last_success": "2026-10-22T17:15:02+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1418,7 +1441,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-22T11:59:23+00:00",
+        "last_success": "2026-10-22T17:15:04+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1426,23 +1449,24 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-22T11:59:23+00:00",
+        "last_success": "2026-10-22T17:15:04+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
         "level": "A",
-        "ok": true,
-        "status": "empty",
+        "ok": false,
+        "status": "error",
         "retained": 0,
-        "last_success": "2026-10-22T11:59:47+00:00",
-        "fallback": false
+        "last_success": null,
+        "fallback": false,
+        "error_type": "ConnectTimeout"
       },
       "Légifrance": {
         "level": "A",
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-22T11:59:58+00:00",
+        "last_success": "2026-10-22T17:23:26+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1450,7 +1474,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-22T11:59:58+00:00",
+        "last_success": "2026-10-22T17:23:26+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1458,7 +1482,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-22T12:00:00+00:00",
+        "last_success": "2026-10-22T17:23:27+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1466,7 +1490,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-22T12:00:01+00:00",
+        "last_success": "2026-10-22T17:23:28+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1474,7 +1498,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-22T12:00:02+00:00",
+        "last_success": "2026-10-22T17:23:29+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1482,7 +1506,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-22T12:00:04+00:00",
+        "last_success": "2026-10-22T17:23:31+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1490,7 +1514,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-22T12:00:06+00:00",
+        "last_success": "2026-10-22T17:23:32+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1498,7 +1522,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-10-22T12:00:08+00:00",
+        "last_success": "2026-10-22T17:23:34+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1506,7 +1530,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-22T12:00:09+00:00",
+        "last_success": "2026-10-22T17:23:35+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1514,10 +1538,16 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-22T12:00:09+00:00",
+        "last_success": "2026-10-22T17:23:37+00:00",
         "fallback": false
       }
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "source": "Sénat / DOSLEG",
+      "error": "HTTPSConnectionPool(host='data.senat.fr', port=443): Max retries exceeded with url: /data/dosleg/dosleg.zip (Caused by ConnectTimeoutError(<HTTPSConnection(host='data.senat.fr', port=443) at 0x7f935b87b350>, 'Connection to data.senat.fr timed out. (connect timeout=60)'))",
+      "fallback": false
+    }
+  ]
 }
