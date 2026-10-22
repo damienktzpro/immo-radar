@@ -1,8 +1,50 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-22T04:57:21+00:00",
+  "generated_at": "2026-10-22T12:00:34+00:00",
   "items": [
+    {
+      "id": "6e33fda69c485e00",
+      "title": "Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat",
+      "summary": "22 octobre 2026 Les 4 et 5 novembre 2026, le réseau ANIL/ADIL sera présent au Salon de la Copropriété et de l’Habitat, à Paris Expo Porte de Versailles.",
+      "url": "https://www.anil.org/actualites-evenements/details/le-reseau-anil-adil-au-salon-de-la-copropriete-et-de-lhabitat/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat."
+    },
+    {
+      "id": "ae633cab4a5db4e9",
+      "title": "Émeutes : Votre taxe foncière va-t-elle payer la casse ?",
+      "summary": "Nouveau Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/10/22/emeutes-votre-taxe-fonciere-va-t-elle-payer-la-casse/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Émeutes : Votre taxe foncière va-t-elle payer la casse ?."
+    },
     {
       "id": "414c2a06c00c00ff",
       "title": "Immobilier : La situation politique freine un acheteur étranger sur deux",
@@ -48,7 +90,7 @@
     {
       "id": "106abfae307a9a6f",
       "title": "Diagnostics immobiliers : quels enjeux pour les professionnels de la vente ?",
-      "summary": "Le 21/10/2026 à 07H26 La vente d’un bien immobilier est marquée par l’obligation de fournir différents diagnostics pour lesquels les acteurs d’une vente, notaire et agent immobilier, ne sont pas exempts de contrôle. Un rappel utile de leurs obligations à respecter avec Corentin Bloch, expert en droit immobilier. Vis ma vie de conseiller immobilier : pourquoi j’ai choisi de travailler exclusivement en mandat exclusif Le 21/10/2",
+      "summary": "entions invite ainsi les agences et gestionnaires à actualiser leurs documents. Le 21/10/2026 à 07H26 La vente d’un bien immobilier est marquée par l’obligation de fournir différents diagnostics pour lesquels les acteurs d’une vente, notaire et agent immobilier, ne sont pas exempts de contrôle. Un rappel utile de leurs obligations à respecter avec Corentin Bloch, expert en droit immobilier. Vis ma vie de conseiller immobilier",
       "url": "https://www.journaldelagence.com/1414317-diagnostics-immobiliers-quels-enjeux-pour-les-professionnels-de-la-vente",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -172,7 +214,7 @@
     {
       "id": "445eca98c95b28ff",
       "title": "Bricks.co : 12 millions promis en 6 heures pour sa banque de l’immobilier",
-      "summary": "Vie Pro",
+      "summary": "Bricks.co : 12 millions promis en 6 heures pour sa banque de l’immobilier",
       "url": "https://www.mysweetimmo.com/2026/10/20/bricks-banque-immobilier-12-millions-souscription/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -1250,6 +1292,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Analyse Encadrement des loyers : des économies qui se chiffrent en centaines d'euros par an."
+    },
+    {
+      "id": "427d16338c0e6495",
+      "title": "Contrats de location : avez-vous mis à jour la notice obligatoire ?",
+      "summary": "Le 22/10/2026 à 07H02 Après les contrats types modifiés au 1er octobre, une autre pièce du dossier locatif évolue. L’arrêté du 9 octobre 2026, publié au Journal officiel le 17 octobre, vient actualiser la notice d’information obligatoire annexée aux contrats de location à usage de résidence principale. Cette nouvelle version s’applique aux contrats conclus ou renouvelés depuis le 18 octobre 2026 (les baux en cours ne sont pas",
+      "url": "https://www.journaldelagence.com/1414344-contrats-de-location-avez-vous-mis-a-jour-la-notice-obligatoire",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Contrats de location : avez-vous mis à jour la notice obligatoire ?."
     },
     {
       "id": "07d6510fb2a19333",
