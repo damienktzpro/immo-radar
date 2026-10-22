@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-22T17:23:56+00:00",
+  "generated_at": "2026-10-22T21:50:12+00:00",
   "items": [
     {
       "id": "6e33fda69c485e00",
@@ -69,7 +69,7 @@
     {
       "id": "c4b08a16ba3694ec",
       "title": "Encadrement des loyers : le Sénat vote une prolongation de deux ans, sans extension du dispositif",
-      "summary": "Le 22/10/2026 à 14H30 L'encadrement des loyers pourrait finalement être prolongé jusqu'en 2028. Mercredi 21 octobre, le Sénat a largement adopté une proposition de loi maintenant l'expérimentation pour deux années supplémentaires, mais uniquement dans les territoires déjà concernés. Un compromis qui écarte plusieurs mesures de renforcement du dispositif et doit encore être validé par l'Assemblée nationale. Voici ce qu'il faut",
+      "summary": "pas encore la fin du parcours réglementaire. Professionnels, restez informés ! Le 22/10/2026 à 14H30 L'encadrement des loyers pourrait finalement être prolongé jusqu'en 2028. Mercredi 21 octobre, le Sénat a largement adopté une proposition de loi maintenant l'expérimentation pour deux années supplémentaires, mais uniquement dans les territoires déjà concernés. Un compromis qui écarte plusieurs mesures de renforcement du dispo",
       "url": "https://www.journaldelagence.com/1414377-encadrement-des-loyers-le-senat-vote-une-prolongation-de-deux-ans-sans-extension-du-dispositif",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -86,6 +86,90 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Encadrement des loyers : le Sénat vote une prolongation de deux ans, sans extension du dispositif."
+    },
+    {
+      "id": "72b44527f43126b0",
+      "title": "Immobilier : La hausse des taux fait chuter les ventes de Nexity de 17%",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/10/22/immobilier-la-hausse-des-taux-fait-chuter-les-ventes-de-nexity-de-17/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : La hausse des taux fait chuter les ventes de Nexity de 17%."
+    },
+    {
+      "id": "fc590d65861c9b9a",
+      "title": "Immobilier : Laforêt lance une marque dédiée aux biens de famille et de caractère",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/10/22/immobilier-laforet-lance-une-marque-dediee-aux-biens-de-famille-et-de-caractere/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Laforêt lance une marque dédiée aux biens de famille et de caractère."
+    },
+    {
+      "id": "7dcfa3058d3b91b1",
+      "title": "Crédit immobilier : L’OAT à 5 % pousse les taux à la hausse",
+      "summary": "Investir / Financer",
+      "url": "https://www.mysweetimmo.com/2026/10/22/credit-immobilier-loat-a-5-pousse-les-taux-a-la-hausse/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : L’OAT à 5 % pousse les taux à la hausse."
+    },
+    {
+      "id": "1dc8f514b86314ed",
+      "title": "Formation obligatoire des collaborateurs immobiliers : le CNTGI donne son feu vert au projet de décret",
+      "summary": "Le 22/10/2026 à 20H59 Le décret très attendu sur la formation obligatoire des collaborateurs de l'immobilier franchit enfin une nouvelle étape ! Réuni le 21 octobre, le Conseil national de la transaction et de la gestion immobilières (CNTGI) a rendu un avis favorable au projet de texte, sous réserve de plusieurs modifications. Un consensus obtenu après de longues discussions, mais qui ne marque pas encore la fin du parcours ré",
+      "url": "https://www.journaldelagence.com/1414389-formation-obligatoire-des-collaborateurs-immobiliers-le-cntgi-donne-son-feu-vert-au-projet-de-decret",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Formation obligatoire des collaborateurs immobiliers : le CNTGI donne son feu vert au projet de décret."
     },
     {
       "id": "414c2a06c00c00ff",
@@ -611,7 +695,7 @@
     {
       "id": "dc5567b1dcca8b1f",
       "title": "Taux de crédit immobilier : 3,40 % en septembre, le marché en récession selon Crédit Logement",
-      "summary": "Investir / Financer",
+      "summary": "Taux de crédit immobilier : 3,40 % en septembre, le marché en récession selon Crédit Logement",
       "url": "https://www.mysweetimmo.com/2026/10/15/taux-credit-immobilier-septembre-2026/",
       "source": "MySweetImmo",
       "source_level": "C",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T17:23:38+00:00",
+  "generated_at": "2026-10-22T21:49:47+00:00",
   "version": "7.1",
   "items": [
     {
@@ -22,6 +22,69 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat."
+    },
+    {
+      "id": "72b44527f43126b0",
+      "title": "Immobilier : La hausse des taux fait chuter les ventes de Nexity de 17%",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/10/22/immobilier-la-hausse-des-taux-fait-chuter-les-ventes-de-nexity-de-17/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : La hausse des taux fait chuter les ventes de Nexity de 17%."
+    },
+    {
+      "id": "fc590d65861c9b9a",
+      "title": "Immobilier : Laforêt lance une marque dédiée aux biens de famille et de caractère",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/10/22/immobilier-laforet-lance-une-marque-dediee-aux-biens-de-famille-et-de-caractere/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Laforêt lance une marque dédiée aux biens de famille et de caractère."
+    },
+    {
+      "id": "7dcfa3058d3b91b1",
+      "title": "Crédit immobilier : L’OAT à 5 % pousse les taux à la hausse",
+      "summary": "Investir / Financer",
+      "url": "https://www.mysweetimmo.com/2026/10/22/credit-immobilier-loat-a-5-pousse-les-taux-a-la-hausse/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : L’OAT à 5 % pousse les taux à la hausse."
     },
     {
       "id": "4a255f1759205471",
@@ -66,9 +129,30 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Émeutes : Votre taxe foncière va-t-elle payer la casse ?."
     },
     {
+      "id": "1dc8f514b86314ed",
+      "title": "Formation obligatoire des collaborateurs immobiliers : le CNTGI donne son feu vert au projet de décret",
+      "summary": "Le 22/10/2026 à 20H59 Le décret très attendu sur la formation obligatoire des collaborateurs de l'immobilier franchit enfin une nouvelle étape ! Réuni le 21 octobre, le Conseil national de la transaction et de la gestion immobilières (CNTGI) a rendu un avis favorable au projet de texte, sous réserve de plusieurs modifications. Un consensus obtenu après de longues discussions, mais qui ne marque pas encore la fin du parcours ré",
+      "url": "https://www.journaldelagence.com/1414389-formation-obligatoire-des-collaborateurs-immobiliers-le-cntgi-donne-son-feu-vert-au-projet-de-decret",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Formation obligatoire des collaborateurs immobiliers : le CNTGI donne son feu vert au projet de décret."
+    },
+    {
       "id": "c4b08a16ba3694ec",
       "title": "Encadrement des loyers : le Sénat vote une prolongation de deux ans, sans extension du dispositif",
-      "summary": "Le 22/10/2026 à 14H30 L'encadrement des loyers pourrait finalement être prolongé jusqu'en 2028. Mercredi 21 octobre, le Sénat a largement adopté une proposition de loi maintenant l'expérimentation pour deux années supplémentaires, mais uniquement dans les territoires déjà concernés. Un compromis qui écarte plusieurs mesures de renforcement du dispositif et doit encore être validé par l'Assemblée nationale. Voici ce qu'il faut",
+      "summary": "pas encore la fin du parcours réglementaire. Professionnels, restez informés ! Le 22/10/2026 à 14H30 L'encadrement des loyers pourrait finalement être prolongé jusqu'en 2028. Mercredi 21 octobre, le Sénat a largement adopté une proposition de loi maintenant l'expérimentation pour deux années supplémentaires, mais uniquement dans les territoires déjà concernés. Un compromis qui écarte plusieurs mesures de renforcement du dispo",
       "url": "https://www.journaldelagence.com/1414377-encadrement-des-loyers-le-senat-vote-une-prolongation-de-deux-ans-sans-extension-du-dispositif",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -547,7 +631,7 @@
     {
       "id": "dc5567b1dcca8b1f",
       "title": "Taux de crédit immobilier : 3,40 % en septembre, le marché en récession selon Crédit Logement",
-      "summary": "Investir / Financer",
+      "summary": "Taux de crédit immobilier : 3,40 % en septembre, le marché en récession selon Crédit Logement",
       "url": "https://www.mysweetimmo.com/2026/10/15/taux-credit-immobilier-septembre-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -564,27 +648,6 @@
       "territory": "France",
       "topic": "Credit",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Taux de crédit immobilier : 3,40 % en septembre, le marché en récession selon Crédit Logement."
-    },
-    {
-      "id": "d8f0efac0175938b",
-      "title": "Logement : Plus cher, plus difficile, un avenir qui inquiète",
-      "summary": "Logement : Plus cher, plus difficile, un avenir qui inquiète",
-      "url": "https://www.mysweetimmo.com/2026/10/15/logement-plus-cher-plus-difficile-un-avenir-qui-inquiete/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-15T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : Plus cher, plus difficile, un avenir qui inquiète."
     },
     {
       "id": "03142d0dcf469a21",
@@ -734,27 +797,6 @@
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Impayé de loyers : Yves, propriétaire bailleur, témoigne."
     },
     {
-      "id": "10468d1e2642bd59",
-      "title": "Rachat de Stéphane Plaza Immobilier : « Seuls les résultats compteront ! », Stéphane Plaza et Xavier Belvaux (WIF Group)",
-      "summary": "Podcasts",
-      "url": "https://www.mysweetimmo.com/2026/10/14/rachat-de-stephane-plaza-immobilier-seuls-les-resultats-compteront-stephane-plaza-et-xavier-belvaux-wif-group/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-14T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Rachat de Stéphane Plaza Immobilier : « Seuls les résultats compteront ! », Stéphane Plaza et Xavier Belvaux (WIF Group)."
-    },
-    {
       "id": "8da34bd31491533b",
       "title": "Stéphane Plaza Immobilier : les ambitions de WIF Group pour relancer le réseau",
       "summary": "les risques pour l'offre locative et appelle les parlementaires à la prudence. Le 14/10/2026 à 14H45 C'est une nouvelle étape pour Stéphane Plaza Immobilier. Désormais intégré à WIF Group aux côtés de We Invest France et de La Signature Immo, le réseau conserve son identité et son fondateur, qui entre au capital du groupe. Avec près de 140 points de vente, 1 000 professionnels et de fortes ambitions dans l'intelligence artifi",
@@ -773,47 +815,6 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Stéphane Plaza Immobilier : les ambitions de WIF Group pour relancer le réseau."
-    },
-    {
-      "id": "8a121925f589a39d",
-      "title": "Loyers impayés : vers un fichier national des mauvais payeurs ? Le débat est relancé",
-      "summary": "dans l'intelligence artificielle, le nouvel ensemble entend changer d'échelle. Le 14/10/2026 à 07H02 Faut-il créer un fichier national pour identifier les locataires qui multiplient volontairement les impayés ? Relancée par le ministre du Logement Vincent Jeanbrun, cette proposition divise propriétaires, professionnels de l'immobilier et associations de locataires. Entre sécurisation des revenus locatifs et protection des don",
-      "url": "https://www.journaldelagence.com/1414187-loyers-impayes-vers-un-fichier-national-des-mauvais-payeurs-le-debat-est-relance",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-10-14T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Loyers impayés : vers un fichier national des mauvais payeurs ? Le débat est relancé."
-    },
-    {
-      "id": "23ad324d91a6beac",
-      "title": "Immobilier : le PTZ parentalité pourrait financer jusqu’à 100 000 € pour les familles",
-      "summary": "Investir / Financer",
-      "url": "https://www.mysweetimmo.com/2026/10/13/immobilier-le-ptz-parentalite-pourrait-financer-jusqua-100-000-e-pour-les-familles/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-13T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : le PTZ parentalité pourrait financer jusqu’à 100 000 € pour les familles."
     },
     {
       "id": "c31ac098c1e757ee",
@@ -1418,14 +1419,14 @@
     "sources_degraded": 0,
     "errors": 1,
     "retained": 67,
-    "rejected": 1224,
+    "rejected": 1216,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-22T17:15:01+00:00",
+        "last_success": "2026-10-22T21:41:04+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1433,7 +1434,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-22T17:15:02+00:00",
+        "last_success": "2026-10-22T21:41:08+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1441,7 +1442,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-22T17:15:04+00:00",
+        "last_success": "2026-10-22T21:41:09+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1449,7 +1450,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-22T17:15:04+00:00",
+        "last_success": "2026-10-22T21:41:09+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1466,7 +1467,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-22T17:23:26+00:00",
+        "last_success": "2026-10-22T21:49:37+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1474,7 +1475,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-22T17:23:26+00:00",
+        "last_success": "2026-10-22T21:49:37+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1482,7 +1483,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-22T17:23:27+00:00",
+        "last_success": "2026-10-22T21:49:38+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1490,7 +1491,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-22T17:23:28+00:00",
+        "last_success": "2026-10-22T21:49:38+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1498,7 +1499,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-22T17:23:29+00:00",
+        "last_success": "2026-10-22T21:49:40+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1506,7 +1507,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-22T17:23:31+00:00",
+        "last_success": "2026-10-22T21:49:41+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1514,7 +1515,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-22T17:23:32+00:00",
+        "last_success": "2026-10-22T21:49:43+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1522,7 +1523,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-10-22T17:23:34+00:00",
+        "last_success": "2026-10-22T21:49:45+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1530,7 +1531,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-22T17:23:35+00:00",
+        "last_success": "2026-10-22T21:49:46+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1538,7 +1539,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-22T17:23:37+00:00",
+        "last_success": "2026-10-22T21:49:46+00:00",
         "fallback": false
       }
     }
@@ -1546,7 +1547,7 @@
   "errors": [
     {
       "source": "Sénat / DOSLEG",
-      "error": "HTTPSConnectionPool(host='data.senat.fr', port=443): Max retries exceeded with url: /data/dosleg/dosleg.zip (Caused by ConnectTimeoutError(<HTTPSConnection(host='data.senat.fr', port=443) at 0x7f935b87b350>, 'Connection to data.senat.fr timed out. (connect timeout=60)'))",
+      "error": "HTTPSConnectionPool(host='data.senat.fr', port=443): Max retries exceeded with url: /data/dosleg/dosleg.zip (Caused by ConnectTimeoutError(<HTTPSConnection(host='data.senat.fr', port=443) at 0x7fcd65038a10>, 'Connection to data.senat.fr timed out. (connect timeout=60)'))",
       "fallback": false
     }
   ]
