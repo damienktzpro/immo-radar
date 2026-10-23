@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-23T04:59:11+00:00",
+  "generated_at": "2026-10-23T11:45:58+00:00",
   "items": [
     {
       "id": "01147af7561ff07a",
@@ -44,6 +44,69 @@
       "territory": "France",
       "topic": "Territoires",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Quand les descriptifs issus de DVF ne suffisent plus."
+    },
+    {
+      "id": "2cfa3fa332fd7ff7",
+      "title": "Cohabitation intergénérationnelle : L’exonération fiscale menacée fin 2026",
+      "summary": "Nouveau Société",
+      "url": "https://www.mysweetimmo.com/2026/10/23/cohabitation-intergenerationnelle-lexoneration-fiscale-menacee-fin-2026/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Cohabitation intergénérationnelle : L’exonération fiscale menacée fin 2026."
+    },
+    {
+      "id": "ed66f16610b6fba6",
+      "title": "Immobilier : Les prix baissent mais la reprise s’essouffle",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/10/23/immobilier-les-prix-baissent-mais-la-reprise-sessouffle/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Les prix baissent mais la reprise s’essouffle."
+    },
+    {
+      "id": "9dd6e6d0c314ee7b",
+      "title": "Le Groupe National Immobilier présentera sa licence de marque au prochain salon RENT",
+      "summary": "23 octobre 2026 - Lors du prochain salon RENT, qui aura lieu les 4 et 5 novembre 2026 à Paris, le Groupe National Immobilier lancera sa licence de marque. Son objectif : devenir le réseau [...]",
+      "url": "https://immo2.pro/actualite-immobilier/le-groupe-national-immobilier-presentera-sa-licence-de-marque-au-prochain-salon-rent/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le Groupe National Immobilier présentera sa licence de marque au prochain salon RENT."
     },
     {
       "id": "9324cb81db1a4dfc",
@@ -113,11 +176,11 @@
     {
       "id": "ae633cab4a5db4e9",
       "title": "Émeutes : Votre taxe foncière va-t-elle payer la casse ?",
-      "summary": "Règlementation",
+      "summary": "Émeutes : Votre taxe foncière va-t-elle payer la casse ?",
       "url": "https://www.mysweetimmo.com/2026/10/22/emeutes-votre-taxe-fonciere-va-t-elle-payer-la-casse/",
       "source": "MySweetImmo",
       "source_level": "C",
-      "category": "lois",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
@@ -125,10 +188,10 @@
       ],
       "published_at": "2026-10-22T09:00:00+00:00",
       "status": "Publication",
-      "importance": 76,
+      "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Lois",
+      "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Émeutes : Votre taxe foncière va-t-elle payer la casse ?."
     },
     {
@@ -176,7 +239,7 @@
     {
       "id": "72b44527f43126b0",
       "title": "Immobilier : La hausse des taux fait chuter les ventes de Nexity de 17%",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/10/22/immobilier-la-hausse-des-taux-fait-chuter-les-ventes-de-nexity-de-17/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -281,7 +344,7 @@
     {
       "id": "2c82b4fc71db52a7",
       "title": "Immobilier résidentiel : 647 millions d’euros investis, le marché patine au 3ème trimestre",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier résidentiel : 647 millions d’euros investis, le marché patine au 3ème trimestre",
       "url": "https://www.mysweetimmo.com/2026/10/21/immobilier-residentiel-647-millions-deuros-investis-le-marche-patine-au-3eme-trimestre/",
       "source": "MySweetImmo",
       "source_level": "C",
