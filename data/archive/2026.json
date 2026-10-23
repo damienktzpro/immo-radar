@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-23T11:45:58+00:00",
+  "generated_at": "2026-10-23T17:15:29+00:00",
   "items": [
     {
       "id": "01147af7561ff07a",
@@ -69,7 +69,7 @@
     {
       "id": "ed66f16610b6fba6",
       "title": "Immobilier : Les prix baissent mais la reprise s’essouffle",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/10/23/immobilier-les-prix-baissent-mais-la-reprise-sessouffle/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -176,11 +176,11 @@
     {
       "id": "ae633cab4a5db4e9",
       "title": "Émeutes : Votre taxe foncière va-t-elle payer la casse ?",
-      "summary": "Émeutes : Votre taxe foncière va-t-elle payer la casse ?",
+      "summary": "Règlementation",
       "url": "https://www.mysweetimmo.com/2026/10/22/emeutes-votre-taxe-fonciere-va-t-elle-payer-la-casse/",
       "source": "MySweetImmo",
       "source_level": "C",
-      "category": "marche",
+      "category": "lois",
       "audiences": [
         "particulier",
         "investisseur",
@@ -188,10 +188,10 @@
       ],
       "published_at": "2026-10-22T09:00:00+00:00",
       "status": "Publication",
-      "importance": 73,
+      "importance": 76,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
+      "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Émeutes : Votre taxe foncière va-t-elle payer la casse ?."
     },
     {
@@ -402,6 +402,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Vis ma vie de conseiller immobilier : pourquoi j’ai choisi de travailler exclusivement en mandat exclusif."
+    },
+    {
+      "id": "b15ebbc7c38c87ac",
+      "title": "En chiffres Crédit immobilier : la remontée des taux pourrait être plus rapide que prévu",
+      "summary": "21/10/2026 En chiffres Crédit immobilier : les banques resserrent la vis, le marché pourrait basculer En débat Crédit immobilier : le HCSF reste inflexible En chiffres Crédit immobilier : le marché bientôt en récession ?",
+      "url": "https://www.batiactu.com/edito/credit-immobilier-vers-hausse-inevitable-taux-a-4-au-75673.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : En chiffres Crédit immobilier : la remontée des taux pourrait être plus rapide que prévu."
     },
     {
       "id": "bdd19db7883954a3",
@@ -634,11 +655,11 @@
     {
       "id": "6b4996885dd52073",
       "title": "Émeutes : Qui paie les dégâts dans les immeubles, les commerces et les agences immobilières ?",
-      "summary": "Règlementation",
+      "summary": "Émeutes : Qui paie les dégâts dans les immeubles, les commerces et les agences immobilières ?",
       "url": "https://www.mysweetimmo.com/2026/10/19/emeutes-qui-paie-les-degats-dans-les-immeubles/",
       "source": "MySweetImmo",
       "source_level": "C",
-      "category": "lois",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
@@ -646,11 +667,11 @@
       ],
       "published_at": "2026-10-19T09:00:00+00:00",
       "status": "Publication",
-      "importance": 76,
+      "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Émeutes : Qui paie les dégâts dans les immeubles, les commerces et les agences immobilières ?."
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Émeutes : Qui paie les dégâts dans les immeubles, les commerces et les agences immobilières ?."
     },
     {
       "id": "26e4f7ce49b5bc91",
@@ -2004,6 +2025,48 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : PLF 2027 : quelles mesures impactent l’immobilier ?."
     },
     {
+      "id": "3f0cdb180d1357de",
+      "title": "L'œil de MAP : Restructuration d'un appartement au cœur du Marais",
+      "summary": "Découvrez les lauréats du Prix national de la construction bois 2026 06/10/2026 02/10/2026",
+      "url": "https://www.batiactu.com/edito/oeil-map-restructuration-un-appartement-au-coeur-marais-75505.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : L'œil de MAP : Restructuration d'un appartement au cœur du Marais."
+    },
+    {
+      "id": "6a3343adb5af6bc6",
+      "title": "Découvrez les lauréats du Prix national de la construction bois 2026",
+      "summary": "06/10/2026 L'œil de MAP : Restructuration d'un appartement au cœur du Marais 02/10/2026",
+      "url": "https://www.batiactu.com/edito/decouvrez-laureats-prix-national-construction-bois-75538.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Découvrez les lauréats du Prix national de la construction bois 2026."
+    },
+    {
       "id": "2b362f8b0a74d3b2",
       "title": "Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spécialiste du LMNP. 17 Septembre 2026",
       "summary": "inconvénients que nous allons vous détailler dans cet article. 06 Octobre 2026 Déclaration LMNP 2026 : le guide complet Si vous êtes ici, c'est que vous avez décidé de louer sous statut LMNP. Bon choix ! Maintenant, il reste la partie des papiers avec la fameuse déclaration LMNP. Pas de panique, nous vous guidons dans cet article ! 15 Septembre 2026 LMNP et charges déductibles 2026 : explications Le statut LMNP propose un cer",
@@ -2336,27 +2399,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Analyse Coup de rabot sur la location meublée, une mesure \"assassine\" pour le logement ?."
-    },
-    {
-      "id": "3f0cdb180d1357de",
-      "title": "L'œil de MAP : Restructuration d'un appartement au cœur du Marais",
-      "summary": "02/10/2026 Des chiffres, l'actu : cette semaine, cap sur Batimat 01/10/2026",
-      "url": "https://www.batiactu.com/edito/oeil-map-restructuration-un-appartement-au-coeur-marais-75505.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : L'œil de MAP : Restructuration d'un appartement au cœur du Marais."
     },
     {
       "id": "ad44eb82320e367f",
