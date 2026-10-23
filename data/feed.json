@@ -1,7 +1,93 @@
 {
-  "generated_at": "2026-10-22T21:49:47+00:00",
+  "generated_at": "2026-10-23T04:58:50+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "01147af7561ff07a",
+      "title": "idealista ouvre ses portes au notariat français en s’associant à Immonot",
+      "summary": "Le 23/10/2026 à 00H00 Immonot, portail au service des notaires de France, et idealista, plateforme immobilière leader en Europe, annoncent leur partenariat. Quand les descriptifs issus de DVF ne suffisent plus Le 23/10/2026 à 00H00 Château, maison avec piscine et annexe, immeuble de rapport ou local d’activité : pour défendre votre avis de valeur face au vendeur, un prix et une adresse ne suffisent pas. Il faut connaître le dé",
+      "url": "https://www.journaldelagence.com/1414349-idealista-ouvre-ses-portes-au-notariat-francais-en-sassociant-a-immonot",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Territoires",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : idealista ouvre ses portes au notariat français en s’associant à Immonot."
+    },
+    {
+      "id": "6e51037fd5e748c1",
+      "title": "Quand les descriptifs issus de DVF ne suffisent plus",
+      "summary": "idealista, plateforme immobilière leader en Europe, annoncent leur partenariat. Le 23/10/2026 à 00H00 Château, maison avec piscine et annexe, immeuble de rapport ou local d’activité : pour défendre votre avis de valeur face au vendeur, un prix et une adresse ne suffisent pas. Il faut connaître le détail des éléments qui impactent le prix. Formation obligatoire des collaborateurs immobiliers : le CNTGI donne son feu vert au pr",
+      "url": "https://www.journaldelagence.com/1414320-quand-les-descriptifs-issus-de-dvf-ne-suffisent-plus",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Territoires",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Quand les descriptifs issus de DVF ne suffisent plus."
+    },
+    {
+      "id": "9324cb81db1a4dfc",
+      "title": "Arrêté du 16 octobre 2026 approuvant le bilan de la concertation préalable à la mise en compatibilité des documents d'urbanisme pour le projet de création d'une ligne aérienne à deux circuits 400 000 volts entre les postes électriques de Feuillane sur la commune de Fos-sur-Mer (Bouches-du-Rhône) et de Jonquières sur la commune de Jonquières-Saint-Vincent (Gard)",
+      "summary": "Texte officiel concernant l’urbanisme, les documents d’urbanisme, le foncier ou l’aménagement du territoire.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055009179",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-23T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Urbanisme / Territoires",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Arrêté du 16 octobre 2026 approuvant le bilan de la concertation préalable à la mise en compatibilité des documents d'urbanisme….",
+      "legal_stage": "jorf"
+    },
+    {
+      "id": "1b352b5790f4587e",
+      "title": "Arrêté du 12 octobre 2026 relatif à la composition de la commission nationale prévue à l'article L. 302-9-1-1 du code de la construction et de l'habitation",
+      "summary": "Texte officiel concernant la construction, les professionnels du secteur ou le Code de la construction et de l’habitation.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055009787",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-23T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Construction / Réglementation",
+      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Arrêté du 12 octobre 2026 relatif à la composition de la commission nationale prévue à l'article L. 302-9-1-1 du code de la con….",
+      "legal_stage": "jorf"
+    },
     {
       "id": "6e33fda69c485e00",
       "title": "Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat",
@@ -47,7 +133,7 @@
     {
       "id": "fc590d65861c9b9a",
       "title": "Immobilier : Laforêt lance une marque dédiée aux biens de famille et de caractère",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/10/22/immobilier-laforet-lance-une-marque-dediee-aux-biens-de-famille-et-de-caractere/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -89,7 +175,7 @@
     {
       "id": "4a255f1759205471",
       "title": "Webinaire immobilier : Préparez vos ventes 2027 le 29 octobre",
-      "summary": "Nouveau Dans l'actu",
+      "summary": "Dans l'actu",
       "url": "https://www.mysweetimmo.com/2026/10/22/webinaire-immobilier-preparez-vos-ventes-2027-le-29-octobre/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -131,7 +217,7 @@
     {
       "id": "1dc8f514b86314ed",
       "title": "Formation obligatoire des collaborateurs immobiliers : le CNTGI donne son feu vert au projet de décret",
-      "summary": "Le 22/10/2026 à 20H59 Le décret très attendu sur la formation obligatoire des collaborateurs de l'immobilier franchit enfin une nouvelle étape ! Réuni le 21 octobre, le Conseil national de la transaction et de la gestion immobilières (CNTGI) a rendu un avis favorable au projet de texte, sous réserve de plusieurs modifications. Un consensus obtenu après de longues discussions, mais qui ne marque pas encore la fin du parcours ré",
+      "summary": "suffisent pas. Il faut connaître le détail des éléments qui impactent le prix. Le 22/10/2026 à 20H59 Le décret très attendu sur la formation obligatoire des collaborateurs de l'immobilier franchit enfin une nouvelle étape ! Réuni le 21 octobre, le Conseil national de la transaction et de la gestion immobilières (CNTGI) a rendu un avis favorable au projet de texte, sous réserve de plusieurs modifications. Un consensus obtenu a",
       "url": "https://www.journaldelagence.com/1414389-formation-obligatoire-des-collaborateurs-immobiliers-le-cntgi-donne-son-feu-vert-au-projet-de-decret",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -671,27 +757,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédits immobiliers : taux en hausse, marchés en panne… Quelles perspectives pour 2027 ?."
     },
     {
-      "id": "2a7102a9ea2a6fa2",
-      "title": "Encadrement des loyers : l’avenir du dispositif se joue maintenant",
-      "summary": "enseignements du dernier Tableau de bord de l'Observatoire Crédit Logement/CSA. Le 15/10/2026 à 06H30 À quelques jours d'un vote attendu au Sénat le 21 octobre, l'avenir de l'encadrement des loyers est plus que jamais en question. Prolongation, réforme ou fin de l'expérimentation ? Dans un rapport publié ce 14 octobre, la Cour des comptes pointe les limites du dispositif et envisage deux scénarios pour la suite. De son côté,",
-      "url": "https://www.journaldelagence.com/1414211-encadrement-des-loyers-lavenir-du-dispositif-se-joue-maintenant",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-15T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Encadrement des loyers : l’avenir du dispositif se joue maintenant."
-    },
-    {
       "id": "b133875de3bbeb72",
       "title": "Immobilier : Legendre s'implante au Canada STRATÉGIE. Le spécialiste de l'immobilier Legendre vient d'ouvrir une agence à Montréal, au Canada. Une première pour l'entreprise hors d'Europe.",
       "summary": "Économie 15/10/2026",
@@ -795,26 +860,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Impayé de loyers : Yves, propriétaire bailleur, témoigne."
-    },
-    {
-      "id": "8da34bd31491533b",
-      "title": "Stéphane Plaza Immobilier : les ambitions de WIF Group pour relancer le réseau",
-      "summary": "les risques pour l'offre locative et appelle les parlementaires à la prudence. Le 14/10/2026 à 14H45 C'est une nouvelle étape pour Stéphane Plaza Immobilier. Désormais intégré à WIF Group aux côtés de We Invest France et de La Signature Immo, le réseau conserve son identité et son fondateur, qui entre au capital du groupe. Avec près de 140 points de vente, 1 000 professionnels et de fortes ambitions dans l'intelligence artifi",
-      "url": "https://www.journaldelagence.com/1414206-stephane-plaza-immobilier-les-ambitions-de-wif-group-pour-relancer-le-reseau",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-10-14T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Stéphane Plaza Immobilier : les ambitions de WIF Group pour relancer le réseau."
     },
     {
       "id": "c31ac098c1e757ee",
@@ -1403,9 +1448,10 @@
     }
   ],
   "source_stats": {
+    "Journal de l'Agence": 15,
+    "Légifrance": 2,
     "ANIL": 10,
     "MySweetImmo": 16,
-    "Journal de l'Agence": 15,
     "Immobilier 2.0": 16,
     "Batiactu": 5,
     "Service-Public.fr": 1,
@@ -1416,25 +1462,26 @@
   "health": {
     "sources_total": 15,
     "sources_ok": 14,
-    "sources_degraded": 0,
-    "errors": 1,
-    "retained": 67,
-    "rejected": 1216,
+    "sources_degraded": 1,
+    "errors": 0,
+    "retained": 69,
+    "rejected": 1309,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
-        "ok": true,
-        "status": "ok",
+        "ok": false,
+        "status": "degraded",
         "retained": 1,
-        "last_success": "2026-10-22T21:41:04+00:00",
-        "fallback": false
+        "last_success": "2026-10-22T21:49:47+00:00",
+        "fallback": true,
+        "error_type": "RemoteDisconnected"
       },
       "Banque de France": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-22T21:41:08+00:00",
+        "last_success": "2026-10-23T04:58:08+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1442,7 +1489,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-22T21:41:09+00:00",
+        "last_success": "2026-10-23T04:58:09+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1450,24 +1497,23 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-22T21:41:09+00:00",
+        "last_success": "2026-10-23T04:58:10+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
         "level": "A",
-        "ok": false,
-        "status": "error",
+        "ok": true,
+        "status": "empty",
         "retained": 0,
-        "last_success": null,
-        "fallback": false,
-        "error_type": "ConnectTimeout"
+        "last_success": "2026-10-23T04:58:31+00:00",
+        "fallback": false
       },
       "Légifrance": {
         "level": "A",
         "ok": true,
-        "status": "empty",
-        "retained": 0,
-        "last_success": "2026-10-22T21:49:37+00:00",
+        "status": "ok",
+        "retained": 2,
+        "last_success": "2026-10-23T04:58:40+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1475,7 +1521,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-22T21:49:37+00:00",
+        "last_success": "2026-10-23T04:58:40+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1483,7 +1529,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-22T21:49:38+00:00",
+        "last_success": "2026-10-23T04:58:42+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1491,7 +1537,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-22T21:49:38+00:00",
+        "last_success": "2026-10-23T04:58:42+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1499,7 +1545,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-22T21:49:40+00:00",
+        "last_success": "2026-10-23T04:58:44+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1507,7 +1553,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-22T21:49:41+00:00",
+        "last_success": "2026-10-23T04:58:45+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1515,7 +1561,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-22T21:49:43+00:00",
+        "last_success": "2026-10-23T04:58:47+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1523,7 +1569,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-10-22T21:49:45+00:00",
+        "last_success": "2026-10-23T04:58:48+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1531,7 +1577,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-22T21:49:46+00:00",
+        "last_success": "2026-10-23T04:58:49+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1539,16 +1585,16 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-22T21:49:46+00:00",
+        "last_success": "2026-10-23T04:58:50+00:00",
         "fallback": false
       }
     }
   },
   "errors": [
     {
-      "source": "Sénat / DOSLEG",
-      "error": "HTTPSConnectionPool(host='data.senat.fr', port=443): Max retries exceeded with url: /data/dosleg/dosleg.zip (Caused by ConnectTimeoutError(<HTTPSConnection(host='data.senat.fr', port=443) at 0x7fcd65038a10>, 'Connection to data.senat.fr timed out. (connect timeout=60)'))",
-      "fallback": false
+      "source": "Service-Public.fr",
+      "error": "Remote end closed connection without response",
+      "fallback": true
     }
   ]
 }

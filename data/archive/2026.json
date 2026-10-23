@@ -1,8 +1,94 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-22T21:50:12+00:00",
+  "generated_at": "2026-10-23T04:59:11+00:00",
   "items": [
+    {
+      "id": "01147af7561ff07a",
+      "title": "idealista ouvre ses portes au notariat français en s’associant à Immonot",
+      "summary": "Le 23/10/2026 à 00H00 Immonot, portail au service des notaires de France, et idealista, plateforme immobilière leader en Europe, annoncent leur partenariat. Quand les descriptifs issus de DVF ne suffisent plus Le 23/10/2026 à 00H00 Château, maison avec piscine et annexe, immeuble de rapport ou local d’activité : pour défendre votre avis de valeur face au vendeur, un prix et une adresse ne suffisent pas. Il faut connaître le dé",
+      "url": "https://www.journaldelagence.com/1414349-idealista-ouvre-ses-portes-au-notariat-francais-en-sassociant-a-immonot",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Territoires",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : idealista ouvre ses portes au notariat français en s’associant à Immonot."
+    },
+    {
+      "id": "6e51037fd5e748c1",
+      "title": "Quand les descriptifs issus de DVF ne suffisent plus",
+      "summary": "idealista, plateforme immobilière leader en Europe, annoncent leur partenariat. Le 23/10/2026 à 00H00 Château, maison avec piscine et annexe, immeuble de rapport ou local d’activité : pour défendre votre avis de valeur face au vendeur, un prix et une adresse ne suffisent pas. Il faut connaître le détail des éléments qui impactent le prix. Formation obligatoire des collaborateurs immobiliers : le CNTGI donne son feu vert au pr",
+      "url": "https://www.journaldelagence.com/1414320-quand-les-descriptifs-issus-de-dvf-ne-suffisent-plus",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Territoires",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Quand les descriptifs issus de DVF ne suffisent plus."
+    },
+    {
+      "id": "9324cb81db1a4dfc",
+      "title": "Arrêté du 16 octobre 2026 approuvant le bilan de la concertation préalable à la mise en compatibilité des documents d'urbanisme pour le projet de création d'une ligne aérienne à deux circuits 400 000 volts entre les postes électriques de Feuillane sur la commune de Fos-sur-Mer (Bouches-du-Rhône) et de Jonquières sur la commune de Jonquières-Saint-Vincent (Gard)",
+      "summary": "Texte officiel concernant l’urbanisme, les documents d’urbanisme, le foncier ou l’aménagement du territoire.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055009179",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-23T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Urbanisme / Territoires",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Arrêté du 16 octobre 2026 approuvant le bilan de la concertation préalable à la mise en compatibilité des documents d'urbanisme….",
+      "legal_stage": "jorf"
+    },
+    {
+      "id": "1b352b5790f4587e",
+      "title": "Arrêté du 12 octobre 2026 relatif à la composition de la commission nationale prévue à l'article L. 302-9-1-1 du code de la construction et de l'habitation",
+      "summary": "Texte officiel concernant la construction, les professionnels du secteur ou le Code de la construction et de l’habitation.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055009787",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-23T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Construction / Réglementation",
+      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Arrêté du 12 octobre 2026 relatif à la composition de la commission nationale prévue à l'article L. 302-9-1-1 du code de la con….",
+      "legal_stage": "jorf"
+    },
     {
       "id": "6e33fda69c485e00",
       "title": "Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat",
@@ -48,7 +134,7 @@
     {
       "id": "4a255f1759205471",
       "title": "Webinaire immobilier : Préparez vos ventes 2027 le 29 octobre",
-      "summary": "Nouveau Dans l'actu",
+      "summary": "Dans l'actu",
       "url": "https://www.mysweetimmo.com/2026/10/22/webinaire-immobilier-preparez-vos-ventes-2027-le-29-octobre/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -111,7 +197,7 @@
     {
       "id": "fc590d65861c9b9a",
       "title": "Immobilier : Laforêt lance une marque dédiée aux biens de famille et de caractère",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/10/22/immobilier-laforet-lance-une-marque-dediee-aux-biens-de-famille-et-de-caractere/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -153,7 +239,7 @@
     {
       "id": "1dc8f514b86314ed",
       "title": "Formation obligatoire des collaborateurs immobiliers : le CNTGI donne son feu vert au projet de décret",
-      "summary": "Le 22/10/2026 à 20H59 Le décret très attendu sur la formation obligatoire des collaborateurs de l'immobilier franchit enfin une nouvelle étape ! Réuni le 21 octobre, le Conseil national de la transaction et de la gestion immobilières (CNTGI) a rendu un avis favorable au projet de texte, sous réserve de plusieurs modifications. Un consensus obtenu après de longues discussions, mais qui ne marque pas encore la fin du parcours ré",
+      "summary": "suffisent pas. Il faut connaître le détail des éléments qui impactent le prix. Le 22/10/2026 à 20H59 Le décret très attendu sur la formation obligatoire des collaborateurs de l'immobilier franchit enfin une nouvelle étape ! Réuni le 21 octobre, le Conseil national de la transaction et de la gestion immobilières (CNTGI) a rendu un avis favorable au projet de texte, sous réserve de plusieurs modifications. Un consensus obtenu a",
       "url": "https://www.journaldelagence.com/1414389-formation-obligatoire-des-collaborateurs-immobiliers-le-cntgi-donne-son-feu-vert-au-projet-de-decret",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -3273,28 +3359,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : La Cour de cassation donne raison à Matera sur son modèle coopératif."
-    },
-    {
-      "id": "a123f45b30202c94",
-      "title": "Arrêté du 18 septembre 2026 relatif à la composition de la commission nationale prévue à l'article L. 302-9-1-1 du code de la construction et de l'habitation",
-      "summary": "Texte officiel concernant la construction, les professionnels du secteur ou le Code de la construction et de l’habitation.",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054888695",
-      "source": "Légifrance",
-      "source_level": "A",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-24T00:00:00+00:00",
-      "status": "Publié au JORF",
-      "importance": 91,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Construction / Réglementation",
-      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Arrêté du 18 septembre 2026 relatif à la composition de la commission nationale prévue à l'article L. 302-9-1-1 du code de la c….",
-      "legal_stage": "jorf"
     },
     {
       "id": "e0fe4caaea1f0ef3",
