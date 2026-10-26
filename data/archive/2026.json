@@ -1,12 +1,115 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-26T04:55:07+00:00",
+  "generated_at": "2026-10-26T13:12:42+00:00",
   "items": [
+    {
+      "id": "ff91d9576f6fb582",
+      "title": "Immobilier commercial : Avec le rachat d'Advantail, Evoriel devient le numéro 2 en France",
+      "summary": "Nouveau Économie et Business",
+      "url": "https://www.mysweetimmo.com/2026/10/26/immobilier-commercial-avec-le-rachat-dadvantail-evoriel-devient-le-numero-2-en-france/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier commercial : Avec le rachat d'Advantail, Evoriel devient le numéro 2 en France."
+    },
+    {
+      "id": "41a3bfed79dd04b2",
+      "title": "Immobilier Alpes : Les prix du luxe ne montent plus partout",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/10/26/immobilier-alpes-les-prix-du-luxe-ne-montent-plus-partout/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Alpes : Les prix du luxe ne montent plus partout."
+    },
+    {
+      "id": "725f3b8f343c0344",
+      "title": "Immobilier : Le projet de décret sur la formation des agents et mandataires se précise",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/10/26/immobilier-le-projet-de-decret-sur-la-formation-des-agents-et-mandataires-se-precise/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Immobilier : Le projet de décret sur la formation des agents et mandataires se précise."
+    },
+    {
+      "id": "ab313c135da88010",
+      "title": "CNTGI ou ordre professionnel : ne nous trompons pas de débat",
+      "summary": "Le 26/10/2026 à 07H11 Faut-il créer un ordre professionnel pour les métiers de l’immobilier ou renforcer les outils existants ? Jean-Marc Torrollion plaide pour un CNTGI doté de véritables moyens plutôt qu’une réforme aux conséquences potentiellement déstabilisatrices. Tribune. La découverte financière : bien plus qu’une formalité Le 26/10/2026 à 06H56 La découverte financière ne se résume pas à une simple formalité : elle per",
+      "url": "https://www.journaldelagence.com/1414361-cntgi-ou-ordre-professionnel-ne-nous-trompons-pas-de-debat",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : CNTGI ou ordre professionnel : ne nous trompons pas de débat."
+    },
+    {
+      "id": "3af985bfdec3a2a9",
+      "title": "La découverte financière : bien plus qu’une formalité",
+      "summary": "tôt qu’une réforme aux conséquences potentiellement déstabilisatrices. Tribune. Le 26/10/2026 à 06H56 La découverte financière ne se résume pas à une simple formalité : elle permet de sécuriser l’immobilisation d’un bien à la vente. Mais cette démarche suppose de bien définir les limites du rôle de l’agent immobilier, qui n’est pas un intermédiaire bancaire. Dès lors, jusqu’où peut-il — et doit-il — aller ? idealista ouvre se",
+      "url": "https://www.journaldelagence.com/1414354-la-decouverte-financiere-bien-plus-quune-formalite",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : La découverte financière : bien plus qu’une formalité."
+    },
     {
       "id": "01147af7561ff07a",
       "title": "idealista ouvre ses portes au notariat français en s’associant à Immonot",
-      "summary": "Le 23/10/2026 à 00H00 Immonot, portail au service des notaires de France, et idealista, plateforme immobilière leader en Europe, annoncent leur partenariat. Quand les descriptifs issus de DVF ne suffisent plus Le 23/10/2026 à 00H00 Château, maison avec piscine et annexe, immeuble de rapport ou local d’activité : pour défendre votre avis de valeur face au vendeur, un prix et une adresse ne suffisent pas. Il faut connaître le dé",
+      "summary": "as un intermédiaire bancaire. Dès lors, jusqu’où peut-il — et doit-il — aller ? Le 23/10/2026 à 00H00 Immonot, portail au service des notaires de France, et idealista, plateforme immobilière leader en Europe, annoncent leur partenariat. Quand les descriptifs issus de DVF ne suffisent plus Le 23/10/2026 à 00H00 Château, maison avec piscine et annexe, immeuble de rapport ou local d’activité : pour défendre votre avis de valeur",
       "url": "https://www.journaldelagence.com/1414349-idealista-ouvre-ses-portes-au-notariat-francais-en-sassociant-a-immonot",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -22,7 +125,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Territoires",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : idealista ouvre ses portes au notariat français en s’associant à Immonot."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés. Point suivi : idealista ouvre ses portes au notariat français en s’associant à Immonot."
     },
     {
       "id": "6e51037fd5e748c1",
@@ -48,7 +151,7 @@
     {
       "id": "2cfa3fa332fd7ff7",
       "title": "Cohabitation intergénérationnelle : L’exonération fiscale menacée fin 2026",
-      "summary": "Société",
+      "summary": "Cohabitation intergénérationnelle : L’exonération fiscale menacée fin 2026",
       "url": "https://www.mysweetimmo.com/2026/10/23/cohabitation-intergenerationnelle-lexoneration-fiscale-menacee-fin-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -69,7 +172,7 @@
     {
       "id": "ed66f16610b6fba6",
       "title": "Immobilier : Les prix baissent mais la reprise s’essouffle",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier : Les prix baissent mais la reprise s’essouffle",
       "url": "https://www.mysweetimmo.com/2026/10/23/immobilier-les-prix-baissent-mais-la-reprise-sessouffle/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -176,11 +279,11 @@
     {
       "id": "ae633cab4a5db4e9",
       "title": "Émeutes : Votre taxe foncière va-t-elle payer la casse ?",
-      "summary": "Règlementation",
+      "summary": "Émeutes : Votre taxe foncière va-t-elle payer la casse ?",
       "url": "https://www.mysweetimmo.com/2026/10/22/emeutes-votre-taxe-fonciere-va-t-elle-payer-la-casse/",
       "source": "MySweetImmo",
       "source_level": "C",
-      "category": "lois",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
@@ -188,10 +291,10 @@
       ],
       "published_at": "2026-10-22T09:00:00+00:00",
       "status": "Publication",
-      "importance": 76,
+      "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Lois",
+      "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Émeutes : Votre taxe foncière va-t-elle payer la casse ?."
     },
     {
