@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-26T13:12:42+00:00",
+  "generated_at": "2026-10-26T22:44:18+00:00",
   "items": [
     {
       "id": "ff91d9576f6fb582",
@@ -27,7 +27,7 @@
     {
       "id": "41a3bfed79dd04b2",
       "title": "Immobilier Alpes : Les prix du luxe ne montent plus partout",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/10/26/immobilier-alpes-les-prix-du-luxe-ne-montent-plus-partout/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -48,7 +48,7 @@
     {
       "id": "725f3b8f343c0344",
       "title": "Immobilier : Le projet de décret sur la formation des agents et mandataires se précise",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/10/26/immobilier-le-projet-de-decret-sur-la-formation-des-agents-et-mandataires-se-precise/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -107,6 +107,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : La découverte financière : bien plus qu’une formalité."
     },
     {
+      "id": "d25d2e2bee230fde",
+      "title": "Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spécialiste du LMNP. 26 Octobre 2026",
+      "summary": "un expert comptable pour tenir et déclarer votre comptabilité. 26 Octobre 2026 Qu'est-ce que le LMNP ? (Loueur en Meublé Non Professionnel) Lorsqu'un propriétaire loue un logement déjà meublé à un locataire, il peut bénéficier du régime dit \"LMNP\" ou \"Loueur en meublé non professionnel\". C'est un régime fiscal adapté à ce type de location. Il présente de nombreux avantages et quelques inconvénients que nous allons vous détail",
+      "url": "https://horiz.io/investissement-immobilier/interview-de-florian-investir-en-meuble-en-lmnp",
+      "source": "Horiz.io",
+      "source_level": "D",
+      "category": "investir",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-10-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 66,
+      "relevance": 66,
+      "territory": "France",
+      "topic": "Investir",
+      "why_it_matters": "Source expert / blog à confronter aux données officielles. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spéciali…."
+    },
+    {
       "id": "01147af7561ff07a",
       "title": "idealista ouvre ses portes au notariat français en s’associant à Immonot",
       "summary": "as un intermédiaire bancaire. Dès lors, jusqu’où peut-il — et doit-il — aller ? Le 23/10/2026 à 00H00 Immonot, portail au service des notaires de France, et idealista, plateforme immobilière leader en Europe, annoncent leur partenariat. Quand les descriptifs issus de DVF ne suffisent plus Le 23/10/2026 à 00H00 Château, maison avec piscine et annexe, immeuble de rapport ou local d’activité : pour défendre votre avis de valeur",
@@ -151,7 +172,7 @@
     {
       "id": "2cfa3fa332fd7ff7",
       "title": "Cohabitation intergénérationnelle : L’exonération fiscale menacée fin 2026",
-      "summary": "Cohabitation intergénérationnelle : L’exonération fiscale menacée fin 2026",
+      "summary": "Société",
       "url": "https://www.mysweetimmo.com/2026/10/23/cohabitation-intergenerationnelle-lexoneration-fiscale-menacee-fin-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -426,7 +447,7 @@
     {
       "id": "414c2a06c00c00ff",
       "title": "Immobilier : La situation politique freine un acheteur étranger sur deux",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier : La situation politique freine un acheteur étranger sur deux",
       "url": "https://www.mysweetimmo.com/2026/10/21/immobilier-la-situation-politique-freine-un-acheteur-etranger-sur-deux/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -442,7 +463,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : La situation politique freine un acheteur étranger sur deux."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : La situation politique freine un acheteur étranger sur deux."
     },
     {
       "id": "2c82b4fc71db52a7",
@@ -2168,27 +2189,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Découvrez les lauréats du Prix national de la construction bois 2026."
-    },
-    {
-      "id": "2b362f8b0a74d3b2",
-      "title": "Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spécialiste du LMNP. 17 Septembre 2026",
-      "summary": "inconvénients que nous allons vous détailler dans cet article. 06 Octobre 2026 Déclaration LMNP 2026 : le guide complet Si vous êtes ici, c'est que vous avez décidé de louer sous statut LMNP. Bon choix ! Maintenant, il reste la partie des papiers avec la fameuse déclaration LMNP. Pas de panique, nous vous guidons dans cet article ! 15 Septembre 2026 LMNP et charges déductibles 2026 : explications Le statut LMNP propose un cer",
-      "url": "https://horiz.io/investissement-immobilier/interview-de-florian-investir-en-meuble-en-lmnp",
-      "source": "Horiz.io",
-      "source_level": "D",
-      "category": "investir",
-      "audiences": [
-        "investisseur",
-        "pro",
-        "particulier"
-      ],
-      "published_at": "2026-10-06T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 66,
-      "relevance": 66,
-      "territory": "France",
-      "topic": "Investir",
-      "why_it_matters": "Source expert / blog à confronter aux données officielles. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spéciali…."
     },
     {
       "id": "af416194883a72eb",
