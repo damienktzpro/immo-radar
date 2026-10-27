@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T12:20:09+00:00",
+  "generated_at": "2026-10-27T22:21:31+00:00",
   "version": "7.1",
   "items": [
     {
       "id": "83c677faab2ffcc7",
       "title": "Immobilier à Manhattan : Les entreprises d’IA font le plein de bureaux",
-      "summary": "Nouveau Etudes et Sondages",
+      "summary": "Etudes et Sondages",
       "url": "https://www.mysweetimmo.com/2026/10/27/immobilier-a-manhattan-les-entreprises-dia-font-le-plein-de-bureaux/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -1090,27 +1090,6 @@
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Impayé de loyer : à qui s’adresser ? L’ADIL peut vous aider à y voir plus clair."
     },
     {
-      "id": "abb0d06bf02698b6",
-      "title": "Logement : les députés votent et élargissent le nouveau \"PTZ Familles\"",
-      "summary": "L'Essentiel 08/10/2026 Baisse de la natalité : le logement en question",
-      "url": "https://www.batiactu.com/edito/plf-2027-ptz-familles-mis-sur-rails-a-assemblee-75558.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-08T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : les députés votent et élargissent le nouveau \"PTZ Familles\"."
-    },
-    {
       "id": "a2d36583f3a0994b",
       "title": "SeLoger Neuf propose aux promoteurs d’augmenter leur visibilité avec Top Position",
       "summary": "8 octobre 2026 - Le portail immobilier SeLoger Neuf lance Top Position, une nouvelle option pour les promoteurs désirant accélérer la vente de leurs programmes stratégiques. En effet, non [...]",
@@ -1515,7 +1494,7 @@
     "Immobilier 2.0": 16,
     "Légifrance": 2,
     "ANIL": 10,
-    "Batiactu": 6,
+    "Batiactu": 5,
     "Service-Public.fr": 1,
     "SDES / Sitadel": 1,
     "Insee": 1,
@@ -1526,15 +1505,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 72,
-    "rejected": 1352,
+    "retained": 71,
+    "rejected": 1343,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-27T12:19:22+00:00",
+        "last_success": "2026-10-27T22:19:31+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1542,7 +1521,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-27T12:19:24+00:00",
+        "last_success": "2026-10-27T22:19:33+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1550,7 +1529,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-27T12:19:24+00:00",
+        "last_success": "2026-10-27T22:19:34+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1558,7 +1537,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-27T12:19:26+00:00",
+        "last_success": "2026-10-27T22:19:35+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1566,7 +1545,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-27T12:19:44+00:00",
+        "last_success": "2026-10-27T22:19:51+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1574,7 +1553,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-27T12:19:54+00:00",
+        "last_success": "2026-10-27T22:20:03+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1582,7 +1561,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-27T12:19:54+00:00",
+        "last_success": "2026-10-27T22:20:03+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1590,7 +1569,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-27T12:19:55+00:00",
+        "last_success": "2026-10-27T22:20:04+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1598,7 +1577,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-27T12:19:55+00:00",
+        "last_success": "2026-10-27T22:20:05+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1606,7 +1585,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-27T12:19:57+00:00",
+        "last_success": "2026-10-27T22:20:06+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1614,7 +1593,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-27T12:19:58+00:00",
+        "last_success": "2026-10-27T22:20:07+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1622,15 +1601,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-27T12:20:04+00:00",
+        "last_success": "2026-10-27T22:21:27+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 6,
-        "last_success": "2026-10-27T12:20:05+00:00",
+        "retained": 5,
+        "last_success": "2026-10-27T22:21:29+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1638,7 +1617,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-27T12:20:06+00:00",
+        "last_success": "2026-10-27T22:21:30+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1646,7 +1625,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-27T12:20:08+00:00",
+        "last_success": "2026-10-27T22:21:30+00:00",
         "fallback": false
       }
     }
