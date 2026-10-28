@@ -1,7 +1,91 @@
 {
-  "generated_at": "2026-10-28T05:50:00+00:00",
+  "generated_at": "2026-10-28T13:03:39+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "f057fd123029dc20",
+      "title": "Construction de logements : résultats à fin septembre 2026 (France entière)",
+      "summary": "Construction de logements : résultats à fin septembre 2026 (France entière) | Données et études statistiques Aller au menu principal Aller à la recherche Aller au contenu principal Recherche Rechercher Rechercher Menu Fermer le menu Changement climatique Ouvrir le menu Changement climatique Chiffres clés du climat Émissions nationales de gaz à effet de serre Émissions mondiales de gaz à effet de serre Empreinte carbone Climat et société Énergie Ouvrir le menu Énergie Bilan et chiffres clés de l’",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/construction-de-logements-resultats-fin-septembre-2026-france-entiere?rubrique=&dossier=1047",
+      "source": "SDES / Sitadel",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-28T09:00:00+00:00",
+      "status": "Donnée officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Construction",
+      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin septembre 2026 (France entière)."
+    },
+    {
+      "id": "784ac4687df74fd3",
+      "title": "Présidentielle 2027 : les propositions de Fabien Roussel pour relancer le logement",
+      "summary": "Le 28/10/2026 à 12H23 Construction de 200 000 logements sociaux par an, renforcement de la loi SRU, encadrement des loyers, rénovation énergétique… Fabien Roussel mise sur une intervention publique renforcée pour répondre à la crise du logement. Après Bruno Retailleau, Marine Le Pen et Jean-Luc Mélenchon, le Journal de l’Agence poursuit son tour d’horizon des propositions des candidats à la présidentielle de 2027. Décryptage.",
+      "url": "https://www.journaldelagence.com/1414457-presidentielle-2027-les-propositions-de-fabien-roussel-pour-relancer-le-logement",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Présidentielle 2027 : les propositions de Fabien Roussel pour relancer le logement."
+    },
+    {
+      "id": "e162d48f8f4b4e60",
+      "title": "Les paradoxes de l’agent immobilier : quand vos pratiques contredisent vos ambitions",
+      "summary": "horizon des propositions des candidats à la présidentielle de 2027. Décryptage. Le 28/10/2026 à 07H18 Vouloir être indépendant, puis devenir dépendant de chaque appel. Placer l’humain au cœur de son métier, puis chercher à automatiser toujours davantage la relation. Maîtriser toutes ses applications, mais perdre ses moyens lorsqu’un vendeur conteste ses honoraires… Et si les professionnels de l’immobilier étaient parfois frei",
+      "url": "https://www.journaldelagence.com/1414447-les-paradoxes-de-lagent-immobilier-quand-vos-pratiques-contredisent-vos-ambitions",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Les paradoxes de l’agent immobilier : quand vos pratiques contredisent vos ambitions."
+    },
+    {
+      "id": "575bec6eeb5a4d38",
+      "title": "Avec Laforêt Collection, Laforêt part à la conquête de l’immobilier de caractère",
+      "summary": "métier où les ambitions ne correspondent pas toujours à la réalité du terrain. Le 28/10/2026 à 07H16 A l’aube de ses 35 ans, Laforêt poursuit sa diversification avec Laforêt Collection, un réseau consacré aux biens de caractère, familiaux et patrimoniaux. Son président, Yann Jéhanno, revient sur cette stratégie et ses objectifs de déploiement. Apport d’affaires entre agents immobiliers : comment valoriser les dossiers que vou",
+      "url": "https://www.journaldelagence.com/1414406-avec-laforet-collection-laforet-part-a-la-conquete-de-limmobilier-de-caractere",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Avec Laforêt Collection, Laforêt part à la conquête de l’immobilier de caractère."
+    },
     {
       "id": "83c677faab2ffcc7",
       "title": "Immobilier à Manhattan : Les entreprises d’IA font le plein de bureaux",
@@ -26,22 +110,23 @@
     {
       "id": "c330862da0753a1b",
       "title": "Apport d’affaires entre agents immobiliers : comment valoriser les dossiers que vous ne pouvez pas traiter ?",
-      "summary": "Le 27/10/2026 à 12H20 Un vendeur hors secteur, un acquéreur à orienter vers un confrère, une opportunité commerciale qui reste sans suite… Et si ces dossiers pouvaient générer du chiffre d'affaires plutôt que de finir aux oubliettes ? C'est le pari de Referral Immo, une plateforme lancée au printemps 2026 par Yann Barret pour faciliter et sécuriser les apports d'affaires entre professionnels de l'immobilier. Climatisation en c",
+      "summary": "ent, Yann Jéhanno, revient sur cette stratégie et ses objectifs de déploiement. Le 27/10/2026 à 12H20 Un vendeur hors secteur, un acquéreur à orienter vers un confrère, une opportunité commerciale qui reste sans suite… Et si ces dossiers pouvaient générer du chiffre d'affaires plutôt que de finir aux oubliettes ? C'est le pari de Referral Immo, une plateforme lancée au printemps 2026 par Yann Barret pour faciliter et sécurise",
       "url": "https://www.journaldelagence.com/1414435-apport-daffaires-entre-agents-immobiliers-comment-valoriser-les-dossiers-que-vous-ne-pouvez-pas-traiter",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "pro",
+      "category": "lois",
       "audiences": [
-        "pro",
-        "investisseur"
+        "particulier",
+        "investisseur",
+        "pro"
       ],
       "published_at": "2026-10-27T09:00:00+00:00",
       "status": "Publication",
-      "importance": 73,
+      "importance": 76,
       "relevance": 73,
       "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Apport d’affaires entre agents immobiliers : comment valoriser les dossiers que vous ne pouvez pas traiter ?."
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Apport d’affaires entre agents immobiliers : comment valoriser les dossiers que vous ne pouvez pas traiter ?."
     },
     {
       "id": "0dbf92a31a8a7905",
@@ -130,7 +215,7 @@
     {
       "id": "41a3bfed79dd04b2",
       "title": "Immobilier Alpes : Les prix du luxe ne montent plus partout",
-      "summary": "Marché immobilier",
+      "summary": "Immobilier Alpes : Les prix du luxe ne montent plus partout",
       "url": "https://www.mysweetimmo.com/2026/10/26/immobilier-alpes-les-prix-du-luxe-ne-montent-plus-partout/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -736,47 +821,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Commerces et immeubles dégradés : le guide des bailleurs, propriétaires et copropriétés."
     },
     {
-      "id": "1f91eb3333969463",
-      "title": "Marché immobilier : la demande chute de 22 % malgré une offre de biens en hausse",
-      "summary": "ttres. Le point aussi sur les mesures de soutien annoncées par le Gouvernement. Le 20/10/2026 à 06H50 Alors que l'offre de biens à vendre continue de progresser, la demande des acquéreurs marque nettement le pas. Prix presque stables, délais de diffusion qui s'allongent et pouvoir de négociation renforcé : le marché immobilier peine à retrouver une véritable dynamique. Que retenir du dernier Observatoire immobilier Bien’ici p",
-      "url": "https://www.journaldelagence.com/1414292-marche-immobilier-la-demande-chute-de-22-malgre-une-offre-de-biens-en-hausse",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-20T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Marché immobilier : la demande chute de 22 % malgré une offre de biens en hausse."
-    },
-    {
-      "id": "f993aec69f4e9cf9",
-      "title": "Conventions annuelles : pourquoi les réseaux immobiliers ont-ils besoin de faire rêver ?",
-      "summary": "des principaux indicateurs à connaître pour les professionnels de l'immobilier. Le 20/10/2026 à 06H14 Pourquoi les réseaux immobiliers rivalisent-ils de créativité et de lieux spectaculaires pour leurs conventions annuelles ? Derrière les paillettes et l'effet « waouh » se joue bien plus qu'une opération de communication. Ces grands rendez-vous ont un pouvoir souvent sous-estimé : transformer des ambitions stratégiques en émo",
-      "url": "https://www.journaldelagence.com/1414281-conventions-annuelles-pourquoi-les-reseaux-immobiliers-ont-ils-besoin-de-faire-rever",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-10-20T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Conventions annuelles : pourquoi les réseaux immobiliers ont-ils besoin de faire rêver ?."
-    },
-    {
       "id": "3d7293efa8c364b6",
       "title": "Squarimo rachète Enchères Immo et WinUp pour démocratiser la vente immobilière interactive",
       "summary": "20 octobre 2026 - Squarimo a annoncé l’acquisition d’Enchères Immo et de WinUp. Par cette opération, la plateforme souhaite accélérer la consolidation du marché français de la vente [...]",
@@ -796,26 +840,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Squarimo rachète Enchères Immo et WinUp pour démocratiser la vente immobilière interactive."
-    },
-    {
-      "id": "8a2870236579918a",
-      "title": "Agents immobiliers et administrateurs de biens : quel avenir pour le syndicalisme patronal ?",
-      "summary": "le communauté. Nathalie Gardes nous invite à regarder ces événements autrement. Le 19/10/2026 à 07H12 Les syndicats de l’immobilier traversent une crise silencieuse. Alors que les adhésions s’érodent, c’est toute la place du syndicalisme patronal qui interroge. Tribune d'Henry Buzy-Cazaux. SCI et sociétés à prépondérance immobilière : ce qui change pour les cessions de parts Le 19/10/2026 à 07H01 Céder les parts d'une SCI ou",
-      "url": "https://www.journaldelagence.com/1414275-agents-immobiliers-et-administrateurs-de-biens-quel-avenir-pour-le-syndicalisme-patronal",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-10-19T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Agents immobiliers et administrateurs de biens : quel avenir pour le syndicalisme patronal ?."
     },
     {
       "id": "fb27fa7013a1335d",
@@ -1319,27 +1343,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement étudiant : la Fondation I Loge You et ses alliés appellent à nouveau les propriétaires."
     },
     {
-      "id": "dae34c741a8f78ea",
-      "title": "Construction de logements : résultats à fin août 2026 (France entière)",
-      "summary": "Construction de logements : résultats à fin août 2026 (France entière) | Données et études statistiques Aller au menu principal Aller à la recherche Aller au contenu principal Recherche Rechercher Rechercher Menu Fermer le menu Changement climatique Ouvrir le menu Changement climatique Chiffres clés du climat Émissions nationales de gaz à effet de serre Émissions mondiales de gaz à effet de serre Empreinte carbone Climat et société Énergie Ouvrir le menu Énergie Bilan et chiffres clés de l’énerg",
-      "url": "https://www.statistiques.developpement-durable.gouv.fr/construction-de-logements-resultats-fin-aout-2026-france-entiere?rubrique=&dossier=1047",
-      "source": "SDES / Sitadel",
-      "source_level": "A",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-29T09:00:00+00:00",
-      "status": "Donnée officielle",
-      "importance": 88,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Construction",
-      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin août 2026 (France entière)."
-    },
-    {
       "id": "81fa5c05f37862b2",
       "title": "TEDxleboncoin : une invitation à repenser notre manière d’habiter le monde qui vient",
       "summary": "29 septembre 2026 - Le 30 septembre prochain, leboncoin invite les pros de l’immobilier à son tout premier événement TEDx. Sous le thème « Habiter le monde qui vient », cette soirée est une [...]",
@@ -1488,15 +1491,15 @@
     }
   ],
   "source_stats": {
-    "MySweetImmo": 16,
+    "SDES / Sitadel": 1,
     "Journal de l'Agence": 16,
+    "MySweetImmo": 16,
     "Horiz.io": 2,
     "Immobilier 2.0": 16,
     "Légifrance": 2,
     "ANIL": 10,
     "Batiactu": 5,
     "Service-Public.fr": 1,
-    "SDES / Sitadel": 1,
     "Insee": 1,
     "EUR-Lex": 1
   },
@@ -1513,7 +1516,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-28T05:49:17+00:00",
+        "last_success": "2026-10-28T13:02:51+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1521,7 +1524,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-28T05:49:19+00:00",
+        "last_success": "2026-10-28T13:02:53+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1529,7 +1532,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-28T05:49:20+00:00",
+        "last_success": "2026-10-28T13:02:54+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1537,7 +1540,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-28T05:49:21+00:00",
+        "last_success": "2026-10-28T13:02:55+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1545,7 +1548,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-28T05:49:38+00:00",
+        "last_success": "2026-10-28T13:03:14+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1553,7 +1556,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-28T05:49:46+00:00",
+        "last_success": "2026-10-28T13:03:23+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1561,7 +1564,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-28T05:49:46+00:00",
+        "last_success": "2026-10-28T13:03:23+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1569,7 +1572,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-28T05:49:47+00:00",
+        "last_success": "2026-10-28T13:03:24+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1577,7 +1580,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-28T05:49:47+00:00",
+        "last_success": "2026-10-28T13:03:25+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1585,7 +1588,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-28T05:49:49+00:00",
+        "last_success": "2026-10-28T13:03:26+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1593,7 +1596,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-28T05:49:50+00:00",
+        "last_success": "2026-10-28T13:03:28+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1601,7 +1604,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-28T05:49:51+00:00",
+        "last_success": "2026-10-28T13:03:35+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1609,7 +1612,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-10-28T05:49:53+00:00",
+        "last_success": "2026-10-28T13:03:36+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1617,7 +1620,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-28T05:49:58+00:00",
+        "last_success": "2026-10-28T13:03:37+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1625,7 +1628,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-28T05:49:59+00:00",
+        "last_success": "2026-10-28T13:03:39+00:00",
         "fallback": false
       }
     }
