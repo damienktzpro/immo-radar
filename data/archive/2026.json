@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-28T13:03:53+00:00",
+  "generated_at": "2026-10-28T22:40:28+00:00",
   "items": [
     {
       "id": "f057fd123029dc20",
@@ -23,6 +23,27 @@
       "territory": "France",
       "topic": "Construction",
       "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin septembre 2026 (France entière)."
+    },
+    {
+      "id": "b344b3c5e19704d7",
+      "title": "Nouvelle étude de l’ANIL : L’essor de la location meublée de longue durée, un facteur de recomposition du parc locatif privé ?",
+      "summary": "28 octobre 2026 Dans sa nouvelle étude, « L’essor de la location meublée de longue durée, un facteur de recomposition du parc locatif privé ? », l’ANIL analyse les dynamiques de ce marché, les facteurs qui expliquent son développement et ses conséquences sur les…",
+      "url": "https://www.anil.org/actualites-evenements/details/nouvelle-etude-de-lanil-lessor-de-la-location-meublee-de-longue-duree-un-facteur-de-recomposition-du-parc-locatif-prive/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Nouvelle étude de l’ANIL : L’essor de la location meublée de longue durée, un facteur de recomposition du parc locatif privé ?."
     },
     {
       "id": "784ac4687df74fd3",
@@ -86,6 +107,27 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Avec Laforêt Collection, Laforêt part à la conquête de l’immobilier de caractère."
+    },
+    {
+      "id": "ef03f65dd51cf4ea",
+      "title": "Immobilier : Votre voisin peut-il déplacer votre droit de passage ?",
+      "summary": "Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/10/28/immobilier-votre-voisin-peut-il-deplacer-votre-droit-de-passage/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Immobilier : Votre voisin peut-il déplacer votre droit de passage ?."
     },
     {
       "id": "83c677faab2ffcc7",
@@ -170,6 +212,27 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Gestion locative : 1 bail sur 30 en impayé, près de 10 % de passoires thermiques."
+    },
+    {
+      "id": "302a6bfcbeb5278d",
+      "title": "Immobilier : « L’IA, un formidable levier pour nos équipes et nos clients », Xavier Saubestre (Odealim)",
+      "summary": "Podcasts",
+      "url": "https://www.mysweetimmo.com/2026/10/27/immobilier-lia-un-formidable-levier-pour-nos-equipes-et-nos-clients-xavier-saubestre-odealim/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : « L’IA, un formidable levier pour nos équipes et nos clients », Xavier Saubestre (Odealim)."
     },
     {
       "id": "b5786a1a0bdf8d45",

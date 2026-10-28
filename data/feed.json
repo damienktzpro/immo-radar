@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:03:39+00:00",
+  "generated_at": "2026-10-28T22:40:00+00:00",
   "version": "7.1",
   "items": [
     {
@@ -22,6 +22,48 @@
       "territory": "France",
       "topic": "Construction",
       "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin septembre 2026 (France entière)."
+    },
+    {
+      "id": "b344b3c5e19704d7",
+      "title": "Nouvelle étude de l’ANIL : L’essor de la location meublée de longue durée, un facteur de recomposition du parc locatif privé ?",
+      "summary": "28 octobre 2026 Dans sa nouvelle étude, « L’essor de la location meublée de longue durée, un facteur de recomposition du parc locatif privé ? », l’ANIL analyse les dynamiques de ce marché, les facteurs qui expliquent son développement et ses conséquences sur les…",
+      "url": "https://www.anil.org/actualites-evenements/details/nouvelle-etude-de-lanil-lessor-de-la-location-meublee-de-longue-duree-un-facteur-de-recomposition-du-parc-locatif-prive/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Nouvelle étude de l’ANIL : L’essor de la location meublée de longue durée, un facteur de recomposition du parc locatif privé ?."
+    },
+    {
+      "id": "ef03f65dd51cf4ea",
+      "title": "Immobilier : Votre voisin peut-il déplacer votre droit de passage ?",
+      "summary": "Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/10/28/immobilier-votre-voisin-peut-il-deplacer-votre-droit-de-passage/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Immobilier : Votre voisin peut-il déplacer votre droit de passage ?."
     },
     {
       "id": "784ac4687df74fd3",
@@ -85,6 +127,27 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Avec Laforêt Collection, Laforêt part à la conquête de l’immobilier de caractère."
+    },
+    {
+      "id": "302a6bfcbeb5278d",
+      "title": "Immobilier : « L’IA, un formidable levier pour nos équipes et nos clients », Xavier Saubestre (Odealim)",
+      "summary": "Podcasts",
+      "url": "https://www.mysweetimmo.com/2026/10/27/immobilier-lia-un-formidable-levier-pour-nos-equipes-et-nos-clients-xavier-saubestre-odealim/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : « L’IA, un formidable levier pour nos équipes et nos clients », Xavier Saubestre (Odealim)."
     },
     {
       "id": "83c677faab2ffcc7",
@@ -505,48 +568,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Webinaire immobilier : Préparez vos ventes 2027 le 29 octobre."
-    },
-    {
-      "id": "fc590d65861c9b9a",
-      "title": "Immobilier : Laforêt lance une marque dédiée aux biens de famille et de caractère",
-      "summary": "Vie Pro",
-      "url": "https://www.mysweetimmo.com/2026/10/22/immobilier-laforet-lance-une-marque-dediee-aux-biens-de-famille-et-de-caractere/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-22T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Laforêt lance une marque dédiée aux biens de famille et de caractère."
-    },
-    {
-      "id": "7dcfa3058d3b91b1",
-      "title": "Crédit immobilier : L’OAT à 5 % pousse les taux à la hausse",
-      "summary": "Investir / Financer",
-      "url": "https://www.mysweetimmo.com/2026/10/22/credit-immobilier-loat-a-5-pousse-les-taux-a-la-hausse/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "credit",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-22T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Credit",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : L’OAT à 5 % pousse les taux à la hausse."
     },
     {
       "id": "ae633cab4a5db4e9",
@@ -1030,27 +1051,6 @@
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Journée mondiale de la santé mentale."
     },
     {
-      "id": "95ab875b86dc4e6f",
-      "title": "De nouveaux modèles de bail et une notice d'information actualisée",
-      "summary": "Les modèles réglementaires de bail ont évolué au 1 er octobre 2026 pour les logements loués vides, meublés et les colocations à bail unique. Les nouveaux contrats types intègrent notamment la clause résolutoire applicable en cas d'impayés ou de non-versement du dépôt de garantie, ainsi que de nouvelles mentions relatives à l'occupation du logement. Un arrêté du 9 octobre 2026 met également à jour la notice d'information annexée au contrat de location.",
-      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19067?xtor=RSS-111",
-      "source": "Service-Public.fr",
-      "source_level": "A",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-09T09:00:00+00:00",
-      "status": "Information officielle",
-      "importance": 91,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source officielle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : De nouveaux modèles de bail et une notice d'information actualisée."
-    },
-    {
       "id": "427d16338c0e6495",
       "title": "Contrats de location : avez-vous mis à jour la notice obligatoire ?",
       "summary": "nationale. Voici ce qu'il faut retenir pour les professionnels de l'immobilier. Le 22/10/2026 à 07H02 Après les contrats types modifiés au 1er octobre, une autre pièce du dossier locatif évolue. L’arrêté du 9 octobre 2026, publié au Journal officiel le 17 octobre, vient actualiser la notice d’information obligatoire annexée aux contrats de location à usage de résidence principale. Cette nouvelle version s’applique aux contrat",
@@ -1217,48 +1217,6 @@
       "why_it_matters": "Source institutionnelle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Nouvelle Parole d'expert : Quelle est la protection apportée par un dossier de surendettement vis-à-vis de l’expulsion ?."
     },
     {
-      "id": "6a3343adb5af6bc6",
-      "title": "Découvrez les lauréats du Prix national de la construction bois 2026",
-      "summary": "06/10/2026 L'œil de MAP : Restructuration d'un appartement au cœur du Marais 02/10/2026",
-      "url": "https://www.batiactu.com/edito/decouvrez-laureats-prix-national-construction-bois-75538.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-06T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Découvrez les lauréats du Prix national de la construction bois 2026."
-    },
-    {
-      "id": "3f0cdb180d1357de",
-      "title": "L'œil de MAP : Restructuration d'un appartement au cœur du Marais",
-      "summary": "Découvrez les lauréats du Prix national de la construction bois 2026 06/10/2026 02/10/2026",
-      "url": "https://www.batiactu.com/edito/oeil-map-restructuration-un-appartement-au-coeur-marais-75505.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-06T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : L'œil de MAP : Restructuration d'un appartement au cœur du Marais."
-    },
-    {
       "id": "fd193ddf17aff2d9",
       "title": "Portail immobilier : nouvellement arrivé en France, idealista signe un accord avec Orpi et L’Adresse",
       "summary": "30 septembre 2026 - Peu de temps après son arrivée sur le marché français, le portail immobilier idealista a annoncé la signature d’un partenariat commercial avec le réseau coopératif Orpi, [...]",
@@ -1405,27 +1363,6 @@
       "why_it_matters": "Source institutionnelle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Quelles aides locales pour vos travaux ?."
     },
     {
-      "id": "d9359f81f850ce6f",
-      "title": "Nouvelle Parole d'expert : Travaux de rénovation énergétique : comment repérer et éviter les arnaques ?",
-      "summary": "22 septembre 2026 Certaines entreprises adoptent des pratiques peu éthiques envers les consommateurs telles que : le démarchage abusif, l'émission de devis obscurs, l'inclusion de crédits dissimulés, ou encore l'utilisation de labels de qualité trompeurs. Mais alors…",
-      "url": "https://www.anil.org/parole-expert-logement-travaux-renovation-energetique-reperer-eviter-arnaque/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-22T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Nouvelle Parole d'expert : Travaux de rénovation énergétique : comment repérer et éviter les arnaques ?."
-    },
-    {
       "id": "538b25ded75bbbb5",
       "title": "4,3 % en novembre 2023",
       "summary": "Comment accompagner les vendeurs face à la baisse des prix ? La baisse des prix se confirme dans le secteur de l’immobilier. Pourtant, la plupart des vendeurs se montrent toujours réticents à l’idée de revoir leurs prétentions. C’est là que réside tout le défi pour les professionnels de l’immobilier. Pour aider les propriétaires à prendre conscience de cette nouvelle réalité, vous devez impérativement leur faire part des conte",
@@ -1488,35 +1425,56 @@
       "topic": "Droit européen",
       "why_it_matters": "Source officielle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Directive (UE) 2024/1275 sur la performance énergétique des bâtiments.",
       "legal_stage": "jorf"
+    },
+    {
+      "id": "6f67b60ea1cbc81d",
+      "title": "IA prédictive : « Six semaines après son lancement commercial, Domaris lève ses premiers fonds » Logiciels Contenu sponsorisé Simon Leuk, cofondateur de Domaris. - © D.R.",
+      "summary": "rian Delchambre, fondateur et dirigeant de Groupe National Immobilier. - © D.R. Nexity : chute de 17 % des réservations de logements sur un an Agence immobilière indépendante Sur les neuf premiers mois de 2026, Nexity a enregistré 5 394 réservations de logements, soit une baisse de 17 % par rapport au 30 septembre 2025 (6 536 réservations), pour une valeur de 1 147 milliards d’euros, en recul de 19 %, a révélé le... Les vente",
+      "url": "https://www.immomatin.com/logiciels/ia-predictive-six-semaines-apres-son-lancement-commercial-domaris-leve-ses-premiers-fonds.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2025-09-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : IA prédictive : « Six semaines après son lancement commercial, Domaris lève ses premiers fonds » Logiciels Contenu sponsorisé S…."
     }
   ],
   "source_stats": {
     "SDES / Sitadel": 1,
-    "Journal de l'Agence": 16,
+    "ANIL": 10,
     "MySweetImmo": 16,
+    "Journal de l'Agence": 16,
     "Horiz.io": 2,
     "Immobilier 2.0": 16,
     "Légifrance": 2,
-    "ANIL": 10,
-    "Batiactu": 5,
-    "Service-Public.fr": 1,
+    "Batiactu": 3,
     "Insee": 1,
-    "EUR-Lex": 1
+    "EUR-Lex": 1,
+    "Immo Matin": 1
   },
   "health": {
     "sources_total": 15,
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 71,
-    "rejected": 1394,
+    "retained": 69,
+    "rejected": 1391,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
-        "status": "ok",
-        "retained": 1,
-        "last_success": "2026-10-28T13:02:51+00:00",
+        "status": "empty",
+        "retained": 0,
+        "last_success": "2026-10-28T22:39:03+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1524,7 +1482,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-28T13:02:53+00:00",
+        "last_success": "2026-10-28T22:39:06+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1532,7 +1490,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-28T13:02:54+00:00",
+        "last_success": "2026-10-28T22:39:07+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1540,7 +1498,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-28T13:02:55+00:00",
+        "last_success": "2026-10-28T22:39:08+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1548,7 +1506,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-28T13:03:14+00:00",
+        "last_success": "2026-10-28T22:39:32+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1556,7 +1514,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-28T13:03:23+00:00",
+        "last_success": "2026-10-28T22:39:46+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1564,7 +1522,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-28T13:03:23+00:00",
+        "last_success": "2026-10-28T22:39:46+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1572,7 +1530,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-28T13:03:24+00:00",
+        "last_success": "2026-10-28T22:39:47+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1580,7 +1538,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-28T13:03:25+00:00",
+        "last_success": "2026-10-28T22:39:48+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1588,15 +1546,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-28T13:03:26+00:00",
+        "last_success": "2026-10-28T22:39:49+00:00",
         "fallback": false
       },
       "Immo Matin": {
         "level": "C",
         "ok": true,
-        "status": "empty",
-        "retained": 0,
-        "last_success": "2026-10-28T13:03:28+00:00",
+        "status": "ok",
+        "retained": 1,
+        "last_success": "2026-10-28T22:39:51+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1604,15 +1562,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-28T13:03:35+00:00",
+        "last_success": "2026-10-28T22:39:53+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 5,
-        "last_success": "2026-10-28T13:03:36+00:00",
+        "retained": 3,
+        "last_success": "2026-10-28T22:39:55+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1620,7 +1578,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-28T13:03:37+00:00",
+        "last_success": "2026-10-28T22:39:56+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1628,7 +1586,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-28T13:03:39+00:00",
+        "last_success": "2026-10-28T22:39:59+00:00",
         "fallback": false
       }
     }
