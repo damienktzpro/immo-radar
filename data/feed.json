@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T22:21:31+00:00",
+  "generated_at": "2026-10-28T05:50:00+00:00",
   "version": "7.1",
   "items": [
     {
@@ -231,9 +231,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Cohabitation intergénérationnelle : L’exonération fiscale menacée fin 2026."
     },
     {
-      "id": "ed66f16610b6fba6",
-      "title": "Immobilier : Les prix baissent mais la reprise s’essouffle",
-      "summary": "Immobilier : Les prix baissent mais la reprise s’essouffle",
+      "id": "fa9db42cdb591bcf",
+      "title": "Immobilier : Les prix baissent et la reprise s’essouffle",
+      "summary": "Immobilier : Les prix baissent et la reprise s’essouffle",
       "url": "https://www.mysweetimmo.com/2026/10/23/immobilier-les-prix-baissent-mais-la-reprise-sessouffle/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -249,7 +249,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Les prix baissent mais la reprise s’essouffle."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Les prix baissent et la reprise s’essouffle."
     },
     {
       "id": "01147af7561ff07a",
@@ -380,8 +380,8 @@
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat."
     },
     {
-      "id": "72b44527f43126b0",
-      "title": "Immobilier : La hausse des taux fait chuter les ventes de Nexity de 17%",
+      "id": "dc00f2ac498274c4",
+      "title": "Immobilier : La hausse des taux fait chuter les ventes de Nexity de 17 %",
       "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/10/22/immobilier-la-hausse-des-taux-fait-chuter-les-ventes-de-nexity-de-17/",
       "source": "MySweetImmo",
@@ -398,7 +398,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : La hausse des taux fait chuter les ventes de Nexity de 17%."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : La hausse des taux fait chuter les ventes de Nexity de 17 %."
     },
     {
       "id": "4a255f1759205471",
@@ -1506,14 +1506,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 71,
-    "rejected": 1343,
+    "rejected": 1394,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-27T22:19:31+00:00",
+        "last_success": "2026-10-28T05:49:17+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1521,7 +1521,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-27T22:19:33+00:00",
+        "last_success": "2026-10-28T05:49:19+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1529,7 +1529,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-27T22:19:34+00:00",
+        "last_success": "2026-10-28T05:49:20+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1537,7 +1537,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-27T22:19:35+00:00",
+        "last_success": "2026-10-28T05:49:21+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1545,7 +1545,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-27T22:19:51+00:00",
+        "last_success": "2026-10-28T05:49:38+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1553,7 +1553,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-27T22:20:03+00:00",
+        "last_success": "2026-10-28T05:49:46+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1561,7 +1561,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-27T22:20:03+00:00",
+        "last_success": "2026-10-28T05:49:46+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1569,7 +1569,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-27T22:20:04+00:00",
+        "last_success": "2026-10-28T05:49:47+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1577,7 +1577,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-27T22:20:05+00:00",
+        "last_success": "2026-10-28T05:49:47+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1585,7 +1585,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-27T22:20:06+00:00",
+        "last_success": "2026-10-28T05:49:49+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1593,7 +1593,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-27T22:20:07+00:00",
+        "last_success": "2026-10-28T05:49:50+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1601,7 +1601,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-27T22:21:27+00:00",
+        "last_success": "2026-10-28T05:49:51+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1609,7 +1609,7 @@
         "ok": true,
         "status": "ok",
         "retained": 5,
-        "last_success": "2026-10-27T22:21:29+00:00",
+        "last_success": "2026-10-28T05:49:53+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1617,7 +1617,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-27T22:21:30+00:00",
+        "last_success": "2026-10-28T05:49:58+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1625,7 +1625,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-27T22:21:30+00:00",
+        "last_success": "2026-10-28T05:49:59+00:00",
         "fallback": false
       }
     }

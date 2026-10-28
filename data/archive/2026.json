@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-27T22:21:55+00:00",
+  "generated_at": "2026-10-28T05:50:26+00:00",
   "items": [
     {
       "id": "83c677faab2ffcc7",
@@ -274,9 +274,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Cohabitation intergénérationnelle : L’exonération fiscale menacée fin 2026."
     },
     {
-      "id": "ed66f16610b6fba6",
-      "title": "Immobilier : Les prix baissent mais la reprise s’essouffle",
-      "summary": "Immobilier : Les prix baissent mais la reprise s’essouffle",
+      "id": "fa9db42cdb591bcf",
+      "title": "Immobilier : Les prix baissent et la reprise s’essouffle",
+      "summary": "Immobilier : Les prix baissent et la reprise s’essouffle",
       "url": "https://www.mysweetimmo.com/2026/10/23/immobilier-les-prix-baissent-mais-la-reprise-sessouffle/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -292,7 +292,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Les prix baissent mais la reprise s’essouffle."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Les prix baissent et la reprise s’essouffle."
     },
     {
       "id": "9dd6e6d0c314ee7b",
@@ -444,8 +444,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Encadrement des loyers : le Sénat vote une prolongation de deux ans, sans extension du dispositif."
     },
     {
-      "id": "72b44527f43126b0",
-      "title": "Immobilier : La hausse des taux fait chuter les ventes de Nexity de 17%",
+      "id": "dc00f2ac498274c4",
+      "title": "Immobilier : La hausse des taux fait chuter les ventes de Nexity de 17 %",
       "summary": "Vie Pro",
       "url": "https://www.mysweetimmo.com/2026/10/22/immobilier-la-hausse-des-taux-fait-chuter-les-ventes-de-nexity-de-17/",
       "source": "MySweetImmo",
@@ -462,7 +462,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : La hausse des taux fait chuter les ventes de Nexity de 17%."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : La hausse des taux fait chuter les ventes de Nexity de 17 %."
     },
     {
       "id": "fc590d65861c9b9a",
