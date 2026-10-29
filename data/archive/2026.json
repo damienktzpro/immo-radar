@@ -1,8 +1,49 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-29T05:54:56+00:00",
+  "generated_at": "2026-10-29T13:11:09+00:00",
   "items": [
+    {
+      "id": "77cad3cc16c6749b",
+      "title": "Et si les agents immobiliers devaient apprendre à faire décider plutôt qu’à convaincre ?",
+      "summary": "Le 29/10/2026 à 08H43 Le vendeur qui s'accroche à son prix, l'acquéreur qui visite sans jamais offrir, le client qui se ferme dès qu'il sent la vente. Trois situations bien connues des agents immobiliers, et un même malentendu derrière. Nordine Mouaouia, fondateur de Système1-Immo Lab, explique ce qui se joue dans la tête de ces clients et pourquoi comprendre leurs hésitations peut être plus efficace que multiplier les argumen",
+      "url": "https://www.journaldelagence.com/1414473-et-si-les-agents-immobiliers-devaient-apprendre-a-faire-decider-plutot-qua-convaincre",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Et si les agents immobiliers devaient apprendre à faire décider plutôt qu’à convaincre ?."
+    },
+    {
+      "id": "07bc37b57fa4286c",
+      "title": "RENT 2026 : l’équipe du Journal de l’Agence vous donne rendez-vous à Paris !",
+      "summary": "prendre leurs hésitations peut être plus efficace que multiplier les arguments. Le 29/10/2026 à 06H55 Le rendez-vous de l'innovation immobilière est de retour ! Les 4 et 5 novembre prochains, le salon RENT réunira à Paris les professionnels qui font évoluer les métiers de l'immobilier. L'équipe du Journal de l'Agence sera une nouvelle fois au rendez-vous et vous invite à venir la rencontrer au stand C77! Présidentielle 2027 :",
+      "url": "https://www.journaldelagence.com/1414466-rent-2026-lequipe-du-journal-de-lagence-vous-donne-rendez-vous-a-paris",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : RENT 2026 : l’équipe du Journal de l’Agence vous donne rendez-vous à Paris !."
+    },
     {
       "id": "f057fd123029dc20",
       "title": "Construction de logements : résultats à fin septembre 2026 (France entière)",
@@ -48,7 +89,7 @@
     {
       "id": "784ac4687df74fd3",
       "title": "Présidentielle 2027 : les propositions de Fabien Roussel pour relancer le logement",
-      "summary": "Le 28/10/2026 à 12H23 Construction de 200 000 logements sociaux par an, renforcement de la loi SRU, encadrement des loyers, rénovation énergétique… Fabien Roussel mise sur une intervention publique renforcée pour répondre à la crise du logement. Après Bruno Retailleau, Marine Le Pen et Jean-Luc Mélenchon, le Journal de l’Agence poursuit son tour d’horizon des propositions des candidats à la présidentielle de 2027. Décryptage.",
+      "summary": "nouvelle fois au rendez-vous et vous invite à venir la rencontrer au stand C77! Le 28/10/2026 à 12H23 Construction de 200 000 logements sociaux par an, renforcement de la loi SRU, encadrement des loyers, rénovation énergétique… Fabien Roussel mise sur une intervention publique renforcée pour répondre à la crise du logement. Après Bruno Retailleau, Marine Le Pen et Jean-Luc Mélenchon, le Journal de l’Agence poursuit son tour d",
       "url": "https://www.journaldelagence.com/1414457-presidentielle-2027-les-propositions-de-fabien-roussel-pour-relancer-le-logement",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -172,8 +213,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Apport d’affaires entre agents immobiliers : comment valoriser les dossiers que vous ne pouvez pas traiter ?."
     },
     {
-      "id": "0dbf92a31a8a7905",
-      "title": "Climatisation en copropriété : la guerre entre voisins est déclarée !",
+      "id": "7b3aa6356b801897",
+      "title": "Climatisation en copropriété : la guerre entre voisins est déclarée",
       "summary": "liter et sécuriser les apports d'affaires entre professionnels de l'immobilier. Le 27/10/2026 à 06H51 Après les fortes chaleurs de l'été 2026, de nombreux copropriétaires envisagent d'installer une climatisation dans leur logement. Mais entre règlements de copropriété, nuisances sonores, respect de l'harmonie des immeubles et autorisations de travaux, ces installations peuvent rapidement devenir une source de conflits. Un réc",
       "url": "https://www.journaldelagence.com/1414400-climatisation-en-copropriete-la-guerre-entre-voisins-est-declaree",
       "source": "Journal de l'Agence",
@@ -190,7 +231,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Climatisation en copropriété : la guerre entre voisins est déclarée !."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Climatisation en copropriété : la guerre entre voisins est déclarée."
     },
     {
       "id": "cc02aa9b44a864f8",
@@ -657,7 +698,7 @@
     {
       "id": "1dc8f514b86314ed",
       "title": "Formation obligatoire des collaborateurs immobiliers : le CNTGI donne son feu vert au projet de décret",
-      "summary": "suffisent pas. Il faut connaître le détail des éléments qui impactent le prix. Le 22/10/2026 à 20H59 Le décret très attendu sur la formation obligatoire des collaborateurs de l'immobilier franchit enfin une nouvelle étape ! Réuni le 21 octobre, le Conseil national de la transaction et de la gestion immobilières (CNTGI) a rendu un avis favorable au projet de texte, sous réserve de plusieurs modifications. Un consensus obtenu a",
+      "summary": "suffisent pas. Il faut connaître le détail des éléments qui impactent le prix. Le 22/10/2026 à 20H59 Après 12 ans d'attente, le décret sur la formation obligatoire des collaborateurs de l'immobilier a enfin franchi une nouvelle étape ! Réuni le 21 octobre, le Conseil national de la transaction et de la gestion immobilières (CNTGI) a rendu un avis favorable au projet de texte, sous réserve de plusieurs modifications. Un consen",
       "url": "https://www.journaldelagence.com/1414389-formation-obligatoire-des-collaborateurs-immobiliers-le-cntgi-donne-son-feu-vert-au-projet-de-decret",
       "source": "Journal de l'Agence",
       "source_level": "C",
