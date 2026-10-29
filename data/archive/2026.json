@@ -1,27 +1,26 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-29T13:11:09+00:00",
+  "generated_at": "2026-10-29T22:49:38+00:00",
   "items": [
     {
       "id": "77cad3cc16c6749b",
       "title": "Et si les agents immobiliers devaient apprendre à faire décider plutôt qu’à convaincre ?",
-      "summary": "Le 29/10/2026 à 08H43 Le vendeur qui s'accroche à son prix, l'acquéreur qui visite sans jamais offrir, le client qui se ferme dès qu'il sent la vente. Trois situations bien connues des agents immobiliers, et un même malentendu derrière. Nordine Mouaouia, fondateur de Système1-Immo Lab, explique ce qui se joue dans la tête de ces clients et pourquoi comprendre leurs hésitations peut être plus efficace que multiplier les argumen",
+      "summary": "hées et que révèlent ces évolutions pour les professionnels de la transaction ? Le 29/10/2026 à 08H43 Le vendeur qui s'accroche à son prix, l'acquéreur qui visite sans jamais offrir, le client qui se ferme dès qu'il sent la vente. Trois situations bien connues des agents immobiliers, et un même malentendu derrière. Nordine Mouaouia, fondateur de Système1-Immo Lab, explique ce qui se joue dans la tête de ces clients et pourquo",
       "url": "https://www.journaldelagence.com/1414473-et-si-les-agents-immobiliers-devaient-apprendre-a-faire-decider-plutot-qua-convaincre",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "marche",
+      "category": "pro",
       "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
+        "pro",
+        "investisseur"
       ],
       "published_at": "2026-10-29T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
+      "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Et si les agents immobiliers devaient apprendre à faire décider plutôt qu’à convaincre ?."
     },
     {
@@ -43,6 +42,26 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : RENT 2026 : l’équipe du Journal de l’Agence vous donne rendez-vous à Paris !."
+    },
+    {
+      "id": "6711dd0cd1844cf0",
+      "title": "Pouvoir d’achat immobilier : combien de mètres carrés les acquéreurs ont-ils perdus en un an ?",
+      "summary": "Le 29/10/2026 à 15H21 À budget égal, les Français peuvent acheter de moins en moins de mètres carrés. Selon le dernier baromètre CAFPI, le pouvoir d'achat immobilier recule dans les douze grandes villes étudiées, avec une perte atteignant 5,75 m² à Rennes en un an. Quelles villes sont les plus touchées et que révèlent ces évolutions pour les professionnels de la transaction ? Et si les agents immobiliers devaient apprendre à f",
+      "url": "https://www.journaldelagence.com/1414497-pouvoir-dachat-immobilier-combien-de-metres-carres-les-acquereurs-ont-ils-perdus-en-un-an",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Pouvoir d’achat immobilier : combien de mètres carrés les acquéreurs ont-ils perdus en un an ?."
     },
     {
       "id": "f057fd123029dc20",
@@ -423,11 +442,11 @@
     {
       "id": "6e51037fd5e748c1",
       "title": "Quand les descriptifs issus de DVF ne suffisent plus",
-      "summary": "idealista, plateforme immobilière leader en Europe, annoncent leur partenariat. Le 23/10/2026 à 00H00 Château, maison avec piscine et annexe, immeuble de rapport ou local d’activité : pour défendre votre avis de valeur face au vendeur, un prix et une adresse ne suffisent pas. Il faut connaître le détail des éléments qui impactent le prix. Formation obligatoire des collaborateurs immobiliers : le CNTGI donne son feu vert au pr",
+      "summary": "idealista, plateforme immobilière leader en Europe, annoncent leur partenariat. Le 23/10/2026 à 00H00 Château, maison avec piscine et annexe, immeuble de rapport ou local d’activité : pour défendre votre avis de valeur face au vendeur, un prix et une adresse ne suffisent pas. Il faut connaître le détail des éléments qui impactent le prix. Formation obligatoire des agents et mandataires immobiliers : le décret se rapproche Le",
       "url": "https://www.journaldelagence.com/1414320-quand-les-descriptifs-issus-de-dvf-ne-suffisent-plus",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "territoires",
+      "category": "lois",
       "audiences": [
         "particulier",
         "investisseur",
@@ -435,10 +454,10 @@
       ],
       "published_at": "2026-10-23T09:00:00+00:00",
       "status": "Publication",
-      "importance": 73,
+      "importance": 76,
       "relevance": 73,
       "territory": "France",
-      "topic": "Territoires",
+      "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Quand les descriptifs issus de DVF ne suffisent plus."
     },
     {
@@ -696,8 +715,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : L’OAT à 5 % pousse les taux à la hausse."
     },
     {
-      "id": "1dc8f514b86314ed",
-      "title": "Formation obligatoire des collaborateurs immobiliers : le CNTGI donne son feu vert au projet de décret",
+      "id": "73d7382ab480e3ea",
+      "title": "Formation obligatoire des agents et mandataires immobiliers : le décret se rapproche",
       "summary": "suffisent pas. Il faut connaître le détail des éléments qui impactent le prix. Le 22/10/2026 à 20H59 Après 12 ans d'attente, le décret sur la formation obligatoire des collaborateurs de l'immobilier a enfin franchi une nouvelle étape ! Réuni le 21 octobre, le Conseil national de la transaction et de la gestion immobilières (CNTGI) a rendu un avis favorable au projet de texte, sous réserve de plusieurs modifications. Un consen",
       "url": "https://www.journaldelagence.com/1414389-formation-obligatoire-des-collaborateurs-immobiliers-le-cntgi-donne-son-feu-vert-au-projet-de-decret",
       "source": "Journal de l'Agence",
@@ -714,7 +733,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Formation obligatoire des collaborateurs immobiliers : le CNTGI donne son feu vert au projet de décret."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Formation obligatoire des agents et mandataires immobiliers : le décret se rapproche."
     },
     {
       "id": "414c2a06c00c00ff",

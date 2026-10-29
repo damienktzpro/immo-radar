@@ -1,26 +1,45 @@
 {
-  "generated_at": "2026-10-29T13:10:50+00:00",
+  "generated_at": "2026-10-29T22:49:11+00:00",
   "version": "7.1",
   "items": [
     {
-      "id": "77cad3cc16c6749b",
-      "title": "Et si les agents immobiliers devaient apprendre à faire décider plutôt qu’à convaincre ?",
-      "summary": "Le 29/10/2026 à 08H43 Le vendeur qui s'accroche à son prix, l'acquéreur qui visite sans jamais offrir, le client qui se ferme dès qu'il sent la vente. Trois situations bien connues des agents immobiliers, et un même malentendu derrière. Nordine Mouaouia, fondateur de Système1-Immo Lab, explique ce qui se joue dans la tête de ces clients et pourquoi comprendre leurs hésitations peut être plus efficace que multiplier les argumen",
-      "url": "https://www.journaldelagence.com/1414473-et-si-les-agents-immobiliers-devaient-apprendre-a-faire-decider-plutot-qua-convaincre",
+      "id": "6711dd0cd1844cf0",
+      "title": "Pouvoir d’achat immobilier : combien de mètres carrés les acquéreurs ont-ils perdus en un an ?",
+      "summary": "Le 29/10/2026 à 15H21 À budget égal, les Français peuvent acheter de moins en moins de mètres carrés. Selon le dernier baromètre CAFPI, le pouvoir d'achat immobilier recule dans les douze grandes villes étudiées, avec une perte atteignant 5,75 m² à Rennes en un an. Quelles villes sont les plus touchées et que révèlent ces évolutions pour les professionnels de la transaction ? Et si les agents immobiliers devaient apprendre à f",
+      "url": "https://www.journaldelagence.com/1414497-pouvoir-dachat-immobilier-combien-de-metres-carres-les-acquereurs-ont-ils-perdus-en-un-an",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "marche",
+      "category": "pro",
       "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
+        "pro",
+        "investisseur"
       ],
       "published_at": "2026-10-29T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Marche",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Pouvoir d’achat immobilier : combien de mètres carrés les acquéreurs ont-ils perdus en un an ?."
+    },
+    {
+      "id": "77cad3cc16c6749b",
+      "title": "Et si les agents immobiliers devaient apprendre à faire décider plutôt qu’à convaincre ?",
+      "summary": "hées et que révèlent ces évolutions pour les professionnels de la transaction ? Le 29/10/2026 à 08H43 Le vendeur qui s'accroche à son prix, l'acquéreur qui visite sans jamais offrir, le client qui se ferme dès qu'il sent la vente. Trois situations bien connues des agents immobiliers, et un même malentendu derrière. Nordine Mouaouia, fondateur de Système1-Immo Lab, explique ce qui se joue dans la tête de ces clients et pourquo",
+      "url": "https://www.journaldelagence.com/1414473-et-si-les-agents-immobiliers-devaient-apprendre-a-faire-decider-plutot-qua-convaincre",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-10-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Et si les agents immobiliers devaient apprendre à faire décider plutôt qu’à convaincre ?."
     },
     {
@@ -464,11 +483,11 @@
     {
       "id": "6e51037fd5e748c1",
       "title": "Quand les descriptifs issus de DVF ne suffisent plus",
-      "summary": "idealista, plateforme immobilière leader en Europe, annoncent leur partenariat. Le 23/10/2026 à 00H00 Château, maison avec piscine et annexe, immeuble de rapport ou local d’activité : pour défendre votre avis de valeur face au vendeur, un prix et une adresse ne suffisent pas. Il faut connaître le détail des éléments qui impactent le prix. Formation obligatoire des collaborateurs immobiliers : le CNTGI donne son feu vert au pr",
+      "summary": "idealista, plateforme immobilière leader en Europe, annoncent leur partenariat. Le 23/10/2026 à 00H00 Château, maison avec piscine et annexe, immeuble de rapport ou local d’activité : pour défendre votre avis de valeur face au vendeur, un prix et une adresse ne suffisent pas. Il faut connaître le détail des éléments qui impactent le prix. Formation obligatoire des agents et mandataires immobiliers : le décret se rapproche Le",
       "url": "https://www.journaldelagence.com/1414320-quand-les-descriptifs-issus-de-dvf-ne-suffisent-plus",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "territoires",
+      "category": "lois",
       "audiences": [
         "particulier",
         "investisseur",
@@ -476,10 +495,10 @@
       ],
       "published_at": "2026-10-23T09:00:00+00:00",
       "status": "Publication",
-      "importance": 73,
+      "importance": 76,
       "relevance": 73,
       "territory": "France",
-      "topic": "Territoires",
+      "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Quand les descriptifs issus de DVF ne suffisent plus."
     },
     {
@@ -632,8 +651,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Émeutes : Votre taxe foncière va-t-elle payer la casse ?."
     },
     {
-      "id": "1dc8f514b86314ed",
-      "title": "Formation obligatoire des collaborateurs immobiliers : le CNTGI donne son feu vert au projet de décret",
+      "id": "73d7382ab480e3ea",
+      "title": "Formation obligatoire des agents et mandataires immobiliers : le décret se rapproche",
       "summary": "suffisent pas. Il faut connaître le détail des éléments qui impactent le prix. Le 22/10/2026 à 20H59 Après 12 ans d'attente, le décret sur la formation obligatoire des collaborateurs de l'immobilier a enfin franchi une nouvelle étape ! Réuni le 21 octobre, le Conseil national de la transaction et de la gestion immobilières (CNTGI) a rendu un avis favorable au projet de texte, sous réserve de plusieurs modifications. Un consen",
       "url": "https://www.journaldelagence.com/1414389-formation-obligatoire-des-collaborateurs-immobiliers-le-cntgi-donne-son-feu-vert-au-projet-de-decret",
       "source": "Journal de l'Agence",
@@ -650,7 +669,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Formation obligatoire des collaborateurs immobiliers : le CNTGI donne son feu vert au projet de décret."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Formation obligatoire des agents et mandataires immobiliers : le décret se rapproche."
     },
     {
       "id": "c4b08a16ba3694ec",
@@ -714,26 +733,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier résidentiel : 647 millions d’euros investis, le marché patine au 3ème trimestre."
-    },
-    {
-      "id": "106abfae307a9a6f",
-      "title": "Diagnostics immobiliers : quels enjeux pour les professionnels de la vente ?",
-      "summary": "entions invite ainsi les agences et gestionnaires à actualiser leurs documents. Le 21/10/2026 à 07H26 La vente d’un bien immobilier est marquée par l’obligation de fournir différents diagnostics pour lesquels les acteurs d’une vente, notaire et agent immobilier, ne sont pas exempts de contrôle. Un rappel utile de leurs obligations à respecter avec Corentin Bloch, expert en droit immobilier. Vis ma vie de conseiller immobilier",
-      "url": "https://www.journaldelagence.com/1414317-diagnostics-immobiliers-quels-enjeux-pour-les-professionnels-de-la-vente",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-10-21T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Diagnostics immobiliers : quels enjeux pour les professionnels de la vente ?."
     },
     {
       "id": "b15ebbc7c38c87ac",
@@ -1440,18 +1439,18 @@
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 15,
-    "sources_degraded": 0,
+    "sources_ok": 14,
+    "sources_degraded": 1,
     "errors": 0,
     "retained": 68,
-    "rejected": 1436,
+    "rejected": 368,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-29T13:09:57+00:00",
+        "last_success": "2026-10-29T22:48:20+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1459,7 +1458,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-29T13:09:58+00:00",
+        "last_success": "2026-10-29T22:48:22+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1467,7 +1466,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-29T13:09:59+00:00",
+        "last_success": "2026-10-29T22:48:23+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1475,7 +1474,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-29T13:10:01+00:00",
+        "last_success": "2026-10-29T22:48:24+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1483,23 +1482,24 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-29T13:10:23+00:00",
+        "last_success": "2026-10-29T22:48:41+00:00",
         "fallback": false
       },
       "Légifrance": {
         "level": "A",
-        "ok": true,
-        "status": "ok",
+        "ok": false,
+        "status": "degraded",
         "retained": 2,
-        "last_success": "2026-10-29T13:10:38+00:00",
-        "fallback": false
+        "last_success": "2026-10-29T13:10:50+00:00",
+        "fallback": true,
+        "error_type": "RuntimeError"
       },
       "EUR-Lex": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-29T13:10:38+00:00",
+        "last_success": "2026-10-29T22:49:02+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1507,7 +1507,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-29T13:10:39+00:00",
+        "last_success": "2026-10-29T22:49:03+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1515,7 +1515,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-29T13:10:40+00:00",
+        "last_success": "2026-10-29T22:49:04+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1523,7 +1523,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-29T13:10:41+00:00",
+        "last_success": "2026-10-29T22:49:05+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1531,7 +1531,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-29T13:10:43+00:00",
+        "last_success": "2026-10-29T22:49:06+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1539,7 +1539,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-29T13:10:45+00:00",
+        "last_success": "2026-10-29T22:49:07+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1547,7 +1547,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-29T13:10:46+00:00",
+        "last_success": "2026-10-29T22:49:09+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1555,7 +1555,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-29T13:10:47+00:00",
+        "last_success": "2026-10-29T22:49:09+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1563,10 +1563,16 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-29T13:10:50+00:00",
+        "last_success": "2026-10-29T22:49:10+00:00",
         "fallback": false
       }
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "source": "Légifrance",
+      "error": "PISTE Légifrance indisponible : 429 Client Error: Too Many Requests for url: https://api.piste.gouv.fr/dila/legifrance/lf-engine-app/consult/lastNJo",
+      "fallback": true
+    }
+  ]
 }
