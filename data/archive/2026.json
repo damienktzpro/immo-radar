@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-29T22:49:38+00:00",
+  "generated_at": "2026-10-30T05:56:01+00:00",
   "items": [
     {
       "id": "77cad3cc16c6749b",
@@ -46,22 +46,23 @@
     {
       "id": "6711dd0cd1844cf0",
       "title": "Pouvoir d’achat immobilier : combien de mètres carrés les acquéreurs ont-ils perdus en un an ?",
-      "summary": "Le 29/10/2026 à 15H21 À budget égal, les Français peuvent acheter de moins en moins de mètres carrés. Selon le dernier baromètre CAFPI, le pouvoir d'achat immobilier recule dans les douze grandes villes étudiées, avec une perte atteignant 5,75 m² à Rennes en un an. Quelles villes sont les plus touchées et que révèlent ces évolutions pour les professionnels de la transaction ? Et si les agents immobiliers devaient apprendre à f",
+      "summary": "thme de matching intelligent fondé sur la pertinence des critères de recherche. Le 29/10/2026 à 15H21 À budget égal, les Français peuvent acheter de moins en moins de mètres carrés. Selon le dernier baromètre CAFPI, le pouvoir d'achat immobilier recule dans les douze grandes villes étudiées, avec une perte atteignant 5,75 m² à Rennes en un an. Quelles villes sont les plus touchées et que révèlent ces évolutions pour les profe",
       "url": "https://www.journaldelagence.com/1414497-pouvoir-dachat-immobilier-combien-de-metres-carres-les-acquereurs-ont-ils-perdus-en-un-an",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "pro",
+      "category": "marche",
       "audiences": [
-        "pro",
-        "investisseur"
+        "particulier",
+        "investisseur",
+        "pro"
       ],
       "published_at": "2026-10-29T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Pouvoir d’achat immobilier : combien de mètres carrés les acquéreurs ont-ils perdus en un an ?."
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Pouvoir d’achat immobilier : combien de mètres carrés les acquéreurs ont-ils perdus en un an ?."
     },
     {
       "id": "f057fd123029dc20",

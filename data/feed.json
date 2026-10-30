@@ -1,26 +1,27 @@
 {
-  "generated_at": "2026-10-29T22:49:11+00:00",
+  "generated_at": "2026-10-30T05:55:47+00:00",
   "version": "7.1",
   "items": [
     {
       "id": "6711dd0cd1844cf0",
       "title": "Pouvoir d’achat immobilier : combien de mètres carrés les acquéreurs ont-ils perdus en un an ?",
-      "summary": "Le 29/10/2026 à 15H21 À budget égal, les Français peuvent acheter de moins en moins de mètres carrés. Selon le dernier baromètre CAFPI, le pouvoir d'achat immobilier recule dans les douze grandes villes étudiées, avec une perte atteignant 5,75 m² à Rennes en un an. Quelles villes sont les plus touchées et que révèlent ces évolutions pour les professionnels de la transaction ? Et si les agents immobiliers devaient apprendre à f",
+      "summary": "thme de matching intelligent fondé sur la pertinence des critères de recherche. Le 29/10/2026 à 15H21 À budget égal, les Français peuvent acheter de moins en moins de mètres carrés. Selon le dernier baromètre CAFPI, le pouvoir d'achat immobilier recule dans les douze grandes villes étudiées, avec une perte atteignant 5,75 m² à Rennes en un an. Quelles villes sont les plus touchées et que révèlent ces évolutions pour les profe",
       "url": "https://www.journaldelagence.com/1414497-pouvoir-dachat-immobilier-combien-de-metres-carres-les-acquereurs-ont-ils-perdus-en-un-an",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "pro",
+      "category": "marche",
       "audiences": [
-        "pro",
-        "investisseur"
+        "particulier",
+        "investisseur",
+        "pro"
       ],
       "published_at": "2026-10-29T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Pouvoir d’achat immobilier : combien de mètres carrés les acquéreurs ont-ils perdus en un an ?."
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Pouvoir d’achat immobilier : combien de mètres carrés les acquéreurs ont-ils perdus en un an ?."
     },
     {
       "id": "77cad3cc16c6749b",
@@ -1439,18 +1440,18 @@
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 14,
-    "sources_degraded": 1,
+    "sources_ok": 15,
+    "sources_degraded": 0,
     "errors": 0,
     "retained": 68,
-    "rejected": 368,
+    "rejected": 1487,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-29T22:48:20+00:00",
+        "last_success": "2026-10-30T05:55:07+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1458,7 +1459,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-29T22:48:22+00:00",
+        "last_success": "2026-10-30T05:55:08+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1466,7 +1467,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-29T22:48:23+00:00",
+        "last_success": "2026-10-30T05:55:09+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1474,7 +1475,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-10-29T22:48:24+00:00",
+        "last_success": "2026-10-30T05:55:11+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1482,24 +1483,23 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-29T22:48:41+00:00",
+        "last_success": "2026-10-30T05:55:28+00:00",
         "fallback": false
       },
       "Légifrance": {
         "level": "A",
-        "ok": false,
-        "status": "degraded",
+        "ok": true,
+        "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-29T13:10:50+00:00",
-        "fallback": true,
-        "error_type": "RuntimeError"
+        "last_success": "2026-10-30T05:55:37+00:00",
+        "fallback": false
       },
       "EUR-Lex": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-10-29T22:49:02+00:00",
+        "last_success": "2026-10-30T05:55:37+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1507,7 +1507,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-10-29T22:49:03+00:00",
+        "last_success": "2026-10-30T05:55:37+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1515,7 +1515,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-29T22:49:04+00:00",
+        "last_success": "2026-10-30T05:55:38+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1523,7 +1523,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-29T22:49:05+00:00",
+        "last_success": "2026-10-30T05:55:39+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1531,7 +1531,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-10-29T22:49:06+00:00",
+        "last_success": "2026-10-30T05:55:40+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1539,7 +1539,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-29T22:49:07+00:00",
+        "last_success": "2026-10-30T05:55:42+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1547,7 +1547,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-29T22:49:09+00:00",
+        "last_success": "2026-10-30T05:55:43+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1555,7 +1555,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-10-29T22:49:09+00:00",
+        "last_success": "2026-10-30T05:55:44+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1563,16 +1563,10 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-10-29T22:49:10+00:00",
+        "last_success": "2026-10-30T05:55:46+00:00",
         "fallback": false
       }
     }
   },
-  "errors": [
-    {
-      "source": "Légifrance",
-      "error": "PISTE Légifrance indisponible : 429 Client Error: Too Many Requests for url: https://api.piste.gouv.fr/dila/legifrance/lf-engine-app/consult/lastNJo",
-      "fallback": true
-    }
-  ]
+  "errors": []
 }
