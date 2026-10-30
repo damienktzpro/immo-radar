@@ -71,6 +71,72 @@ def clean(v):
     if not v:return ""
     return " ".join(BeautifulSoup(html.unescape(str(v)),"html.parser").get_text(" ").split())
 
+NAVIGATION_NOISE=re.compile(
+    r"\b(?:Aller au menu principal|Aller à la recherche|Aller au contenu principal|"
+    r"Ouvrir le menu|Fermer le menu|Recherche Rechercher|Retour en haut de page)\b",
+    flags=re.I
+)
+SUMMARY_FALLBACK="Consultez la publication source pour les informations détaillées."
+
+
+def trim_summary(value,limit=540):
+    """Tronque proprement le texte, sans couper un mot si possible."""
+    value=clean(value)
+    if len(value)<=limit:
+        return value
+    boundary=value.rfind(" ",0,limit-1)
+    return value[:boundary if boundary>limit*0.7 else limit-1].rstrip(" ,;:")+"…"
+
+
+def safe_summary(value,title="",limit=540):
+    """Nettoie les anciens extraits pollués sans inventer de contenu."""
+    value=clean(value)
+    noise=NAVIGATION_NOISE.search(value)
+    if noise:
+        value=value[:noise.start()].strip(" |:-")
+    title=clean(title)
+    if title and value.casefold().startswith(title.casefold()):
+        value=value[len(title):].strip(" |:-")
+    if not value or (noise and len(value)<75):
+        return SUMMARY_FALLBACK
+    return trim_summary(value,limit)
+
+
+def article_summary(doc,title="",limit=540):
+    """Extrait les paragraphes du corps d'article, jamais le texte entier de la page."""
+    page=BeautifulSoup(doc,"html.parser") if isinstance(doc,str) else doc
+    for selector in ("main","[role='main']","article"):
+        root=page.select_one(selector)
+        if not root:
+            continue
+        content=BeautifulSoup(str(root),"html.parser")
+        for element in content.select(
+            "nav, header, footer, aside, form, button, script, style, "
+            "noscript, svg, [role='navigation'], .breadcrumb, .breadcrumbs, .pagination"
+        ):
+            element.decompose()
+        heading=content.find("h1")
+        paragraphs=heading.find_all_next("p") if heading else content.find_all("p")
+        selected=[]
+        for paragraph in paragraphs:
+            text=clean(paragraph.get_text(" ",strip=True))
+            if len(text)<85 or NAVIGATION_NOISE.search(text):
+                continue
+            if title and text.casefold()==clean(title).casefold():
+                continue
+            selected.append(text)
+            if sum(len(p) for p in selected)>=limit:
+                break
+        if selected:
+            return safe_summary(" ".join(selected),title,limit)
+    for attrs in ({"name":"description"},{"property":"og:description"}):
+        meta=page.find("meta",attrs=attrs)
+        description=clean(meta.get("content","")) if meta else ""
+        if len(description)>=85 and not NAVIGATION_NOISE.search(description):
+            return safe_summary(description,title,limit)
+    return SUMMARY_FALLBACK
+
+
 def norm_url(v):
     try:
         p=urlsplit(v);return urlunsplit((p.scheme,p.netloc,p.path,"",""))
@@ -623,7 +689,7 @@ def make(
     d={
         "id":sid(source,title,url),
         "title":clean_editorial_title(title),
-        "summary":clean(summary)[:540],
+        "summary":safe_summary(summary,title),
         "url":url,
         "source":source,
         "source_level":level,
@@ -833,7 +899,7 @@ def editorial_context(a,title):
         pos=context.lower().find(clean(title).lower())
 
         if pos>=0:
-            context=context[max(0,pos-80):pos+760]
+            context=context[pos:pos+760]
         else:
             context=context[:760]
 
@@ -945,11 +1011,11 @@ def bdf():
             if not r.ok:
                 continue
 
-            text=clean(
-                BeautifulSoup(
-                    r.text,
-                    "html.parser"
-                ).get_text(" ")
+            soup=BeautifulSoup(r.text,"html.parser")
+            text=clean(soup.get_text(" "))
+            summary=article_summary(
+                soup,
+                "Crédits à l’habitat : dernières données de la Banque de France"
             )
 
             if "crédits à l'habitat" not in text.lower():
@@ -962,7 +1028,7 @@ def bdf():
                     "Banque de France",
                     "A",
                     "Crédits à l’habitat : dernières données de la Banque de France",
-                    text[:500],
+                    summary,
                     url,
                     pub,
                     "Donnée officielle",
@@ -993,15 +1059,15 @@ def insee():
     s=BeautifulSoup(r.text,"html.parser")
     text=clean(s.get_text(" "))
     h=s.find("h1")
+    title=clean(h.get_text(" ",strip=True)) if h else "Prix des logements anciens : dernière publication"
+    summary=article_summary(s,title)
 
     return [
         make(
             "Insee",
             "A",
-            clean(h.get_text(" ",strip=True))
-            if h
-            else "Prix des logements anciens : dernière publication",
-            text[:500],
+            title,
+            summary,
             url,
             parse_date(text,url),
             "Chiffre officiel",
@@ -1049,15 +1115,15 @@ def sdes():
     ss=BeautifulSoup(rr.text,"html.parser")
     text=clean(ss.get_text(" "))
     h=ss.find("h1")
+    title=clean(h.get_text(" ",strip=True)) if h else clean(a.get_text(" ",strip=True))
+    summary=article_summary(ss,title)
 
     return [
         make(
             "SDES / Sitadel",
             "A",
-            clean(h.get_text(" ",strip=True))
-            if h
-            else clean(a.get_text(" ",strip=True)),
-            text[:500],
+            title,
+            summary,
             url,
             parse_date(text,url),
             "Donnée officielle",
@@ -1605,6 +1671,7 @@ def _merge_archive(items):
         *(old.get("items") or []),
         *items
     ]:
+        i["summary"]=safe_summary(i.get("summary",""),i.get("title",""))
         if not str(
             i.get(
                 "published_at",
@@ -1935,6 +2002,7 @@ def main():
     dedup={}
 
     for i in items:
+        i["summary"]=safe_summary(i.get("summary",""),i.get("title",""))
 
         # Deuxième sécurité :
         # même un ancien fallback Légifrance doit passer
