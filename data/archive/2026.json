@@ -1,12 +1,12 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-30T13:03:39+00:00",
+  "generated_at": "2026-10-30T22:26:32+00:00",
   "items": [
     {
       "id": "54fe390289f1c35c",
       "title": "Immobilier Ile-de-France : Les ventes ralentissent, les prix baissent encore",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/10/30/immobilier-ile-de-france-les-ventes-ralentissent-les-prix-baissent-encore/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -23,6 +23,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Ile-de-France : Les ventes ralentissent, les prix baissent encore."
+    },
+    {
+      "id": "47910c2cd969b7c9",
+      "title": "Marché US : plusieurs groupes immobiliers s’associent pour lancer Open Real Estate et garantir la transparence des annonces immobilières",
+      "summary": "30 octobre 2026 - Keller Williams, AGNT, HomeServices of America et Real REMAX se sont associés pour créer Open Real Estate. Pour ces grandes franchises immobilières du marché américain, cette [...]",
+      "url": "https://immo2.pro/actualite-immobilier/marche-us-plusieurs-groupes-immobiliers-sassocient-pour-lancer-open-real-estate-et-garantir-la-transparence-des-annonces-immobilieres/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-30T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Marché US : plusieurs groupes immobiliers s’associent pour lancer Open Real Estate et garantir la transparence des annonces imm…."
     },
     {
       "id": "77cad3cc16c6749b",
