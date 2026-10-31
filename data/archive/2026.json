@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-31T12:41:40+00:00",
+  "generated_at": "2026-10-31T21:41:18+00:00",
   "items": [
     {
       "id": "f1f06c623e8b7b6f",
@@ -676,7 +676,7 @@
     {
       "id": "4a255f1759205471",
       "title": "Webinaire immobilier : Préparez vos ventes 2027 le 29 octobre",
-      "summary": "Agenda",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/10/22/webinaire-immobilier-preparez-vos-ventes-2027-le-29-octobre/",
       "source": "MySweetImmo",
       "source_level": "C",
