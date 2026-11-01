@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-01T13:37:30+00:00",
+  "generated_at": "2026-11-01T22:07:37+00:00",
   "items": [
     {
       "id": "3f7ce376cf943cd6",
@@ -67,7 +67,7 @@
     {
       "id": "683dcdc3f1bb1c97",
       "title": "Location meublée : Les loyers grimpent à Paris, mais baissent à Lyon et Montpellier",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/11/01/location-meublee-les-loyers-grimpent-a-paris-mais-baissent-a-lyon-et-montpellier/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -84,6 +84,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Location meublée : Les loyers grimpent à Paris, mais baissent à Lyon et Montpellier."
+    },
+    {
+      "id": "27a5fc29351c060b",
+      "title": "Logement : Les propositions de Jean-Luc Mélenchon face aux réalités du terrain",
+      "summary": "Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/11/01/logement-melenchon-tribune-francois-gagnon/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : Les propositions de Jean-Luc Mélenchon face aux réalités du terrain."
     },
     {
       "id": "fb0c8139722f4839",
@@ -527,7 +548,7 @@
     {
       "id": "725f3b8f343c0344",
       "title": "Immobilier : Le projet de décret sur la formation des agents et mandataires se précise",
-      "summary": "Vie Pro",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/10/26/immobilier-le-projet-de-decret-sur-la-formation-des-agents-et-mandataires-se-precise/",
       "source": "MySweetImmo",
       "source_level": "C",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T13:37:00+00:00",
+  "generated_at": "2026-11-01T22:07:08+00:00",
   "version": "7.1",
   "items": [
     {
@@ -64,9 +64,30 @@
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Trêve hivernale : du 1er novembre au 31 mars."
     },
     {
+      "id": "27a5fc29351c060b",
+      "title": "Logement : Les propositions de Jean-Luc Mélenchon face aux réalités du terrain",
+      "summary": "Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/11/01/logement-melenchon-tribune-francois-gagnon/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : Les propositions de Jean-Luc Mélenchon face aux réalités du terrain."
+    },
+    {
       "id": "683dcdc3f1bb1c97",
       "title": "Location meublée : Les loyers grimpent à Paris, mais baissent à Lyon et Montpellier",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/11/01/location-meublee-les-loyers-grimpent-a-paris-mais-baissent-a-lyon-et-montpellier/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -482,27 +503,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Gestion locative : 1 bail sur 30 en impayé, près de 10 % de passoires thermiques."
     },
     {
-      "id": "725f3b8f343c0344",
-      "title": "Immobilier : Le projet de décret sur la formation des agents et mandataires se précise",
-      "summary": "Vie Pro",
-      "url": "https://www.mysweetimmo.com/2026/10/26/immobilier-le-projet-de-decret-sur-la-formation-des-agents-et-mandataires-se-precise/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-26T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Immobilier : Le projet de décret sur la formation des agents et mandataires se précise."
-    },
-    {
       "id": "b5786a1a0bdf8d45",
       "title": "Immobilier commercial : Avec le rachat d’Advantail, Evoriel devient le numéro 2 en France",
       "summary": "Consultez la publication source pour les informations détaillées.",
@@ -543,6 +543,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Alpes : Les prix du luxe ne montent plus partout."
+    },
+    {
+      "id": "725f3b8f343c0344",
+      "title": "Immobilier : Le projet de décret sur la formation des agents et mandataires se précise",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/10/26/immobilier-le-projet-de-decret-sur-la-formation-des-agents-et-mandataires-se-precise/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Immobilier : Le projet de décret sur la formation des agents et mandataires se précise."
     },
     {
       "id": "ab313c135da88010",
@@ -816,27 +837,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Webinaire immobilier : Préparez vos ventes 2027 le 29 octobre."
-    },
-    {
-      "id": "ae633cab4a5db4e9",
-      "title": "Émeutes : Votre taxe foncière va-t-elle payer la casse ?",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/10/22/emeutes-votre-taxe-fonciere-va-t-elle-payer-la-casse/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-22T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Émeutes : Votre taxe foncière va-t-elle payer la casse ?."
     },
     {
       "id": "73d7382ab480e3ea",
@@ -1443,14 +1443,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 68,
-    "rejected": 1428,
+    "rejected": 1429,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-01T13:36:17+00:00",
+        "last_success": "2026-11-01T22:06:23+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1458,7 +1458,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-01T13:36:20+00:00",
+        "last_success": "2026-11-01T22:06:29+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1466,7 +1466,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-01T13:36:21+00:00",
+        "last_success": "2026-11-01T22:06:30+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1474,7 +1474,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-01T13:36:23+00:00",
+        "last_success": "2026-11-01T22:06:32+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1482,7 +1482,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-01T13:36:41+00:00",
+        "last_success": "2026-11-01T22:06:48+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1490,7 +1490,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-01T13:36:50+00:00",
+        "last_success": "2026-11-01T22:07:00+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1498,7 +1498,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-01T13:36:50+00:00",
+        "last_success": "2026-11-01T22:07:00+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1506,7 +1506,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-11-01T13:36:51+00:00",
+        "last_success": "2026-11-01T22:07:01+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1514,7 +1514,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-01T13:36:52+00:00",
+        "last_success": "2026-11-01T22:07:01+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1522,7 +1522,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-01T13:36:53+00:00",
+        "last_success": "2026-11-01T22:07:02+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1530,7 +1530,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-01T13:36:54+00:00",
+        "last_success": "2026-11-01T22:07:04+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1538,7 +1538,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-01T13:36:56+00:00",
+        "last_success": "2026-11-01T22:07:05+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1546,7 +1546,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-01T13:36:57+00:00",
+        "last_success": "2026-11-01T22:07:06+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1554,7 +1554,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-01T13:36:58+00:00",
+        "last_success": "2026-11-01T22:07:07+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1562,7 +1562,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-01T13:37:00+00:00",
+        "last_success": "2026-11-01T22:07:08+00:00",
         "fallback": false
       }
     }
