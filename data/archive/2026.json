@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-10-31T21:41:18+00:00",
+  "generated_at": "2026-11-01T06:15:45+00:00",
   "items": [
+    {
+      "id": "fb0c8139722f4839",
+      "title": "Crédit immobilier : Les taux montent, les banques deviennent plus sélectives",
+      "summary": "Investir / Financer",
+      "url": "https://www.mysweetimmo.com/2026/10/31/credit-immobilier-les-taux-montent-les-banques-deviennent-plus-selectives/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-31T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Les taux montent, les banques deviennent plus sélectives."
+    },
     {
       "id": "f1f06c623e8b7b6f",
       "title": "Arrêté du 11 juin 2026 portant diverses dispositions d'adaptation au droit de l'Union européenne sur le diagnostic de performance énergétique (rectificatif)",
@@ -127,6 +148,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Pouvoir d’achat immobilier : combien de mètres carrés les acquéreurs ont-ils perdus en un an ?."
+    },
+    {
+      "id": "3bbafcce1beaa690",
+      "title": "Agence immobilière : « On vise 20 à 25 implantations Laforêt Collection d’ici deux ans » Yann Jehanno",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/10/29/agence-immobiliere-on-vise-20-a-25-implantations-laforet-collection-dici-deux-ans-yann-jehanno/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-29T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Agence immobilière : « On vise 20 à 25 implantations Laforêt Collection d’ici deux ans » Yann Jehanno."
     },
     {
       "id": "f057fd123029dc20",
@@ -718,7 +760,7 @@
     {
       "id": "dc00f2ac498274c4",
       "title": "Immobilier : La hausse des taux fait chuter les ventes de Nexity de 17 %",
-      "summary": "Vie Pro",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/10/22/immobilier-la-hausse-des-taux-fait-chuter-les-ventes-de-nexity-de-17/",
       "source": "MySweetImmo",
       "source_level": "C",
