@@ -1,8 +1,90 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-01T06:15:45+00:00",
+  "generated_at": "2026-11-01T13:37:30+00:00",
   "items": [
+    {
+      "id": "3f7ce376cf943cd6",
+      "title": "Belles Demeures lance Boost Social Immo pour renforcer la visibilité des biens de prestige",
+      "summary": "Le 30/10/2026 à 00H00 Après Priority et Top Position, lancés en juillet, Belles Demeures enrichit son offre à destination des professionnels de l’immobilier de prestige. Avec Boost Social Immo, le portail référent propose aux agences de diffuser leurs annonces sur Facebook et Instagram auprès d’une audience premium ciblée. Explications. Matchstone lance sa plateforme le 2 novembre : ce qui change pour les professionnels de l’i",
+      "url": "https://www.journaldelagence.com/1414430-belles-demeures-lance-boost-social-immo-pour-renforcer-la-visibilite-des-biens-de-prestige",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Belles Demeures lance Boost Social Immo pour renforcer la visibilité des biens de prestige."
+    },
+    {
+      "id": "1d4efb52255656ec",
+      "title": "Matchstone lance sa plateforme le 2 novembre : ce qui change pour les professionnels de l’immobilier",
+      "summary": "Le 30/10/2026 à 00H00 Le 2 novembre 2026, Matchstone ouvre officiellement sa plateforme B2B dédiée aux professionnels de l’immobilier. Son ambition : faciliter la rencontre entre les opportunités immobilières et les acquéreurs grâce à un algorithme de matching intelligent fondé sur la pertinence des critères de recherche. Pouvoir d’achat immobilier : combien de mètres carrés les acquéreurs ont-ils perdus en un an ? Le 29/10/20",
+      "url": "https://www.journaldelagence.com/1414419-matchstone-lance-sa-plateforme-le-2-novembre-ce-qui-change-pour-les-professionnels-de-limmobilier",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Matchstone lance sa plateforme le 2 novembre : ce qui change pour les professionnels de l’immobilier."
+    },
+    {
+      "id": "04c2d1415cf115ad",
+      "title": "Trêve hivernale : du 1er novembre au 31 mars",
+      "summary": "01 novembre 2026 Du 1er novembre au 31 mars, la trêve hivernale suspend en principe l’exécution des expulsions locatives. Mais attention : elle ne met pas fin aux dettes de loyer et n’interrompt pas nécessairement les démarches engagées.",
+      "url": "https://www.anil.org/actualites-evenements/details/treve-hivernale-du-1er-novembre-au-31-mars/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Trêve hivernale : du 1er novembre au 31 mars."
+    },
+    {
+      "id": "683dcdc3f1bb1c97",
+      "title": "Location meublée : Les loyers grimpent à Paris, mais baissent à Lyon et Montpellier",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/01/location-meublee-les-loyers-grimpent-a-paris-mais-baissent-a-lyon-et-montpellier/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-01T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Location meublée : Les loyers grimpent à Paris, mais baissent à Lyon et Montpellier."
+    },
     {
       "id": "fb0c8139722f4839",
       "title": "Crédit immobilier : Les taux montent, les banques deviennent plus sélectives",
@@ -299,7 +381,7 @@
     {
       "id": "83c677faab2ffcc7",
       "title": "Immobilier à Manhattan : Les entreprises d’IA font le plein de bureaux",
-      "summary": "Etudes et Sondages",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/10/27/immobilier-a-manhattan-les-entreprises-dia-font-le-plein-de-bureaux/",
       "source": "MySweetImmo",
       "source_level": "C",
