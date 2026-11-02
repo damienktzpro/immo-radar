@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-02T06:18:09+00:00",
+  "generated_at": "2026-11-02T16:18:46+00:00",
   "items": [
     {
       "id": "3f7ce376cf943cd6",
@@ -42,6 +42,68 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Matchstone lance sa plateforme le 2 novembre : ce qui change pour les professionnels de l’immobilier."
+    },
+    {
+      "id": "b15fc88bbf058427",
+      "title": "Immobilier : Prix en baisse, taux en hausse, vers un nouveau rapport de force ?",
+      "summary": "Nouveau Baromètre",
+      "url": "https://www.mysweetimmo.com/2026/11/02/prix-immobiliers-novembre-2026/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Prix en baisse, taux en hausse, vers un nouveau rapport de force ?."
+    },
+    {
+      "id": "5df183b51633cf4e",
+      "title": "Crédits immobiliers : les taux grimpent, les banques ciblent les meilleurs dossiers",
+      "summary": "Le 02/11/2026 à 11H56 Des taux en hausse, des banques plus sélectives et des ménages qui hésitent : la fin d’année s’annonce délicate pour le crédit immobilier. La baisse des prix peut-elle desserrer l’étau ? Bruno ROULEAU, co-fondateur et Délégué Général de la Fédération du Courtage en Crédit, analyse les tensions et les marges de manœuvre pour faire avancer les projets. Utiliser l’IA dans l’immobilier : pourquoi la double vé",
+      "url": "https://www.journaldelagence.com/1414545-credits-immobiliers-les-taux-grimpent-les-banques-ciblent-les-meilleurs-dossiers",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédits immobiliers : les taux grimpent, les banques ciblent les meilleurs dossiers."
+    },
+    {
+      "id": "fce2ea5881acf88f",
+      "title": "Utiliser l’IA dans l’immobilier : pourquoi la double vérification doit devenir un réflexe professionnel",
+      "summary": "Le 02/11/2026 à 07H31 L'intelligence artificielle connaît les textes, rédige des courriers et propose des solutions en quelques secondes. Mais lorsqu'elle se trompe, qui en assume les conséquences ? Certainement pas ChatGPT ! Dans cette tribune aussi pertinente que savoureuse, Olivier Brane, avocat honoraire spécialiste du droit immobilier et formateur, alerte les agents immobiliers, syndics et administrateurs de biens sur les",
+      "url": "https://www.journaldelagence.com/1414529-utiliser-lia-dans-limmobilier-pourquoi-la-double-verification-doit-devenir-un-reflexe-professionnel",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Utiliser l’IA dans l’immobilier : pourquoi la double vérification doit devenir un réflexe professionnel."
     },
     {
       "id": "04c2d1415cf115ad",
@@ -483,9 +545,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Gestion locative : 1 bail sur 30 en impayé, près de 10 % de passoires thermiques."
     },
     {
-      "id": "302a6bfcbeb5278d",
-      "title": "Immobilier : « L’IA, un formidable levier pour nos équipes et nos clients », Xavier Saubestre (Odealim)",
-      "summary": "Podcasts",
+      "id": "41f20502734d893a",
+      "title": "Immobilier : « L’IA, un formidable levier pour nos équipes et nos clients » Xavier Saubestre (Odealim)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/10/27/immobilier-lia-un-formidable-levier-pour-nos-equipes-et-nos-clients-xavier-saubestre-odealim/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -501,7 +563,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : « L’IA, un formidable levier pour nos équipes et nos clients », Xavier Saubestre (Odealim)."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : « L’IA, un formidable levier pour nos équipes et nos clients » Xavier Saubestre (Odealim)."
     },
     {
       "id": "b5786a1a0bdf8d45",
@@ -605,6 +667,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : La découverte financière : bien plus qu’une formalité."
+    },
+    {
+      "id": "65f5ba6f12e9a9f4",
+      "title": "Vente immobilière par appel d’offres : « Squarimo rachète Enchères Immo et Winup » Quentin Saint Guilhem",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/10/26/vente-immobiliere-par-appel-doffres-squarimo-rachete-encheres-immo-et-winup-quentin-saint-guilhem/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vente immobilière par appel d’offres : « Squarimo rachète Enchères Immo et Winup » Quentin Saint Guilhem."
     },
     {
       "id": "d25d2e2bee230fde",
@@ -1716,9 +1799,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Loyers impayés : vers un fichier national des mauvais payeurs ? Le débat est relancé."
     },
     {
-      "id": "10468d1e2642bd59",
-      "title": "Rachat de Stéphane Plaza Immobilier : « Seuls les résultats compteront ! », Stéphane Plaza et Xavier Belvaux (WIF Group)",
-      "summary": "Podcasts",
+      "id": "84e7f6d2c5741cb9",
+      "title": "Rachat de Stéphane Plaza Immobilier : « Seuls les résultats compteront ! » Stéphane Plaza et Xavier Belvaux (WIF Group)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/10/14/rachat-de-stephane-plaza-immobilier-seuls-les-resultats-compteront-stephane-plaza-et-xavier-belvaux-wif-group/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -1734,7 +1817,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Rachat de Stéphane Plaza Immobilier : « Seuls les résultats compteront ! », Stéphane Plaza et Xavier Belvaux (WIF Group)."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Rachat de Stéphane Plaza Immobilier : « Seuls les résultats compteront ! » Stéphane Plaza et Xavier Belvaux (WIF Group)."
     },
     {
       "id": "8da34bd31491533b",
@@ -2005,6 +2088,69 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Investissement immobilier : Bricks.co rachète une banque pour construire la « banque digitale de l’immobilier."
+    },
+    {
+      "id": "41f04d5c3ba928a1",
+      "title": "Sites pour les professionnels Contenu sponsorisé « Avec SeLoger, nous privilégions la qualité des contacts plutôt que le volume",
+      "summary": "» Sites pour les professionnels / Vidéo Contenu sponsorisé « Les plateformes, et plus particulièrement leboncoin immo, représentent 80 % de nos transactions » Sites pour les professionnels Les contacts sur les annonces en chute de 22 % au troisième trimestre 2026, selon Bien’ici IA : 67 % des entreprises immobilières françaises sont en phase de réflexion et d’exploration Services pour évaluer En France, 67 % des entreprises so",
+      "url": "https://www.immomatin.com/portails/sites-professionnels/avec-seloger-nous-privilegions-la-qualite-des-contacts-plutot-que-le-volume.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Sites pour les professionnels Contenu sponsorisé « Avec SeLoger, nous privilégions la qualité des contacts plutôt que le volume."
+    },
+    {
+      "id": "35327a94e4db69e0",
+      "title": "Sites pour les professionnels / Vidéo Contenu sponsorisé « Les plateformes, et plus particulièrement leboncoin immo, représentent 80 % de nos transactions",
+      "summary": "» Sites pour les professionnels Les contacts sur les annonces en chute de 22 % au troisième trimestre 2026, selon Bien’ici IA : 67 % des entreprises immobilières françaises sont en phase de réflexion et d’exploration Services pour évaluer En France, 67 % des entreprises sont encore en phase de réflexion ou d’exploration en matière d’IA appliquée à l’immobilier, 10 points au-dessus de la moyenne mondiale (à 57 %), selon une étu",
+      "url": "https://www.immomatin.com/portails/sites-professionnels/les-plateformes-et-plus-particulierement-leboncoin-immo-representent-80-de-nos-transactions.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Sites pour les professionnels / Vidéo Contenu sponsorisé « Les plateformes, et plus particulièrement leboncoin immo, représente…."
+    },
+    {
+      "id": "9e63d3a375ea8c51",
+      "title": "Sites pour les professionnels Les contacts sur les annonces en chute de 22 % au troisième trimestre 2026, selon Bien’ici",
+      "summary": "IA : 67 % des entreprises immobilières françaises sont en phase de réflexion et d’exploration Services pour évaluer En France, 67 % des entreprises sont encore en phase de réflexion ou d’exploration en matière d’IA appliquée à l’immobilier, 10 points au-dessus de la moyenne mondiale (à 57 %), selon une étude JLL, publiée le 12 octobre 2026. L’enquête « Future... Quelle transformation de l’industrie immobilière avec l’IA ? - ©",
+      "url": "https://www.immomatin.com/portails/sites-professionnels/les-contacts-sur-les-annonces-en-chute-de-22-au-troisieme-trimestre-2026-selon-bien-ici.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Sites pour les professionnels Les contacts sur les annonces en chute de 22 % au troisième trimestre 2026, selon Bien’ici."
     },
     {
       "id": "7022b46da7e1c31e",
