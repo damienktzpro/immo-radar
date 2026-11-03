@@ -1,8 +1,113 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-03T01:03:11+00:00",
+  "generated_at": "2026-11-03T14:24:57+00:00",
   "items": [
+    {
+      "id": "6e33fda69c485e00",
+      "title": "Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat",
+      "summary": "03 novembre 2026 Les 4 et 5 novembre 2026, le réseau ANIL/ADIL sera présent au Salon de la Copropriété et de l’Habitat, à Paris Expo Porte de Versailles.",
+      "url": "https://www.anil.org/actualites-evenements/details/le-reseau-anil-adil-au-salon-de-la-copropriete-et-de-lhabitat/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat."
+    },
+    {
+      "id": "69ba04cfd398b234",
+      "title": "Loyers impayés : Une baisse nette dans les grandes villes",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/03/loyers-impayes-une-baisse-nette-dans-les-grandes-villes/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Loyers impayés : Une baisse nette dans les grandes villes."
+    },
+    {
+      "id": "1828daf3cda91083",
+      "title": "Agent immobilier : Guy Hoquet déploie Bluu, son outil de prospection dopé à l’IA, dans plus de 200 agences",
+      "summary": "Nouveau Vie Pro",
+      "url": "https://www.mysweetimmo.com/2026/11/03/guy-hoquet-bluu-prospection-ia/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Agent immobilier : Guy Hoquet déploie Bluu, son outil de prospection dopé à l’IA, dans plus de 200 agences."
+    },
+    {
+      "id": "914b8eb8f4e294e1",
+      "title": "Location Île-de-France : les loyers se calment à Paris, pas en banlieue",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/03/location-ile-de-france-les-loyers-se-calment-a-paris-pas-en-banlieue/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Location Île-de-France : les loyers se calment à Paris, pas en banlieue."
+    },
+    {
+      "id": "a88ed5e057fa7489",
+      "title": "Projet de loi Logement : Vincent Jeanbrun « raisonnablement confiant » avant son examen à l’Assemblée nationale",
+      "summary": "Le 03/11/2026 à 12H09 Après son adoption au Sénat en juillet dernier, le projet de loi visant la relance et la décentralisation du logement s’apprête à franchir une étape décisive. Attendu à l’Assemblée nationale à partir du 17 novembre, le texte pourrait être définitivement adopté d’ici la fin de l’année. iad fait confiance à idealista en France : les deux géants européens de l’immobilier nouent un partenariat ambitieux Le 03",
+      "url": "https://www.journaldelagence.com/1414576-projet-de-loi-logement-vincent-jeanbrun-raisonnablement-confiant-avant-son-examen-a-lassemblee-nationale",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Projet de loi Logement : Vincent Jeanbrun « raisonnablement confiant » avant son examen à l’Assemblée nationale."
+    },
     {
       "id": "3f7ce376cf943cd6",
       "title": "Belles Demeures lance Boost Social Immo pour renforcer la visibilité des biens de prestige",
@@ -104,6 +209,26 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Utiliser l’IA dans l’immobilier : pourquoi la double vérification doit devenir un réflexe professionnel."
+    },
+    {
+      "id": "98e343cdf8bbe7ef",
+      "title": "Prix immobiliers : la baisse gagne 8 grandes villes sur 11",
+      "summary": "Le 03/11/2026 à 06H43 Les prix immobiliers reculent de 0,1 % en octobre, selon le baromètre SeLoger–Meilleurs Agents de novembre 2026. Un ajustement encore limité, mais qui touche désormais huit des onze principales villes françaises. Pour les professionnels, la vigilance porte sur le prix de mise en vente et la capacité de financement des acquéreurs. Zoom sur les chiffres du nouveau baromètre SeLoger - MeilleursAgents publié",
+      "url": "https://www.journaldelagence.com/1414538-prix-immobiliers-la-baisse-gagne-8-grandes-villes-sur-11",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Prix immobiliers : la baisse gagne 8 grandes villes sur 11."
     },
     {
       "id": "04c2d1415cf115ad",
@@ -566,6 +691,48 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : « L’IA, un formidable levier pour nos équipes et nos clients » Xavier Saubestre (Odealim)."
     },
     {
+      "id": "855fb1defc64533e",
+      "title": "iad fait confiance à idealista en France : les deux géants européens de l’immobilier nouent un partenariat ambitieux",
+      "summary": "Le 03/11/2026 à 10H08 Il y a des partenariats qui se construisent. Celui-là existait déjà. Depuis dix ans, idealista et iad avancent ensemble sur les marchés portugais, espagnol et italien. Aujourd'hui, c'est au tour de la France. Pierre Jean Meyssan élu président du Conseil supérieur du notariat Le 03/11/2026 à 06H51 Le Conseil supérieur du notariat (CSN) a un nouveau président. Élu le 27 octobre 2026 pour un mandat de deux a",
+      "url": "https://www.journaldelagence.com/1414546-iad-fait-confiance-a-idealista-en-france-les-deux-geants-europeens-de-limmobilier-nouent-un-partenariat-ambitieux",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : iad fait confiance à idealista en France : les deux géants européens de l’immobilier nouent un partenariat ambitieux."
+    },
+    {
+      "id": "3921538567bd3e56",
+      "title": "Pierre Jean Meyssan élu président du Conseil supérieur du notariat",
+      "summary": "Le 03/11/2026 à 06H51 Le Conseil supérieur du notariat (CSN) a un nouveau président. Élu le 27 octobre 2026 pour un mandat de deux ans, Pierre Jean Meyssan succède à Bertrand Savouré à la tête de l'instance représentative des notaires de France. Prix immobiliers : la baisse gagne 8 grandes villes sur 11 Le 03/11/2026 à 06H43 Les prix immobiliers reculent de 0,1 % en octobre, selon le baromètre SeLoger–Meilleurs Agents de novem",
+      "url": "https://www.journaldelagence.com/1414562-pierre-jean-meyssan-elu-president-du-conseil-superieur-du-notariat",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Pierre Jean Meyssan élu président du Conseil supérieur du notariat."
+    },
+    {
       "id": "b5786a1a0bdf8d45",
       "title": "Immobilier commercial : Avec le rachat d’Advantail, Evoriel devient le numéro 2 en France",
       "summary": "Consultez la publication source pour les informations détaillées.",
@@ -858,27 +1025,6 @@
       "topic": "Construction / Réglementation",
       "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Arrêté du 12 octobre 2026 relatif à la composition de la commission nationale prévue à l'article L. 302-9-1-1 du code de la con….",
       "legal_stage": "jorf"
-    },
-    {
-      "id": "6e33fda69c485e00",
-      "title": "Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat",
-      "summary": "22 octobre 2026 Les 4 et 5 novembre 2026, le réseau ANIL/ADIL sera présent au Salon de la Copropriété et de l’Habitat, à Paris Expo Porte de Versailles.",
-      "url": "https://www.anil.org/actualites-evenements/details/le-reseau-anil-adil-au-salon-de-la-copropriete-et-de-lhabitat/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-22T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat."
     },
     {
       "id": "ae633cab4a5db4e9",
