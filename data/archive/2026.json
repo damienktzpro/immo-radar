@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-02T16:18:46+00:00",
+  "generated_at": "2026-11-03T01:03:11+00:00",
   "items": [
     {
       "id": "3f7ce376cf943cd6",
@@ -46,7 +46,7 @@
     {
       "id": "b15fc88bbf058427",
       "title": "Immobilier : Prix en baisse, taux en hausse, vers un nouveau rapport de force ?",
-      "summary": "Nouveau Baromètre",
+      "summary": "Baromètre",
       "url": "https://www.mysweetimmo.com/2026/11/02/prix-immobiliers-novembre-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
