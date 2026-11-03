@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-11-03T14:24:41+00:00",
+  "generated_at": "2026-11-03T23:28:17+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "02f891c82311dc6e",
+      "title": "SAFTI incontournable lors de la Semaine de l’Immobilier et du Logement",
+      "summary": "SAFTI participe à la Semaine de l’immobilier et du logement avec une conférence sur le marché, ses Orangeries au salon RENT et une campagne dans 500 taxis parisiens. Le réseau détaille ce dispositif de communication destiné à renforcer sa notoriété et à soutenir ses conseillers.",
+      "url": "https://www.mysweetimmo.com/2026/11/04/safti-semaine-immobilier-logement-rent-2026/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-04T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : SAFTI incontournable lors de la Semaine de l’Immobilier et du Logement."
+    },
     {
       "id": "6e33fda69c485e00",
       "title": "Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat",
@@ -26,7 +47,7 @@
     {
       "id": "69ba04cfd398b234",
       "title": "Loyers impayés : Une baisse nette dans les grandes villes",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/11/03/loyers-impayes-une-baisse-nette-dans-les-grandes-villes/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -47,7 +68,7 @@
     {
       "id": "1828daf3cda91083",
       "title": "Agent immobilier : Guy Hoquet déploie Bluu, son outil de prospection dopé à l’IA, dans plus de 200 agences",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Pros de l’immo",
       "url": "https://www.mysweetimmo.com/2026/11/03/guy-hoquet-bluu-prospection-ia/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -68,7 +89,7 @@
     {
       "id": "914b8eb8f4e294e1",
       "title": "Location Île-de-France : les loyers se calment à Paris, pas en banlieue",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/11/03/location-ile-de-france-les-loyers-se-calment-a-paris-pas-en-banlieue/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -106,6 +127,48 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Projet de loi Logement : Vincent Jeanbrun « raisonnablement confiant » avant son examen à l’Assemblée nationale."
+    },
+    {
+      "id": "faf53bfd11a58909",
+      "title": "AQQI lève 4 millions d’euros pour centraliser le parcours d’achat immobilier avec l’IA",
+      "summary": "3 novembre 2026 - La startup française AQQI a annoncé une levée de fonds de 4 millions d’euros menée par Axeleo et Aquiti, avec la participation de Kima Ventures, Pierre Kosciusko-Morizet [...]",
+      "url": "https://immo2.pro/actualite-immobilier/aqqi-leve-4-millions-deuros-pour-centraliser-le-parcours-dachat-immobilier-avec-lia/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : AQQI lève 4 millions d’euros pour centraliser le parcours d’achat immobilier avec l’IA."
+    },
+    {
+      "id": "2e924c50a6754e98",
+      "title": "Étude : un Français sur cinq commence sa recherche immobilière par l’IA",
+      "summary": "3 novembre 2026 - D’après une enquête réalisée par Pollfish pour Omny, un Français sur cinq commence sa recherche immobilière par l’IA. Une étude qui dévoile de nouveaux réflexes [...]",
+      "url": "https://immo2.pro/actualite-immobilier/etude-un-francais-sur-cinq-commence-sa-recherche-immobiliere-par-lia/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Étude : un Français sur cinq commence sa recherche immobilière par l’IA."
     },
     {
       "id": "b15fc88bbf058427",
@@ -253,7 +316,7 @@
     {
       "id": "27a5fc29351c060b",
       "title": "Logement : Les propositions de Jean-Luc Mélenchon face aux réalités du terrain",
-      "summary": "Vie Pro",
+      "summary": "Tribune",
       "url": "https://www.mysweetimmo.com/2026/11/01/logement-melenchon-tribune-francois-gagnon/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -860,27 +923,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Salon RENT 2026 : le récap des tarifs (et l’offre exclusive Immo2)."
     },
     {
-      "id": "c0b961038017031e",
-      "title": "Agences immobilières : Belles Demeures lance Boost Social Immo pour cibler les acheteurs sur les réseaux sociaux",
-      "summary": "Belles Demeures lance Boost Social Immo pour diffuser les biens de prestige sur Facebook et Instagram. L’outil combine reciblage des visiteurs du portail et ciblage de nouveaux acheteurs, avec jusqu’à trois biens mis en avant chaque mois. Contenu sponsorisé par Belles Demeures",
-      "url": "https://www.mysweetimmo.com/2026/10/15/immobilier-belles-demeures-lance-boost-social-immo-pour-cibler-les-acheteurs-sur-les-reseaux-sociaux/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-15T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agences immobilières : Belles Demeures lance Boost Social Immo pour cibler les acheteurs sur les réseaux sociaux."
-    },
-    {
       "id": "b133875de3bbeb72",
       "title": "Immobilier : Legendre s'implante au Canada STRATÉGIE. Le spécialiste de l'immobilier Legendre vient d'ouvrir une agence à Montréal, au Canada. Une première pour l'entreprise hors d'Europe.",
       "summary": "Économie 15/10/2026",
@@ -1256,27 +1298,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Diagnostic immobilier : Trois fédérations s’unissent pour parler d’une seule voix."
     },
     {
-      "id": "b9fcb44822abb978",
-      "title": "Logement étudiant : la Fondation I Loge You et ses alliés appellent à nouveau les propriétaires",
-      "summary": "30 septembre 2026 - Dans le cadre de la rentrée étudiante, la Fondation I Loge You, la FNAIM et le réseau Cohabilis ont lancé une grande campagne d’affichage afin de promouvoir la [...]",
-      "url": "https://immo2.pro/actualite-immobilier/logement-etudiant-la-fondation-i-loge-you-et-ses-allies-appellent-a-nouveau-les-proprietaires/",
-      "source": "Immobilier 2.0",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-30T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement étudiant : la Fondation I Loge You et ses alliés appellent à nouveau les propriétaires."
-    },
-    {
       "id": "f1dc89f605648235",
       "title": "Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)",
       "summary": "Consultez la publication source pour les informations détaillées.",
@@ -1296,27 +1317,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)."
-    },
-    {
-      "id": "81fa5c05f37862b2",
-      "title": "TEDxleboncoin : une invitation à repenser notre manière d’habiter le monde qui vient",
-      "summary": "29 septembre 2026 - Le 30 septembre prochain, leboncoin invite les pros de l’immobilier à son tout premier événement TEDx. Sous le thème « Habiter le monde qui vient », cette soirée est une [...]",
-      "url": "https://immo2.pro/actualite-immobilier/tedxleboncoin-une-invitation-a-repenser-notre-maniere-dhabiter-le-monde-qui-vient/",
-      "source": "Immobilier 2.0",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-29T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : TEDxleboncoin : une invitation à repenser notre manière d’habiter le monde qui vient."
     },
     {
       "id": "9cc7ee0625bceca6",
@@ -1426,11 +1426,11 @@
     }
   ],
   "source_stats": {
-    "ANIL": 10,
     "MySweetImmo": 16,
+    "ANIL": 10,
     "Journal de l'Agence": 16,
-    "Légifrance": 3,
     "Immobilier 2.0": 16,
+    "Légifrance": 3,
     "SDES / Sitadel": 1,
     "Horiz.io": 2,
     "Batiactu": 2,
@@ -1439,18 +1439,18 @@
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 15,
-    "sources_degraded": 0,
+    "sources_ok": 14,
+    "sources_degraded": 1,
     "errors": 0,
     "retained": 68,
-    "rejected": 1372,
+    "rejected": 377,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-03T14:23:44+00:00",
+        "last_success": "2026-11-03T23:27:15+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1458,7 +1458,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-03T14:23:49+00:00",
+        "last_success": "2026-11-03T23:27:19+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1466,7 +1466,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-03T14:23:49+00:00",
+        "last_success": "2026-11-03T23:27:20+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1474,7 +1474,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-03T14:24:05+00:00",
+        "last_success": "2026-11-03T23:27:22+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1482,23 +1482,24 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-03T14:24:23+00:00",
+        "last_success": "2026-11-03T23:27:43+00:00",
         "fallback": false
       },
       "Légifrance": {
         "level": "A",
-        "ok": true,
-        "status": "ok",
+        "ok": false,
+        "status": "degraded",
         "retained": 3,
-        "last_success": "2026-11-03T14:24:32+00:00",
-        "fallback": false
+        "last_success": "2026-11-03T14:24:41+00:00",
+        "fallback": true,
+        "error_type": "RuntimeError"
       },
       "EUR-Lex": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-03T14:24:32+00:00",
+        "last_success": "2026-11-03T23:28:06+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1506,7 +1507,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-11-03T14:24:33+00:00",
+        "last_success": "2026-11-03T23:28:07+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1514,7 +1515,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-03T14:24:34+00:00",
+        "last_success": "2026-11-03T23:28:07+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1522,7 +1523,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-03T14:24:35+00:00",
+        "last_success": "2026-11-03T23:28:09+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1530,7 +1531,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-03T14:24:36+00:00",
+        "last_success": "2026-11-03T23:28:11+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1538,7 +1539,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-03T14:24:38+00:00",
+        "last_success": "2026-11-03T23:28:12+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1546,7 +1547,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-03T14:24:39+00:00",
+        "last_success": "2026-11-03T23:28:14+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1554,7 +1555,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-03T14:24:40+00:00",
+        "last_success": "2026-11-03T23:28:15+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1562,10 +1563,16 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-03T14:24:40+00:00",
+        "last_success": "2026-11-03T23:28:16+00:00",
         "fallback": false
       }
     }
   },
-  "errors": []
+  "errors": [
+    {
+      "source": "Légifrance",
+      "error": "PISTE Légifrance indisponible : 429 Client Error: Too Many Requests for url: https://api.piste.gouv.fr/dila/legifrance/lf-engine-app/consult/lastNJo",
+      "fallback": true
+    }
+  ]
 }

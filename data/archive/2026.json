@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-03T14:24:57+00:00",
+  "generated_at": "2026-11-03T23:28:49+00:00",
   "items": [
+    {
+      "id": "02f891c82311dc6e",
+      "title": "SAFTI incontournable lors de la Semaine de l’Immobilier et du Logement",
+      "summary": "SAFTI participe à la Semaine de l’immobilier et du logement avec une conférence sur le marché, ses Orangeries au salon RENT et une campagne dans 500 taxis parisiens. Le réseau détaille ce dispositif de communication destiné à renforcer sa notoriété et à soutenir ses conseillers.",
+      "url": "https://www.mysweetimmo.com/2026/11/04/safti-semaine-immobilier-logement-rent-2026/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-04T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : SAFTI incontournable lors de la Semaine de l’Immobilier et du Logement."
+    },
     {
       "id": "6e33fda69c485e00",
       "title": "Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat",
@@ -27,7 +48,7 @@
     {
       "id": "69ba04cfd398b234",
       "title": "Loyers impayés : Une baisse nette dans les grandes villes",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/11/03/loyers-impayes-une-baisse-nette-dans-les-grandes-villes/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -48,7 +69,7 @@
     {
       "id": "1828daf3cda91083",
       "title": "Agent immobilier : Guy Hoquet déploie Bluu, son outil de prospection dopé à l’IA, dans plus de 200 agences",
-      "summary": "Nouveau Vie Pro",
+      "summary": "Pros de l’immo",
       "url": "https://www.mysweetimmo.com/2026/11/03/guy-hoquet-bluu-prospection-ia/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -69,7 +90,7 @@
     {
       "id": "914b8eb8f4e294e1",
       "title": "Location Île-de-France : les loyers se calment à Paris, pas en banlieue",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/11/03/location-ile-de-france-les-loyers-se-calment-a-paris-pas-en-banlieue/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -107,6 +128,48 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Projet de loi Logement : Vincent Jeanbrun « raisonnablement confiant » avant son examen à l’Assemblée nationale."
+    },
+    {
+      "id": "faf53bfd11a58909",
+      "title": "AQQI lève 4 millions d’euros pour centraliser le parcours d’achat immobilier avec l’IA",
+      "summary": "3 novembre 2026 - La startup française AQQI a annoncé une levée de fonds de 4 millions d’euros menée par Axeleo et Aquiti, avec la participation de Kima Ventures, Pierre Kosciusko-Morizet [...]",
+      "url": "https://immo2.pro/actualite-immobilier/aqqi-leve-4-millions-deuros-pour-centraliser-le-parcours-dachat-immobilier-avec-lia/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : AQQI lève 4 millions d’euros pour centraliser le parcours d’achat immobilier avec l’IA."
+    },
+    {
+      "id": "2e924c50a6754e98",
+      "title": "Étude : un Français sur cinq commence sa recherche immobilière par l’IA",
+      "summary": "3 novembre 2026 - D’après une enquête réalisée par Pollfish pour Omny, un Français sur cinq commence sa recherche immobilière par l’IA. Une étude qui dévoile de nouveaux réflexes [...]",
+      "url": "https://immo2.pro/actualite-immobilier/etude-un-francais-sur-cinq-commence-sa-recherche-immobiliere-par-lia/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Étude : un Français sur cinq commence sa recherche immobilière par l’IA."
     },
     {
       "id": "3f7ce376cf943cd6",
@@ -275,7 +338,7 @@
     {
       "id": "27a5fc29351c060b",
       "title": "Logement : Les propositions de Jean-Luc Mélenchon face aux réalités du terrain",
-      "summary": "Vie Pro",
+      "summary": "Tribune",
       "url": "https://www.mysweetimmo.com/2026/11/01/logement-melenchon-tribune-francois-gagnon/",
       "source": "MySweetImmo",
       "source_level": "C",
