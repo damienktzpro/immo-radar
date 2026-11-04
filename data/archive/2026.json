@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-03T23:28:49+00:00",
+  "generated_at": "2026-11-04T06:34:21+00:00",
   "items": [
     {
       "id": "02f891c82311dc6e",
@@ -23,6 +23,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : SAFTI incontournable lors de la Semaine de l’Immobilier et du Logement."
+    },
+    {
+      "id": "3e2c6df75f4ab29a",
+      "title": "Management immobilier : 4 questions pour redonner de l’élan à vos équipes",
+      "summary": "Le 04/11/2026 à 06H52 Une réunion d'équipe réussie ne se mesure pas seulement aux chiffres commentés, mais aussi à l'énergie et aux actions qu'elle déclenche. Alors, comment transformer ce rendez-vous incontournable en véritable levier de mobilisation ? Sabrina Robles Lebailly, spécialiste du management et de la performance, partage sa méthode FIRE : quatre questions simples pour redonner de l'élan à vos collaborateurs et les",
+      "url": "https://www.journaldelagence.com/1414585-management-immobilier-4-questions-pour-redonner-de-lelan-a-vos-equipes",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-04T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Management immobilier : 4 questions pour redonner de l’élan à vos équipes."
     },
     {
       "id": "6e33fda69c485e00",
