@@ -1,8 +1,89 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-05T06:55:56+00:00",
+  "generated_at": "2026-11-05T20:01:41+00:00",
   "items": [
+    {
+      "id": "3262e51a06f86ce8",
+      "title": "Semaine de l’Immobilier et du Logement : toutes les professions se donnent rendez-vous à Paris",
+      "summary": "Le 02/11/2026 à 07H01 Du 2 au 6 novembre 2026, Paris accueillera la première Semaine de l'Immobilier et du Logement. Portée par le salon RENT et le Salon de la Copropriété et de l'Habitat, cette initiative entend réunir plus de 20 000 visiteurs autour des innovations, des évolutions réglementaires et des grands défis du secteur. Deux rendez-vous incontournables pour les professionnels de l'immobilier, désormais réunis sous une",
+      "url": "https://www.journaldelagence.com/1414524-semaine-de-limmobilier-et-du-logement-toutes-les-professions-se-donnent-rendez-vous-a-paris",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-11-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Semaine de l’Immobilier et du Logement : toutes les professions se donnent rendez-vous à Paris."
+    },
+    {
+      "id": "a612b14aaa97c042",
+      "title": "ERA Immobilier : « Pour réussir en 2027, mieux vaut se préparer que prédire",
+      "summary": "» Le 05/11/2026 à 19H00 Alors que les incertitudes économiques et politiques continuent de peser sur le marché immobilier, ERA Immobilier refuse de céder au pessimisme. Pour François Gagnon, président d'ERA France et ERA Europe, la clé de la performance ne réside pas dans l'attente de jours meilleurs, mais dans la capacité des professionnels à s'adapter, à maîtriser leur marché et surtout à écouter leurs clients. Une vision pa",
+      "url": "https://www.journaldelagence.com/1414617-era-immobilier-pour-reussir-en-2027-mieux-vaut-se-preparer-que-predire",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-11-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : ERA Immobilier : « Pour réussir en 2027, mieux vaut se préparer que prédire."
+    },
+    {
+      "id": "bc0a14366dbc4e4f",
+      "title": "RENT 2026 : Stéphane Plaza et Xavier Belvaux font le pari d’un réseau plus proche de ses franchisés",
+      "summary": "Le 05/11/2026 à 14H07 Quelques semaines après l'annonce du rapprochement entre Stéphane Plaza Immobilier et WIF Group, Xavier Belvaux et Stéphane Plaza dévoilent les coulisses de leur alliance et leurs ambitions communes. Gouvernance plus participative, indépendance financière, nouveaux outils et objectifs de développement : les deux associés entendent insuffler une nouvelle dynamique au réseau. Ils se confient au Journal de l",
+      "url": "https://www.journaldelagence.com/1414597-stephane-plaza-et-xavier-belvaux-le-pari-dun-reseau-plus-proche-de-ses-franchises",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Territoires",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés. Point suivi : RENT 2026 : Stéphane Plaza et Xavier Belvaux font le pari d’un réseau plus proche de ses franchisés."
+    },
+    {
+      "id": "bffa7e874ae9a37a",
+      "title": "RENT 2026 : Omny et Le Carnet Logement remportent des trophées",
+      "summary": "Le 05/11/2026 à 12H00 À l’occasion du salon RENT, qui s’est déroulé les 4 et 5 novembre à Paris, le réseau ORPI et le SNPI ont récompensé plusieurs start-up qui entendent simplifier le quotidien des professionnels de l’immobilier. Parmi elles : Omny, qui remporte le prix de la start-up Orpi et Le Carnet Logement, qui décroche le Trophée de l’innovation du SNPI. Management immobilier : 4 questions pour redonner de l’élan à vos",
+      "url": "https://www.journaldelagence.com/1414592-rent-2026-omny-et-le-carnet-logement-remportent-des-trophees",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-11-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 : Omny et Le Carnet Logement remportent des trophées."
+    },
     {
       "id": "02f891c82311dc6e",
       "title": "SAFTI incontournable lors de la Semaine de l’Immobilier et du Logement",
@@ -86,6 +167,26 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Agents immobiliers : Diffuser vos annonces coûte 890 € HT par vente, Jinka lance une offre gratuite."
+    },
+    {
+      "id": "f17e4bc282607c03",
+      "title": "Échec d’une vente immobilière : quand une erreur de procédure prive l’agence de son indemnisation",
+      "summary": "Le 05/11/2026 à 18H14 Un compromis de vente peut prévoir l'indemnisation d'une agence immobilière lorsque l'échec de la transaction est imputable à l'acquéreur. Encore faut-il respecter scrupuleusement les formalités prévues au contrat. Dans un jugement rendu le 4 novembre 2026, le tribunal judiciaire de Paris a rejeté les demandes de deux agences qui réclamaient 18 000 € à des acquéreurs. Maître Valentin Simonnet, avocat au B",
+      "url": "https://www.journaldelagence.com/1414611-echec-dune-vente-immobiliere-quand-une-erreur-de-procedure-prive-lagence-de-son-indemnisation",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-11-04T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Échec d’une vente immobilière : quand une erreur de procédure prive l’agence de son indemnisation."
     },
     {
       "id": "6e33fda69c485e00",
@@ -235,6 +336,26 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Étude : un Français sur cinq commence sa recherche immobilière par l’IA."
     },
     {
+      "id": "56e7aa6cb489e23c",
+      "title": "Prix immobiliers : une tendance à la baisse dans les grandes villes",
+      "summary": "Le 03/11/2026 à 06H43 Les prix immobiliers s'orientent légèrement à la baisse dans les grandes villes. Selon le dernier baromètre SeLoger–Meilleurs Agents, ils reculent de 0,1 % en octobre, avec des baisses observées dans 8 des 11 principales villes françaises. Un ajustement encore modeste, mais qui invite les professionnels à rester vigilants sur les estimations et la capacité de financement des acquéreurs. Découvrez les chif",
+      "url": "https://www.journaldelagence.com/1414538-prix-immobiliers-la-baisse-gagne-8-grandes-villes-sur-11",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-11-03T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Prix immobiliers : une tendance à la baisse dans les grandes villes."
+    },
+    {
       "id": "3f7ce376cf943cd6",
       "title": "Belles Demeures lance Boost Social Immo pour renforcer la visibilité des biens de prestige",
       "summary": "Le 30/10/2026 à 00H00 Après Priority et Top Position, lancés en juillet, Belles Demeures enrichit son offre à destination des professionnels de l’immobilier de prestige. Avec Boost Social Immo, le portail référent propose aux agences de diffuser leurs annonces sur Facebook et Instagram auprès d’une audience premium ciblée. Explications. Matchstone lance sa plateforme le 2 novembre : ce qui change pour les professionnels de l’i",
@@ -335,26 +456,6 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Utiliser l’IA dans l’immobilier : pourquoi la double vérification doit devenir un réflexe professionnel."
-    },
-    {
-      "id": "98e343cdf8bbe7ef",
-      "title": "Prix immobiliers : la baisse gagne 8 grandes villes sur 11",
-      "summary": "Le 03/11/2026 à 06H43 Les prix immobiliers reculent de 0,1 % en octobre, selon le baromètre SeLoger–Meilleurs Agents de novembre 2026. Un ajustement encore limité, mais qui touche désormais huit des onze principales villes françaises. Pour les professionnels, la vigilance porte sur le prix de mise en vente et la capacité de financement des acquéreurs. Zoom sur les chiffres du nouveau baromètre SeLoger - MeilleursAgents publié",
-      "url": "https://www.journaldelagence.com/1414538-prix-immobiliers-la-baisse-gagne-8-grandes-villes-sur-11",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-11-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Prix immobiliers : la baisse gagne 8 grandes villes sur 11."
     },
     {
       "id": "04c2d1415cf115ad",
@@ -840,7 +941,7 @@
     {
       "id": "3921538567bd3e56",
       "title": "Pierre Jean Meyssan élu président du Conseil supérieur du notariat",
-      "summary": "Le 03/11/2026 à 06H51 Le Conseil supérieur du notariat (CSN) a un nouveau président. Élu le 27 octobre 2026 pour un mandat de deux ans, Pierre Jean Meyssan succède à Bertrand Savouré à la tête de l'instance représentative des notaires de France. Prix immobiliers : la baisse gagne 8 grandes villes sur 11 Le 03/11/2026 à 06H43 Les prix immobiliers reculent de 0,1 % en octobre, selon le baromètre SeLoger–Meilleurs Agents de novem",
+      "summary": "Le 03/11/2026 à 06H51 Le Conseil supérieur du notariat (CSN) a un nouveau président. Élu le 27 octobre 2026 pour un mandat de deux ans, Pierre Jean Meyssan succède à Bertrand Savouré à la tête de l'instance représentative des notaires de France. Prix immobiliers : une tendance à la baisse dans les grandes villes Le 03/11/2026 à 06H43 Les prix immobiliers s'orientent légèrement à la baisse dans les grandes villes. Selon le dern",
       "url": "https://www.journaldelagence.com/1414562-pierre-jean-meyssan-elu-president-du-conseil-superieur-du-notariat",
       "source": "Journal de l'Agence",
       "source_level": "C",
