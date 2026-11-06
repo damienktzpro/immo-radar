@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-05T20:01:41+00:00",
+  "generated_at": "2026-11-06T06:55:41+00:00",
   "items": [
     {
       "id": "3262e51a06f86ce8",
@@ -22,6 +22,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Semaine de l’Immobilier et du Logement : toutes les professions se donnent rendez-vous à Paris."
+    },
+    {
+      "id": "34726aa4f2688476",
+      "title": "Bien’ici lance Captation Vendeurs pour aider les agences à décrocher de nouveaux mandats",
+      "summary": "Le 06/11/2026 à 00H00 Dans un marché où la conquête de mandats reste un enjeu majeur, Bien’ici lance Captation Vendeurs. L’objectif ? Permettre aux agences immobilières de gagner en visibilité auprès des propriétaires vendeurs, dès les premières étapes de leur projet. Explications. ERA Immobilier : « Pour réussir en 2027, mieux vaut se préparer que prédire » Le 05/11/2026 à 19H00 Alors que les incertitudes économiques et polit",
+      "url": "https://www.journaldelagence.com/1414604-bienici-lance-captation-vendeurs-pour-aider-les-agences-a-decrocher-de-nouveaux-mandats",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Bien’ici lance Captation Vendeurs pour aider les agences à décrocher de nouveaux mandats."
     },
     {
       "id": "a612b14aaa97c042",
@@ -83,6 +104,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 : Omny et Le Carnet Logement remportent des trophées."
+    },
+    {
+      "id": "4a28b90021116660",
+      "title": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les architectes Comme chaque fin de semaine, Batiactu vous présente un condensé d'actualité en cinq chiffres.",
+      "summary": "L'Essentiel Refondation de la Rep PMCB : le ministre promet un geste pour les artisans DÉCHETS. Lors de la séance de questions au gouvernement, Vincent Jeanbrun, ministre de la Ville et du Logement, a voulu rassurer les artisans du ... 05/11/2026 05/11/2026",
+      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-architectes-75794.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Chronique Des chiffres, l'actu : cette semaine, facture salée pour les architectes Comme chaque fin de semaine, Batiactu vous p…."
     },
     {
       "id": "02f891c82311dc6e",

@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-11-05T20:01:12+00:00",
+  "generated_at": "2026-11-06T06:55:19+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "34726aa4f2688476",
+      "title": "Bien’ici lance Captation Vendeurs pour aider les agences à décrocher de nouveaux mandats",
+      "summary": "Le 06/11/2026 à 00H00 Dans un marché où la conquête de mandats reste un enjeu majeur, Bien’ici lance Captation Vendeurs. L’objectif ? Permettre aux agences immobilières de gagner en visibilité auprès des propriétaires vendeurs, dès les premières étapes de leur projet. Explications. ERA Immobilier : « Pour réussir en 2027, mieux vaut se préparer que prédire » Le 05/11/2026 à 19H00 Alors que les incertitudes économiques et polit",
+      "url": "https://www.journaldelagence.com/1414604-bienici-lance-captation-vendeurs-pour-aider-les-agences-a-decrocher-de-nouveaux-mandats",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Bien’ici lance Captation Vendeurs pour aider les agences à décrocher de nouveaux mandats."
+    },
     {
       "id": "3262e51a06f86ce8",
       "title": "Semaine de l’Immobilier et du Logement : toutes les professions se donnent rendez-vous à Paris",
@@ -82,6 +103,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 : Omny et Le Carnet Logement remportent des trophées."
+    },
+    {
+      "id": "4a28b90021116660",
+      "title": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les architectes Comme chaque fin de semaine, Batiactu vous présente un condensé d'actualité en cinq chiffres.",
+      "summary": "L'Essentiel Refondation de la Rep PMCB : le ministre promet un geste pour les artisans DÉCHETS. Lors de la séance de questions au gouvernement, Vincent Jeanbrun, ministre de la Ville et du Logement, a voulu rassurer les artisans du ... 05/11/2026 05/11/2026",
+      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-architectes-75794.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Chronique Des chiffres, l'actu : cette semaine, facture salée pour les architectes Comme chaque fin de semaine, Batiactu vous p…."
     },
     {
       "id": "02f891c82311dc6e",
@@ -560,27 +602,6 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Pouvoir d’achat immobilier : combien de mètres carrés les acquéreurs ont-ils perdus en un an ?."
-    },
-    {
-      "id": "77cad3cc16c6749b",
-      "title": "Et si les agents immobiliers devaient apprendre à faire décider plutôt qu’à convaincre ?",
-      "summary": "Le 29/10/2026 à 08H43 Le vendeur qui s'accroche à son prix, l'acquéreur qui visite sans jamais offrir, le client qui se ferme dès qu'il sent la vente. Trois situations bien connues des agents immobiliers, et un même malentendu derrière. Nordine Mouaouia, fondateur de Système1-Immo Lab, explique ce qui se joue dans la tête de ces clients et pourquoi comprendre leurs hésitations peut être plus efficace que multiplier les argumen",
-      "url": "https://www.journaldelagence.com/1414473-et-si-les-agents-immobiliers-devaient-apprendre-a-faire-decider-plutot-qua-convaincre",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-29T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Et si les agents immobiliers devaient apprendre à faire décider plutôt qu’à convaincre ?."
     },
     {
       "id": "f057fd123029dc20",
@@ -1358,6 +1379,27 @@
       "legal_stage": "jorf"
     },
     {
+      "id": "3ba00146d35c29ec",
+      "title": "les avis de CFE et d'IFER 2026 sont disponibles en ligne",
+      "summary": "Les entreprises concernées par la cotisation foncière des entreprises (CFE) et/ou l’imposition forfaitaire sur les entreprises de réseaux (IFER) peuvent désormais consulter leur avis d’impôt dans leurs espace profssionnel sur impots.gouv.fr .",
+      "url": "https://entreprendre.service-public.gouv.fr/actualites/A19130?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": null,
+      "status": "Information officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source officielle. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : les avis de CFE et d'IFER 2026 sont disponibles en ligne."
+    },
+    {
       "id": "cdb331dac2d68fb3",
       "title": "Le thermostat programmable devient obligatoire pour les nouvelles constructions à partir de 2027",
       "summary": "Un thermostat programmable vous permet de fixer la température idéale de chaque pièce de votre habitation. Un décret paru en 2023 avait établi l’obligation d’installer ce type de dispositif sur les systèmes de chauffage de tous les logements à compter du 1 er janvier 2027. Finalement, seuls les bâtiments neufs devront être équipés à partir de cette date.",
@@ -1381,31 +1423,31 @@
   ],
   "source_stats": {
     "Journal de l'Agence": 16,
+    "Batiactu": 2,
     "MySweetImmo": 16,
     "ANIL": 10,
     "Immobilier 2.0": 16,
     "Légifrance": 1,
     "SDES / Sitadel": 1,
     "Horiz.io": 2,
-    "Batiactu": 1,
     "Insee": 1,
     "EUR-Lex": 1,
-    "Service-Public.fr": 1
+    "Service-Public.fr": 2
   },
   "health": {
     "sources_total": 15,
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 66,
-    "rejected": 1312,
+    "retained": 68,
+    "rejected": 1366,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
-        "retained": 1,
-        "last_success": "2026-11-05T20:00:18+00:00",
+        "retained": 2,
+        "last_success": "2026-11-06T06:54:31+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1413,7 +1455,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-05T20:00:20+00:00",
+        "last_success": "2026-11-06T06:54:33+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1421,7 +1463,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-05T20:00:21+00:00",
+        "last_success": "2026-11-06T06:54:34+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1429,7 +1471,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-05T20:00:23+00:00",
+        "last_success": "2026-11-06T06:54:36+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1437,7 +1479,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-05T20:00:45+00:00",
+        "last_success": "2026-11-06T06:54:58+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1445,7 +1487,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-05T20:01:00+00:00",
+        "last_success": "2026-11-06T06:55:09+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1453,7 +1495,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-05T20:01:00+00:00",
+        "last_success": "2026-11-06T06:55:09+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1461,7 +1503,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-11-05T20:01:01+00:00",
+        "last_success": "2026-11-06T06:55:10+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1469,7 +1511,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-05T20:01:02+00:00",
+        "last_success": "2026-11-06T06:55:11+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1477,7 +1519,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-05T20:01:05+00:00",
+        "last_success": "2026-11-06T06:55:12+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1485,7 +1527,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-05T20:01:07+00:00",
+        "last_success": "2026-11-06T06:55:14+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1493,15 +1535,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-05T20:01:08+00:00",
+        "last_success": "2026-11-06T06:55:15+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 1,
-        "last_success": "2026-11-05T20:01:10+00:00",
+        "retained": 2,
+        "last_success": "2026-11-06T06:55:17+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1509,7 +1551,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-05T20:01:11+00:00",
+        "last_success": "2026-11-06T06:55:18+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1517,7 +1559,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-05T20:01:11+00:00",
+        "last_success": "2026-11-06T06:55:18+00:00",
         "fallback": false
       }
     }
