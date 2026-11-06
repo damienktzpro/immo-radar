@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-06T06:55:41+00:00",
+  "generated_at": "2026-11-06T19:29:28+00:00",
   "items": [
+    {
+      "id": "2c77732d8e77d336",
+      "title": "Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat : retour sur deux jours d’échanges",
+      "summary": "06 novembre 2026 Les 4 et 5 novembre, le réseau ANIL/ADIL était présent au Salon de la Copropriété et de l’Habitat, à Paris Expo Porte de Versailles.",
+      "url": "https://www.anil.org/actualites-evenements/details/le-reseau-anil-adil-au-salon-de-la-copropriete-et-de-lhabitat-retour-sur-deux-jours-dechanges/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat : retour sur deux jours d’échanges."
+    },
     {
       "id": "3262e51a06f86ce8",
       "title": "Semaine de l’Immobilier et du Logement : toutes les professions se donnent rendez-vous à Paris",
@@ -43,6 +64,48 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Bien’ici lance Captation Vendeurs pour aider les agences à décrocher de nouveaux mandats."
+    },
+    {
+      "id": "2b2057e33ebf6562",
+      "title": "Budget 2027 rejeté : PTZ, LMNP, APL… Que reste-t-il pour l’immobilier ?",
+      "summary": "Nouveau Politique",
+      "url": "https://www.mysweetimmo.com/2026/11/06/budget-2027-rejete-ptz-lmnp-apl-logement/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "investir",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-11-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Investir",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information peut modifier le rendement, la fiscalité ou le risque d’un investissement. Point suivi : Budget 2027 rejeté : PTZ, LMNP, APL… Que reste-t-il pour l’immobilier ?."
+    },
+    {
+      "id": "fc9512c8cbd56e1b",
+      "title": "L’ANIL aux Rencontres nationales de l’habitat privé de l'Anah",
+      "summary": "05 novembre 2026 L’ANIL a participé cette semaine à Lyon aux Rencontres nationales de l’habitat privé, organisées par l’Agence nationale de l’habitat (Anah).",
+      "url": "https://www.anil.org/actualites-evenements/details/lanil-aux-rencontres-nationales-de-lhabitat-prive-de-lanah/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-05T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : L’ANIL aux Rencontres nationales de l’habitat privé de l'Anah."
     },
     {
       "id": "a612b14aaa97c042",
@@ -125,6 +188,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Chronique Des chiffres, l'actu : cette semaine, facture salée pour les architectes Comme chaque fin de semaine, Batiactu vous p…."
+    },
+    {
+      "id": "aa91f0f03ccbd9a2",
+      "title": "Roselyne Conan était dans l’émission « On vous doit bien ça",
+      "summary": "» 04 novembre 2026 Roselyne Conan, Directrice Générale de l'ANIL, était l’invitée d’Enora Malagré dans l’émission « On vous doit bien ça » pour échanger autour d’un sujet au cœur des préoccupations des ménages : le crédit immobilier, à l’heure de la remontée des taux.",
+      "url": "https://www.anil.org/actualites-evenements/details/roselyne-conan-etait-dans-lemission-on-vous-doit-bien-ca/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-04T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source institutionnelle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Roselyne Conan était dans l’émission « On vous doit bien ça."
     },
     {
       "id": "02f891c82311dc6e",
