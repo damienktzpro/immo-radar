@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-07T06:09:33+00:00",
+  "generated_at": "2026-11-07T13:12:28+00:00",
   "items": [
+    {
+      "id": "99f6078f0978d097",
+      "title": "Location saisonnière Courchevel : Les habitudes des vacanciers changent",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/07/location-saisonniere-courchevel-les-habitudes-des-vacanciers-changent/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-07T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Location saisonnière Courchevel : Les habitudes des vacanciers changent."
+    },
     {
       "id": "2c77732d8e77d336",
       "title": "Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat : retour sur deux jours d’échanges",

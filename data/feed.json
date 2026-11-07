@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-11-07T06:09:17+00:00",
+  "generated_at": "2026-11-07T13:11:54+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "99f6078f0978d097",
+      "title": "Location saisonnière Courchevel : Les habitudes des vacanciers changent",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/07/location-saisonniere-courchevel-les-habitudes-des-vacanciers-changent/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-07T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Location saisonnière Courchevel : Les habitudes des vacanciers changent."
+    },
     {
       "id": "2c77732d8e77d336",
       "title": "Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat : retour sur deux jours d’échanges",
@@ -229,27 +250,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Leboncoin immo relance la marque historique AVendreALouer."
-    },
-    {
-      "id": "0127c1313341fa7f",
-      "title": "Agents immobiliers : Diffuser vos annonces coûte 890 € HT par vente, Jinka lance une offre gratuite",
-      "summary": "Pros de l’immo",
-      "url": "https://www.mysweetimmo.com/2026/11/04/annonces-immobilieres-cout-jinka-free/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-04T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Agents immobiliers : Diffuser vos annonces coûte 890 € HT par vente, Jinka lance une offre gratuite."
     },
     {
       "id": "f17e4bc282607c03",
@@ -1464,8 +1464,8 @@
     }
   ],
   "source_stats": {
-    "ANIL": 13,
     "MySweetImmo": 16,
+    "ANIL": 13,
     "Journal de l'Agence": 16,
     "Immobilier 2.0": 16,
     "Légifrance": 1,
@@ -1478,18 +1478,18 @@
   },
   "health": {
     "sources_total": 15,
-    "sources_ok": 14,
+    "sources_ok": 15,
     "sources_degraded": 0,
-    "errors": 1,
+    "errors": 0,
     "retained": 70,
-    "rejected": 1248,
+    "rejected": 1328,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-07T06:05:23+00:00",
+        "last_success": "2026-11-07T13:10:59+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1497,7 +1497,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-07T06:05:25+00:00",
+        "last_success": "2026-11-07T13:11:02+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1505,7 +1505,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-07T06:05:27+00:00",
+        "last_success": "2026-11-07T13:11:04+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1513,7 +1513,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-07T06:05:29+00:00",
+        "last_success": "2026-11-07T13:11:05+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1521,7 +1521,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-07T06:05:48+00:00",
+        "last_success": "2026-11-07T13:11:31+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1529,7 +1529,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-07T06:05:59+00:00",
+        "last_success": "2026-11-07T13:11:43+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1537,7 +1537,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-07T06:05:59+00:00",
+        "last_success": "2026-11-07T13:11:43+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1545,7 +1545,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-11-07T06:06:00+00:00",
+        "last_success": "2026-11-07T13:11:44+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1553,7 +1553,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-07T06:06:01+00:00",
+        "last_success": "2026-11-07T13:11:44+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1561,24 +1561,23 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-07T06:06:02+00:00",
+        "last_success": "2026-11-07T13:11:46+00:00",
         "fallback": false
       },
       "Immo Matin": {
         "level": "C",
-        "ok": false,
-        "status": "error",
+        "ok": true,
+        "status": "empty",
         "retained": 0,
-        "last_success": null,
-        "fallback": false,
-        "error_type": "ConnectTimeout"
+        "last_success": "2026-11-07T13:11:48+00:00",
+        "fallback": false
       },
       "Journal de l'Agence": {
         "level": "C",
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-07T06:09:14+00:00",
+        "last_success": "2026-11-07T13:11:49+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1586,7 +1585,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-07T06:09:15+00:00",
+        "last_success": "2026-11-07T13:11:51+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1594,7 +1593,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-07T06:09:16+00:00",
+        "last_success": "2026-11-07T13:11:52+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1602,16 +1601,10 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-07T06:09:16+00:00",
+        "last_success": "2026-11-07T13:11:53+00:00",
         "fallback": false
       }
     }
   },
-  "errors": [
-    {
-      "source": "Immo Matin",
-      "error": "HTTPSConnectionPool(host='www.immomatin.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.immomatin.com', port=443) at 0x7f39ad563200>, 'Connection to www.immomatin.com timed out. (connect timeout=22)'))",
-      "fallback": false
-    }
-  ]
+  "errors": []
 }
