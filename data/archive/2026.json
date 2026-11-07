@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-06T19:29:28+00:00",
+  "generated_at": "2026-11-07T06:09:33+00:00",
   "items": [
     {
       "id": "2c77732d8e77d336",
@@ -68,7 +68,7 @@
     {
       "id": "2b2057e33ebf6562",
       "title": "Budget 2027 rejeté : PTZ, LMNP, APL… Que reste-t-il pour l’immobilier ?",
-      "summary": "Nouveau Politique",
+      "summary": "Politique",
       "url": "https://www.mysweetimmo.com/2026/11/06/budget-2027-rejete-ptz-lmnp-apl-logement/",
       "source": "MySweetImmo",
       "source_level": "C",
