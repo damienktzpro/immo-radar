@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-08T13:32:26+00:00",
+  "generated_at": "2026-11-08T22:12:58+00:00",
   "items": [
+    {
+      "id": "f8ac44c4e3e44c82",
+      "title": "IA : Ce qui rendra encore l’agent immobilier indispensable",
+      "summary": "Pros de l’immo",
+      "url": "https://www.mysweetimmo.com/2026/11/08/ia-ce-qui-rendra-encore-lagent-immobilier-indispensable/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : IA : Ce qui rendra encore l’agent immobilier indispensable."
+    },
     {
       "id": "99f6078f0978d097",
       "title": "Location saisonnière Courchevel : Les habitudes des vacanciers changent",
@@ -127,6 +148,27 @@
       "territory": "France",
       "topic": "Investir",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information peut modifier le rendement, la fiscalité ou le risque d’un investissement. Point suivi : Budget 2027 rejeté : PTZ, LMNP, APL… Que reste-t-il pour l’immobilier ?."
+    },
+    {
+      "id": "93f79148f6bd1f13",
+      "title": "Achat immobilier : Comment bien choisir son fournisseur d’énergie ?",
+      "summary": "Contenus sponsorisés Article sponsorisé",
+      "url": "https://www.mysweetimmo.com/2026/11/06/achat-immobilier-comment-bien-choisir-son-fournisseur-denergie/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-06T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Achat immobilier : Comment bien choisir son fournisseur d’énergie ?."
     },
     {
       "id": "fc9512c8cbd56e1b",
@@ -708,6 +750,27 @@
       "territory": "France",
       "topic": "Credit",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : Les taux montent, les banques deviennent plus sélectives."
+    },
+    {
+      "id": "2d15a229626d8995",
+      "title": "A vendre à Gordes Maisonnette en pierre avec vue et terrain constructible",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/10/31/a-vendre-a-gordes-maisonnette-en-pierre-avec-vue-et-terrain-constructible/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-31T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : A vendre à Gordes Maisonnette en pierre avec vue et terrain constructible."
     },
     {
       "id": "f1f06c623e8b7b6f",
