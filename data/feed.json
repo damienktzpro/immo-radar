@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T06:10:28+00:00",
+  "generated_at": "2026-11-08T13:32:04+00:00",
   "version": "7.1",
   "items": [
     {
@@ -22,6 +22,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Location saisonnière Courchevel : Les habitudes des vacanciers changent."
+    },
+    {
+      "id": "f5181c386e9ee0fc",
+      "title": "Logement à Lyon : Ce qu’il faut comparer avant d’acheter dans le neuf",
+      "summary": "Neuf",
+      "url": "https://www.mysweetimmo.com/2026/11/07/logement-a-lyon-ce-quil-faut-comparer-avant-dacheter-dans-le-neuf/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-07T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement à Lyon : Ce qu’il faut comparer avant d’acheter dans le neuf."
     },
     {
       "id": "2c77732d8e77d336",
@@ -1357,27 +1378,6 @@
       "why_it_matters": "Source expert / blog à confronter aux données officielles. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : 4,3 % en novembre 2023."
     },
     {
-      "id": "0d946c5404153d72",
-      "title": "Immobilier : « Les Français n’ont jamais autant cherché sur SeLoger » Baptiste Capron",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/09/09/immobilier-les-francais-nont-jamais-autant-cherche-sur-seloger-baptiste-capron/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-09T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : « Les Français n’ont jamais autant cherché sur SeLoger » Baptiste Capron."
-    },
-    {
       "id": "3b2255cb7e8a6f65",
       "title": "Informations Rapides · 28 mai 2026 · n° 130 Au premier trimestre 2026, les prix des logements anciens sont en hausse (+0,2 %) Indices Notaires-Insee des prix des logements anciens - premier trimestre 2026",
       "summary": "Au premier trimestre 2026, les prix des logements anciens en France (hors Mayotte) sont en hausse : +0,2 % (données provisoires corrigées des variations saisonnières), après +0,3 % au quatrième trimestre 2025 et -0,1 % au troisième trimestre 2025. Cette hausse est portée uniquement par les logements d’Île-de-France, les prix des logements anciens en province étant stables sur le trimestre. Sur un an, les prix des logements anciens sont quasi stables : +0,1 % au premier trimestre 2026, après +1,0 % au quatrième trimestre 2025 et +0,6…",
@@ -1482,14 +1482,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 70,
-    "rejected": 1243,
+    "rejected": 1244,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-08T06:09:48+00:00",
+        "last_success": "2026-11-08T13:31:15+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1497,7 +1497,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-08T06:09:50+00:00",
+        "last_success": "2026-11-08T13:31:18+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1505,7 +1505,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-08T06:09:51+00:00",
+        "last_success": "2026-11-08T13:31:19+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1513,7 +1513,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-08T06:09:52+00:00",
+        "last_success": "2026-11-08T13:31:20+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1521,7 +1521,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-08T06:10:11+00:00",
+        "last_success": "2026-11-08T13:31:43+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1529,7 +1529,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-08T06:10:20+00:00",
+        "last_success": "2026-11-08T13:31:54+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1537,7 +1537,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-08T06:10:20+00:00",
+        "last_success": "2026-11-08T13:31:54+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1545,7 +1545,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-11-08T06:10:21+00:00",
+        "last_success": "2026-11-08T13:31:55+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1553,7 +1553,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-08T06:10:21+00:00",
+        "last_success": "2026-11-08T13:31:56+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1561,7 +1561,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-08T06:10:22+00:00",
+        "last_success": "2026-11-08T13:31:57+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1569,7 +1569,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-08T06:10:24+00:00",
+        "last_success": "2026-11-08T13:31:59+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1577,7 +1577,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-08T06:10:25+00:00",
+        "last_success": "2026-11-08T13:32:00+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1585,7 +1585,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-08T06:10:27+00:00",
+        "last_success": "2026-11-08T13:32:02+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1593,7 +1593,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-08T06:10:27+00:00",
+        "last_success": "2026-11-08T13:32:03+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1601,7 +1601,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-08T06:10:28+00:00",
+        "last_success": "2026-11-08T13:32:03+00:00",
         "fallback": false
       }
     }
