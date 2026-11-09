@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-09T06:46:27+00:00",
+  "generated_at": "2026-11-09T22:27:40+00:00",
   "items": [
+    {
+      "id": "2978d5fb1aa07665",
+      "title": "Copropriété : l'expérience de Marie avec l'ADIL des Yvelines",
+      "summary": "09 novembre 2026 Confrontée à des difficultés dans sa petite copropriété, Marie a fait appel à l'ADIL des Yvelines (78) pour mieux comprendre ses droits et trouver des solutions. Elle revient sur cet accompagnement et sur ce qu'il lui a apporté.",
+      "url": "https://www.anil.org/actualites-evenements/details/copropriete-lexperience-de-marie-avec-ladil-des-yvelines/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Copropriété : l'expérience de Marie avec l'ADIL des Yvelines."
+    },
     {
       "id": "27a6c8b148469738",
       "title": "RENT 2026 – IA immobilière : « Nous avons nos propres LLM » Jésus Diaz (Septeo)",
@@ -23,6 +44,89 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – IA immobilière : « Nous avons nos propres LLM » Jésus Diaz (Septeo)."
+    },
+    {
+      "id": "a4cdab84bbb4a821",
+      "title": "RENT 2026 : « Il faudrait un pacte républicain sur le logement » Guillaume Martinaud (Orpi)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/09/crise-du-logement-pacte-republicain-orpi/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 : « Il faudrait un pacte républicain sur le logement » Guillaume Martinaud (Orpi)."
+    },
+    {
+      "id": "3575053dec051288",
+      "title": "« L’innovation est l’un des leviers majeurs pour sortir de la crise du logement », Stéphane Scarella",
+      "summary": "Le 09/11/2026 à 10H22 Plus de visiteurs, des innovations à foison, des échanges avec le Gouvernement, et une profession tournée vers l’avenir. En clôture de l’édition 2026 du salon RENT, Stéphane Scarella, son directeur général, revient, pour le Journal de l’Agence, sur les temps forts du salon et les leviers pour sortir de la crise du logement. RENT 2026 : Viagimmo veut former une nouvelle génération de viagéristes Le 09/11/2",
+      "url": "https://www.journaldelagence.com/1414643-linnovation-est-lun-des-leviers-majeurs-pour-sortir-de-la-crise-du-logement-stephane-scarella",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : « L’innovation est l’un des leviers majeurs pour sortir de la crise du logement », Stéphane Scarella."
+    },
+    {
+      "id": "7aa15c0a63f5ad71",
+      "title": "RENT 2026 : Viagimmo veut former une nouvelle génération de viagéristes",
+      "summary": "Le 09/11/2026 à 09H27 Face au vieillissement de la population et aux enjeux de financement des retraites, le viager pourrait changer d’échelle. Présente au salon RENT, qui s’est déroulé les 4 et 5 novembre derniers, Sophie Richard, fondatrice du réseau Viagimmo, entend accélérer cette évolution en attirant davantage de professionnels de l’immobilier sur ce marché. Un rendez-vous d’estimation plus technique pour décrocher plus",
+      "url": "https://www.journaldelagence.com/1414655-rent-2026-viagimmo-veut-former-une-nouvelle-generation-de-viageristes",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-11-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 : Viagimmo veut former une nouvelle génération de viagéristes."
+    },
+    {
+      "id": "760b72b78a1e1ce9",
+      "title": "Un rendez-vous d’estimation plus technique pour décrocher plus de mandats",
+      "summary": "Le 09/11/2026 à 09H06 Face aux craintes des acquéreurs, certains agents immobiliers renforcent la dimension technique de leurs estimations pour rassurer vendeurs et acheteurs. Une stratégie qui valorise leur expertise, sécurise leur devoir d’information et booste les mandats exclusifs. Julien Besnard nous partage le vécu d'éco-conseillers immobiliers qui ont misé sur leurs compétences ! Bien’ici lance Captation Vendeurs pour a",
+      "url": "https://www.journaldelagence.com/1414649-un-rendez-vous-destimation-plus-technique-pour-decrocher-plus-de-mandats",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Un rendez-vous d’estimation plus technique pour décrocher plus de mandats."
     },
     {
       "id": "f8ac44c4e3e44c82",
