@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-11-08T22:12:24+00:00",
+  "generated_at": "2026-11-09T06:46:09+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "27a6c8b148469738",
+      "title": "RENT 2026 – IA immobilière : « Nous avons nos propres LLM » Jésus Diaz (Septeo)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/09/proptech-septeo-ia-souveraine-modelo/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – IA immobilière : « Nous avons nos propres LLM » Jésus Diaz (Septeo)."
+    },
     {
       "id": "f8ac44c4e3e44c82",
       "title": "IA : Ce qui rendra encore l’agent immobilier indispensable",
@@ -1315,27 +1336,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Diagnostic immobilier : Trois fédérations s’unissent pour parler d’une seule voix."
     },
     {
-      "id": "f1dc89f605648235",
-      "title": "Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/09/29/immobilier-on-va-aller-pleinement-vers-un-mlm-de-reseau-chez-capifrance-olivier-le-gallo-digitre/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-29T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : « On va aller pleinement vers un MLM de réseau chez Capifrance » Olivier Le Gallo (DigitRE)."
-    },
-    {
       "id": "d4999eb072d4f67a",
       "title": "Immobilier : 9 ventes sur 10 se concluent en dessous du prix affiché",
       "summary": "Marché immobilier",
@@ -1489,7 +1489,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-08T22:11:23+00:00",
+        "last_success": "2026-11-09T06:43:52+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1497,7 +1497,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-08T22:11:26+00:00",
+        "last_success": "2026-11-09T06:43:53+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1505,7 +1505,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-08T22:11:28+00:00",
+        "last_success": "2026-11-09T06:43:54+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1513,7 +1513,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-08T22:11:30+00:00",
+        "last_success": "2026-11-09T06:45:30+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1521,7 +1521,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-08T22:11:57+00:00",
+        "last_success": "2026-11-09T06:45:48+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1529,7 +1529,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-08T22:12:11+00:00",
+        "last_success": "2026-11-09T06:45:57+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1537,7 +1537,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-08T22:12:11+00:00",
+        "last_success": "2026-11-09T06:45:57+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1545,7 +1545,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-11-08T22:12:12+00:00",
+        "last_success": "2026-11-09T06:45:58+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1553,7 +1553,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-08T22:12:12+00:00",
+        "last_success": "2026-11-09T06:45:59+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1561,7 +1561,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-08T22:12:14+00:00",
+        "last_success": "2026-11-09T06:46:00+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1569,7 +1569,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-08T22:12:16+00:00",
+        "last_success": "2026-11-09T06:46:02+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1577,7 +1577,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-08T22:12:18+00:00",
+        "last_success": "2026-11-09T06:46:03+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1585,7 +1585,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-08T22:12:20+00:00",
+        "last_success": "2026-11-09T06:46:05+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1593,7 +1593,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-08T22:12:21+00:00",
+        "last_success": "2026-11-09T06:46:06+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1601,7 +1601,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-08T22:12:23+00:00",
+        "last_success": "2026-11-09T06:46:09+00:00",
         "fallback": false
       }
     }
