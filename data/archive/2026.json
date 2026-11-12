@@ -1,12 +1,33 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-11T19:40:56+00:00",
+  "generated_at": "2026-11-12T07:19:18+00:00",
   "items": [
+    {
+      "id": "8a61e125f3757f90",
+      "title": "MyNotary et Orpi : quand les contrats immobiliers deviennent une mine de données pour les agences",
+      "summary": "Le 12/11/2026 à 07H02 Et si les contrats immobiliers devenaient bien plus que des documents juridiques ? En déployant MyNotary dans ses 1 250 agences, Orpi entend simplifier et sécuriser le quotidien de ses collaborateurs, mais aussi exploiter une richesse encore largement sous-utilisée : les données issues des transactions réellement conclues. Guillaume Martinaud, président d'Orpi, et Sacha Boyer, fondateur de MyNotary, nous",
+      "url": "https://www.journaldelagence.com/1414685-mynotary-et-orpi-quand-les-contrats-immobiliers-deviennent-une-mine-de-donnees-pour-les-agences",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : MyNotary et Orpi : quand les contrats immobiliers deviennent une mine de données pour les agences."
+    },
     {
       "id": "52973b49eb8c894a",
       "title": "Immobilier : Travaux, quartier, surface, sur quoi les acheteurs sont prêts à céder",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/11/11/immobilier-acheteurs-safti-bilan-2026-perspectives-2027/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -27,7 +48,7 @@
     {
       "id": "248c2515db92f7e3",
       "title": "Immobilier Arcachon : La villa historique Les Chaumettes vendue environ 7 millions d’euros",
-      "summary": "Nouveau Luxe",
+      "summary": "Luxe",
       "url": "https://www.mysweetimmo.com/2026/11/11/immobilier-arcachon-la-villa-historique-les-chaumettes-vendue-environ-7-millions-deuros/",
       "source": "MySweetImmo",
       "source_level": "C",
