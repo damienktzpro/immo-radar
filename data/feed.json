@@ -1,10 +1,136 @@
 {
-  "generated_at": "2026-11-12T07:18:45+00:00",
+  "generated_at": "2026-11-12T20:00:31+00:00",
   "version": "7.1",
   "items": [
     {
-      "id": "8a61e125f3757f90",
-      "title": "MyNotary et Orpi : quand les contrats immobiliers deviennent une mine de données pour les agences",
+      "id": "0c1e8093029e8672",
+      "title": "De nouvelles données sur les loyers sont disponibles",
+      "summary": "12 novembre 2026 Les Observatoires locaux des loyers ( OLL ) actualisent annuellement leurs productions statistiques et des résultats 2025 sont désormais disponibles pour les territoires suivants : agglomération de Lorient, de Vannes, d’Auray Quiberon, d’Aix-les-Bains,…",
+      "url": "https://www.observatoires-des-loyers.org/connaitre-les-loyers/carte-des-niveaux-de-loyers",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "territoires",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Territoires",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : De nouvelles données sur les loyers sont disponibles."
+    },
+    {
+      "id": "2d1a7c746b5f4f29",
+      "title": "RENT 2026 - Marché immobilier : « Il vaut mieux vendre aujourd'hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)",
+      "summary": "Nouveau Podcasts",
+      "url": "https://www.mysweetimmo.com/2026/11/12/vendre-ou-attendre-marche-immobilier-fnaim-region-sud/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 - Marché immobilier : « Il vaut mieux vendre aujourd'hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)."
+    },
+    {
+      "id": "4db93ba560a5c418",
+      "title": "RENT 2026 – IA immobilière : « Les petites structures ont un avantage compétitif » Olivier Le Gallo (Capifrance, Optimhome)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/12/ia-immobiliere-mandataires-capifrance-optimhome/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – IA immobilière : « Les petites structures ont un avantage compétitif » Olivier Le Gallo (Capifrance, Optimhome)."
+    },
+    {
+      "id": "fedf874b3990d967",
+      "title": "Immobilier : Louer en meublé, un bon plan fiscal ?",
+      "summary": "Nouveau Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/11/12/immobilier-louer-en-meuble-un-bon-plan-fiscal/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Immobilier : Louer en meublé, un bon plan fiscal ?."
+    },
+    {
+      "id": "3a091f89739dc1ae",
+      "title": "Immobilier neuf : les ventes chutent de 24 %, la FPI alerte sur les risques pour 2027",
+      "summary": "Le 12/11/2026 à 10H45 Le marché du logement neuf continue de s'enfoncer dans la crise. Au troisième trimestre 2026, les ventes reculent de 24,4 % et les mises en vente de 32,1 %, selon les chiffres dévoilés ce 12 novembre par la Fédération des promoteurs immobiliers (FPI). Face à cette nouvelle dégradation, son président Pascal Boulanger tire la sonnette d'alarme : même si la demande venait à repartir, les promoteurs pourraien",
+      "url": "https://www.journaldelagence.com/1414721-immobilier-neuf-les-ventes-chutent-de-24-la-fpi-alerte-sur-les-risques-pour-2027",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Immobilier neuf : les ventes chutent de 24 %, la FPI alerte sur les risques pour 2027."
+    },
+    {
+      "id": "5b4cfc4aa4f61608",
+      "title": "Agents immobiliers : l’IA amplifie vos pratiques, les bonnes comme les mauvaises !",
+      "summary": "Le 12/11/2026 à 09H39 Deux débutants arrivent le même mois dans la même agence, avec les mêmes outils d'intelligence artificielle. Celui qui a traité le plus de demandes et fait le plus de rendez-vous signe 4 mandats. L'autre en signe 12, dont 11 en exclusivité. Nordine Mouaouia, fondateur de Système1-Immo Lab, explique ce que cet écart dit de nos outils, et pourquoi s'équiper avant de se former revient souvent à aller plus vi",
+      "url": "https://www.journaldelagence.com/1414695-agents-immobiliers-lia-amplifie-votre-pratique-la-bonne-comme-la-mauvaise",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : l’IA amplifie vos pratiques, les bonnes comme les mauvaises !."
+    },
+    {
+      "id": "9fc1dba364b0a7d8",
+      "title": "MyNotary et Orpi : les contrats immobiliers deviennent une mine de données pour les agences",
       "summary": "Le 12/11/2026 à 07H02 Et si les contrats immobiliers devenaient bien plus que des documents juridiques ? En déployant MyNotary dans ses 1 250 agences, Orpi entend simplifier et sécuriser le quotidien de ses collaborateurs, mais aussi exploiter une richesse encore largement sous-utilisée : les données issues des transactions réellement conclues. Guillaume Martinaud, président d'Orpi, et Sacha Boyer, fondateur de MyNotary, nous",
       "url": "https://www.journaldelagence.com/1414685-mynotary-et-orpi-quand-les-contrats-immobiliers-deviennent-une-mine-de-donnees-pour-les-agences",
       "source": "Journal de l'Agence",
@@ -21,13 +147,13 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : MyNotary et Orpi : quand les contrats immobiliers deviennent une mine de données pour les agences."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : MyNotary et Orpi : les contrats immobiliers deviennent une mine de données pour les agences."
     },
     {
-      "id": "52973b49eb8c894a",
-      "title": "Immobilier : Travaux, quartier, surface, sur quoi les acheteurs sont prêts à céder",
-      "summary": "Marché immobilier",
-      "url": "https://www.mysweetimmo.com/2026/11/11/immobilier-acheteurs-safti-bilan-2026-perspectives-2027/",
+      "id": "8eacb721f24b3b01",
+      "title": "Observatoire de l’immobilier digital : Faut-il être partout sur le web ?",
+      "summary": "Pros de l’immo",
+      "url": "https://www.mysweetimmo.com/2026/11/11/agents-immobiliers-faut-il-etre-partout-sur-le-web/",
       "source": "MySweetImmo",
       "source_level": "C",
       "category": "marche",
@@ -42,7 +168,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Travaux, quartier, surface, sur quoi les acheteurs sont prêts à céder."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Observatoire de l’immobilier digital : Faut-il être partout sur le web ?."
     },
     {
       "id": "248c2515db92f7e3",
@@ -64,6 +190,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Arcachon : La villa historique Les Chaumettes vendue environ 7 millions d’euros."
+    },
+    {
+      "id": "52973b49eb8c894a",
+      "title": "Immobilier : Travaux, quartier, surface, sur quoi les acheteurs sont prêts à céder",
+      "summary": "Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/11/immobilier-acheteurs-safti-bilan-2026-perspectives-2027/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Travaux, quartier, surface, sur quoi les acheteurs sont prêts à céder."
     },
     {
       "id": "78e34fcaa93117ca",
@@ -108,31 +255,10 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Immobilier et proptech : « Un tsunami de 12 000 visiteurs inscrits pour un RENT 2026 record » Stéphane Scarella."
     },
     {
-      "id": "f37b1b5db2b8ad16",
-      "title": "Logement : Les propriétaires désavouent la politique d’Emmanuel Macron",
-      "summary": "Règlementation",
-      "url": "https://www.mysweetimmo.com/2026/11/10/logement-les-proprietaires-desavouent-la-politique-demmanuel-macron/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-10T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Logement : Les propriétaires désavouent la politique d’Emmanuel Macron."
-    },
-    {
-      "id": "9cdfc1a96067db82",
-      "title": "Immobilier : Avant le prix, l’art de vivre fait craquer les étrangers pour la France",
-      "summary": "Acheter / Vendre",
-      "url": "https://www.mysweetimmo.com/2026/11/10/immobilier-avant-le-prix-lart-de-vivre-fait-craquer-les-etrangers-pour-la-france/",
+      "id": "48b33768db5841c7",
+      "title": "RENT 2026 – Mandataires immobiliers : « Ne me parle pas de réseau », Christine Cadrot",
+      "summary": "Pros de l’immo",
+      "url": "https://www.mysweetimmo.com/2026/11/10/mandataires-immobiliers-christine-cadrot-collectif/",
       "source": "MySweetImmo",
       "source_level": "C",
       "category": "marche",
@@ -147,7 +273,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Avant le prix, l’art de vivre fait craquer les étrangers pour la France."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – Mandataires immobiliers : « Ne me parle pas de réseau », Christine Cadrot."
     },
     {
       "id": "405a49d6066ecb60",
@@ -171,10 +297,10 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – IA et portails immobiliers : « Seulement 2 % du trafic vient des intelligences artificielles » Baptiste Capron (SeL…."
     },
     {
-      "id": "d5d31ab76434ce36",
-      "title": "RENT 2026 – Mandataires immobiliers : « Ne me parle pas de réseau » Christine Cadrot",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/11/10/mandataires-immobiliers-christine-cadrot-collectif/",
+      "id": "9cdfc1a96067db82",
+      "title": "Immobilier : Avant le prix, l’art de vivre fait craquer les étrangers pour la France",
+      "summary": "Acheter / Vendre",
+      "url": "https://www.mysweetimmo.com/2026/11/10/immobilier-avant-le-prix-lart-de-vivre-fait-craquer-les-etrangers-pour-la-france/",
       "source": "MySweetImmo",
       "source_level": "C",
       "category": "marche",
@@ -189,7 +315,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – Mandataires immobiliers : « Ne me parle pas de réseau » Christine Cadrot."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Avant le prix, l’art de vivre fait craquer les étrangers pour la France."
     },
     {
       "id": "e2419b3f72381f09",
@@ -254,27 +380,6 @@
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Copropriété : l'expérience de Marie avec l'ADIL des Yvelines."
     },
     {
-      "id": "306a51d707308b5f",
-      "title": "RENT 2026 – IA immobilière : « Nous avons nos propres LLM », Jésus Diaz (Septeo)",
-      "summary": "Podcasts",
-      "url": "https://www.mysweetimmo.com/2026/11/09/proptech-septeo-ia-souveraine-modelo/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-09T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – IA immobilière : « Nous avons nos propres LLM », Jésus Diaz (Septeo)."
-    },
-    {
       "id": "a4cdab84bbb4a821",
       "title": "RENT 2026 : « Il faudrait un pacte républicain sur le logement » Guillaume Martinaud (Orpi)",
       "summary": "Consultez la publication source pour les informations détaillées.",
@@ -294,6 +399,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 : « Il faudrait un pacte républicain sur le logement » Guillaume Martinaud (Orpi)."
+    },
+    {
+      "id": "27a6c8b148469738",
+      "title": "RENT 2026 – IA immobilière : « Nous avons nos propres LLM » Jésus Diaz (Septeo)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/09/proptech-septeo-ia-souveraine-modelo/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-09T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – IA immobilière : « Nous avons nos propres LLM » Jésus Diaz (Septeo)."
     },
     {
       "id": "3575053dec051288",
@@ -319,7 +445,7 @@
     {
       "id": "7aa15c0a63f5ad71",
       "title": "RENT 2026 : Viagimmo veut former une nouvelle génération de viagéristes",
-      "summary": "Le 09/11/2026 à 09H27 Face au vieillissement de la population et aux enjeux de financement des retraites, le viager pourrait changer d’échelle. Présente au salon RENT, qui s’est déroulé les 4 et 5 novembre derniers, Sophie Richard, fondatrice du réseau Viagimmo, entend accélérer cette évolution en attirant davantage de professionnels de l’immobilier sur ce marché. Un rendez-vous d’estimation plus technique pour décrocher plus",
+      "summary": "Le 09/11/2026 à 09H27 Face au vieillissement de la population et aux enjeux de financement des retraites, le viager pourrait changer d’échelle. Présente au salon RENT, qui s’est déroulé les 4 et 5 novembre derniers, Sophie Richard, fondatrice du réseau Viagimmo, entend accélérer cette évolution en attirant davantage de professionnels de l’immobilier sur ce marché. Estimation immobilière : comment l’expertise technique peut vou",
       "url": "https://www.journaldelagence.com/1414655-rent-2026-viagimmo-veut-former-une-nouvelle-generation-de-viageristes",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -337,8 +463,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 : Viagimmo veut former une nouvelle génération de viagéristes."
     },
     {
-      "id": "760b72b78a1e1ce9",
-      "title": "Un rendez-vous d’estimation plus technique pour décrocher plus de mandats",
+      "id": "37588e1d8f279390",
+      "title": "Estimation immobilière : comment l’expertise technique peut vous faire gagner des mandats",
       "summary": "Le 09/11/2026 à 09H06 Face aux craintes des acquéreurs, certains agents immobiliers renforcent la dimension technique de leurs estimations pour rassurer vendeurs et acheteurs. Une stratégie qui valorise leur expertise, sécurise leur devoir d’information et booste les mandats exclusifs. Julien Besnard nous partage le vécu d'éco-conseillers immobiliers qui ont misé sur leurs compétences ! Bien’ici lance Captation Vendeurs pour a",
       "url": "https://www.journaldelagence.com/1414649-un-rendez-vous-destimation-plus-technique-pour-decrocher-plus-de-mandats",
       "source": "Journal de l'Agence",
@@ -355,49 +481,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Un rendez-vous d’estimation plus technique pour décrocher plus de mandats."
-    },
-    {
-      "id": "f5181c386e9ee0fc",
-      "title": "Logement à Lyon : Ce qu’il faut comparer avant d’acheter dans le neuf",
-      "summary": "Neuf",
-      "url": "https://www.mysweetimmo.com/2026/11/07/logement-a-lyon-ce-quil-faut-comparer-avant-dacheter-dans-le-neuf/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-07T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement à Lyon : Ce qu’il faut comparer avant d’acheter dans le neuf."
-    },
-    {
-      "id": "99f6078f0978d097",
-      "title": "Location saisonnière Courchevel : Les habitudes des vacanciers changent",
-      "summary": "Marché immobilier",
-      "url": "https://www.mysweetimmo.com/2026/11/07/location-saisonniere-courchevel-les-habitudes-des-vacanciers-changent/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-07T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Location saisonnière Courchevel : Les habitudes des vacanciers changent."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Estimation immobilière : comment l’expertise technique peut vous faire gagner des mandats."
     },
     {
       "id": "2c77732d8e77d336",
@@ -712,27 +796,6 @@
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Trêve hivernale : du 1er novembre au 31 mars."
     },
     {
-      "id": "2d15a229626d8995",
-      "title": "A vendre à Gordes Maisonnette en pierre avec vue et terrain constructible",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/10/31/a-vendre-a-gordes-maisonnette-en-pierre-avec-vue-et-terrain-constructible/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-31T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : A vendre à Gordes Maisonnette en pierre avec vue et terrain constructible."
-    },
-    {
       "id": "f1f06c623e8b7b6f",
       "title": "Arrêté du 11 juin 2026 portant diverses dispositions d'adaptation au droit de l'Union européenne sur le diagnostic de performance énergétique (rectificatif)",
       "summary": "Texte officiel concernant la performance énergétique, le DPE ou la rénovation du parc immobilier.",
@@ -818,48 +881,6 @@
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Nouvelle étude de l’ANIL : L’essor de la location meublée de longue durée, un facteur de recomposition du parc locatif privé ?."
     },
     {
-      "id": "855fb1defc64533e",
-      "title": "iad fait confiance à idealista en France : les deux géants européens de l’immobilier nouent un partenariat ambitieux",
-      "summary": "Le 03/11/2026 à 10H08 Il y a des partenariats qui se construisent. Celui-là existait déjà. Depuis dix ans, idealista et iad avancent ensemble sur les marchés portugais, espagnol et italien. Aujourd'hui, c'est au tour de la France. Pierre Jean Meyssan élu président du Conseil supérieur du notariat Le 03/11/2026 à 06H51 Le Conseil supérieur du notariat (CSN) a un nouveau président. Élu le 27 octobre 2026 pour un mandat de deux a",
-      "url": "https://www.journaldelagence.com/1414546-iad-fait-confiance-a-idealista-en-france-les-deux-geants-europeens-de-limmobilier-nouent-un-partenariat-ambitieux",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-27T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : iad fait confiance à idealista en France : les deux géants européens de l’immobilier nouent un partenariat ambitieux."
-    },
-    {
-      "id": "3921538567bd3e56",
-      "title": "Pierre Jean Meyssan élu président du Conseil supérieur du notariat",
-      "summary": "Le 03/11/2026 à 06H51 Le Conseil supérieur du notariat (CSN) a un nouveau président. Élu le 27 octobre 2026 pour un mandat de deux ans, Pierre Jean Meyssan succède à Bertrand Savouré à la tête de l'instance représentative des notaires de France. Prix immobiliers : une tendance à la baisse dans les grandes villes Le 03/11/2026 à 06H43 Les prix immobiliers s'orientent légèrement à la baisse dans les grandes villes. Selon le dern",
-      "url": "https://www.journaldelagence.com/1414562-pierre-jean-meyssan-elu-president-du-conseil-superieur-du-notariat",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-27T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Pierre Jean Meyssan élu président du Conseil supérieur du notariat."
-    },
-    {
       "id": "d25d2e2bee230fde",
       "title": "Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spécialiste du LMNP. 26 Octobre 2026",
       "summary": "Qu'est-ce que le LMNP ? (Loueur en Meublé Non Professionnel) Lorsqu'un propriétaire loue un logement déjà meublé à un locataire, il peut bénéficier du régime dit \"LMNP\" ou \"Loueur en meublé non professionnel\". C'est un régime fiscal adapté à ce type de location. Il présente de nombreux avantages et quelques inconvénients que nous allons vous détailler dans cet article. 26 Octobre 2026 Expert-comptable LMNP : 3 avantages et tar",
@@ -879,6 +900,48 @@
       "territory": "France",
       "topic": "Investir",
       "why_it_matters": "Source expert / blog à confronter aux données officielles. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spéciali…."
+    },
+    {
+      "id": "925d58cbeff2c5e2",
+      "title": "Avant/Après : À Paris, un appartement neuf trouve enfin son âme",
+      "summary": "23/10/2026 Des chiffres, l'actu : cette semaine, facture salée pour les TP et TPE 08/10/2026",
+      "url": "https://www.batiactu.com/edito/avant-apres-a-paris-un-appartement-neuf-trouve-enfin-75699.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Avant/Après : À Paris, un appartement neuf trouve enfin son âme."
+    },
+    {
+      "id": "d725a46e3c7acae2",
+      "title": "Des chiffres, l'actu : cette semaine, facture salée pour les TP et TPE",
+      "summary": "Avant/Après : À Paris, un appartement neuf trouve enfin son âme 23/10/2026 08/10/2026",
+      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-tp-et-tpe-75562.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Des chiffres, l'actu : cette semaine, facture salée pour les TP et TPE."
     },
     {
       "id": "9dd6e6d0c314ee7b",
@@ -1174,27 +1237,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : SeLoger Neuf propose aux promoteurs d’augmenter leur visibilité avec Top Position."
     },
     {
-      "id": "0c1e8093029e8672",
-      "title": "De nouvelles données sur les loyers sont disponibles",
-      "summary": "07 octobre 2026 Les Observatoires locaux des loyers ( OLL ) actualisent annuellement leurs productions statistiques et des résultats 2025 sont désormais disponibles pour les territoires suivants : agglomération de Lorient, de Vannes, d’Auray Quiberon, d’Aix-les-Bains,…",
-      "url": "https://www.observatoires-des-loyers.org/connaitre-les-loyers/carte-des-niveaux-de-loyers",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "territoires",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-07T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Territoires",
-      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : De nouvelles données sur les loyers sont disponibles."
-    },
-    {
       "id": "5172dd0dddedf02a",
       "title": "Mobili’Femme donne rendez-vous aux pros de l’immobilier le 16 octobre pour un cocktail caritatif",
       "summary": "7 octobre 2026 - Les professionnels de l’immobilier sont invités, par Les agents immobiliers ont du cœur, à découvrir la plateforme MOBILI’Femme dans les locaux du Figaro [...]",
@@ -1364,7 +1406,7 @@
     {
       "id": "de37b0b0d614bef3",
       "title": "Présidentielle 2027 : quelles sont les propositions de David Lisnard pour le logement ?",
-      "summary": "Le 11/11/2026 à 08H00 Suppression du DPE, réforme de la loi SRU, libération du foncier, baisse de la fiscalité immobilière… David Lisnard veut relancer la construction et l’investissement locatif en allégeant les contraintes qui pèsent sur les propriétaires. Tour d’horizon de ses principales propositions pour la présidentielle de 2027. L’agent immobilier évincé dispose-t-il d’un recours contre l’acquéreur ? Le 10/11/2026 à 07H",
+      "summary": "Le 11/11/2026 à 08H00 Suppression du DPE, réforme de la loi SRU, libération du foncier, baisse de la fiscalité immobilière… David Lisnard veut relancer la construction et l’investissement locatif en allégeant les contraintes qui pèsent sur les propriétaires. Tour d’horizon de ses principales propositions pour la présidentielle de 2027. Vente conclue dans le dos d’une agence : un acquéreur condamné à l’indemniser Le 10/11/2026",
       "url": "https://www.journaldelagence.com/1414680-presidentielle-2027-quelles-sont-les-propositions-de-david-lisnard-pour-le-logement",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -1383,73 +1425,53 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Présidentielle 2027 : quelles sont les propositions de David Lisnard pour le logement ?."
     },
     {
-      "id": "506ea9d8c4c756f3",
-      "title": "L’agent immobilier évincé dispose-t-il d’un recours contre l’acquéreur ?",
+      "id": "9edbec6f141538df",
+      "title": "Vente conclue dans le dos d’une agence : un acquéreur condamné à l’indemniser",
       "summary": "Le 10/11/2026 à 07H15 Visiter un bien avec une agence, puis conclure la vente directement avec le propriétaire pour éviter les honoraires : une pratique qui peut coûter très cher à l'acquéreur ! Dans un arrêt du 7 mai 2026, la Cour de cassation renforce la protection des agents immobiliers victimes de manœuvres frauduleuses, même en l'absence de contrat avec l'acheteur. Alain Cohen-Boulakia, avocat honoraire, décrypte cette dé",
       "url": "https://www.journaldelagence.com/1414675-lagent-immobilier-evince-dispose-t-il-dun-recours-contre-lacquereur",
       "source": "Journal de l'Agence",
       "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-05-07T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : L’agent immobilier évincé dispose-t-il d’un recours contre l’acquéreur ?."
-    },
-    {
-      "id": "3ba00146d35c29ec",
-      "title": "les avis de CFE et d'IFER 2026 sont disponibles en ligne",
-      "summary": "Les entreprises concernées par la cotisation foncière des entreprises (CFE) et/ou l’imposition forfaitaire sur les entreprises de réseaux (IFER) peuvent désormais consulter leur avis d’impôt dans leurs espace profssionnel sur impots.gouv.fr .",
-      "url": "https://entreprendre.service-public.gouv.fr/actualites/A19130?xtor=RSS-111",
-      "source": "Service-Public.fr",
-      "source_level": "A",
       "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
-      "published_at": null,
-      "status": "Information officielle",
-      "importance": 88,
-      "relevance": 88,
+      "published_at": "2026-05-07T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source officielle. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : les avis de CFE et d'IFER 2026 sont disponibles en ligne."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vente conclue dans le dos d’une agence : un acquéreur condamné à l’indemniser."
     }
   ],
   "source_stats": {
-    "Journal de l'Agence": 16,
-    "MySweetImmo": 16,
-    "Immobilier 2.0": 16,
     "ANIL": 13,
+    "MySweetImmo": 16,
+    "Journal de l'Agence": 16,
+    "Immobilier 2.0": 16,
     "Légifrance": 1,
     "SDES / Sitadel": 1,
     "Horiz.io": 2,
+    "Batiactu": 2,
     "Insee": 1,
-    "EUR-Lex": 1,
-    "Service-Public.fr": 1
+    "EUR-Lex": 1
   },
   "health": {
     "sources_total": 15,
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 68,
-    "rejected": 1132,
+    "retained": 69,
+    "rejected": 1123,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
-        "status": "ok",
-        "retained": 1,
-        "last_success": "2026-11-12T07:17:56+00:00",
+        "status": "empty",
+        "retained": 0,
+        "last_success": "2026-11-12T19:59:56+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1457,7 +1479,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-12T07:17:59+00:00",
+        "last_success": "2026-11-12T19:59:57+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1465,7 +1487,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-12T07:18:00+00:00",
+        "last_success": "2026-11-12T19:59:58+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1473,7 +1495,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-12T07:18:02+00:00",
+        "last_success": "2026-11-12T19:59:59+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1481,7 +1503,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-12T07:18:23+00:00",
+        "last_success": "2026-11-12T20:00:13+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1489,7 +1511,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-12T07:18:34+00:00",
+        "last_success": "2026-11-12T20:00:24+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1497,7 +1519,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-12T07:18:34+00:00",
+        "last_success": "2026-11-12T20:00:24+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1505,7 +1527,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-11-12T07:18:35+00:00",
+        "last_success": "2026-11-12T20:00:25+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1513,7 +1535,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-12T07:18:35+00:00",
+        "last_success": "2026-11-12T20:00:25+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1521,7 +1543,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-12T07:18:37+00:00",
+        "last_success": "2026-11-12T20:00:26+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1529,7 +1551,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-12T07:18:39+00:00",
+        "last_success": "2026-11-12T20:00:27+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1537,15 +1559,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-12T07:18:40+00:00",
+        "last_success": "2026-11-12T20:00:28+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
-        "status": "empty",
-        "retained": 0,
-        "last_success": "2026-11-12T07:18:42+00:00",
+        "status": "ok",
+        "retained": 2,
+        "last_success": "2026-11-12T20:00:29+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1553,7 +1575,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-12T07:18:43+00:00",
+        "last_success": "2026-11-12T20:00:30+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1561,7 +1583,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-12T07:18:45+00:00",
+        "last_success": "2026-11-12T20:00:31+00:00",
         "fallback": false
       }
     }
