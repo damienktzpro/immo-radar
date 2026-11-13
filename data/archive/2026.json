@@ -1,8 +1,93 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-12T20:00:56+00:00",
+  "generated_at": "2026-11-13T06:52:56+00:00",
   "items": [
+    {
+      "id": "a31e25c08138c3d1",
+      "title": "Immobilier neuf : Les ventes chutent de 24,4 %, les prix résistent",
+      "summary": "Nouveau Neuf",
+      "url": "https://www.mysweetimmo.com/2026/11/13/immobilier-neuf-les-ventes-plongent-les-prix-resistent-au-3e-trimestre-2026/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier neuf : Les ventes chutent de 24,4 %, les prix résistent."
+    },
+    {
+      "id": "191df228bd8764c9",
+      "title": "RENT 2026 – Agent immobilier : « Celui qui ne sait pas se servir de l’IA sera remplacé » François Gagnon (ERA Immobilier)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/13/agents-immobiliers-ia-era-france/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : RENT 2026 – Agent immobilier : « Celui qui ne sait pas se servir de l’IA sera remplacé » François Gagnon (ERA Immobilier)."
+    },
+    {
+      "id": "ecdd128379e21f71",
+      "title": "Gestion locative : comment l’IA change la donne dans le traitement des e-mails",
+      "summary": "Le 13/11/2026 à 00H00 Entre sollicitations des locataires, demandes des propriétaires et échanges avec les prestataires, la boîte mail occupe une place centrale dans le quotidien des gestionnaires locatifs. Derrière chaque message se cachent souvent plusieurs recherches et manipulations dans le logiciel métier. Et si l'IA permettait de repenser cette organisation ? Avec sa messagerie intelligente, qui lui a valu de remporter l",
+      "url": "https://www.journaldelagence.com/1414636-gestion-locative-comment-lia-change-la-donne-dans-le-traitement-des-e-mails",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Gestion locative : comment l’IA change la donne dans le traitement des e-mails."
+    },
+    {
+      "id": "c441557ba59a3f44",
+      "title": "Avis relatif à l'extension d'un avenant à la convention collective nationale de l'habitat et logement accompagnés",
+      "summary": "Texte officiel concernant le logement social, l’habitat ou les organismes du secteur.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055081916",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-13T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Logement social / Habitat",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Avis relatif à l'extension d'un avenant à la convention collective nationale de l'habitat et logement accompagnés.",
+      "legal_stage": "jorf"
+    },
     {
       "id": "0c1e8093029e8672",
       "title": "De nouvelles données sur les loyers sont disponibles",
@@ -46,9 +131,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : MyNotary et Orpi : les contrats immobiliers deviennent une mine de données pour les agences."
     },
     {
-      "id": "2d1a7c746b5f4f29",
-      "title": "RENT 2026 - Marché immobilier : « Il vaut mieux vendre aujourd'hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)",
-      "summary": "Nouveau Podcasts",
+      "id": "1a3eb7cb6a0dba54",
+      "title": "RENT 2026 – Marché immobilier : « Il vaut mieux vendre aujourd’hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)",
+      "summary": "Podcasts",
       "url": "https://www.mysweetimmo.com/2026/11/12/vendre-ou-attendre-marche-immobilier-fnaim-region-sud/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -64,7 +149,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 - Marché immobilier : « Il vaut mieux vendre aujourd'hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 – Marché immobilier : « Il vaut mieux vendre aujourd’hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)."
     },
     {
       "id": "4db93ba560a5c418",
@@ -149,6 +234,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Agents immobiliers : l’IA amplifie vos pratiques, les bonnes comme les mauvaises !."
+    },
+    {
+      "id": "354aa421c03ff627",
+      "title": "Logement : 5 solutions pour avoir chaud l’hiver et rester au frais l’été",
+      "summary": "Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/11/12/logement-5-solutions-pour-avoir-chaud-lhiver-et-rester-au-frais-lete/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Logement : 5 solutions pour avoir chaud l’hiver et rester au frais l’été."
     },
     {
       "id": "52973b49eb8c894a",
@@ -339,9 +445,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – IA et portails immobiliers : « Seulement 2 % du trafic vient des intelligences artificielles » Baptiste Capron (SeL…."
     },
     {
-      "id": "48b33768db5841c7",
-      "title": "RENT 2026 – Mandataires immobiliers : « Ne me parle pas de réseau », Christine Cadrot",
-      "summary": "Pros de l’immo",
+      "id": "d5d31ab76434ce36",
+      "title": "RENT 2026 – Mandataires immobiliers : « Ne me parle pas de réseau » Christine Cadrot",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/10/mandataires-immobiliers-christine-cadrot-collectif/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -357,7 +463,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – Mandataires immobiliers : « Ne me parle pas de réseau », Christine Cadrot."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – Mandataires immobiliers : « Ne me parle pas de réseau » Christine Cadrot."
     },
     {
       "id": "c5b30d58a6369a53",
@@ -1819,7 +1925,7 @@
     {
       "id": "d25d2e2bee230fde",
       "title": "Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spécialiste du LMNP. 26 Octobre 2026",
-      "summary": "Qu'est-ce que le LMNP ? (Loueur en Meublé Non Professionnel) Lorsqu'un propriétaire loue un logement déjà meublé à un locataire, il peut bénéficier du régime dit \"LMNP\" ou \"Loueur en meublé non professionnel\". C'est un régime fiscal adapté à ce type de location. Il présente de nombreux avantages et quelques inconvénients que nous allons vous détailler dans cet article. 26 Octobre 2026 Expert-comptable LMNP : 3 avantages et tar",
+      "summary": "Expert-comptable LMNP : 3 avantages et tarifs 2026 Vous êtes un investisseur immobilier locatif et vous avez adopté une stratégie de location en meublé ? Alors, vous êtes sans doute sous le statut de Loueur en Meublé Non Professionnel (LMNP), tant que vos recettes de location meublée ne dépassent pas 23 000 € par an, ou qu’elles restent inférieures aux autres revenus d’activité de votre foyer. Si les deux seuils sont dépassés,",
       "url": "https://horiz.io/investissement-immobilier/interview-de-florian-investir-en-meuble-en-lmnp",
       "source": "Horiz.io",
       "source_level": "D",
