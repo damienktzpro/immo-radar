@@ -1,12 +1,33 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-13T06:52:56+00:00",
+  "generated_at": "2026-11-13T19:48:55+00:00",
   "items": [
+    {
+      "id": "2c77732d8e77d336",
+      "title": "Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat : retour sur deux jours d’échanges",
+      "summary": "13 novembre 2026 Les 4 et 5 novembre, le réseau ANIL/ADIL était présent au Salon de la Copropriété et de l’Habitat, à Paris Expo Porte de Versailles.",
+      "url": "https://www.anil.org/actualites-evenements/details/le-reseau-anil-adil-au-salon-de-la-copropriete-et-de-lhabitat-retour-sur-deux-jours-dechanges/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat : retour sur deux jours d’échanges."
+    },
     {
       "id": "a31e25c08138c3d1",
       "title": "Immobilier neuf : Les ventes chutent de 24,4 %, les prix résistent",
-      "summary": "Nouveau Neuf",
+      "summary": "Neuf",
       "url": "https://www.mysweetimmo.com/2026/11/13/immobilier-neuf-les-ventes-plongent-les-prix-resistent-au-3e-trimestre-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -25,9 +46,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier neuf : Les ventes chutent de 24,4 %, les prix résistent."
     },
     {
-      "id": "191df228bd8764c9",
-      "title": "RENT 2026 – Agent immobilier : « Celui qui ne sait pas se servir de l’IA sera remplacé » François Gagnon (ERA Immobilier)",
-      "summary": "Consultez la publication source pour les informations détaillées.",
+      "id": "154b37f90c4e3933",
+      "title": "RENT 2026 – Agent immobilier : « Celui qui ne sait pas se servir de l’IA sera remplacé », François Gagnon (ERA Immobilier)",
+      "summary": "Pros de l’immo",
       "url": "https://www.mysweetimmo.com/2026/11/13/agents-immobiliers-ia-era-france/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -43,7 +64,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : RENT 2026 – Agent immobilier : « Celui qui ne sait pas se servir de l’IA sera remplacé » François Gagnon (ERA Immobilier)."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : RENT 2026 – Agent immobilier : « Celui qui ne sait pas se servir de l’IA sera remplacé », François Gagnon (ERA Immobilier)."
     },
     {
       "id": "ecdd128379e21f71",
@@ -65,6 +86,69 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Gestion locative : comment l’IA change la donne dans le traitement des e-mails."
+    },
+    {
+      "id": "85034deebccc25bf",
+      "title": "Rénovation d’escalier : Quel budget prévoir pour préparer sa maison à la vente ?",
+      "summary": "Avant de vendre une maison, un escalier usé peut peser sur la première impression des visiteurs. Peinture, ponçage ou habillage des marches : quelles solutions envisager et quel budget prévoir pour présenter un intérieur soigné ? Contenu sponsorisé par renovationescalier.fr",
+      "url": "https://www.mysweetimmo.com/2026/11/13/renovation-escalier-budget-vente/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Rénovation d’escalier : Quel budget prévoir pour préparer sa maison à la vente ?."
+    },
+    {
+      "id": "88e0e596f1f9582d",
+      "title": "RENT 2026 – Agent immobilier : « Partager ses exclusivités, c’est près de 38 000 euros de chiffre additionnel » Bahi Khoury (Amanda)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/13/mandat-exclusif-partage-amanda-ventes/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : RENT 2026 – Agent immobilier : « Partager ses exclusivités, c’est près de 38 000 euros de chiffre additionnel » Bahi Khoury (Am…."
+    },
+    {
+      "id": "b5d38f8602b1a6fe",
+      "title": "RENT 2026 – IA immobilière : « La zone de génie de nos conseillers, c’est l’humain » Samuel Caux (eXp France)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/13/ia-immobiliere-conseillers-humain-exp-france/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – IA immobilière : « La zone de génie de nos conseillers, c’est l’humain » Samuel Caux (eXp France)."
     },
     {
       "id": "c441557ba59a3f44",
@@ -131,8 +215,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : MyNotary et Orpi : les contrats immobiliers deviennent une mine de données pour les agences."
     },
     {
-      "id": "1a3eb7cb6a0dba54",
-      "title": "RENT 2026 – Marché immobilier : « Il vaut mieux vendre aujourd’hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)",
+      "id": "2d1a7c746b5f4f29",
+      "title": "RENT 2026 - Marché immobilier : « Il vaut mieux vendre aujourd'hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)",
       "summary": "Podcasts",
       "url": "https://www.mysweetimmo.com/2026/11/12/vendre-ou-attendre-marche-immobilier-fnaim-region-sud/",
       "source": "MySweetImmo",
@@ -149,7 +233,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 – Marché immobilier : « Il vaut mieux vendre aujourd’hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 - Marché immobilier : « Il vaut mieux vendre aujourd'hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)."
     },
     {
       "id": "4db93ba560a5c418",
@@ -255,6 +339,111 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Logement : 5 solutions pour avoir chaud l’hiver et rester au frais l’été."
+    },
+    {
+      "id": "92deb8140765a389",
+      "title": "Précarité énergétique",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les précaires énergétiques C'est l'heure de faire les comptes ! Retrouvez notre sélection hebdomadaire des actualités à retenir des derniers jours. 12/11/2026 Gare Guyancourt du Grand Paris express Chiffre d'affaires Legrand Réservations de logements neufs Hausse du Smic",
+      "url": "https://www.batiactu.com/edito/precarite-energetique-75847.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Précarité énergétique."
+    },
+    {
+      "id": "cdedd133f4d11243",
+      "title": "Gare Guyancourt du Grand Paris express",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les précaires énergétiques C'est l'heure de faire les comptes ! Retrouvez notre sélection hebdomadaire des actualités à retenir des derniers jours. 12/11/2026 Précarité énergétique Chiffre d'affaires Legrand Réservations de logements neufs Hausse du Smic",
+      "url": "https://www.batiactu.com/edito/gare-guyancourt-du-grand-paris-express-75847.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Gare Guyancourt du Grand Paris express."
+    },
+    {
+      "id": "22d9914617d41640",
+      "title": "Chiffre d'affaires Legrand",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les précaires énergétiques C'est l'heure de faire les comptes ! Retrouvez notre sélection hebdomadaire des actualités à retenir des derniers jours. 12/11/2026 Précarité énergétique Gare Guyancourt du Grand Paris express Réservations de logements neufs Hausse du Smic",
+      "url": "https://www.batiactu.com/edito/chiffre-d-affaires-legrand-75847.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Chiffre d'affaires Legrand."
+    },
+    {
+      "id": "e38c518169cc6fee",
+      "title": "Réservations de logements neufs",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les précaires énergétiques C'est l'heure de faire les comptes ! Retrouvez notre sélection hebdomadaire des actualités à retenir des derniers jours. 12/11/2026 Précarité énergétique Gare Guyancourt du Grand Paris express Chiffre d'affaires Legrand Hausse du Smic",
+      "url": "https://www.batiactu.com/edito/reservations-de-logements-neufs-75847.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Réservations de logements neufs."
+    },
+    {
+      "id": "49766a147a8fb960",
+      "title": "Hausse du Smic",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les précaires énergétiques C'est l'heure de faire les comptes ! Retrouvez notre sélection hebdomadaire des actualités à retenir des derniers jours. 12/11/2026 Précarité énergétique Gare Guyancourt du Grand Paris express Chiffre d'affaires Legrand Réservations de logements neufs",
+      "url": "https://www.batiactu.com/edito/hausse-du-smic-75847.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Hausse du Smic."
     },
     {
       "id": "52973b49eb8c894a",
@@ -673,27 +862,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement à Lyon : Ce qu’il faut comparer avant d’acheter dans le neuf."
-    },
-    {
-      "id": "2c77732d8e77d336",
-      "title": "Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat : retour sur deux jours d’échanges",
-      "summary": "06 novembre 2026 Les 4 et 5 novembre, le réseau ANIL/ADIL était présent au Salon de la Copropriété et de l’Habitat, à Paris Expo Porte de Versailles.",
-      "url": "https://www.anil.org/actualites-evenements/details/le-reseau-anil-adil-au-salon-de-la-copropriete-et-de-lhabitat-retour-sur-deux-jours-dechanges/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-06T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat : retour sur deux jours d’échanges."
     },
     {
       "id": "3262e51a06f86ce8",
