@@ -1,8 +1,50 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-14T06:34:26+00:00",
+  "generated_at": "2026-11-14T18:12:28+00:00",
   "items": [
+    {
+      "id": "27f60e24df801326",
+      "title": "Salon immobilier israélien à Paris : L'interdiction rejetée, ce qui est prévu dimanche",
+      "summary": "Nouveau International",
+      "url": "https://www.mysweetimmo.com/2026/11/14/salon-immobilier-israelien-paris-interdiction-rejetee/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Salon immobilier israélien à Paris : L'interdiction rejetée, ce qui est prévu dimanche."
+    },
+    {
+      "id": "c7d7d726d06cd69d",
+      "title": "RENT 2026 – Immobilier et viager : « Le marché va être explosif » Sophie Richard (Viagimmo)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/14/viager-sophie-richard-viagimmo-affiliation-franchise/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 – Immobilier et viager : « Le marché va être explosif » Sophie Richard (Viagimmo)."
+    },
     {
       "id": "b6bf7d441227acce",
       "title": "Arrêté du 9 novembre 2026 fixant les modalités de calcul et de paiement de la cotisation additionnelle due à la Caisse de garantie du logement locatif social",
@@ -237,8 +279,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : MyNotary et Orpi : les contrats immobiliers deviennent une mine de données pour les agences."
     },
     {
-      "id": "2d1a7c746b5f4f29",
-      "title": "RENT 2026 - Marché immobilier : « Il vaut mieux vendre aujourd'hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)",
+      "id": "1a3eb7cb6a0dba54",
+      "title": "RENT 2026 – Marché immobilier : « Il vaut mieux vendre aujourd’hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)",
       "summary": "Podcasts",
       "url": "https://www.mysweetimmo.com/2026/11/12/vendre-ou-attendre-marche-immobilier-fnaim-region-sud/",
       "source": "MySweetImmo",
@@ -255,7 +297,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 - Marché immobilier : « Il vaut mieux vendre aujourd'hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 – Marché immobilier : « Il vaut mieux vendre aujourd’hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)."
     },
     {
       "id": "4db93ba560a5c418",

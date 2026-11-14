@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-11-14T06:33:59+00:00",
+  "generated_at": "2026-11-14T18:11:47+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "27f60e24df801326",
+      "title": "Salon immobilier israélien à Paris : L'interdiction rejetée, ce qui est prévu dimanche",
+      "summary": "Nouveau International",
+      "url": "https://www.mysweetimmo.com/2026/11/14/salon-immobilier-israelien-paris-interdiction-rejetee/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Salon immobilier israélien à Paris : L'interdiction rejetée, ce qui est prévu dimanche."
+    },
+    {
+      "id": "c7d7d726d06cd69d",
+      "title": "RENT 2026 – Immobilier et viager : « Le marché va être explosif » Sophie Richard (Viagimmo)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/14/viager-sophie-richard-viagimmo-affiliation-franchise/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 – Immobilier et viager : « Le marché va être explosif » Sophie Richard (Viagimmo)."
+    },
     {
       "id": "b6bf7d441227acce",
       "title": "Arrêté du 9 novembre 2026 fixant les modalités de calcul et de paiement de la cotisation additionnelle due à la Caisse de garantie du logement locatif social",
@@ -236,8 +278,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Logement : 5 solutions pour avoir chaud l’hiver et rester au frais l’été."
     },
     {
-      "id": "2d1a7c746b5f4f29",
-      "title": "RENT 2026 - Marché immobilier : « Il vaut mieux vendre aujourd'hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)",
+      "id": "1a3eb7cb6a0dba54",
+      "title": "RENT 2026 – Marché immobilier : « Il vaut mieux vendre aujourd’hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)",
       "summary": "Podcasts",
       "url": "https://www.mysweetimmo.com/2026/11/12/vendre-ou-attendre-marche-immobilier-fnaim-region-sud/",
       "source": "MySweetImmo",
@@ -254,7 +296,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 - Marché immobilier : « Il vaut mieux vendre aujourd'hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 – Marché immobilier : « Il vaut mieux vendre aujourd’hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)."
     },
     {
       "id": "4db93ba560a5c418",
@@ -488,27 +530,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Travaux, quartier, surface, sur quoi les acheteurs sont prêts à céder."
     },
     {
-      "id": "248c2515db92f7e3",
-      "title": "Immobilier Arcachon : La villa historique Les Chaumettes vendue environ 7 millions d’euros",
-      "summary": "Luxe",
-      "url": "https://www.mysweetimmo.com/2026/11/11/immobilier-arcachon-la-villa-historique-les-chaumettes-vendue-environ-7-millions-deuros/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-11T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Arcachon : La villa historique Les Chaumettes vendue environ 7 millions d’euros."
-    },
-    {
       "id": "157724edbf343109",
       "title": "Immobilier et proptech : « Un tsunami de 12 000 visiteurs inscrits pour un RENT 2026 record » Stéphane Scarella",
       "summary": "Consultez la publication source pour les informations détaillées.",
@@ -549,27 +570,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – IA et portails immobiliers : « Seulement 2 % du trafic vient des intelligences artificielles » Baptiste Capron (SeL…."
-    },
-    {
-      "id": "d5d31ab76434ce36",
-      "title": "RENT 2026 – Mandataires immobiliers : « Ne me parle pas de réseau » Christine Cadrot",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/11/10/mandataires-immobiliers-christine-cadrot-collectif/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-10T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – Mandataires immobiliers : « Ne me parle pas de réseau » Christine Cadrot."
     },
     {
       "id": "e2419b3f72381f09",
@@ -1574,9 +1574,9 @@
     }
   ],
   "source_stats": {
+    "MySweetImmo": 16,
     "Légifrance": 2,
     "ANIL": 13,
-    "MySweetImmo": 16,
     "Journal de l'Agence": 16,
     "Batiactu": 7,
     "Immobilier 2.0": 16,
@@ -1598,7 +1598,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-14T06:33:12+00:00",
+        "last_success": "2026-11-14T18:11:08+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1606,7 +1606,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-14T06:33:14+00:00",
+        "last_success": "2026-11-14T18:11:10+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1614,7 +1614,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-14T06:33:15+00:00",
+        "last_success": "2026-11-14T18:11:10+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1622,7 +1622,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-14T06:33:16+00:00",
+        "last_success": "2026-11-14T18:11:12+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1630,7 +1630,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-14T06:33:37+00:00",
+        "last_success": "2026-11-14T18:11:30+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1638,7 +1638,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-14T06:33:49+00:00",
+        "last_success": "2026-11-14T18:11:38+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1646,7 +1646,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-14T06:33:49+00:00",
+        "last_success": "2026-11-14T18:11:38+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1654,7 +1654,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-11-14T06:33:50+00:00",
+        "last_success": "2026-11-14T18:11:39+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1662,7 +1662,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-14T06:33:51+00:00",
+        "last_success": "2026-11-14T18:11:39+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1670,7 +1670,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-14T06:33:53+00:00",
+        "last_success": "2026-11-14T18:11:41+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1678,7 +1678,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-14T06:33:54+00:00",
+        "last_success": "2026-11-14T18:11:42+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1686,7 +1686,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-14T06:33:55+00:00",
+        "last_success": "2026-11-14T18:11:44+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1694,7 +1694,7 @@
         "ok": true,
         "status": "ok",
         "retained": 7,
-        "last_success": "2026-11-14T06:33:57+00:00",
+        "last_success": "2026-11-14T18:11:45+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1702,7 +1702,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-14T06:33:58+00:00",
+        "last_success": "2026-11-14T18:11:46+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1710,7 +1710,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-14T06:33:58+00:00",
+        "last_success": "2026-11-14T18:11:46+00:00",
         "fallback": false
       }
     }
