@@ -1,12 +1,34 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-14T22:31:19+00:00",
+  "generated_at": "2026-11-15T06:42:11+00:00",
   "items": [
+    {
+      "id": "74c649dcf8c983fa",
+      "title": "Arrêté du 4 novembre 2026 portant approbation des radiateurs numériques à récupération de chaleur fatale issue d'équipements informatiques dans la méthode de calcul prévue à l'article R. 172-6 du code de la construction et de l'habitation",
+      "summary": "Texte officiel concernant la construction, les professionnels du secteur ou le Code de la construction et de l’habitation.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055088913",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-15T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Construction / Réglementation",
+      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Arrêté du 4 novembre 2026 portant approbation des radiateurs numériques à récupération de chaleur fatale issue d'équipements in….",
+      "legal_stage": "jorf"
+    },
     {
       "id": "27f60e24df801326",
       "title": "Salon immobilier israélien à Paris : L'interdiction rejetée, ce qui est prévu dimanche",
-      "summary": "Nouveau International",
+      "summary": "International",
       "url": "https://www.mysweetimmo.com/2026/11/14/salon-immobilier-israelien-paris-interdiction-rejetee/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -44,6 +66,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 – Immobilier et viager : « Le marché va être explosif » Sophie Richard (Viagimmo)."
+    },
+    {
+      "id": "83e0f1f2fdd31002",
+      "title": "Immobilier Biscarrosse : 22 appartements conçus pour moins subir la chaleur",
+      "summary": "Tout bô, tout neuf",
+      "url": "https://www.mysweetimmo.com/2026/11/14/immobilier-biscarrosse-22-appartements-concus-pour-moins-subir-la-chaleur/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-14T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Biscarrosse : 22 appartements conçus pour moins subir la chaleur."
     },
     {
       "id": "b6bf7d441227acce",
