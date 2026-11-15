@@ -1,8 +1,71 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-15T06:42:11+00:00",
+  "generated_at": "2026-11-15T18:56:05+00:00",
   "items": [
+    {
+      "id": "1cece76d21673c44",
+      "title": "RENT 2026 – Achat immobilier : « Même dans un contexte compliqué, les Français recherchent de la propriété », David Benbassat (Bien'ici)",
+      "summary": "Nouveau Podcasts",
+      "url": "https://www.mysweetimmo.com/2026/11/15/achat-immobilier-reve-propriete-david-benbassat-bienici/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – Achat immobilier : « Même dans un contexte compliqué, les Français recherchent de la propriété », David Benbassat (…."
+    },
+    {
+      "id": "69818952d001caf0",
+      "title": "RENT 2026 – Les agents immobiliers ont du cœur : « 60 000 euros de bénéfices reversés aux Restos » Jacques Agid (Orpi)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/15/agents-immobiliers-ont-du-coeur-jacques-agid/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – Les agents immobiliers ont du cœur : « 60 000 euros de bénéfices reversés aux Restos » Jacques Agid (Orpi)."
+    },
+    {
+      "id": "30bcda496d345443",
+      "title": "Immobilier Frontignan : 105 logements pour réunir jeunes et seniors",
+      "summary": "Nouveau Tout bô, tout neuf",
+      "url": "https://www.mysweetimmo.com/2026/11/15/immobilier-frontignan-105-logements-pour-reunir-jeunes-et-seniors/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-15T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Frontignan : 105 logements pour réunir jeunes et seniors."
+    },
     {
       "id": "74c649dcf8c983fa",
       "title": "Arrêté du 4 novembre 2026 portant approbation des radiateurs numériques à récupération de chaleur fatale issue d'équipements informatiques dans la méthode de calcul prévue à l'article R. 172-6 du code de la construction et de l'habitation",
@@ -26,8 +89,8 @@
       "legal_stage": "jorf"
     },
     {
-      "id": "27f60e24df801326",
-      "title": "Salon immobilier israélien à Paris : L'interdiction rejetée, ce qui est prévu dimanche",
+      "id": "6e7540947b1e2664",
+      "title": "Salon immobilier israélien à Paris : L’interdiction rejetée, ce qui est prévu dimanche",
       "summary": "International",
       "url": "https://www.mysweetimmo.com/2026/11/14/salon-immobilier-israelien-paris-interdiction-rejetee/",
       "source": "MySweetImmo",
@@ -44,12 +107,12 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Salon immobilier israélien à Paris : L'interdiction rejetée, ce qui est prévu dimanche."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Salon immobilier israélien à Paris : L’interdiction rejetée, ce qui est prévu dimanche."
     },
     {
-      "id": "c7d7d726d06cd69d",
-      "title": "RENT 2026 – Immobilier et viager : « Le marché va être explosif » Sophie Richard (Viagimmo)",
-      "summary": "Consultez la publication source pour les informations détaillées.",
+      "id": "2b17da17ba944142",
+      "title": "RENT 2026 – Immobilier et viager : « Le marché va être explosif », Sophie Richard (Viagimmo)",
+      "summary": "Viager et nue-propriété",
       "url": "https://www.mysweetimmo.com/2026/11/14/viager-sophie-richard-viagimmo-affiliation-franchise/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -65,7 +128,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 – Immobilier et viager : « Le marché va être explosif » Sophie Richard (Viagimmo)."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 – Immobilier et viager : « Le marché va être explosif », Sophie Richard (Viagimmo)."
     },
     {
       "id": "83e0f1f2fdd31002",
@@ -153,9 +216,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier neuf : Les ventes chutent de 24,4 %, les prix résistent."
     },
     {
-      "id": "154b37f90c4e3933",
-      "title": "RENT 2026 – Agent immobilier : « Celui qui ne sait pas se servir de l’IA sera remplacé », François Gagnon (ERA Immobilier)",
-      "summary": "Pros de l’immo",
+      "id": "191df228bd8764c9",
+      "title": "RENT 2026 – Agent immobilier : « Celui qui ne sait pas se servir de l’IA sera remplacé » François Gagnon (ERA Immobilier)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/13/agents-immobiliers-ia-era-france/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -171,7 +234,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : RENT 2026 – Agent immobilier : « Celui qui ne sait pas se servir de l’IA sera remplacé », François Gagnon (ERA Immobilier)."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : RENT 2026 – Agent immobilier : « Celui qui ne sait pas se servir de l’IA sera remplacé » François Gagnon (ERA Immobilier)."
     },
     {
       "id": "ecdd128379e21f71",
