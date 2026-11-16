@@ -1,12 +1,75 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-15T18:56:05+00:00",
+  "generated_at": "2026-11-16T06:40:24+00:00",
   "items": [
     {
-      "id": "1cece76d21673c44",
-      "title": "RENT 2026 – Achat immobilier : « Même dans un contexte compliqué, les Français recherchent de la propriété », David Benbassat (Bien'ici)",
+      "id": "5efff7456f000a39",
+      "title": "RENT 2026 – Marché immobilier : « On n'est pas en crise permanente », Romain Odano (Nestenn)",
       "summary": "Nouveau Podcasts",
+      "url": "https://www.mysweetimmo.com/2026/11/16/marche-immobilier-romain-odano-nestenn/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 – Marché immobilier : « On n'est pas en crise permanente », Romain Odano (Nestenn)."
+    },
+    {
+      "id": "62d44ac866fbad57",
+      "title": "Agents immobiliers : quel est le DPE de votre activité ?",
+      "summary": "Le 16/11/2026 à 07H29 Diagnostic de Performance et d’Efficacité : et si nous regardions notre propre activité avec autant d’attention que les logements que nous vendons ? Car la performance ne se mesure pas seulement au chiffre d’affaires, mais aussi à la qualité de vie. Dominique Piredda nous invite à faire notre propre diagnostic, de A à G, pour gagner en efficacité sans sacrifier notre équilibre. RENT 2026 : L’Adresse prépa",
+      "url": "https://www.journaldelagence.com/1414744-agents-immobiliers-quel-est-le-dpe-de-votre-activite",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Agents immobiliers : quel est le DPE de votre activité ?."
+    },
+    {
+      "id": "299edddaf0dd3661",
+      "title": "RENT 2026 : L’Adresse prépare ses associés à l’IA agentique",
+      "summary": "Le 16/11/2026 à 07H08 Rencontré le 4 novembre au salon RENT, Brice Cardi, président du réseau L’Adresse, explique pourquoi les agences indépendantes rejoignent la coopérative et comment il prépare ses associés à la déferlante de l’intelligence artificielle. Gestion locative : comment l’IA change la donne dans le traitement des e-mails Le 13/11/2026 à 00H00 Entre sollicitations des locataires, demandes des propriétaires et écha",
+      "url": "https://www.journaldelagence.com/1414739-rent-2026-ladresse-prepare-ses-associes-a-lia-agentique",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : RENT 2026 : L’Adresse prépare ses associés à l’IA agentique."
+    },
+    {
+      "id": "fa0cd408737af255",
+      "title": "RENT 2026 – Achat immobilier : « Même dans un contexte compliqué, les Français recherchent de la propriété », David Benbassat (Bien’ici)",
+      "summary": "Podcasts",
       "url": "https://www.mysweetimmo.com/2026/11/15/achat-immobilier-reve-propriete-david-benbassat-bienici/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -387,7 +450,7 @@
     {
       "id": "1a3eb7cb6a0dba54",
       "title": "RENT 2026 – Marché immobilier : « Il vaut mieux vendre aujourd’hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)",
-      "summary": "Podcasts",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/12/vendre-ou-attendre-marche-immobilier-fnaim-region-sud/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -639,7 +702,7 @@
     {
       "id": "248c2515db92f7e3",
       "title": "Immobilier Arcachon : La villa historique Les Chaumettes vendue environ 7 millions d’euros",
-      "summary": "Luxe",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/11/immobilier-arcachon-la-villa-historique-les-chaumettes-vendue-environ-7-millions-deuros/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -660,7 +723,7 @@
     {
       "id": "78e34fcaa93117ca",
       "title": "Immobilier de prestige Alpilles : Les acheteurs reviennent mais négocient les prix",
-      "summary": "Marché immobilier",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/11/immobilier-de-prestige-alpilles-les-acheteurs-reviennent-mais-negocient-les-prix/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -764,11 +827,11 @@
     {
       "id": "f37b1b5db2b8ad16",
       "title": "Logement : Les propriétaires désavouent la politique d’Emmanuel Macron",
-      "summary": "Règlementation",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/10/logement-les-proprietaires-desavouent-la-politique-demmanuel-macron/",
       "source": "MySweetImmo",
       "source_level": "C",
-      "category": "lois",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
@@ -776,11 +839,11 @@
       ],
       "published_at": "2026-11-10T09:00:00+00:00",
       "status": "Publication",
-      "importance": 76,
+      "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Logement : Les propriétaires désavouent la politique d’Emmanuel Macron."
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : Les propriétaires désavouent la politique d’Emmanuel Macron."
     },
     {
       "id": "405a49d6066ecb60",
@@ -1077,7 +1140,7 @@
     {
       "id": "2b2057e33ebf6562",
       "title": "Budget 2027 rejeté : PTZ, LMNP, APL… Que reste-t-il pour l’immobilier ?",
-      "summary": "Politique",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/06/budget-2027-rejete-ptz-lmnp-apl-logement/",
       "source": "MySweetImmo",
       "source_level": "C",
