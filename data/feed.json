@@ -1,11 +1,32 @@
 {
-  "generated_at": "2026-11-16T06:39:48+00:00",
+  "generated_at": "2026-11-16T22:12:39+00:00",
   "version": "7.1",
   "items": [
     {
-      "id": "5efff7456f000a39",
-      "title": "RENT 2026 – Marché immobilier : « On n'est pas en crise permanente », Romain Odano (Nestenn)",
-      "summary": "Nouveau Podcasts",
+      "id": "9a542e4fdffbd512",
+      "title": "Indicateur des taux : une remontée généralisée des taux dans un contexte de tensions obligataires",
+      "summary": "16 novembre 2026 Au quatrième trimestre 2026, les taux de crédit immobilier repartent nettement à la hausse sur l’ensemble des maturités et des fourchettes observées. Cette progression intervient dans un contexte de tensions sur les marchés obligataires, marqué par…",
+      "url": "https://www.anil.org/documentation-experte/etudes-eclairages/etudes-et-eclairages-2026/credits-immobiliers-une-remontee-contenue-des-taux-dans-un-contexte-plus-incertain-1/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source institutionnelle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Indicateur des taux : une remontée généralisée des taux dans un contexte de tensions obligataires."
+    },
+    {
+      "id": "37e7e931b1989dc5",
+      "title": "RENT 2026 – Marché immobilier : « On n’est pas en crise permanente », Romain Odano (Nestenn)",
+      "summary": "Podcasts",
       "url": "https://www.mysweetimmo.com/2026/11/16/marche-immobilier-romain-odano-nestenn/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -21,7 +42,91 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 – Marché immobilier : « On n'est pas en crise permanente », Romain Odano (Nestenn)."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 – Marché immobilier : « On n’est pas en crise permanente », Romain Odano (Nestenn)."
+    },
+    {
+      "id": "7fe95f6982aa59b4",
+      "title": "Logement : CAFPI réclame des mesures pour relancer le marché",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/16/logement-cafpi-reclame-des-mesures-pour-relancer-le-marche/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Logement : CAFPI réclame des mesures pour relancer le marché."
+    },
+    {
+      "id": "99307fcc3fdc6a03",
+      "title": "Immobilier : L’élection présidentielle freine déjà les projets",
+      "summary": "Politique",
+      "url": "https://www.mysweetimmo.com/2026/11/16/immobilier-lelection-presidentielle-freine-deja-les-projets/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : L’élection présidentielle freine déjà les projets."
+    },
+    {
+      "id": "907b9e9960bcc420",
+      "title": "Immobilier à la montagne : Acheter en station est-il risqué ?",
+      "summary": "Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/16/immobilier-a-la-montagne-acheter-en-station-est-il-risque/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier à la montagne : Acheter en station est-il risqué ?."
+    },
+    {
+      "id": "0cb8539dd1833faf",
+      "title": "Précarité énergétique : la Fondation Laforêt mise sur une rénovation qui implique les habitants",
+      "summary": "Le 16/11/2026 à 08H10 Pour la première édition de son Prix du Logement Solidaire, la Fondation Laforêt a choisi de distinguer les Compagnons Bâtisseurs Île-de-France, parmi 230 candidatures. Une dotation de 30 000 euros permettra à l'association d'accompagner une vingtaine de ménages modestes dans l'amélioration de leur logement et la lutte contre la précarité énergétique. Agents immobiliers : quel est le DPE de votre activité",
+      "url": "https://www.journaldelagence.com/1414752-logement-solidaire-la-fondation-laforet-recompense-les-compagnons-batisseurs-ile-de-france",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Précarité énergétique : la Fondation Laforêt mise sur une rénovation qui implique les habitants."
     },
     {
       "id": "62d44ac866fbad57",
@@ -66,9 +171,30 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : RENT 2026 : L’Adresse prépare ses associés à l’IA agentique."
     },
     {
+      "id": "f7cca7e5c49cd83b",
+      "title": "Projet de loi \"relance logement\" : vers un recul de la protection du patrimoine ?",
+      "summary": "En débat 16/11/2026 Analyse Crise du logement : le projet de loi du gouvernement entre dans sa dernière ligne droite",
+      "url": "https://www.batiactu.com/edito/projet-loi-relance-logement-vers-un-recul-protection-75871.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Projet de loi \"relance logement\" : vers un recul de la protection du patrimoine ?."
+    },
+    {
       "id": "fa0cd408737af255",
       "title": "RENT 2026 – Achat immobilier : « Même dans un contexte compliqué, les Français recherchent de la propriété », David Benbassat (Bien’ici)",
-      "summary": "Podcasts",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/15/achat-immobilier-reve-propriete-david-benbassat-bienici/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -153,7 +279,7 @@
     {
       "id": "6e7540947b1e2664",
       "title": "Salon immobilier israélien à Paris : L’interdiction rejetée, ce qui est prévu dimanche",
-      "summary": "International",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/14/salon-immobilier-israelien-paris-interdiction-rejetee/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -257,48 +383,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Rénovation d’escalier : Quel budget prévoir pour préparer sa maison à la vente ?."
     },
     {
-      "id": "88e0e596f1f9582d",
-      "title": "RENT 2026 – Agent immobilier : « Partager ses exclusivités, c’est près de 38 000 euros de chiffre additionnel » Bahi Khoury (Amanda)",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/11/13/mandat-exclusif-partage-amanda-ventes/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-13T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : RENT 2026 – Agent immobilier : « Partager ses exclusivités, c’est près de 38 000 euros de chiffre additionnel » Bahi Khoury (Am…."
-    },
-    {
-      "id": "b5d38f8602b1a6fe",
-      "title": "RENT 2026 – IA immobilière : « La zone de génie de nos conseillers, c’est l’humain » Samuel Caux (eXp France)",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/11/13/ia-immobiliere-conseillers-humain-exp-france/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-13T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – IA immobilière : « La zone de génie de nos conseillers, c’est l’humain » Samuel Caux (eXp France)."
-    },
-    {
       "id": "ecdd128379e21f71",
       "title": "Gestion locative : comment l’IA change la donne dans le traitement des e-mails",
       "summary": "Le 13/11/2026 à 00H00 Entre sollicitations des locataires, demandes des propriétaires et échanges avec les prestataires, la boîte mail occupe une place centrale dans le quotidien des gestionnaires locatifs. Derrière chaque message se cachent souvent plusieurs recherches et manipulations dans le logiciel métier. Et si l'IA permettait de repenser cette organisation ? Avec sa messagerie intelligente, qui lui a valu de remporter l",
@@ -361,27 +445,6 @@
       "territory": "France",
       "topic": "Territoires",
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : De nouvelles données sur les loyers sont disponibles."
-    },
-    {
-      "id": "354aa421c03ff627",
-      "title": "Logement : 5 solutions pour avoir chaud l’hiver et rester au frais l’été",
-      "summary": "Règlementation",
-      "url": "https://www.mysweetimmo.com/2026/11/12/logement-5-solutions-pour-avoir-chaud-lhiver-et-rester-au-frais-lete/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-12T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Logement : 5 solutions pour avoir chaud l’hiver et rester au frais l’été."
     },
     {
       "id": "1a3eb7cb6a0dba54",
@@ -594,6 +657,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Travaux, quartier, surface, sur quoi les acheteurs sont prêts à céder."
     },
     {
+      "id": "8eacb721f24b3b01",
+      "title": "Observatoire de l’immobilier digital : Faut-il être partout sur le web ?",
+      "summary": "Pros de l’immo",
+      "url": "https://www.mysweetimmo.com/2026/11/11/agents-immobiliers-faut-il-etre-partout-sur-le-web/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-11T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Observatoire de l’immobilier digital : Faut-il être partout sur le web ?."
+    },
+    {
       "id": "248c2515db92f7e3",
       "title": "Immobilier Arcachon : La villa historique Les Chaumettes vendue environ 7 millions d’euros",
       "summary": "Consultez la publication source pour les informations détaillées.",
@@ -781,27 +865,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Estimation immobilière : comment l’expertise technique peut vous faire gagner des mandats."
     },
     {
-      "id": "2b2057e33ebf6562",
-      "title": "Budget 2027 rejeté : PTZ, LMNP, APL… Que reste-t-il pour l’immobilier ?",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/11/06/budget-2027-rejete-ptz-lmnp-apl-logement/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "investir",
-      "audiences": [
-        "investisseur",
-        "pro",
-        "particulier"
-      ],
-      "published_at": "2026-11-06T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Investir",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information peut modifier le rendement, la fiscalité ou le risque d’un investissement. Point suivi : Budget 2027 rejeté : PTZ, LMNP, APL… Que reste-t-il pour l’immobilier ?."
-    },
-    {
       "id": "34726aa4f2688476",
       "title": "Bien’ici lance Captation Vendeurs pour aider les agences à décrocher de nouveaux mandats",
       "summary": "Le 06/11/2026 à 00H00 Dans un marché où la conquête de mandats reste un enjeu majeur, Bien’ici lance Captation Vendeurs. L’objectif ? Permettre aux agences immobilières de gagner en visibilité auprès des propriétaires vendeurs, dès les premières étapes de leur projet. Explications. ERA Immobilier : « Pour réussir en 2027, mieux vaut se préparer que prédire » Le 05/11/2026 à 19H00 Alors que les incertitudes économiques et polit",
@@ -862,27 +925,6 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : ERA Immobilier : « Pour réussir en 2027, mieux vaut se préparer que prédire."
-    },
-    {
-      "id": "bc0a14366dbc4e4f",
-      "title": "RENT 2026 : Stéphane Plaza et Xavier Belvaux font le pari d’un réseau plus proche de ses franchisés",
-      "summary": "Le 05/11/2026 à 14H07 Quelques semaines après l'annonce du rapprochement entre Stéphane Plaza Immobilier et WIF Group, Xavier Belvaux et Stéphane Plaza dévoilent les coulisses de leur alliance et leurs ambitions communes. Gouvernance plus participative, indépendance financière, nouveaux outils et objectifs de développement : les deux associés entendent insuffler une nouvelle dynamique au réseau. Ils se confient au Journal de l",
-      "url": "https://www.journaldelagence.com/1414597-stephane-plaza-et-xavier-belvaux-le-pari-dun-reseau-plus-proche-de-ses-franchises",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "territoires",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-05T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Territoires",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette donnée locale aide à comparer plus précisément les marchés. Point suivi : RENT 2026 : Stéphane Plaza et Xavier Belvaux font le pari d’un réseau plus proche de ses franchisés."
     },
     {
       "id": "aa91f0f03ccbd9a2",
@@ -1366,27 +1408,6 @@
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Journée mondiale de la santé mentale."
     },
     {
-      "id": "07d6510fb2a19333",
-      "title": "Impayé de loyer : à qui s’adresser ? L’ADIL peut vous aider à y voir plus clair",
-      "summary": "08 octobre 2026 Un impayé de loyer peut rapidement devenir une source d’inquiétude, aussi bien pour le locataire que pour le propriétaire bailleur. Face à une situation d’impayé, plusieurs interlocuteurs peuvent être concernés : bailleur, Caf ou MSA , travailleur…",
-      "url": "https://www.anil.org/actualites-evenements/details/impaye-de-loyer-a-qui-sadresser-ladil-peut-vous-aider-a-y-voir-plus-clair/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "investisseur",
-        "pro",
-        "particulier"
-      ],
-      "published_at": "2026-10-08T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Impayé de loyer : à qui s’adresser ? L’ADIL peut vous aider à y voir plus clair."
-    },
-    {
       "id": "a2d36583f3a0994b",
       "title": "SeLoger Neuf propose aux promoteurs d’augmenter leur visibilité avec Top Position",
       "summary": "8 octobre 2026 - Le portail immobilier SeLoger Neuf lance Top Position, une nouvelle option pour les promoteurs désirant accélérer la vente de leurs programmes stratégiques. En effet, non [...]",
@@ -1597,11 +1618,11 @@
     }
   ],
   "source_stats": {
+    "ANIL": 13,
     "MySweetImmo": 16,
     "Journal de l'Agence": 16,
+    "Batiactu": 8,
     "Légifrance": 3,
-    "ANIL": 13,
-    "Batiactu": 7,
     "Immobilier 2.0": 16,
     "SDES / Sitadel": 1,
     "Horiz.io": 2,
@@ -1613,7 +1634,7 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 76,
+    "retained": 77,
     "rejected": 1216,
     "by_source": {
       "Service-Public.fr": {
@@ -1621,7 +1642,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-16T06:38:57+00:00",
+        "last_success": "2026-11-16T22:11:52+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1629,7 +1650,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-16T06:38:59+00:00",
+        "last_success": "2026-11-16T22:11:55+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1637,7 +1658,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-16T06:39:00+00:00",
+        "last_success": "2026-11-16T22:11:56+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1645,7 +1666,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-16T06:39:01+00:00",
+        "last_success": "2026-11-16T22:11:58+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1653,7 +1674,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-16T06:39:24+00:00",
+        "last_success": "2026-11-16T22:12:17+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1661,7 +1682,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-16T06:39:35+00:00",
+        "last_success": "2026-11-16T22:12:28+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1669,7 +1690,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-16T06:39:35+00:00",
+        "last_success": "2026-11-16T22:12:28+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1677,7 +1698,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-11-16T06:39:36+00:00",
+        "last_success": "2026-11-16T22:12:29+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1685,7 +1706,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-16T06:39:38+00:00",
+        "last_success": "2026-11-16T22:12:29+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1693,7 +1714,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-16T06:39:39+00:00",
+        "last_success": "2026-11-16T22:12:31+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1701,7 +1722,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-16T06:39:41+00:00",
+        "last_success": "2026-11-16T22:12:32+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1709,15 +1730,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-16T06:39:42+00:00",
+        "last_success": "2026-11-16T22:12:34+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 7,
-        "last_success": "2026-11-16T06:39:44+00:00",
+        "retained": 8,
+        "last_success": "2026-11-16T22:12:35+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1725,7 +1746,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-16T06:39:45+00:00",
+        "last_success": "2026-11-16T22:12:36+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1733,7 +1754,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-16T06:39:48+00:00",
+        "last_success": "2026-11-16T22:12:38+00:00",
         "fallback": false
       }
     }

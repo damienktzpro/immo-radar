@@ -1,12 +1,33 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-16T06:40:24+00:00",
+  "generated_at": "2026-11-16T22:13:14+00:00",
   "items": [
     {
-      "id": "5efff7456f000a39",
-      "title": "RENT 2026 – Marché immobilier : « On n'est pas en crise permanente », Romain Odano (Nestenn)",
-      "summary": "Nouveau Podcasts",
+      "id": "9a542e4fdffbd512",
+      "title": "Indicateur des taux : une remontée généralisée des taux dans un contexte de tensions obligataires",
+      "summary": "16 novembre 2026 Au quatrième trimestre 2026, les taux de crédit immobilier repartent nettement à la hausse sur l’ensemble des maturités et des fourchettes observées. Cette progression intervient dans un contexte de tensions sur les marchés obligataires, marqué par…",
+      "url": "https://www.anil.org/documentation-experte/etudes-eclairages/etudes-et-eclairages-2026/credits-immobiliers-une-remontee-contenue-des-taux-dans-un-contexte-plus-incertain-1/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source institutionnelle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Indicateur des taux : une remontée généralisée des taux dans un contexte de tensions obligataires."
+    },
+    {
+      "id": "37e7e931b1989dc5",
+      "title": "RENT 2026 – Marché immobilier : « On n’est pas en crise permanente », Romain Odano (Nestenn)",
+      "summary": "Podcasts",
       "url": "https://www.mysweetimmo.com/2026/11/16/marche-immobilier-romain-odano-nestenn/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -22,7 +43,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 – Marché immobilier : « On n'est pas en crise permanente », Romain Odano (Nestenn)."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 – Marché immobilier : « On n’est pas en crise permanente », Romain Odano (Nestenn)."
     },
     {
       "id": "62d44ac866fbad57",
@@ -67,9 +88,114 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : RENT 2026 : L’Adresse prépare ses associés à l’IA agentique."
     },
     {
+      "id": "7fe95f6982aa59b4",
+      "title": "Logement : CAFPI réclame des mesures pour relancer le marché",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/16/logement-cafpi-reclame-des-mesures-pour-relancer-le-marche/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Logement : CAFPI réclame des mesures pour relancer le marché."
+    },
+    {
+      "id": "99307fcc3fdc6a03",
+      "title": "Immobilier : L’élection présidentielle freine déjà les projets",
+      "summary": "Politique",
+      "url": "https://www.mysweetimmo.com/2026/11/16/immobilier-lelection-presidentielle-freine-deja-les-projets/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : L’élection présidentielle freine déjà les projets."
+    },
+    {
+      "id": "907b9e9960bcc420",
+      "title": "Immobilier à la montagne : Acheter en station est-il risqué ?",
+      "summary": "Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/16/immobilier-a-la-montagne-acheter-en-station-est-il-risque/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier à la montagne : Acheter en station est-il risqué ?."
+    },
+    {
+      "id": "0cb8539dd1833faf",
+      "title": "Précarité énergétique : la Fondation Laforêt mise sur une rénovation qui implique les habitants",
+      "summary": "Le 16/11/2026 à 08H10 Pour la première édition de son Prix du Logement Solidaire, la Fondation Laforêt a choisi de distinguer les Compagnons Bâtisseurs Île-de-France, parmi 230 candidatures. Une dotation de 30 000 euros permettra à l'association d'accompagner une vingtaine de ménages modestes dans l'amélioration de leur logement et la lutte contre la précarité énergétique. Agents immobiliers : quel est le DPE de votre activité",
+      "url": "https://www.journaldelagence.com/1414752-logement-solidaire-la-fondation-laforet-recompense-les-compagnons-batisseurs-ile-de-france",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Précarité énergétique : la Fondation Laforêt mise sur une rénovation qui implique les habitants."
+    },
+    {
+      "id": "f7cca7e5c49cd83b",
+      "title": "Projet de loi \"relance logement\" : vers un recul de la protection du patrimoine ?",
+      "summary": "En débat 16/11/2026 Analyse Crise du logement : le projet de loi du gouvernement entre dans sa dernière ligne droite",
+      "url": "https://www.batiactu.com/edito/projet-loi-relance-logement-vers-un-recul-protection-75871.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Projet de loi \"relance logement\" : vers un recul de la protection du patrimoine ?."
+    },
+    {
       "id": "fa0cd408737af255",
       "title": "RENT 2026 – Achat immobilier : « Même dans un contexte compliqué, les Français recherchent de la propriété », David Benbassat (Bien’ici)",
-      "summary": "Podcasts",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/15/achat-immobilier-reve-propriete-david-benbassat-bienici/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -154,7 +280,7 @@
     {
       "id": "6e7540947b1e2664",
       "title": "Salon immobilier israélien à Paris : L’interdiction rejetée, ce qui est prévu dimanche",
-      "summary": "International",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/14/salon-immobilier-israelien-paris-interdiction-rejetee/",
       "source": "MySweetImmo",
       "source_level": "C",
