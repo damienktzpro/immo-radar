@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-17T08:00:59+00:00",
+  "generated_at": "2026-11-17T21:01:03+00:00",
   "items": [
     {
       "id": "85ac1a31a79b7d04",
@@ -23,6 +23,110 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Nouvelle Parole d'expert : La rénovation énergétique en copropriété : aides, financement et travaux."
+    },
+    {
+      "id": "32fbd8960e72829b",
+      "title": "L’ADIL de Tarn-et-Garonne célèbre ses 50 ans !",
+      "summary": "17 novembre 2026 L’ADIL de Tarn-et-Garonne a célébré ses 50 ans à l’occasion d’une journée anniversaire réunissant partenaires, administrateurs, intervenants et acteurs du logement.",
+      "url": "https://www.anil.org/actualites-evenements/details/ladil-de-tarn-et-garonne-celebre-ses-50-ans/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : L’ADIL de Tarn-et-Garonne célèbre ses 50 ans !."
+    },
+    {
+      "id": "0bd65ebc34f74597",
+      "title": "Immobilier Paris : 9 passoires thermiques sur 10 pourraient être rénovées sans chantier dans tout l’immeuble",
+      "summary": "Nouveau Etudes et Sondages",
+      "url": "https://www.mysweetimmo.com/2026/11/17/immobilier-paris-9-passoires-thermiques-sur-10-pourraient-etre-renovees-sans-chantier-dans-tout-limmeuble/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Paris : 9 passoires thermiques sur 10 pourraient être rénovées sans chantier dans tout l’immeuble."
+    },
+    {
+      "id": "e5d66ee6089afeea",
+      "title": "RENT 2026 – Réseau immobilier : « Oui, je vais redemander la confiance de mes associés » Brice Cardi (l’Adresse)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/17/brice-cardi-ladresse-candidat-nouveau-mandat/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – Réseau immobilier : « Oui, je vais redemander la confiance de mes associés » Brice Cardi (l’Adresse)."
+    },
+    {
+      "id": "00bbfc3892765496",
+      "title": "Recherche IA : revendiquez la propriété de la fiche de votre agence immobilière sur ChatGPT",
+      "summary": "17 novembre 2026 - OpenAI lance « Entreprises sur ChatGPT » en version bêta sur son agent conversationnel. Grâce à cette nouvelle fonctionnalité clairement inspirée de Google My Business, il [...]",
+      "url": "https://immo2.pro/actualite-immobilier/recherche-ia-revendiquez-la-propriete-de-la-fiche-de-votre-agence-immobiliere-sur-chatgpt/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-11-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Recherche IA : revendiquez la propriété de la fiche de votre agence immobilière sur ChatGPT."
+    },
+    {
+      "id": "c4bc7aca018c539f",
+      "title": "L’Observatoire de l’immobilier digital dévoile ses premières données",
+      "summary": "17 novembre 2026 - Le 4 novembre dernier, dans le cadre du salon RENT 2026, l’Observatoire de l’immobilier digital a révélé une première photographie chiffrée des pratiques digitales [...]",
+      "url": "https://immo2.pro/actualite-immobilier/lobservatoire-de-limmobilier-digital-devoile-ses-premieres-donnees/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : L’Observatoire de l’immobilier digital dévoile ses premières données."
     },
     {
       "id": "9a542e4fdffbd512",
@@ -214,9 +318,51 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Projet de loi \"relance logement\" : vers un recul de la protection du patrimoine ?."
     },
     {
+      "id": "4cd15d5caf0e291b",
+      "title": "Immobilier : Ces 5 villes où les maisons se vendent à moins de 1 100 €/m²",
+      "summary": "Les vrais prix de l'immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/16/villes-moins-cheres-maisons-france/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Ces 5 villes où les maisons se vendent à moins de 1 100 €/m²."
+    },
+    {
+      "id": "974e215e2e3cd627",
+      "title": "Analyse Crise du logement : le projet de loi du gouvernement entre dans sa dernière ligne droite",
+      "summary": "16/11/2026 En débat Crise du logement : \"Le pire est devant nous\", Véronique Bédague (Nexity) En débat Projet de loi \"relance logement\" : vers un recul de la protection du patrimoine ?",
+      "url": "https://www.batiactu.com/edito/projet-loi-relance-logement-entre-dans-sa-derniere-75864.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Analyse Crise du logement : le projet de loi du gouvernement entre dans sa dernière ligne droite."
+    },
+    {
       "id": "fa0cd408737af255",
       "title": "RENT 2026 – Achat immobilier : « Même dans un contexte compliqué, les Français recherchent de la propriété », David Benbassat (Bien’ici)",
-      "summary": "Consultez la publication source pour les informations détaillées.",
+      "summary": "Podcasts",
       "url": "https://www.mysweetimmo.com/2026/11/15/achat-immobilier-reve-propriete-david-benbassat-bienici/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -407,7 +553,7 @@
     {
       "id": "a31e25c08138c3d1",
       "title": "Immobilier neuf : Les ventes chutent de 24,4 %, les prix résistent",
-      "summary": "Neuf",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/13/immobilier-neuf-les-ventes-plongent-les-prix-resistent-au-3e-trimestre-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -826,9 +972,30 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Hausse du Smic."
     },
     {
+      "id": "db5874348f952255",
+      "title": "Analyse Immobilier neuf : \"Rien ne va, tous les moteurs sont à l'arrêt en même temps !\" (FPI)",
+      "summary": "12/11/2026 Infographie Promotion immobilière : quatre ans d'une crise historique en cinq graphiques En débat Immobilier neuf : ce que la FPI défendra à Matignon lundi \"avant qu'il ne soit trop tard\"",
+      "url": "https://www.batiactu.com/edito/logement-neuf-rien-ne-ca-tous-moteurs-sont-a-arret-75845.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-12T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Analyse Immobilier neuf : \"Rien ne va, tous les moteurs sont à l'arrêt en même temps !\" (FPI)."
+    },
+    {
       "id": "52973b49eb8c894a",
       "title": "Immobilier : Travaux, quartier, surface, sur quoi les acheteurs sont prêts à céder",
-      "summary": "Marché immobilier",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/11/immobilier-acheteurs-safti-bilan-2026-perspectives-2027/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -844,7 +1011,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Travaux, quartier, surface, sur quoi les acheteurs sont prêts à céder."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Travaux, quartier, surface, sur quoi les acheteurs sont prêts à céder."
     },
     {
       "id": "248c2515db92f7e3",
