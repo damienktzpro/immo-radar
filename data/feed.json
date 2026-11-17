@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-11-16T22:12:39+00:00",
+  "generated_at": "2026-11-17T08:00:38+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "85ac1a31a79b7d04",
+      "title": "Nouvelle Parole d'expert : La rénovation énergétique en copropriété : aides, financement et travaux",
+      "summary": "17 novembre 2026 La rénovation énergétique en copropriété, c'est l'ensemble des travaux visant à améliorer la performance énergétique d'un immeuble collectif. Ces travaux permettent de réduire les consommations d'énergie, d'améliorer le confort des occupants et de…",
+      "url": "https://www.anil.org/parole-expert-logement-copropriete-renovation-energetique/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Nouvelle Parole d'expert : La rénovation énergétique en copropriété : aides, financement et travaux."
+    },
     {
       "id": "9a542e4fdffbd512",
       "title": "Indicateur des taux : une remontée généralisée des taux dans un contexte de tensions obligataires",
@@ -47,7 +68,7 @@
     {
       "id": "7fe95f6982aa59b4",
       "title": "Logement : CAFPI réclame des mesures pour relancer le marché",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/11/16/logement-cafpi-reclame-des-mesures-pour-relancer-le-marche/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -907,26 +928,6 @@
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : L’ANIL aux Rencontres nationales de l’habitat privé de l'Anah."
     },
     {
-      "id": "a612b14aaa97c042",
-      "title": "ERA Immobilier : « Pour réussir en 2027, mieux vaut se préparer que prédire",
-      "summary": "» Le 05/11/2026 à 19H00 Alors que les incertitudes économiques et politiques continuent de peser sur le marché immobilier, ERA Immobilier refuse de céder au pessimisme. Pour François Gagnon, président d'ERA France et ERA Europe, la clé de la performance ne réside pas dans l'attente de jours meilleurs, mais dans la capacité des professionnels à s'adapter, à maîtriser leur marché et surtout à écouter leurs clients. Une vision pa",
-      "url": "https://www.journaldelagence.com/1414617-era-immobilier-pour-reussir-en-2027-mieux-vaut-se-preparer-que-predire",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-11-05T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : ERA Immobilier : « Pour réussir en 2027, mieux vaut se préparer que prédire."
-    },
-    {
       "id": "aa91f0f03ccbd9a2",
       "title": "Roselyne Conan était dans l’émission « On vous doit bien ça",
       "summary": "» 04 novembre 2026 Roselyne Conan, Directrice Générale de l'ANIL, était l’invitée d’Enora Malagré dans l’émission « On vous doit bien ça » pour échanger autour d’un sujet au cœur des préoccupations des ménages : le crédit immobilier, à l’heure de la remontée des taux.",
@@ -946,26 +947,6 @@
       "territory": "France",
       "topic": "Credit",
       "why_it_matters": "Source institutionnelle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Roselyne Conan était dans l’émission « On vous doit bien ça."
-    },
-    {
-      "id": "f17e4bc282607c03",
-      "title": "Échec d’une vente immobilière : quand une erreur de procédure prive l’agence de son indemnisation",
-      "summary": "Le 05/11/2026 à 18H14 Un compromis de vente peut prévoir l'indemnisation d'une agence immobilière lorsque l'échec de la transaction est imputable à l'acquéreur. Encore faut-il respecter scrupuleusement les formalités prévues au contrat. Dans un jugement rendu le 4 novembre 2026, le tribunal judiciaire de Paris a rejeté les demandes de deux agences qui réclamaient 18 000 € à des acquéreurs. Maître Valentin Simonnet, avocat au B",
-      "url": "https://www.journaldelagence.com/1414611-echec-dune-vente-immobiliere-quand-une-erreur-de-procedure-prive-lagence-de-son-indemnisation",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-11-04T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Échec d’une vente immobilière : quand une erreur de procédure prive l’agence de son indemnisation."
     },
     {
       "id": "6e33fda69c485e00",
@@ -1387,25 +1368,46 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Investissement immobilier : Bricks.co rachète une banque pour construire la « banque digitale de l’immobilier."
     },
     {
-      "id": "235886a823d884e8",
-      "title": "Journée mondiale de la santé mentale",
-      "summary": "10 octobre 2026 Le logement, c’est un lieu où l’on vit, où l’on se repose, où l’on doit pouvoir se sentir en sécurité. Lorsqu’il est dégradé, indigne, trop cher ou source de difficultés, il peut aussi devenir une source de stress et peser sur le bien-être au…",
-      "url": "https://www.anil.org/actualites-evenements/details/journee-mondiale-de-la-sante-mentale/",
-      "source": "ANIL",
-      "source_level": "B",
+      "id": "58500947b85f4517",
+      "title": "Présidentielle 2027 : quelles sont les propositions de Gabriel Attal pour le logement ?",
+      "summary": "Le 17/11/2026 à 08H00 Relancer la construction, faciliter l’accession à la propriété, redonner de l’attractivité à l’investissement locatif…A l’approche de la présidentielle de 2027, Gabriel Attal précise ses ambitions pour sortir le logement de la crise. Parmi ses propositions : une banque publique d’investissement immobilier, un nouveau statut du bailleur privé et une simplification des règles de construction. Décryptage. An",
+      "url": "https://www.journaldelagence.com/1414778-presidentielle-2027-quelles-sont-les-propositions-de-gabriel-attal-pour-le-logement",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "investir",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-10-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Investir",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Présidentielle 2027 : quelles sont les propositions de Gabriel Attal pour le logement ?."
+    },
+    {
+      "id": "f3b487a2245a2aab",
+      "title": "Annonce immobilière : le vendeur est-il engagé dès qu’un acquéreur accepte le prix affiché ?",
+      "summary": "Le 17/11/2026 à 07H08 Un vendeur peut-il refuser une offre au prix affiché pour privilégier un acquéreur plus offrant ? Dans un arrêt du 8 octobre 2026, la Cour de cassation rappelle qu'une annonce immobilière peut, sous certaines conditions, engager son auteur envers le premier acquéreur qui l'accepte. Une décision commentée par Maître Caroline Dubuis-Taleyrach, qui souligne l'intérêt du mandat d'entremise pour sécuriser les",
+      "url": "https://www.journaldelagence.com/1414758-annonce-immobiliere-le-vendeur-est-il-engage-des-quun-acquereur-accepte-le-prix-affiche",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
       "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-10-10T09:00:00+00:00",
+      "published_at": "2026-10-08T09:00:00+00:00",
       "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
+      "importance": 73,
+      "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Journée mondiale de la santé mentale."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Annonce immobilière : le vendeur est-il engagé dès qu’un acquéreur accepte le prix affiché ?."
     },
     {
       "id": "a2d36583f3a0994b",
@@ -1635,14 +1637,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 77,
-    "rejected": 1216,
+    "rejected": 1197,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-16T22:11:52+00:00",
+        "last_success": "2026-11-17T07:59:57+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1650,7 +1652,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-16T22:11:55+00:00",
+        "last_success": "2026-11-17T07:59:59+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1658,7 +1660,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-16T22:11:56+00:00",
+        "last_success": "2026-11-17T08:00:00+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1666,7 +1668,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-16T22:11:58+00:00",
+        "last_success": "2026-11-17T08:00:02+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1674,7 +1676,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-16T22:12:17+00:00",
+        "last_success": "2026-11-17T08:00:20+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1682,7 +1684,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-16T22:12:28+00:00",
+        "last_success": "2026-11-17T08:00:28+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1690,7 +1692,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-16T22:12:28+00:00",
+        "last_success": "2026-11-17T08:00:28+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1698,7 +1700,7 @@
         "ok": true,
         "status": "ok",
         "retained": 13,
-        "last_success": "2026-11-16T22:12:29+00:00",
+        "last_success": "2026-11-17T08:00:30+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1706,7 +1708,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-16T22:12:29+00:00",
+        "last_success": "2026-11-17T08:00:31+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1714,7 +1716,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-16T22:12:31+00:00",
+        "last_success": "2026-11-17T08:00:32+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1722,7 +1724,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-16T22:12:32+00:00",
+        "last_success": "2026-11-17T08:00:34+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1730,7 +1732,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-16T22:12:34+00:00",
+        "last_success": "2026-11-17T08:00:35+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1738,7 +1740,7 @@
         "ok": true,
         "status": "ok",
         "retained": 8,
-        "last_success": "2026-11-16T22:12:35+00:00",
+        "last_success": "2026-11-17T08:00:37+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1746,7 +1748,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-16T22:12:36+00:00",
+        "last_success": "2026-11-17T08:00:37+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1754,7 +1756,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-16T22:12:38+00:00",
+        "last_success": "2026-11-17T08:00:38+00:00",
         "fallback": false
       }
     }

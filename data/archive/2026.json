@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-16T22:13:14+00:00",
+  "generated_at": "2026-11-17T08:00:59+00:00",
   "items": [
+    {
+      "id": "85ac1a31a79b7d04",
+      "title": "Nouvelle Parole d'expert : La rénovation énergétique en copropriété : aides, financement et travaux",
+      "summary": "17 novembre 2026 La rénovation énergétique en copropriété, c'est l'ensemble des travaux visant à améliorer la performance énergétique d'un immeuble collectif. Ces travaux permettent de réduire les consommations d'énergie, d'améliorer le confort des occupants et de…",
+      "url": "https://www.anil.org/parole-expert-logement-copropriete-renovation-energetique/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Nouvelle Parole d'expert : La rénovation énergétique en copropriété : aides, financement et travaux."
+    },
     {
       "id": "9a542e4fdffbd512",
       "title": "Indicateur des taux : une remontée généralisée des taux dans un contexte de tensions obligataires",
@@ -90,7 +111,7 @@
     {
       "id": "7fe95f6982aa59b4",
       "title": "Logement : CAFPI réclame des mesures pour relancer le marché",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/11/16/logement-cafpi-reclame-des-mesures-pour-relancer-le-marche/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -4285,6 +4306,48 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement : les députés votent et élargissent le nouveau \"PTZ Familles\"."
+    },
+    {
+      "id": "58500947b85f4517",
+      "title": "Présidentielle 2027 : quelles sont les propositions de Gabriel Attal pour le logement ?",
+      "summary": "Le 17/11/2026 à 08H00 Relancer la construction, faciliter l’accession à la propriété, redonner de l’attractivité à l’investissement locatif…A l’approche de la présidentielle de 2027, Gabriel Attal précise ses ambitions pour sortir le logement de la crise. Parmi ses propositions : une banque publique d’investissement immobilier, un nouveau statut du bailleur privé et une simplification des règles de construction. Décryptage. An",
+      "url": "https://www.journaldelagence.com/1414778-presidentielle-2027-quelles-sont-les-propositions-de-gabriel-attal-pour-le-logement",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "investir",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-10-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Investir",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Présidentielle 2027 : quelles sont les propositions de Gabriel Attal pour le logement ?."
+    },
+    {
+      "id": "f3b487a2245a2aab",
+      "title": "Annonce immobilière : le vendeur est-il engagé dès qu’un acquéreur accepte le prix affiché ?",
+      "summary": "Le 17/11/2026 à 07H08 Un vendeur peut-il refuser une offre au prix affiché pour privilégier un acquéreur plus offrant ? Dans un arrêt du 8 octobre 2026, la Cour de cassation rappelle qu'une annonce immobilière peut, sous certaines conditions, engager son auteur envers le premier acquéreur qui l'accepte. Une décision commentée par Maître Caroline Dubuis-Taleyrach, qui souligne l'intérêt du mandat d'entremise pour sécuriser les",
+      "url": "https://www.journaldelagence.com/1414758-annonce-immobiliere-le-vendeur-est-il-engage-des-quun-acquereur-accepte-le-prix-affiche",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-10-08T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Annonce immobilière : le vendeur est-il engagé dès qu’un acquéreur accepte le prix affiché ?."
     },
     {
       "id": "da7a638e13fea1e3",
