@@ -1,8 +1,92 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-17T21:01:03+00:00",
+  "generated_at": "2026-11-18T07:38:00+00:00",
   "items": [
+    {
+      "id": "d27a5e703d8c8889",
+      "title": "DPE : L’Assemblée vote la fin des interdictions de louer des passoires thermiques, qu’est-ce qui change ?",
+      "summary": "Nouveau Politique",
+      "url": "https://www.mysweetimmo.com/2026/11/18/passoires-thermiques-interdiction-louer-vote-assemblee/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : DPE : L’Assemblée vote la fin des interdictions de louer des passoires thermiques, qu’est-ce qui change ?."
+    },
+    {
+      "id": "cc54e0ec834af727",
+      "title": "Projet de loi logement : Vincent Jeanbrun défend son « choc de l’offre » devant les députés",
+      "summary": "Le 18/11/2026 à 08H00 Après son adoption au Sénat en juillet et son examen en commission à l’Assemblée nationale, le projet de loi visant la relance et la décentralisation du logement est débattu dans l’hémicycle depuis ce lundi 16 novembre. Face à plus de 1 100 amendements, Vincent Jeanbrun défend un texte destiné à relancer la construction, l’investissement et la rénovation, tout en donnant davantage de latitude aux élus loc",
+      "url": "https://www.journaldelagence.com/1414786-projet-de-loi-logement-vincent-jeanbrun-defend-son-choc-de-loffre-devant-les-deputes",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Projet de loi logement : Vincent Jeanbrun défend son « choc de l’offre » devant les députés."
+    },
+    {
+      "id": "860bd78580413555",
+      "title": "« La gestion locative est un amortisseur face aux difficultés de la transaction » : Gest’in au salon RENT 2026",
+      "summary": "Le 18/11/2026 à 07H02 Présente au salon RENT 2026 pour célébrer ses 20 ans aux côtés de ses partenaires, Gest’in a profité de l'événement pour partager son regard sur les évolutions du marché de la gestion locative. Moindre mobilité des locataires, recherche de revenus récurrents, nouvelles formes d'externalisation et défis liés à l'IA : Julie Laporte, chargée de développement et de formation, livre au Journal de l'Agence ses",
+      "url": "https://www.journaldelagence.com/1414765-la-gestion-locative-est-un-amortisseur-face-aux-difficultes-de-la-transaction-gestin-au-salon-rent-2026",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : « La gestion locative est un amortisseur face aux difficultés de la transaction » : Gest’in au salon RENT 2026."
+    },
+    {
+      "id": "924c0f91951449c9",
+      "title": "Réforme du LMNP : l’UNIS dénonce une « erreur historique », un nouveau coup dur pour l’investissement locatif",
+      "summary": "Le 18/11/2026 à 07H02 Alors que le Sénat s'apprête à examiner ce jeudi 19 novembre, l'article 7 du projet de loi de finances pour 2027, l'UNIS alerte les pouvoirs publics et l'opinion sur les conséquences de la remise en cause du statut de loueur en meublé non professionnel (LMNP). Edouard Morlot, son président, qualifie cette réforme d’ « erreur historique » : en plafonnant les amortissements et en supprimant leur report, y c",
+      "url": "https://www.journaldelagence.com/1414793-reforme-du-lmnp-lunis-denonce-une-erreur-historique-un-nouveau-coup-dur-pour-linvestissement-locatif",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-11-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Réforme du LMNP : l’UNIS dénonce une « erreur historique », un nouveau coup dur pour l’investissement locatif."
+    },
     {
       "id": "85ac1a31a79b7d04",
       "title": "Nouvelle Parole d'expert : La rénovation énergétique en copropriété : aides, financement et travaux",
@@ -48,7 +132,7 @@
     {
       "id": "0bd65ebc34f74597",
       "title": "Immobilier Paris : 9 passoires thermiques sur 10 pourraient être rénovées sans chantier dans tout l’immeuble",
-      "summary": "Nouveau Etudes et Sondages",
+      "summary": "Etudes et Sondages",
       "url": "https://www.mysweetimmo.com/2026/11/17/immobilier-paris-9-passoires-thermiques-sur-10-pourraient-etre-renovees-sans-chantier-dans-tout-limmeuble/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -67,9 +151,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Paris : 9 passoires thermiques sur 10 pourraient être rénovées sans chantier dans tout l’immeuble."
     },
     {
-      "id": "e5d66ee6089afeea",
-      "title": "RENT 2026 – Réseau immobilier : « Oui, je vais redemander la confiance de mes associés » Brice Cardi (l’Adresse)",
-      "summary": "Consultez la publication source pour les informations détaillées.",
+      "id": "deb57f8060ba3701",
+      "title": "RENT 2026 – Réseau immobilier : « Oui, je vais redemander la confiance de mes associés », Brice Cardi (l’Adresse)",
+      "summary": "Pros de l’immo",
       "url": "https://www.mysweetimmo.com/2026/11/17/brice-cardi-ladresse-candidat-nouveau-mandat/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -85,7 +169,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – Réseau immobilier : « Oui, je vais redemander la confiance de mes associés » Brice Cardi (l’Adresse)."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – Réseau immobilier : « Oui, je vais redemander la confiance de mes associés », Brice Cardi (l’Adresse)."
     },
     {
       "id": "00bbfc3892765496",
@@ -362,7 +446,7 @@
     {
       "id": "fa0cd408737af255",
       "title": "RENT 2026 – Achat immobilier : « Même dans un contexte compliqué, les Français recherchent de la propriété », David Benbassat (Bien’ici)",
-      "summary": "Podcasts",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/15/achat-immobilier-reve-propriete-david-benbassat-bienici/",
       "source": "MySweetImmo",
       "source_level": "C",
