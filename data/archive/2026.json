@@ -1,8 +1,71 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-18T20:39:20+00:00",
+  "generated_at": "2026-11-19T07:33:31+00:00",
   "items": [
+    {
+      "id": "c8276ef5c1d894fc",
+      "title": "Immobilier : Le crédit inquiète, la confiance des Français décroche",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/19/marche-immobilier-pessimisme-francais/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Immobilier : Le crédit inquiète, la confiance des Français décroche."
+    },
+    {
+      "id": "72d10bbbd9cc2959",
+      "title": "DPE : Pourra-t-on bientôt relouer un logement classé G ?",
+      "summary": "Nouveau Politique",
+      "url": "https://www.mysweetimmo.com/2026/11/19/dpe-pourra-t-on-bientot-relouer-un-logement-classe-g/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : DPE : Pourra-t-on bientôt relouer un logement classé G ?."
+    },
+    {
+      "id": "3470ca32c62d5628",
+      "title": "« SeLoger enregistre 40 % de demandes de contact en plus sur un an », Baptiste Capron",
+      "summary": "Le 19/11/2026 à 08H00 Dans un marché immobilier toujours fragile, SeLoger tire son épingle du jeu. Contacts en hausse, stratégie de proximité renforcée, investissements dans l’IA… Au salon RENT, Baptiste Capron, directeur général du groupe, est revenu, pour le Journal de l’Agence, sur les leviers de cette dynamique et les nouveautés attendues en 2027. Projet de loi logement : Vincent Jeanbrun défend son « choc de l’offre » dev",
+      "url": "https://www.journaldelagence.com/1414800-seloger-enregistre-40-de-demandes-de-contact-en-plus-sur-un-an-baptiste-capron",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : « SeLoger enregistre 40 % de demandes de contact en plus sur un an », Baptiste Capron."
+    },
     {
       "id": "0f2e802327a43b2c",
       "title": "Journée contre la précarité énergétique : les ADIL mobilisées partout en France",
@@ -111,7 +174,7 @@
     {
       "id": "f732953de058884d",
       "title": "Immobilier Lyon : Une maison-bulle de Pascal Häusermann à vendre 1,2 million d’euros",
-      "summary": "Nouveau Vente",
+      "summary": "Vente",
       "url": "https://www.mysweetimmo.com/2026/11/18/immobilier-lyon-une-maison-bulle-de-pascal-hausermann-a-vendre-12-million-deuros/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -132,7 +195,7 @@
     {
       "id": "1c97c2fcfbd6e86e",
       "title": "Immobilier Saint-Tropez : Au-delà de 10 millions, les acheteurs sont là",
-      "summary": "Marché immobilier",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/18/immobilier-saint-tropez-au-dela-de-10-millions-les-acheteurs-sont-la/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -148,7 +211,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Saint-Tropez : Au-delà de 10 millions, les acheteurs sont là."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Saint-Tropez : Au-delà de 10 millions, les acheteurs sont là."
     },
     {
       "id": "1e082f9467376a3c",
@@ -169,6 +232,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Casavo rachète Weloge et vise jusqu’à dix intégrations en France."
+    },
+    {
+      "id": "2b8c35fe4232b396",
+      "title": "Immobilier : Les députés votent pour assouplir le statut du bailleur privé dans le projet de loi logement",
+      "summary": "Nouveau Politique",
+      "url": "https://www.mysweetimmo.com/2026/11/18/immobilier-projet-loi-logement-statut-bailleur-prive/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-11-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Immobilier : Les députés votent pour assouplir le statut du bailleur privé dans le projet de loi logement."
     },
     {
       "id": "85ac1a31a79b7d04",
@@ -382,7 +466,7 @@
     {
       "id": "7fe95f6982aa59b4",
       "title": "Logement : CAFPI réclame des mesures pour relancer le marché",
-      "summary": "Marché immobilier",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/16/logement-cafpi-reclame-des-mesures-pour-relancer-le-marche/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -2156,6 +2240,69 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Utiliser l’IA dans l’immobilier : pourquoi la double vérification doit devenir un réflexe professionnel."
+    },
+    {
+      "id": "1ca3897737224517",
+      "title": "Portails d'annonces / Vidéo Vidéo - RENT 2026, pilier de la Semaine de l’Immobilier et du Logement",
+      "summary": "Agences indépendantes Bouygues Immobilier : un CA en repli de 13 % sur un an Prix du marché & data Crédit à l’habitat : 11,8 Md€ de production en septembre et 3,32 % de taux d’intérêt (stable) Guy Hoquet : les premiers diplômés de sa Business School affichent des résultats prometteurs Réseaux de franchisés Un an après le lancement de sa GH Business School, Guy Hoquet l’Immobilier dresse un premier bilan de son Bachelor Vendeur",
+      "url": "https://www.immomatin.com/portails/portails-annonces/video-rent-2026-pilier-de-la-semaine-de-l-immobilier-et-du-logement.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Portails d'annonces / Vidéo Vidéo - RENT 2026, pilier de la Semaine de l’Immobilier et du Logement."
+    },
+    {
+      "id": "fe64268a40399cf1",
+      "title": "Agences indépendantes Bouygues Immobilier : un CA en repli de 13 % sur un an",
+      "summary": "Prix du marché & data Crédit à l’habitat : 11,8 Md€ de production en septembre et 3,32 % de taux d’intérêt (stable) Guy Hoquet : les premiers diplômés de sa Business School affichent des résultats prometteurs Réseaux de franchisés Un an après le lancement de sa GH Business School, Guy Hoquet l’Immobilier dresse un premier bilan de son Bachelor Vendeur Expert. Les conseillers de la première promotion ont enregistré une hausse d",
+      "url": "https://www.immomatin.com/agences-reseaux/agences-independantes/bouygues-immobilier-un-ca-en-repli-de-13-sur-un-an.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Agences indépendantes Bouygues Immobilier : un CA en repli de 13 % sur un an."
+    },
+    {
+      "id": "6526a960f35019d3",
+      "title": "Prix du marché & data Crédit à l’habitat : 11,8 Md€ de production en septembre et 3,32 % de taux d’intérêt (stable)",
+      "summary": "Guy Hoquet : les premiers diplômés de sa Business School affichent des résultats prometteurs Réseaux de franchisés Un an après le lancement de sa GH Business School, Guy Hoquet l’Immobilier dresse un premier bilan de son Bachelor Vendeur Expert. Les conseillers de la première promotion ont enregistré une hausse de 62 % de leurs mandats exclusifs et de 7 % de... La promotion 2026/2027 du Bachelor Vendeur Expert, le 2 novembre 2",
+      "url": "https://www.immomatin.com/marche/prix-marche-data/credit-a-l-habitat-11-8-mde-de-production-en-septembre-et-3-32-de-taux-d-interet-stable.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Prix du marché & data Crédit à l’habitat : 11,8 Md€ de production en septembre et 3,32 % de taux d’intérêt (stable)."
     },
     {
       "id": "04c2d1415cf115ad",

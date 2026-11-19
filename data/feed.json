@@ -1,7 +1,70 @@
 {
-  "generated_at": "2026-11-18T20:38:37+00:00",
+  "generated_at": "2026-11-19T07:32:46+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "c8276ef5c1d894fc",
+      "title": "Immobilier : Le crédit inquiète, la confiance des Français décroche",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/19/marche-immobilier-pessimisme-francais/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Immobilier : Le crédit inquiète, la confiance des Français décroche."
+    },
+    {
+      "id": "72d10bbbd9cc2959",
+      "title": "DPE : Pourra-t-on bientôt relouer un logement classé G ?",
+      "summary": "Nouveau Politique",
+      "url": "https://www.mysweetimmo.com/2026/11/19/dpe-pourra-t-on-bientot-relouer-un-logement-classe-g/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : DPE : Pourra-t-on bientôt relouer un logement classé G ?."
+    },
+    {
+      "id": "3470ca32c62d5628",
+      "title": "« SeLoger enregistre 40 % de demandes de contact en plus sur un an », Baptiste Capron",
+      "summary": "Le 19/11/2026 à 08H00 Dans un marché immobilier toujours fragile, SeLoger tire son épingle du jeu. Contacts en hausse, stratégie de proximité renforcée, investissements dans l’IA… Au salon RENT, Baptiste Capron, directeur général du groupe, est revenu, pour le Journal de l’Agence, sur les leviers de cette dynamique et les nouveautés attendues en 2027. Projet de loi logement : Vincent Jeanbrun défend son « choc de l’offre » dev",
+      "url": "https://www.journaldelagence.com/1414800-seloger-enregistre-40-de-demandes-de-contact-en-plus-sur-un-an-baptiste-capron",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : « SeLoger enregistre 40 % de demandes de contact en plus sur un an », Baptiste Capron."
+    },
     {
       "id": "0f2e802327a43b2c",
       "title": "Journée contre la précarité énergétique : les ADIL mobilisées partout en France",
@@ -22,6 +85,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Journée contre la précarité énergétique : les ADIL mobilisées partout en France."
+    },
+    {
+      "id": "2b8c35fe4232b396",
+      "title": "Immobilier : Les députés votent pour assouplir le statut du bailleur privé dans le projet de loi logement",
+      "summary": "Nouveau Politique",
+      "url": "https://www.mysweetimmo.com/2026/11/18/immobilier-projet-loi-logement-statut-bailleur-prive/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-11-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Immobilier : Les députés votent pour assouplir le statut du bailleur privé dans le projet de loi logement."
     },
     {
       "id": "d27a5e703d8c8889",
@@ -47,7 +131,7 @@
     {
       "id": "f732953de058884d",
       "title": "Immobilier Lyon : Une maison-bulle de Pascal Häusermann à vendre 1,2 million d’euros",
-      "summary": "Nouveau Vente",
+      "summary": "Vente",
       "url": "https://www.mysweetimmo.com/2026/11/18/immobilier-lyon-une-maison-bulle-de-pascal-hausermann-a-vendre-12-million-deuros/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -68,7 +152,7 @@
     {
       "id": "1c97c2fcfbd6e86e",
       "title": "Immobilier Saint-Tropez : Au-delà de 10 millions, les acheteurs sont là",
-      "summary": "Marché immobilier",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/18/immobilier-saint-tropez-au-dela-de-10-millions-les-acheteurs-sont-la/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -84,7 +168,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier Saint-Tropez : Au-delà de 10 millions, les acheteurs sont là."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Saint-Tropez : Au-delà de 10 millions, les acheteurs sont là."
     },
     {
       "id": "cc54e0ec834af727",
@@ -233,27 +317,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – Réseau immobilier : « Oui, je vais redemander la confiance de mes associés », Brice Cardi (l’Adresse)."
     },
     {
-      "id": "0bd65ebc34f74597",
-      "title": "Immobilier Paris : 9 passoires thermiques sur 10 pourraient être rénovées sans chantier dans tout l’immeuble",
-      "summary": "Etudes et Sondages",
-      "url": "https://www.mysweetimmo.com/2026/11/17/immobilier-paris-9-passoires-thermiques-sur-10-pourraient-etre-renovees-sans-chantier-dans-tout-limmeuble/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-17T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Paris : 9 passoires thermiques sur 10 pourraient être rénovées sans chantier dans tout l’immeuble."
-    },
-    {
       "id": "00bbfc3892765496",
       "title": "Recherche IA : revendiquez la propriété de la fiche de votre agence immobilière sur ChatGPT",
       "summary": "17 novembre 2026 - OpenAI lance « Entreprises sur ChatGPT » en version bêta sur son agent conversationnel. Grâce à cette nouvelle fonctionnalité clairement inspirée de Google My Business, il [...]",
@@ -339,7 +402,7 @@
     {
       "id": "7fe95f6982aa59b4",
       "title": "Logement : CAFPI réclame des mesures pour relancer le marché",
-      "summary": "Marché immobilier",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/16/logement-cafpi-reclame-des-mesures-pour-relancer-le-marche/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -928,48 +991,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Analyse Immobilier neuf : \"Rien ne va, tous les moteurs sont à l'arrêt en même temps !\" (FPI)."
     },
     {
-      "id": "52973b49eb8c894a",
-      "title": "Immobilier : Travaux, quartier, surface, sur quoi les acheteurs sont prêts à céder",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/11/11/immobilier-acheteurs-safti-bilan-2026-perspectives-2027/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-11T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Travaux, quartier, surface, sur quoi les acheteurs sont prêts à céder."
-    },
-    {
-      "id": "248c2515db92f7e3",
-      "title": "Immobilier Arcachon : La villa historique Les Chaumettes vendue environ 7 millions d’euros",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/11/11/immobilier-arcachon-la-villa-historique-les-chaumettes-vendue-environ-7-millions-deuros/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-11T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Arcachon : La villa historique Les Chaumettes vendue environ 7 millions d’euros."
-    },
-    {
       "id": "e2419b3f72381f09",
       "title": "Leboncoin relance AvendreAlouer : les ambitions d’une nouvelle stratégie au service des professionnels de l’immobilier",
       "summary": "Le 10/11/2026 à 07H09 Quelques mois après avoir fermé AvendreAlouer, leboncoin redonne vie à cette marque historique avec un portail entièrement repensé. L'ambition : conquérir de nouvelles audiences, notamment internationales, et proposer aux professionnels des outils mieux adaptés à leurs besoins. Au salon RENT 2026, Jean-Adrien Hocquemiller, directeur commercial et développement stratégique du boncoin immo, nous dévoile les",
@@ -1030,27 +1051,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Copropriété : l'expérience de Marie avec l'ADIL des Yvelines."
-    },
-    {
-      "id": "3575053dec051288",
-      "title": "« L’innovation est l’un des leviers majeurs pour sortir de la crise du logement », Stéphane Scarella",
-      "summary": "Le 09/11/2026 à 10H22 Plus de visiteurs, des innovations à foison, des échanges avec le Gouvernement, et une profession tournée vers l’avenir. En clôture de l’édition 2026 du salon RENT, Stéphane Scarella, son directeur général, revient, pour le Journal de l’Agence, sur les temps forts du salon et les leviers pour sortir de la crise du logement. RENT 2026 : Viagimmo veut former une nouvelle génération de viagéristes Le 09/11/2",
-      "url": "https://www.journaldelagence.com/1414643-linnovation-est-lun-des-leviers-majeurs-pour-sortir-de-la-crise-du-logement-stephane-scarella",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-09T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : « L’innovation est l’un des leviers majeurs pour sortir de la crise du logement », Stéphane Scarella."
     },
     {
       "id": "fc9512c8cbd56e1b",
@@ -1156,6 +1156,69 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Étude : un Français sur cinq commence sa recherche immobilière par l’IA."
+    },
+    {
+      "id": "1ca3897737224517",
+      "title": "Portails d'annonces / Vidéo Vidéo - RENT 2026, pilier de la Semaine de l’Immobilier et du Logement",
+      "summary": "Agences indépendantes Bouygues Immobilier : un CA en repli de 13 % sur un an Prix du marché & data Crédit à l’habitat : 11,8 Md€ de production en septembre et 3,32 % de taux d’intérêt (stable) Guy Hoquet : les premiers diplômés de sa Business School affichent des résultats prometteurs Réseaux de franchisés Un an après le lancement de sa GH Business School, Guy Hoquet l’Immobilier dresse un premier bilan de son Bachelor Vendeur",
+      "url": "https://www.immomatin.com/portails/portails-annonces/video-rent-2026-pilier-de-la-semaine-de-l-immobilier-et-du-logement.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Portails d'annonces / Vidéo Vidéo - RENT 2026, pilier de la Semaine de l’Immobilier et du Logement."
+    },
+    {
+      "id": "fe64268a40399cf1",
+      "title": "Agences indépendantes Bouygues Immobilier : un CA en repli de 13 % sur un an",
+      "summary": "Prix du marché & data Crédit à l’habitat : 11,8 Md€ de production en septembre et 3,32 % de taux d’intérêt (stable) Guy Hoquet : les premiers diplômés de sa Business School affichent des résultats prometteurs Réseaux de franchisés Un an après le lancement de sa GH Business School, Guy Hoquet l’Immobilier dresse un premier bilan de son Bachelor Vendeur Expert. Les conseillers de la première promotion ont enregistré une hausse d",
+      "url": "https://www.immomatin.com/agences-reseaux/agences-independantes/bouygues-immobilier-un-ca-en-repli-de-13-sur-un-an.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Agences indépendantes Bouygues Immobilier : un CA en repli de 13 % sur un an."
+    },
+    {
+      "id": "6526a960f35019d3",
+      "title": "Prix du marché & data Crédit à l’habitat : 11,8 Md€ de production en septembre et 3,32 % de taux d’intérêt (stable)",
+      "summary": "Guy Hoquet : les premiers diplômés de sa Business School affichent des résultats prometteurs Réseaux de franchisés Un an après le lancement de sa GH Business School, Guy Hoquet l’Immobilier dresse un premier bilan de son Bachelor Vendeur Expert. Les conseillers de la première promotion ont enregistré une hausse de 62 % de leurs mandats exclusifs et de 7 % de... La promotion 2026/2027 du Bachelor Vendeur Expert, le 2 novembre 2",
+      "url": "https://www.immomatin.com/marche/prix-marche-data/credit-a-l-habitat-11-8-mde-de-production-en-septembre-et-3-32-de-taux-d-interet-stable.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Prix du marché & data Crédit à l’habitat : 11,8 Md€ de production en septembre et 3,32 % de taux d’intérêt (stable)."
     },
     {
       "id": "04c2d1415cf115ad",
@@ -1682,6 +1745,27 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Vente conclue dans le dos d’une agence : un acquéreur condamné à l’indemniser."
     },
     {
+      "id": "b8310b5b4adf5eeb",
+      "title": "Une nouvelle aide pour installer une pompe à chaleur : comment en bénéficier ?",
+      "summary": "Un dispositif, accessible depuis le 17 novembre, permet aux propriétaires d’une maison individuelle de s’équiper d’une pompe à chaleur, sans que le coût de cette installation ne représente une augmentation de leurs dépenses mensuelles. Pour bénéficier de ce mécanisme, vos ressources ne doivent pas dépasser un certain plafond. Service Public vous présente les différentes modalités du dispositif.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19085?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": null,
+      "status": "Information officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Une nouvelle aide pour installer une pompe à chaleur : comment en bénéficier ?."
+    },
+    {
       "id": "35e8814cd8f30235",
       "title": "Les avis de CFE et d'IFER 2026 sont disponibles en ligne",
       "summary": "Les entreprises concernées par la cotisation foncière des entreprises (CFE) et/ou l’imposition forfaitaire sur les entreprises de réseaux (IFER) peuvent désormais consulter leur avis d’impôt dans leur espace professionnel sur impots.gouv.fr .",
@@ -1704,32 +1788,33 @@
     }
   ],
   "source_stats": {
-    "ANIL": 14,
     "MySweetImmo": 16,
     "Journal de l'Agence": 16,
+    "ANIL": 14,
     "Immobilier 2.0": 16,
     "Batiactu": 10,
     "Légifrance": 3,
+    "Immo Matin": 3,
     "SDES / Sitadel": 1,
     "Horiz.io": 2,
     "Insee": 1,
     "EUR-Lex": 1,
-    "Service-Public.fr": 1
+    "Service-Public.fr": 2
   },
   "health": {
     "sources_total": 15,
     "sources_ok": 14,
     "sources_degraded": 1,
     "errors": 0,
-    "retained": 81,
-    "rejected": 1210,
+    "retained": 85,
+    "rejected": 1248,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
-        "retained": 1,
-        "last_success": "2026-11-18T20:37:27+00:00",
+        "retained": 2,
+        "last_success": "2026-11-19T07:31:49+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1737,7 +1822,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-18T20:37:29+00:00",
+        "last_success": "2026-11-19T07:31:52+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1745,7 +1830,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-18T20:37:31+00:00",
+        "last_success": "2026-11-19T07:31:53+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1753,7 +1838,7 @@
         "ok": false,
         "status": "degraded",
         "retained": 1,
-        "last_success": "2026-11-18T07:37:33+00:00",
+        "last_success": "2026-11-18T20:38:37+00:00",
         "fallback": true,
         "error_type": "RetryError"
       },
@@ -1762,7 +1847,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-18T20:38:09+00:00",
+        "last_success": "2026-11-19T07:32:26+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1770,7 +1855,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-18T20:38:24+00:00",
+        "last_success": "2026-11-19T07:32:35+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1778,7 +1863,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-18T20:38:24+00:00",
+        "last_success": "2026-11-19T07:32:35+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1786,7 +1871,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-11-18T20:38:25+00:00",
+        "last_success": "2026-11-19T07:32:36+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1794,7 +1879,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-18T20:38:25+00:00",
+        "last_success": "2026-11-19T07:32:37+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1802,15 +1887,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-18T20:38:29+00:00",
+        "last_success": "2026-11-19T07:32:39+00:00",
         "fallback": false
       },
       "Immo Matin": {
         "level": "C",
         "ok": true,
-        "status": "empty",
-        "retained": 0,
-        "last_success": "2026-11-18T20:38:31+00:00",
+        "status": "ok",
+        "retained": 3,
+        "last_success": "2026-11-19T07:32:41+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1818,7 +1903,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-18T20:38:32+00:00",
+        "last_success": "2026-11-19T07:32:42+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1826,7 +1911,7 @@
         "ok": true,
         "status": "ok",
         "retained": 10,
-        "last_success": "2026-11-18T20:38:34+00:00",
+        "last_success": "2026-11-19T07:32:44+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1834,7 +1919,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-18T20:38:35+00:00",
+        "last_success": "2026-11-19T07:32:45+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1842,7 +1927,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-18T20:38:36+00:00",
+        "last_success": "2026-11-19T07:32:45+00:00",
         "fallback": false
       }
     }
