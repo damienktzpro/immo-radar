@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-11-19T07:32:46+00:00",
+  "generated_at": "2026-11-19T20:44:01+00:00",
   "version": "7.1",
   "items": [
     {
+      "id": "f4747b31eb313854",
+      "title": "Fiscalité locative : quel avenir pour les régimes de location nue et meublée ?",
+      "summary": "19 novembre 2026 Actuellement en discussion au Sénat, le projet de loi de finances pour 2027 remet en débat la fiscalité locative.",
+      "url": "https://www.anil.org/actualites-evenements/details/fiscalite-locative-quel-avenir-pour-les-regimes-de-location-nue-et-meublee/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 85,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Fiscalité locative : quel avenir pour les régimes de location nue et meublée ?."
+    },
+    {
+      "id": "16a1b6fef13b0aee",
+      "title": "Immobilier : L’encadrement des loyers prolongé jusqu’en 2028, ce qui change",
+      "summary": "Nouveau Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/11/19/encadrement-loyers-prolonge-deux-ans/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Immobilier : L’encadrement des loyers prolongé jusqu’en 2028, ce qui change."
+    },
+    {
       "id": "c8276ef5c1d894fc",
       "title": "Immobilier : Le crédit inquiète, la confiance des Français décroche",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/11/19/marche-immobilier-pessimisme-francais/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -26,7 +68,7 @@
     {
       "id": "72d10bbbd9cc2959",
       "title": "DPE : Pourra-t-on bientôt relouer un logement classé G ?",
-      "summary": "Nouveau Politique",
+      "summary": "Politique",
       "url": "https://www.mysweetimmo.com/2026/11/19/dpe-pourra-t-on-bientot-relouer-un-logement-classe-g/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -43,6 +85,26 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : DPE : Pourra-t-on bientôt relouer un logement classé G ?."
+    },
+    {
+      "id": "82a934d44ed3f155",
+      "title": "Location des passoires thermiques : un vote surprise qui pourrait tout changer",
+      "summary": "Le 19/11/2026 à 10H22 Coup de théâtre à l’Assemblée nationale ! Le 17 novembre, les députés ont adopté un amendement visant à supprimer les interdictions de location liées au diagnostic de performance énergétique (DPE). Une décision majeure pour le marché locatif et les professionnels de la gestion immobilière, qui reste toutefois à confirmer au cours du processus législatif. « SeLoger enregistre 40 % de demandes de contact en",
+      "url": "https://www.journaldelagence.com/1414810-location-des-passoires-thermiques-un-vote-surprise-qui-pourrait-tout-changer",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-11-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Location des passoires thermiques : un vote surprise qui pourrait tout changer."
     },
     {
       "id": "3470ca32c62d5628",
@@ -89,7 +151,7 @@
     {
       "id": "2b8c35fe4232b396",
       "title": "Immobilier : Les députés votent pour assouplir le statut du bailleur privé dans le projet de loi logement",
-      "summary": "Nouveau Politique",
+      "summary": "Politique",
       "url": "https://www.mysweetimmo.com/2026/11/18/immobilier-projet-loi-logement-statut-bailleur-prive/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -213,8 +275,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : « La gestion locative est un amortisseur face aux difficultés de la transaction » : Gest’in au salon RENT 2026."
     },
     {
-      "id": "924c0f91951449c9",
-      "title": "Réforme du LMNP : l’UNIS dénonce une « erreur historique », un nouveau coup dur pour l’investissement locatif",
+      "id": "5f717cf209466918",
+      "title": "Réforme du LMNP : l’UNIS dénonce une « erreur historique » pour l’investissement locatif",
       "summary": "Le 18/11/2026 à 07H02 Alors que le Sénat s'apprête à examiner ce jeudi 19 novembre, l'article 7 du projet de loi de finances pour 2027, l'UNIS alerte les pouvoirs publics et l'opinion sur les conséquences de la remise en cause du statut de loueur en meublé non professionnel (LMNP). Edouard Morlot, son président, qualifie cette réforme d’ « erreur historique » : en plafonnant les amortissements et en supprimant leur report, y c",
       "url": "https://www.journaldelagence.com/1414793-reforme-du-lmnp-lunis-denonce-une-erreur-historique-un-nouveau-coup-dur-pour-linvestissement-locatif",
       "source": "Journal de l'Agence",
@@ -231,7 +293,49 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Réforme du LMNP : l’UNIS dénonce une « erreur historique », un nouveau coup dur pour l’investissement locatif."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Réforme du LMNP : l’UNIS dénonce une « erreur historique » pour l’investissement locatif."
+    },
+    {
+      "id": "d8767a7c45927459",
+      "title": "Réactions Calendrier passoires thermiques : \"Cet amendement risque de fragiliser la politique de rénovation\", V. Létard",
+      "summary": "18/11/2026 En débat Rénovation des logements : le RN fait voter un amendement mettant fin aux contraintes du DPE",
+      "url": "https://www.batiactu.com/edito/dpe-associations-logement-denoncent-vote-deputes-mettant-75895.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Réactions Calendrier passoires thermiques : \"Cet amendement risque de fragiliser la politique de rénovation\", V. Létard."
+    },
+    {
+      "id": "5260d838d317f54c",
+      "title": "Réactions Action logement vent debout contre une proposition de Marine Le Pen",
+      "summary": "18/11/2026 Zoom Réforme des retraites : le RN veut utiliser des ressources de la Peec, qui finance Action logement",
+      "url": "https://www.batiactu.com/edito/action-logement-vent-debout-contre-proposition-marine-75897.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Réactions Action logement vent debout contre une proposition de Marine Le Pen."
     },
     {
       "id": "1e082f9467376a3c",
@@ -379,27 +483,6 @@
       "why_it_matters": "Source institutionnelle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Indicateur des taux : une remontée généralisée des taux dans un contexte de tensions obligataires."
     },
     {
-      "id": "99307fcc3fdc6a03",
-      "title": "Immobilier : L’élection présidentielle freine déjà les projets",
-      "summary": "Politique",
-      "url": "https://www.mysweetimmo.com/2026/11/16/immobilier-lelection-presidentielle-freine-deja-les-projets/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-16T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : L’élection présidentielle freine déjà les projets."
-    },
-    {
       "id": "7fe95f6982aa59b4",
       "title": "Logement : CAFPI réclame des mesures pour relancer le marché",
       "summary": "Consultez la publication source pour les informations détaillées.",
@@ -419,6 +502,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Logement : CAFPI réclame des mesures pour relancer le marché."
+    },
+    {
+      "id": "99307fcc3fdc6a03",
+      "title": "Immobilier : L’élection présidentielle freine déjà les projets",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/16/immobilier-lelection-presidentielle-freine-deja-les-projets/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : L’élection présidentielle freine déjà les projets."
     },
     {
       "id": "907b9e9960bcc420",
@@ -465,7 +569,7 @@
     {
       "id": "0cb8539dd1833faf",
       "title": "Précarité énergétique : la Fondation Laforêt mise sur une rénovation qui implique les habitants",
-      "summary": "Le 16/11/2026 à 08H10 Pour la première édition de son Prix du Logement Solidaire, la Fondation Laforêt a choisi de distinguer les Compagnons Bâtisseurs Île-de-France, parmi 230 candidatures. Une dotation de 30 000 euros permettra à l'association d'accompagner une vingtaine de ménages modestes dans l'amélioration de leur logement et la lutte contre la précarité énergétique. Agents immobiliers : quel est le DPE de votre activité",
+      "summary": "Le 16/11/2026 à 08H10 Pour la première édition de son Prix du Logement Solidaire, la Fondation Laforêt a choisi de distinguer les Compagnons Bâtisseurs Île-de-France, parmi 230 candidatures. Une dotation de 30 000 euros permettra à l'association d'accompagner une vingtaine de ménages modestes dans l'amélioration de leur logement et la lutte contre la précarité énergétique. Votre activité immobilière est-elle solide ou fragile",
       "url": "https://www.journaldelagence.com/1414752-logement-solidaire-la-fondation-laforet-recompense-les-compagnons-batisseurs-ile-de-france",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -481,11 +585,11 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Précarité énergétique : la Fondation Laforêt mise sur une rénovation qui implique les habitants."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Précarité énergétique : la Fondation Laforêt mise sur une rénovation qui implique les habitants."
     },
     {
-      "id": "62d44ac866fbad57",
-      "title": "Agents immobiliers : quel est le DPE de votre activité ?",
+      "id": "bad71d6efc31f4a7",
+      "title": "Votre activité immobilière est-elle solide ou fragile ? Faites le diagnostic !",
       "summary": "Le 16/11/2026 à 07H29 Diagnostic de Performance et d’Efficacité : et si nous regardions notre propre activité avec autant d’attention que les logements que nous vendons ? Car la performance ne se mesure pas seulement au chiffre d’affaires, mais aussi à la qualité de vie. Dominique Piredda nous invite à faire notre propre diagnostic, de A à G, pour gagner en efficacité sans sacrifier notre équilibre. RENT 2026 : L’Adresse prépa",
       "url": "https://www.journaldelagence.com/1414744-agents-immobiliers-quel-est-le-dpe-de-votre-activite",
       "source": "Journal de l'Agence",
@@ -502,7 +606,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Agents immobiliers : quel est le DPE de votre activité ?."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Votre activité immobilière est-elle solide ou fragile ? Faites le diagnostic !."
     },
     {
       "id": "299edddaf0dd3661",
@@ -781,27 +885,6 @@
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : De nouvelles données sur les loyers sont disponibles."
     },
     {
-      "id": "1a3eb7cb6a0dba54",
-      "title": "RENT 2026 – Marché immobilier : « Il vaut mieux vendre aujourd’hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/11/12/vendre-ou-attendre-marche-immobilier-fnaim-region-sud/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-12T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 – Marché immobilier : « Il vaut mieux vendre aujourd’hui moins cher », Jonathan Le Corronc Clady (FNAIM Région Sud)."
-    },
-    {
       "id": "3a091f89739dc1ae",
       "title": "Immobilier neuf : les ventes chutent de 24 %, la FPI alerte sur les risques pour 2027",
       "summary": "Le 12/11/2026 à 10H45 Le marché du logement neuf continue de s'enfoncer dans la crise. Au troisième trimestre 2026, les ventes reculent de 24,4 % et les mises en vente de 32,1 %, selon les chiffres dévoilés ce 12 novembre par la Fédération des promoteurs immobiliers (FPI). Face à cette nouvelle dégradation, son président Pascal Boulanger tire la sonnette d'alarme : même si la demande venait à repartir, les promoteurs pourraien",
@@ -991,26 +1074,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Analyse Immobilier neuf : \"Rien ne va, tous les moteurs sont à l'arrêt en même temps !\" (FPI)."
     },
     {
-      "id": "e2419b3f72381f09",
-      "title": "Leboncoin relance AvendreAlouer : les ambitions d’une nouvelle stratégie au service des professionnels de l’immobilier",
-      "summary": "Le 10/11/2026 à 07H09 Quelques mois après avoir fermé AvendreAlouer, leboncoin redonne vie à cette marque historique avec un portail entièrement repensé. L'ambition : conquérir de nouvelles audiences, notamment internationales, et proposer aux professionnels des outils mieux adaptés à leurs besoins. Au salon RENT 2026, Jean-Adrien Hocquemiller, directeur commercial et développement stratégique du boncoin immo, nous dévoile les",
-      "url": "https://www.journaldelagence.com/1414667-leboncoin-relance-avendrealouer-les-ambitions-dune-nouvelle-strategie-au-service-des-professionnels-de-limmobilier",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "pro",
-      "audiences": [
-        "pro",
-        "investisseur"
-      ],
-      "published_at": "2026-11-10T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Pro",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Leboncoin relance AvendreAlouer : les ambitions d’une nouvelle stratégie au service des professionnels de l’immobilier."
-    },
-    {
       "id": "c5b30d58a6369a53",
       "title": "Portail immo : AVendreALouer est de retour !",
       "summary": "10 novembre 2026 - Leboncoin immo a annoncé la relance de la marque historique A Vendre A Louer, acquise en 2017. Avec un site trilingue consacré uniquement à l’immobilier, A Vendre A [...]",
@@ -1095,6 +1158,48 @@
       "why_it_matters": "Source institutionnelle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Roselyne Conan était dans l’émission « On vous doit bien ça."
     },
     {
+      "id": "ee74b7789e76ac11",
+      "title": "Dans le Gâtinais, une ferme se réinvente grâce à une surélévation-extension",
+      "summary": "04/11/2026 Avant/Après : À Paris, un appartement neuf trouve enfin son âme 23/10/2026",
+      "url": "https://www.batiactu.com/edito/dans-gatinais-ferme-se-reinvente-grace-a-surelevation-75784.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-04T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Dans le Gâtinais, une ferme se réinvente grâce à une surélévation-extension."
+    },
+    {
+      "id": "925d58cbeff2c5e2",
+      "title": "Avant/Après : À Paris, un appartement neuf trouve enfin son âme",
+      "summary": "Dans le Gâtinais, une ferme se réinvente grâce à une surélévation-extension 04/11/2026 23/10/2026",
+      "url": "https://www.batiactu.com/edito/avant-apres-a-paris-un-appartement-neuf-trouve-enfin-75699.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-04T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Avant/Après : À Paris, un appartement neuf trouve enfin son âme."
+    },
+    {
       "id": "6e33fda69c485e00",
       "title": "Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat",
       "summary": "03 novembre 2026 Les 4 et 5 novembre 2026, le réseau ANIL/ADIL sera présent au Salon de la Copropriété et de l’Habitat, à Paris Expo Porte de Versailles.",
@@ -1156,69 +1261,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Étude : un Français sur cinq commence sa recherche immobilière par l’IA."
-    },
-    {
-      "id": "1ca3897737224517",
-      "title": "Portails d'annonces / Vidéo Vidéo - RENT 2026, pilier de la Semaine de l’Immobilier et du Logement",
-      "summary": "Agences indépendantes Bouygues Immobilier : un CA en repli de 13 % sur un an Prix du marché & data Crédit à l’habitat : 11,8 Md€ de production en septembre et 3,32 % de taux d’intérêt (stable) Guy Hoquet : les premiers diplômés de sa Business School affichent des résultats prometteurs Réseaux de franchisés Un an après le lancement de sa GH Business School, Guy Hoquet l’Immobilier dresse un premier bilan de son Bachelor Vendeur",
-      "url": "https://www.immomatin.com/portails/portails-annonces/video-rent-2026-pilier-de-la-semaine-de-l-immobilier-et-du-logement.html",
-      "source": "Immo Matin",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Portails d'annonces / Vidéo Vidéo - RENT 2026, pilier de la Semaine de l’Immobilier et du Logement."
-    },
-    {
-      "id": "fe64268a40399cf1",
-      "title": "Agences indépendantes Bouygues Immobilier : un CA en repli de 13 % sur un an",
-      "summary": "Prix du marché & data Crédit à l’habitat : 11,8 Md€ de production en septembre et 3,32 % de taux d’intérêt (stable) Guy Hoquet : les premiers diplômés de sa Business School affichent des résultats prometteurs Réseaux de franchisés Un an après le lancement de sa GH Business School, Guy Hoquet l’Immobilier dresse un premier bilan de son Bachelor Vendeur Expert. Les conseillers de la première promotion ont enregistré une hausse d",
-      "url": "https://www.immomatin.com/agences-reseaux/agences-independantes/bouygues-immobilier-un-ca-en-repli-de-13-sur-un-an.html",
-      "source": "Immo Matin",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Agences indépendantes Bouygues Immobilier : un CA en repli de 13 % sur un an."
-    },
-    {
-      "id": "6526a960f35019d3",
-      "title": "Prix du marché & data Crédit à l’habitat : 11,8 Md€ de production en septembre et 3,32 % de taux d’intérêt (stable)",
-      "summary": "Guy Hoquet : les premiers diplômés de sa Business School affichent des résultats prometteurs Réseaux de franchisés Un an après le lancement de sa GH Business School, Guy Hoquet l’Immobilier dresse un premier bilan de son Bachelor Vendeur Expert. Les conseillers de la première promotion ont enregistré une hausse de 62 % de leurs mandats exclusifs et de 7 % de... La promotion 2026/2027 du Bachelor Vendeur Expert, le 2 novembre 2",
-      "url": "https://www.immomatin.com/marche/prix-marche-data/credit-a-l-habitat-11-8-mde-de-production-en-septembre-et-3-32-de-taux-d-interet-stable.html",
-      "source": "Immo Matin",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-02T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Prix du marché & data Crédit à l’habitat : 11,8 Md€ de production en septembre et 3,32 % de taux d’intérêt (stable)."
     },
     {
       "id": "04c2d1415cf115ad",
@@ -1324,48 +1366,6 @@
       "territory": "France",
       "topic": "Investir",
       "why_it_matters": "Source expert / blog à confronter aux données officielles. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spéciali…."
-    },
-    {
-      "id": "925d58cbeff2c5e2",
-      "title": "Avant/Après : À Paris, un appartement neuf trouve enfin son âme",
-      "summary": "23/10/2026 Des chiffres, l'actu : cette semaine, facture salée pour les TP et TPE 08/10/2026",
-      "url": "https://www.batiactu.com/edito/avant-apres-a-paris-un-appartement-neuf-trouve-enfin-75699.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-23T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Avant/Après : À Paris, un appartement neuf trouve enfin son âme."
-    },
-    {
-      "id": "d725a46e3c7acae2",
-      "title": "Des chiffres, l'actu : cette semaine, facture salée pour les TP et TPE",
-      "summary": "Avant/Après : À Paris, un appartement neuf trouve enfin son âme 23/10/2026 08/10/2026",
-      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-tp-et-tpe-75562.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-23T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Des chiffres, l'actu : cette semaine, facture salée pour les TP et TPE."
     },
     {
       "id": "9dd6e6d0c314ee7b",
@@ -1492,27 +1492,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : leboncoin immo et Nodalview s’associent pour améliorer les standards de l’annonce immobilière."
-    },
-    {
-      "id": "ff289727fe0996ba",
-      "title": "Baromètre QUALITEL 2026 : les Français face aux difficultés pour se loger et à la qualité de leur logement",
-      "summary": "14 octobre 2026 Trouver un logement, en assumer le coût et s’y sentir bien : la 10ᵉ édition du Baromètre QUALITEL dresse un état des lieux des conditions de logement des Français et de leurs attentes pour l’avenir. Réalisée avec Ipsos bva auprès de 3 300 personnes,…",
-      "url": "https://www.anil.org/actualites-evenements/details/barometre-qualitel-2026-les-francais-face-aux-difficultes-pour-se-loger-et-a-la-qualite-de-leur-logement/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-14T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Baromètre QUALITEL 2026 : les Français face aux difficultés pour se loger et à la qualité de leur logement."
     },
     {
       "id": "c31ac098c1e757ee",
@@ -1788,13 +1767,12 @@
     }
   ],
   "source_stats": {
+    "ANIL": 14,
     "MySweetImmo": 16,
     "Journal de l'Agence": 16,
-    "ANIL": 14,
+    "Batiactu": 12,
     "Immobilier 2.0": 16,
-    "Batiactu": 10,
     "Légifrance": 3,
-    "Immo Matin": 3,
     "SDES / Sitadel": 1,
     "Horiz.io": 2,
     "Insee": 1,
@@ -1806,15 +1784,15 @@
     "sources_ok": 14,
     "sources_degraded": 1,
     "errors": 0,
-    "retained": 85,
-    "rejected": 1248,
+    "retained": 84,
+    "rejected": 380,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-19T07:31:49+00:00",
+        "last_success": "2026-11-19T20:42:53+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1822,7 +1800,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-19T07:31:52+00:00",
+        "last_success": "2026-11-19T20:42:57+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1830,40 +1808,40 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-19T07:31:53+00:00",
+        "last_success": "2026-11-19T20:42:58+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
         "level": "A",
-        "ok": false,
-        "status": "degraded",
+        "ok": true,
+        "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-18T20:38:37+00:00",
-        "fallback": true,
-        "error_type": "RetryError"
+        "last_success": "2026-11-19T20:43:00+00:00",
+        "fallback": false
       },
       "Sénat / DOSLEG": {
         "level": "A",
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-19T07:32:26+00:00",
+        "last_success": "2026-11-19T20:43:26+00:00",
         "fallback": false
       },
       "Légifrance": {
         "level": "A",
-        "ok": true,
-        "status": "ok",
+        "ok": false,
+        "status": "degraded",
         "retained": 3,
-        "last_success": "2026-11-19T07:32:35+00:00",
-        "fallback": false
+        "last_success": "2026-11-19T07:32:46+00:00",
+        "fallback": true,
+        "error_type": "RuntimeError"
       },
       "EUR-Lex": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-19T07:32:35+00:00",
+        "last_success": "2026-11-19T20:43:50+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1871,7 +1849,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-11-19T07:32:36+00:00",
+        "last_success": "2026-11-19T20:43:51+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1879,7 +1857,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-19T07:32:37+00:00",
+        "last_success": "2026-11-19T20:43:52+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1887,15 +1865,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-19T07:32:39+00:00",
+        "last_success": "2026-11-19T20:43:54+00:00",
         "fallback": false
       },
       "Immo Matin": {
         "level": "C",
         "ok": true,
-        "status": "ok",
-        "retained": 3,
-        "last_success": "2026-11-19T07:32:41+00:00",
+        "status": "empty",
+        "retained": 0,
+        "last_success": "2026-11-19T20:43:55+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1903,15 +1881,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-19T07:32:42+00:00",
+        "last_success": "2026-11-19T20:43:57+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 10,
-        "last_success": "2026-11-19T07:32:44+00:00",
+        "retained": 12,
+        "last_success": "2026-11-19T20:43:58+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1919,7 +1897,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-19T07:32:45+00:00",
+        "last_success": "2026-11-19T20:43:59+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1927,15 +1905,15 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-19T07:32:45+00:00",
+        "last_success": "2026-11-19T20:44:01+00:00",
         "fallback": false
       }
     }
   },
   "errors": [
     {
-      "source": "SDES / Sitadel",
-      "error": "HTTPSConnectionPool(host='www.statistiques.developpement-durable.gouv.fr', port=443): Max retries exceeded with url: /la-construction-neuve (Caused by ResponseError('too many 503 error responses'))",
+      "source": "Légifrance",
+      "error": "PISTE Légifrance indisponible : 429 Client Error: Too Many Requests for url: https://api.piste.gouv.fr/dila/legifrance/lf-engine-app/consult/lastNJo",
       "fallback": true
     }
   ]

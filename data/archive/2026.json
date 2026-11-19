@@ -1,12 +1,33 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-19T07:33:31+00:00",
+  "generated_at": "2026-11-19T20:44:31+00:00",
   "items": [
+    {
+      "id": "f4747b31eb313854",
+      "title": "Fiscalité locative : quel avenir pour les régimes de location nue et meublée ?",
+      "summary": "19 novembre 2026 Actuellement en discussion au Sénat, le projet de loi de finances pour 2027 remet en débat la fiscalité locative.",
+      "url": "https://www.anil.org/actualites-evenements/details/fiscalite-locative-quel-avenir-pour-les-regimes-de-location-nue-et-meublee/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 85,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Fiscalité locative : quel avenir pour les régimes de location nue et meublée ?."
+    },
     {
       "id": "c8276ef5c1d894fc",
       "title": "Immobilier : Le crédit inquiète, la confiance des Français décroche",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/11/19/marche-immobilier-pessimisme-francais/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -27,7 +48,7 @@
     {
       "id": "72d10bbbd9cc2959",
       "title": "DPE : Pourra-t-on bientôt relouer un logement classé G ?",
-      "summary": "Nouveau Politique",
+      "summary": "Politique",
       "url": "https://www.mysweetimmo.com/2026/11/19/dpe-pourra-t-on-bientot-relouer-un-logement-classe-g/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -65,6 +86,47 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : « SeLoger enregistre 40 % de demandes de contact en plus sur un an », Baptiste Capron."
+    },
+    {
+      "id": "16a1b6fef13b0aee",
+      "title": "Immobilier : L’encadrement des loyers prolongé jusqu’en 2028, ce qui change",
+      "summary": "Nouveau Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/11/19/encadrement-loyers-prolonge-deux-ans/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Immobilier : L’encadrement des loyers prolongé jusqu’en 2028, ce qui change."
+    },
+    {
+      "id": "82a934d44ed3f155",
+      "title": "Location des passoires thermiques : un vote surprise qui pourrait tout changer",
+      "summary": "Le 19/11/2026 à 10H22 Coup de théâtre à l’Assemblée nationale ! Le 17 novembre, les députés ont adopté un amendement visant à supprimer les interdictions de location liées au diagnostic de performance énergétique (DPE). Une décision majeure pour le marché locatif et les professionnels de la gestion immobilière, qui reste toutefois à confirmer au cours du processus législatif. « SeLoger enregistre 40 % de demandes de contact en",
+      "url": "https://www.journaldelagence.com/1414810-location-des-passoires-thermiques-un-vote-surprise-qui-pourrait-tout-changer",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-11-19T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Location des passoires thermiques : un vote surprise qui pourrait tout changer."
     },
     {
       "id": "0f2e802327a43b2c",
@@ -151,8 +213,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : « La gestion locative est un amortisseur face aux difficultés de la transaction » : Gest’in au salon RENT 2026."
     },
     {
-      "id": "924c0f91951449c9",
-      "title": "Réforme du LMNP : l’UNIS dénonce une « erreur historique », un nouveau coup dur pour l’investissement locatif",
+      "id": "5f717cf209466918",
+      "title": "Réforme du LMNP : l’UNIS dénonce une « erreur historique » pour l’investissement locatif",
       "summary": "Le 18/11/2026 à 07H02 Alors que le Sénat s'apprête à examiner ce jeudi 19 novembre, l'article 7 du projet de loi de finances pour 2027, l'UNIS alerte les pouvoirs publics et l'opinion sur les conséquences de la remise en cause du statut de loueur en meublé non professionnel (LMNP). Edouard Morlot, son président, qualifie cette réforme d’ « erreur historique » : en plafonnant les amortissements et en supprimant leur report, y c",
       "url": "https://www.journaldelagence.com/1414793-reforme-du-lmnp-lunis-denonce-une-erreur-historique-un-nouveau-coup-dur-pour-linvestissement-locatif",
       "source": "Journal de l'Agence",
@@ -169,7 +231,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Réforme du LMNP : l’UNIS dénonce une « erreur historique », un nouveau coup dur pour l’investissement locatif."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Réforme du LMNP : l’UNIS dénonce une « erreur historique » pour l’investissement locatif."
     },
     {
       "id": "f732953de058884d",
@@ -236,7 +298,7 @@
     {
       "id": "2b8c35fe4232b396",
       "title": "Immobilier : Les députés votent pour assouplir le statut du bailleur privé dans le projet de loi logement",
-      "summary": "Nouveau Politique",
+      "summary": "Politique",
       "url": "https://www.mysweetimmo.com/2026/11/18/immobilier-projet-loi-logement-statut-bailleur-prive/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -253,6 +315,48 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Immobilier : Les députés votent pour assouplir le statut du bailleur privé dans le projet de loi logement."
+    },
+    {
+      "id": "d8767a7c45927459",
+      "title": "Réactions Calendrier passoires thermiques : \"Cet amendement risque de fragiliser la politique de rénovation\", V. Létard",
+      "summary": "18/11/2026 En débat Rénovation des logements : le RN fait voter un amendement mettant fin aux contraintes du DPE",
+      "url": "https://www.batiactu.com/edito/dpe-associations-logement-denoncent-vote-deputes-mettant-75895.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Réactions Calendrier passoires thermiques : \"Cet amendement risque de fragiliser la politique de rénovation\", V. Létard."
+    },
+    {
+      "id": "5260d838d317f54c",
+      "title": "Réactions Action logement vent debout contre une proposition de Marine Le Pen",
+      "summary": "18/11/2026 Zoom Réforme des retraites : le RN veut utiliser des ressources de la Peec, qui finance Action logement",
+      "url": "https://www.batiactu.com/edito/action-logement-vent-debout-contre-proposition-marine-75897.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-18T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Réactions Action logement vent debout contre une proposition de Marine Le Pen."
     },
     {
       "id": "85ac1a31a79b7d04",
@@ -422,8 +526,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : RENT 2026 – Marché immobilier : « On n’est pas en crise permanente », Romain Odano (Nestenn)."
     },
     {
-      "id": "62d44ac866fbad57",
-      "title": "Agents immobiliers : quel est le DPE de votre activité ?",
+      "id": "bad71d6efc31f4a7",
+      "title": "Votre activité immobilière est-elle solide ou fragile ? Faites le diagnostic !",
       "summary": "Le 16/11/2026 à 07H29 Diagnostic de Performance et d’Efficacité : et si nous regardions notre propre activité avec autant d’attention que les logements que nous vendons ? Car la performance ne se mesure pas seulement au chiffre d’affaires, mais aussi à la qualité de vie. Dominique Piredda nous invite à faire notre propre diagnostic, de A à G, pour gagner en efficacité sans sacrifier notre équilibre. RENT 2026 : L’Adresse prépa",
       "url": "https://www.journaldelagence.com/1414744-agents-immobiliers-quel-est-le-dpe-de-votre-activite",
       "source": "Journal de l'Agence",
@@ -440,7 +544,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Agents immobiliers : quel est le DPE de votre activité ?."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Votre activité immobilière est-elle solide ou fragile ? Faites le diagnostic !."
     },
     {
       "id": "299edddaf0dd3661",
@@ -487,7 +591,7 @@
     {
       "id": "99307fcc3fdc6a03",
       "title": "Immobilier : L’élection présidentielle freine déjà les projets",
-      "summary": "Politique",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/16/immobilier-lelection-presidentielle-freine-deja-les-projets/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -529,7 +633,7 @@
     {
       "id": "0cb8539dd1833faf",
       "title": "Précarité énergétique : la Fondation Laforêt mise sur une rénovation qui implique les habitants",
-      "summary": "Le 16/11/2026 à 08H10 Pour la première édition de son Prix du Logement Solidaire, la Fondation Laforêt a choisi de distinguer les Compagnons Bâtisseurs Île-de-France, parmi 230 candidatures. Une dotation de 30 000 euros permettra à l'association d'accompagner une vingtaine de ménages modestes dans l'amélioration de leur logement et la lutte contre la précarité énergétique. Agents immobiliers : quel est le DPE de votre activité",
+      "summary": "Le 16/11/2026 à 08H10 Pour la première édition de son Prix du Logement Solidaire, la Fondation Laforêt a choisi de distinguer les Compagnons Bâtisseurs Île-de-France, parmi 230 candidatures. Une dotation de 30 000 euros permettra à l'association d'accompagner une vingtaine de ménages modestes dans l'amélioration de leur logement et la lutte contre la précarité énergétique. Votre activité immobilière est-elle solide ou fragile",
       "url": "https://www.journaldelagence.com/1414752-logement-solidaire-la-fondation-laforet-recompense-les-compagnons-batisseurs-ile-de-france",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -545,7 +649,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Précarité énergétique : la Fondation Laforêt mise sur une rénovation qui implique les habitants."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Précarité énergétique : la Fondation Laforêt mise sur une rénovation qui implique les habitants."
     },
     {
       "id": "f7cca7e5c49cd83b",
@@ -1973,6 +2077,48 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Échec d’une vente immobilière : quand une erreur de procédure prive l’agence de son indemnisation."
     },
     {
+      "id": "925d58cbeff2c5e2",
+      "title": "Avant/Après : À Paris, un appartement neuf trouve enfin son âme",
+      "summary": "Dans le Gâtinais, une ferme se réinvente grâce à une surélévation-extension 04/11/2026 23/10/2026",
+      "url": "https://www.batiactu.com/edito/avant-apres-a-paris-un-appartement-neuf-trouve-enfin-75699.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-04T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Avant/Après : À Paris, un appartement neuf trouve enfin son âme."
+    },
+    {
+      "id": "ee74b7789e76ac11",
+      "title": "Dans le Gâtinais, une ferme se réinvente grâce à une surélévation-extension",
+      "summary": "04/11/2026 Avant/Après : À Paris, un appartement neuf trouve enfin son âme 23/10/2026",
+      "url": "https://www.batiactu.com/edito/dans-gatinais-ferme-se-reinvente-grace-a-surelevation-75784.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-04T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Dans le Gâtinais, une ferme se réinvente grâce à une surélévation-extension."
+    },
+    {
       "id": "6e33fda69c485e00",
       "title": "Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat",
       "summary": "03 novembre 2026 Les 4 et 5 novembre 2026, le réseau ANIL/ADIL sera présent au Salon de la Copropriété et de l’Habitat, à Paris Expo Porte de Versailles.",
@@ -3076,27 +3222,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le Groupe National Immobilier présentera sa licence de marque au prochain salon RENT."
-    },
-    {
-      "id": "925d58cbeff2c5e2",
-      "title": "Avant/Après : À Paris, un appartement neuf trouve enfin son âme",
-      "summary": "23/10/2026 Des chiffres, l'actu : cette semaine, facture salée pour les TP et TPE 08/10/2026",
-      "url": "https://www.batiactu.com/edito/avant-apres-a-paris-un-appartement-neuf-trouve-enfin-75699.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-23T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Avant/Après : À Paris, un appartement neuf trouve enfin son âme."
     },
     {
       "id": "d725a46e3c7acae2",
