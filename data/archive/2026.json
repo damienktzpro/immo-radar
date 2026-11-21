@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-20T20:28:29+00:00",
+  "generated_at": "2026-11-21T07:18:34+00:00",
   "items": [
+    {
+      "id": "362aa6795deeb9f0",
+      "title": "RENT 2026 – IA immobilière : « Les gens n’iront plus passer des heures à scroller des annonces » Franck Le Tendre (Omny)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/21/recherche-immobiliere-ia-recommandation-omny/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – IA immobilière : « Les gens n’iront plus passer des heures à scroller des annonces » Franck Le Tendre (Omny)."
+    },
     {
       "id": "680e5786901f2664",
       "title": "Patrimoine immobilier : quand les experts énergie deviennent des partenaires dans les décisions stratégiques",
@@ -47,7 +68,7 @@
     {
       "id": "a5b28aab57dd0efd",
       "title": "Crédit immobilier : 1 dossier sur 8 refusé à cause des 35 %",
-      "summary": "Nouveau Crédit",
+      "summary": "Crédit",
       "url": "https://www.mysweetimmo.com/2026/11/20/credit-immobilier-refus-regle-35/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -68,7 +89,7 @@
     {
       "id": "a61b3f62cb4587fb",
       "title": "Logement : les députés achèvent l'examen du projet de loi",
-      "summary": "Nouveau Politique",
+      "summary": "Politique",
       "url": "https://www.mysweetimmo.com/2026/11/20/projet-loi-logement-vote-novembre-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
