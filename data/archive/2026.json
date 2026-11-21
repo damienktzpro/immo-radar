@@ -1,12 +1,12 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-21T07:18:34+00:00",
+  "generated_at": "2026-11-21T19:23:29+00:00",
   "items": [
     {
-      "id": "362aa6795deeb9f0",
-      "title": "RENT 2026 – IA immobilière : « Les gens n’iront plus passer des heures à scroller des annonces » Franck Le Tendre (Omny)",
-      "summary": "Consultez la publication source pour les informations détaillées.",
+      "id": "4b19e8ca59e1e08e",
+      "title": "RENT 2026 – IA immobilière : « Les gens n’iront plus passer des heures à scroller des annonces », Franck Le Tendre (Omny)",
+      "summary": "Podcasts",
       "url": "https://www.mysweetimmo.com/2026/11/21/recherche-immobiliere-ia-recommandation-omny/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -22,7 +22,49 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – IA immobilière : « Les gens n’iront plus passer des heures à scroller des annonces » Franck Le Tendre (Omny)."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – IA immobilière : « Les gens n’iront plus passer des heures à scroller des annonces », Franck Le Tendre (Omny)."
+    },
+    {
+      "id": "575b9b0729998d9c",
+      "title": "Logement à Lyon : Ce qu’il faut comparer avant d’acheter dans le neuf",
+      "summary": "Nouveau Neuf Article sponsorisé",
+      "url": "https://www.mysweetimmo.com/2026/11/21/logement-a-lyon-ce-quil-faut-comparer-avant-dacheter-dans-le-neuf-2/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement à Lyon : Ce qu’il faut comparer avant d’acheter dans le neuf."
+    },
+    {
+      "id": "4cde4df6badb901b",
+      "title": "RENT 2026 – Logiciel immobilier : « Modelo, une plateforme unique pour les quatre métiers de l’immobilier » Guillaume Girard (Septeo)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/21/modelo-septeo-plateforme-unique-metiers-immobilier/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-21T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – Logiciel immobilier : « Modelo, une plateforme unique pour les quatre métiers de l’immobilier » Guillaume Girard (S…."
     },
     {
       "id": "680e5786901f2664",
@@ -87,8 +129,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : 1 dossier sur 8 refusé à cause des 35 %."
     },
     {
-      "id": "a61b3f62cb4587fb",
-      "title": "Logement : les députés achèvent l'examen du projet de loi",
+      "id": "b68c75d913793760",
+      "title": "Logement : les députés achèvent l’examen du projet de loi",
       "summary": "Politique",
       "url": "https://www.mysweetimmo.com/2026/11/20/projet-loi-logement-vote-novembre-2026/",
       "source": "MySweetImmo",
@@ -105,7 +147,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Logement : les députés achèvent l'examen du projet de loi."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Logement : les députés achèvent l’examen du projet de loi."
     },
     {
       "id": "e0070ff26f6daa71",
@@ -194,7 +236,7 @@
     {
       "id": "72d10bbbd9cc2959",
       "title": "DPE : Pourra-t-on bientôt relouer un logement classé G ?",
-      "summary": "Politique",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/19/dpe-pourra-t-on-bientot-relouer-un-logement-classe-g/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -465,7 +507,7 @@
     {
       "id": "2b8c35fe4232b396",
       "title": "Immobilier : Les députés votent pour assouplir le statut du bailleur privé dans le projet de loi logement",
-      "summary": "Politique",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/18/immobilier-projet-loi-logement-statut-bailleur-prive/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -1910,27 +1952,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Location saisonnière Courchevel : Les habitudes des vacanciers changent."
-    },
-    {
-      "id": "f5181c386e9ee0fc",
-      "title": "Logement à Lyon : Ce qu’il faut comparer avant d’acheter dans le neuf",
-      "summary": "Neuf",
-      "url": "https://www.mysweetimmo.com/2026/11/07/logement-a-lyon-ce-quil-faut-comparer-avant-dacheter-dans-le-neuf/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-07T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement à Lyon : Ce qu’il faut comparer avant d’acheter dans le neuf."
     },
     {
       "id": "3262e51a06f86ce8",
