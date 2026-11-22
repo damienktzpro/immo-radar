@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-22T06:59:20+00:00",
+  "generated_at": "2026-11-22T19:46:52+00:00",
   "items": [
     {
       "id": "de59c809fcdea8d8",
@@ -23,6 +23,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – Agences immobilières : « Ils se coachent eux-mêmes » Sébastien Tedesco (Top 100 Immobilier)."
+    },
+    {
+      "id": "7fe7a9d31bd0bdbd",
+      "title": "RENT 2026 – « Il n’y a pas de bon moment pour un projet immobilier » Philippe Buyens (Capifrance)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/22/agent-immobilier-compte-rendu-de-visite-oral-capifrance-philippe-buyens/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – « Il n’y a pas de bon moment pour un projet immobilier » Philippe Buyens (Capifrance)."
     },
     {
       "id": "4b19e8ca59e1e08e",
