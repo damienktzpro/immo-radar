@@ -1,8 +1,29 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-21T19:23:29+00:00",
+  "generated_at": "2026-11-22T06:59:20+00:00",
   "items": [
+    {
+      "id": "de59c809fcdea8d8",
+      "title": "RENT 2026 – Agences immobilières : « Ils se coachent eux-mêmes » Sébastien Tedesco (Top 100 Immobilier)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/22/top-100-immobilier-dirigeants-agences-entraide/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-22T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – Agences immobilières : « Ils se coachent eux-mêmes » Sébastien Tedesco (Top 100 Immobilier)."
+    },
     {
       "id": "4b19e8ca59e1e08e",
       "title": "RENT 2026 – IA immobilière : « Les gens n’iront plus passer des heures à scroller des annonces », Franck Le Tendre (Omny)",
@@ -27,7 +48,7 @@
     {
       "id": "575b9b0729998d9c",
       "title": "Logement à Lyon : Ce qu’il faut comparer avant d’acheter dans le neuf",
-      "summary": "Nouveau Neuf Article sponsorisé",
+      "summary": "Neuf Article sponsorisé",
       "url": "https://www.mysweetimmo.com/2026/11/21/logement-a-lyon-ce-quil-faut-comparer-avant-dacheter-dans-le-neuf-2/",
       "source": "MySweetImmo",
       "source_level": "C",
