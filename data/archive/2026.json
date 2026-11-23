@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-23T07:48:29+00:00",
+  "generated_at": "2026-11-23T23:59:14+00:00",
   "items": [
     {
       "id": "8cd57de2c02b183b",
@@ -23,6 +23,111 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – « Des leads immobiliers nous arrivent par des IA » Delphine Herman (Guy Hoquet)."
+    },
+    {
+      "id": "dad6fc3ef523650c",
+      "title": "RENT 2026 – « J’ai créé un jeu de société pour réviser l’immobilier » Thierry Galdeano (Winimmo)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/23/jeu-de-societe-formation-agents-immobiliers-thierry-galdeano/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – « J’ai créé un jeu de société pour réviser l’immobilier » Thierry Galdeano (Winimmo)."
+    },
+    {
+      "id": "a3a07b6b76cf79c2",
+      "title": "Marché des logements anciens : le grand mystère ?",
+      "summary": "Le 23/11/2026 à 13H49 Alors que le marché immobilier français s’enfonce dans la crise, les chiffres des transactions dans l’ancien reflètent-ils vraiment la réalité des achats des particuliers ? En confrontant les statistiques des Notaires de France à celles du financement immobilier, Michel Mouillart, professeur émérite d’économie, met en lumière des écarts considérables. Le problème que soulèvent les comparaisons entre stati",
+      "url": "https://www.journaldelagence.com/1414856-marche-des-logements-anciens-le-grand-mystere",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Marché des logements anciens : le grand mystère ?."
+    },
+    {
+      "id": "9ddd51f9d58df5d1",
+      "title": "L’encadrement des loyers prolongé jusqu’en 2028 : ce que les agences doivent retenir",
+      "summary": "Le 23/11/2026 à 12H18 Après deux jours de débats tendus à l’Assemblée nationale, l’encadrement des loyers est prolongé jusqu’en novembre 2028. Pour les agences et gestionnaires, cette reconduction s’accompagne d’un changement concret : les délais dont disposent les locataires pour contester leur loyer évoluent. Formation initiale des collaborateurs en immobilier : c’est le moment d’anticiper 2027 Le 23/11/2026 à 09H20 La CCI d",
+      "url": "https://www.journaldelagence.com/1414867-lencadrement-des-loyers-prolonge-jusquen-2028-ce-que-les-agences-doivent-retenir",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : L’encadrement des loyers prolongé jusqu’en 2028 : ce que les agences doivent retenir."
+    },
+    {
+      "id": "377674d8d8c9cd9a",
+      "title": "Formation initiale des collaborateurs en immobilier : c’est le moment d’anticiper 2027",
+      "summary": "Le 23/11/2026 à 09H20 La CCI de Paris Île-de-France en dit un peu plus sur le projet de décret qui est toujours un grand secret pour la plupart des professionnels de l'immobilier. Formation initiale de 42 heures, conditions de dispense, modalités d'apprentissage… Alors que plusieurs arbitrages restent en suspens, les agences ont tout intérêt à anticiper les nouvelles obligations. Olivier Beddeleem, formateur en immobilier, fai",
+      "url": "https://www.journaldelagence.com/1414851-formation-initiale-des-collaborateurs-en-immobilier-cest-le-moment-danticiper-2027",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Formation initiale des collaborateurs en immobilier : c’est le moment d’anticiper 2027."
+    },
+    {
+      "id": "100473dc79a52149",
+      "title": "Keller Williams France placé en redressement judiciaire",
+      "summary": "23 novembre 2026 - La filiale France du réseau immobilier Keller Williams a été placée en redressement judiciaire. Une mauvaise nouvelle pour la structure qui avait fait l’objet [...]",
+      "url": "https://immo2.pro/actualite-immobilier/keller-williams-france-place-en-redressement-judiciaire/",
+      "source": "Immobilier 2.0",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Keller Williams France placé en redressement judiciaire."
     },
     {
       "id": "de59c809fcdea8d8",
