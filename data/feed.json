@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-22T19:46:28+00:00",
+  "generated_at": "2026-11-23T07:47:42+00:00",
   "version": "7.1",
   "items": [
     {
-      "id": "7fe7a9d31bd0bdbd",
-      "title": "RENT 2026 – « Il n’y a pas de bon moment pour un projet immobilier » Philippe Buyens (Capifrance)",
+      "id": "8cd57de2c02b183b",
+      "title": "RENT 2026 – « Des leads immobiliers nous arrivent par des IA » Delphine Herman (Guy Hoquet)",
       "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/11/22/agent-immobilier-compte-rendu-de-visite-oral-capifrance-philippe-buyens/",
+      "url": "https://www.mysweetimmo.com/2026/11/23/leads-immobiliers-chatgpt-prospection-guy-hoquet/",
       "source": "MySweetImmo",
       "source_level": "C",
       "category": "marche",
@@ -15,13 +15,13 @@
         "investisseur",
         "pro"
       ],
-      "published_at": "2026-11-22T09:00:00+00:00",
+      "published_at": "2026-11-23T09:00:00+00:00",
       "status": "Publication",
       "importance": 73,
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – « Il n’y a pas de bon moment pour un projet immobilier » Philippe Buyens (Capifrance)."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – « Des leads immobiliers nous arrivent par des IA » Delphine Herman (Guy Hoquet)."
     },
     {
       "id": "4b19e8ca59e1e08e",
@@ -1805,14 +1805,14 @@
     "sources_degraded": 0,
     "errors": 0,
     "retained": 85,
-    "rejected": 1379,
+    "rejected": 1380,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-22T19:45:38+00:00",
+        "last_success": "2026-11-23T07:46:47+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1820,7 +1820,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-22T19:45:40+00:00",
+        "last_success": "2026-11-23T07:46:50+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1828,7 +1828,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-22T19:45:41+00:00",
+        "last_success": "2026-11-23T07:46:51+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1836,7 +1836,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-22T19:45:43+00:00",
+        "last_success": "2026-11-23T07:46:52+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1844,7 +1844,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-22T19:46:04+00:00",
+        "last_success": "2026-11-23T07:47:17+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1852,7 +1852,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-22T19:46:18+00:00",
+        "last_success": "2026-11-23T07:47:30+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1860,7 +1860,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-22T19:46:18+00:00",
+        "last_success": "2026-11-23T07:47:30+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1868,7 +1868,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-11-22T19:46:19+00:00",
+        "last_success": "2026-11-23T07:47:32+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1876,7 +1876,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-22T19:46:19+00:00",
+        "last_success": "2026-11-23T07:47:32+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1884,7 +1884,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-22T19:46:21+00:00",
+        "last_success": "2026-11-23T07:47:34+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1892,7 +1892,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-22T19:46:23+00:00",
+        "last_success": "2026-11-23T07:47:36+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1900,7 +1900,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-22T19:46:24+00:00",
+        "last_success": "2026-11-23T07:47:38+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1908,7 +1908,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-11-22T19:46:26+00:00",
+        "last_success": "2026-11-23T07:47:39+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1916,7 +1916,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-22T19:46:27+00:00",
+        "last_success": "2026-11-23T07:47:40+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1924,7 +1924,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-22T19:46:27+00:00",
+        "last_success": "2026-11-23T07:47:41+00:00",
         "fallback": false
       }
     }
