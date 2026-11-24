@@ -1,12 +1,33 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-24T10:00:50+00:00",
+  "generated_at": "2026-11-24T22:32:32+00:00",
   "items": [
+    {
+      "id": "61db83f6421420d3",
+      "title": "Nouvelle analyse juridique : Rétablir la confiance dans les rapports locatifs",
+      "summary": "24 novembre 2026 La loi du 21 novembre 2026 fait notamment suite aux conclusions de la mission flash d’information portant sur le dispositif expérimental d’encadrement du niveau des loyers, confiée à l’Assemblée nationale. Elle comporte plusieurs dispositions…",
+      "url": "https://www.anil.org/documentation-experte/analyses-juridiques-jurisprudence/analyses-juridiques-accueil/analyses-juridiques-2026/loi-pour-retrouver-la-confiance-et-lequilibre-dans-les-rapports-locatifs/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 85,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Nouvelle analyse juridique : Rétablir la confiance dans les rapports locatifs."
+    },
     {
       "id": "7245c2790a9d3fb6",
       "title": "RENT 2026 – Immobilier 2027 : « Il faut rester positif, penser bien pour que tout aille très bien », Michaël Benchabat (MeilleursBiens)",
-      "summary": "Nouveau Podcasts",
+      "summary": "Podcasts",
       "url": "https://www.mysweetimmo.com/2026/11/24/immobilier-2027-presidentielle-meilleursbiens/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -64,6 +85,132 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Réforme du DPE au 1er janvier 2027 : un logement reclassé pourra-t-il échapper au gel des loyers ?."
+    },
+    {
+      "id": "7054469b3da29ba7",
+      "title": "Immobilier en Île-de-France : Les ventes calent, les prix reculent et les perspectives 2027 s'assombrissent",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/24/immobilier-ile-de-france-ventes-prix-perspectives-2027/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier en Île-de-France : Les ventes calent, les prix reculent et les perspectives 2027 s'assombrissent."
+    },
+    {
+      "id": "f393fca121ba9a36",
+      "title": "Immobilier : Le projet de loi logement adopté, l’interdiction de louer les passoires thermiques reste en vigueur pour l’instant",
+      "summary": "Nouveau Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/11/24/loi-logement-adoptee-assemblee-dpe/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Immobilier : Le projet de loi logement adopté, l’interdiction de louer les passoires thermiques reste en vigueur pour l’instant."
+    },
+    {
+      "id": "61295187c27db923",
+      "title": "Réseau immobilier : Keller Williams France placé en redressement judiciaire",
+      "summary": "Nouveau Pros de l’immo",
+      "url": "https://www.mysweetimmo.com/2026/11/24/keller-williams-france-redressement-judiciaire/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Réseau immobilier : Keller Williams France placé en redressement judiciaire."
+    },
+    {
+      "id": "5f2435661776782a",
+      "title": "Webinaire mandat immobilier : 5 erreurs qui coûtent la commission",
+      "summary": "Un mandat mal signé peut vous coûter toute une commission. Le 3 décembre à 12 h, Expertimo vous donne rendez-vous avec Maître Cyril Sabatié pour sécuriser vos honoraires. Contenu sponsorisé par expertimo",
+      "url": "https://www.mysweetimmo.com/2026/11/24/mandat-immobilier-securiser-honoraires-expertimo/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Webinaire mandat immobilier : 5 erreurs qui coûtent la commission."
+    },
+    {
+      "id": "f9f42c146d3827b9",
+      "title": "Immobilier à Paris : Les prix baissent, combien vaut le mètre carré dans votre arrondissement ?",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/24/prix-immobilier-paris-arrondissements-t3-2026/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier à Paris : Les prix baissent, combien vaut le mètre carré dans votre arrondissement ?."
+    },
+    {
+      "id": "ced874e6f778e153",
+      "title": "Conseillers immobiliers : comment relancer un bien grillé sur le marché ?",
+      "summary": "Le 24/11/2026 à 15H13 Quatre ans sur le marché, plusieurs agences mobilisées, des visites et des offres… mais aucune vente. Comment sortir de l'impasse lorsqu'un bien immobilier semble définitivement « grillé » ? À travers un cas concret, Arnaud Viallaneix revient sur une stratégie commerciale qui conjugue juste prix, transparence, outils innovants et accompagnement sur mesure. Conseillez immobiliers, une bonne expérience pour",
+      "url": "https://www.journaldelagence.com/1414908-conseillers-immobiliers-comment-relancer-un-bien-grille-sur-le-marche",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Conseillers immobiliers : comment relancer un bien grillé sur le marché ?."
     },
     {
       "id": "8cd57de2c02b183b",
@@ -169,27 +316,6 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Formation initiale des collaborateurs en immobilier : c’est le moment d’anticiper 2027."
-    },
-    {
-      "id": "100473dc79a52149",
-      "title": "Keller Williams France placé en redressement judiciaire",
-      "summary": "23 novembre 2026 - La filiale France du réseau immobilier Keller Williams a été placée en redressement judiciaire. Une mauvaise nouvelle pour la structure qui avait fait l’objet [...]",
-      "url": "https://immo2.pro/actualite-immobilier/keller-williams-france-place-en-redressement-judiciaire/",
-      "source": "Immobilier 2.0",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-23T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Keller Williams France placé en redressement judiciaire."
     },
     {
       "id": "d280ad10804700de",

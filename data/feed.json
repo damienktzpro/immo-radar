@@ -1,11 +1,95 @@
 {
-  "generated_at": "2026-11-24T10:00:17+00:00",
+  "generated_at": "2026-11-24T22:31:47+00:00",
   "version": "7.1",
   "items": [
     {
+      "id": "61db83f6421420d3",
+      "title": "Nouvelle analyse juridique : Rétablir la confiance dans les rapports locatifs",
+      "summary": "24 novembre 2026 La loi du 21 novembre 2026 fait notamment suite aux conclusions de la mission flash d’information portant sur le dispositif expérimental d’encadrement du niveau des loyers, confiée à l’Assemblée nationale. Elle comporte plusieurs dispositions…",
+      "url": "https://www.anil.org/documentation-experte/analyses-juridiques-jurisprudence/analyses-juridiques-accueil/analyses-juridiques-2026/loi-pour-retrouver-la-confiance-et-lequilibre-dans-les-rapports-locatifs/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 85,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Nouvelle analyse juridique : Rétablir la confiance dans les rapports locatifs."
+    },
+    {
+      "id": "7054469b3da29ba7",
+      "title": "Immobilier en Île-de-France : Les ventes calent, les prix reculent et les perspectives 2027 s'assombrissent",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/24/immobilier-ile-de-france-ventes-prix-perspectives-2027/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier en Île-de-France : Les ventes calent, les prix reculent et les perspectives 2027 s'assombrissent."
+    },
+    {
+      "id": "f393fca121ba9a36",
+      "title": "Immobilier : Le projet de loi logement adopté, l’interdiction de louer les passoires thermiques reste en vigueur pour l’instant",
+      "summary": "Nouveau Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/11/24/loi-logement-adoptee-assemblee-dpe/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Immobilier : Le projet de loi logement adopté, l’interdiction de louer les passoires thermiques reste en vigueur pour l’instant."
+    },
+    {
+      "id": "61295187c27db923",
+      "title": "Réseau immobilier : Keller Williams France placé en redressement judiciaire",
+      "summary": "Nouveau Pros de l’immo",
+      "url": "https://www.mysweetimmo.com/2026/11/24/keller-williams-france-redressement-judiciaire/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Réseau immobilier : Keller Williams France placé en redressement judiciaire."
+    },
+    {
       "id": "7245c2790a9d3fb6",
       "title": "RENT 2026 – Immobilier 2027 : « Il faut rester positif, penser bien pour que tout aille très bien », Michaël Benchabat (MeilleursBiens)",
-      "summary": "Nouveau Podcasts",
+      "summary": "Podcasts",
       "url": "https://www.mysweetimmo.com/2026/11/24/immobilier-2027-presidentielle-meilleursbiens/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -22,6 +106,69 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – Immobilier 2027 : « Il faut rester positif, penser bien pour que tout aille très bien », Michaël Benchabat (Meilleu…."
+    },
+    {
+      "id": "5f2435661776782a",
+      "title": "Webinaire mandat immobilier : 5 erreurs qui coûtent la commission",
+      "summary": "Un mandat mal signé peut vous coûter toute une commission. Le 3 décembre à 12 h, Expertimo vous donne rendez-vous avec Maître Cyril Sabatié pour sécuriser vos honoraires. Contenu sponsorisé par expertimo",
+      "url": "https://www.mysweetimmo.com/2026/11/24/mandat-immobilier-securiser-honoraires-expertimo/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Webinaire mandat immobilier : 5 erreurs qui coûtent la commission."
+    },
+    {
+      "id": "f9f42c146d3827b9",
+      "title": "Immobilier à Paris : Les prix baissent, combien vaut le mètre carré dans votre arrondissement ?",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/24/prix-immobilier-paris-arrondissements-t3-2026/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier à Paris : Les prix baissent, combien vaut le mètre carré dans votre arrondissement ?."
+    },
+    {
+      "id": "ced874e6f778e153",
+      "title": "Conseillers immobiliers : comment relancer un bien grillé sur le marché ?",
+      "summary": "Le 24/11/2026 à 15H13 Quatre ans sur le marché, plusieurs agences mobilisées, des visites et des offres… mais aucune vente. Comment sortir de l'impasse lorsqu'un bien immobilier semble définitivement « grillé » ? À travers un cas concret, Arnaud Viallaneix revient sur une stratégie commerciale qui conjugue juste prix, transparence, outils innovants et accompagnement sur mesure. Conseillez immobiliers, une bonne expérience pour",
+      "url": "https://www.journaldelagence.com/1414908-conseillers-immobiliers-comment-relancer-un-bien-grille-sur-le-marche",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Conseillers immobiliers : comment relancer un bien grillé sur le marché ?."
     },
     {
       "id": "e6cbdf261755d99f",
@@ -170,90 +317,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Zoom Encadrement des loyers : la Métropole laisse Lyon et Villeurbanne décider de la prolongation du dispositif."
     },
     {
-      "id": "100473dc79a52149",
-      "title": "Keller Williams France placé en redressement judiciaire",
-      "summary": "23 novembre 2026 - La filiale France du réseau immobilier Keller Williams a été placée en redressement judiciaire. Une mauvaise nouvelle pour la structure qui avait fait l’objet [...]",
-      "url": "https://immo2.pro/actualite-immobilier/keller-williams-france-place-en-redressement-judiciaire/",
-      "source": "Immobilier 2.0",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-23T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Keller Williams France placé en redressement judiciaire."
-    },
-    {
-      "id": "4b19e8ca59e1e08e",
-      "title": "RENT 2026 – IA immobilière : « Les gens n’iront plus passer des heures à scroller des annonces », Franck Le Tendre (Omny)",
-      "summary": "Podcasts",
-      "url": "https://www.mysweetimmo.com/2026/11/21/recherche-immobiliere-ia-recommandation-omny/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-21T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – IA immobilière : « Les gens n’iront plus passer des heures à scroller des annonces », Franck Le Tendre (Omny)."
-    },
-    {
-      "id": "575b9b0729998d9c",
-      "title": "Logement à Lyon : Ce qu’il faut comparer avant d’acheter dans le neuf",
-      "summary": "Neuf Article sponsorisé",
-      "url": "https://www.mysweetimmo.com/2026/11/21/logement-a-lyon-ce-quil-faut-comparer-avant-dacheter-dans-le-neuf-2/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-21T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Logement à Lyon : Ce qu’il faut comparer avant d’acheter dans le neuf."
-    },
-    {
-      "id": "a5b28aab57dd0efd",
-      "title": "Crédit immobilier : 1 dossier sur 8 refusé à cause des 35 %",
-      "summary": "Crédit",
-      "url": "https://www.mysweetimmo.com/2026/11/20/credit-immobilier-refus-regle-35/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "credit",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-20T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Credit",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Crédit immobilier : 1 dossier sur 8 refusé à cause des 35 %."
-    },
-    {
       "id": "b68c75d913793760",
       "title": "Logement : les députés achèvent l’examen du projet de loi",
       "summary": "Politique",
@@ -398,27 +461,6 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Immobilier : L’encadrement des loyers prolongé jusqu’en 2028, ce qui change."
-    },
-    {
-      "id": "ce806fe7ed8cb492",
-      "title": "RENT 2026 – « À nous de devenir finalement l’IA de l’immobilier », Nicolas Faure (Résidences Immobilier)",
-      "summary": "Podcasts",
-      "url": "https://www.mysweetimmo.com/2026/11/19/nicolas-faure-residences-immobilier-ia-portails/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-19T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – « À nous de devenir finalement l’IA de l’immobilier », Nicolas Faure (Résidences Immobilier)."
     },
     {
       "id": "c8276ef5c1d894fc",
@@ -776,27 +818,6 @@
       "why_it_matters": "Source institutionnelle. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Nouvelle Parole d'expert : La rénovation énergétique en copropriété : aides, financement et travaux."
     },
     {
-      "id": "dfd28dfdde303ded",
-      "title": "Les Orangeries SAFTI : une autre façon d’entreprendre dans l’immobilier Réseaux de mandataires Contenu sponsorisé Les Orangeries SAFTI. - © D.R.",
-      "summary": "Passoires thermiques : un vote qui bouleverse le calendrier de la rénovation énergétique Réglementation & conformité L’Assemblée nationale a adopté, le 17 novembre 2026, un amendement supprimant les interdictions de location des logements énergivores. Cette décision est contestée par le gouvernement et plusieurs acteurs du secteur de l’immobilier. Un vote... Cette disposition abroge les principales mesures de l’article 160 de",
-      "url": "https://www.immomatin.com/agences-reseaux/reseaux-mandataires/les-orangeries-safti-une-autre-facon-d-entreprendre-dans-l-immobilier.html",
-      "source": "Immo Matin",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-17T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Les Orangeries SAFTI : une autre façon d’entreprendre dans l’immobilier Réseaux de mandataires Contenu sponsorisé Les Orangerie…."
-    },
-    {
       "id": "00bbfc3892765496",
       "title": "Recherche IA : revendiquez la propriété de la fiche de votre agence immobilière sur ChatGPT",
       "summary": "17 novembre 2026 - OpenAI lance « Entreprises sur ChatGPT » en version bêta sur son agent conversationnel. Grâce à cette nouvelle fonctionnalité clairement inspirée de Google My Business, il [...]",
@@ -899,27 +920,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Précarité énergétique : la Fondation Laforêt mise sur une rénovation qui implique les habitants."
-    },
-    {
-      "id": "bad71d6efc31f4a7",
-      "title": "Votre activité immobilière est-elle solide ou fragile ? Faites le diagnostic !",
-      "summary": "Le 16/11/2026 à 07H29 Diagnostic de Performance et d’Efficacité : et si nous regardions notre propre activité avec autant d’attention que les logements que nous vendons ? Car la performance ne se mesure pas seulement au chiffre d’affaires, mais aussi à la qualité de vie. Dominique Piredda nous invite à faire notre propre diagnostic, de A à G, pour gagner en efficacité sans sacrifier notre équilibre. RENT 2026 : L’Adresse prépa",
-      "url": "https://www.journaldelagence.com/1414744-agents-immobiliers-quel-est-le-dpe-de-votre-activite",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-16T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Votre activité immobilière est-elle solide ou fragile ? Faites le diagnostic !."
     },
     {
       "id": "f7cca7e5c49cd83b",
@@ -1027,27 +1027,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat : retour sur deux jours d’échanges."
-    },
-    {
-      "id": "85034deebccc25bf",
-      "title": "Rénovation d’escalier : Quel budget prévoir pour préparer sa maison à la vente ?",
-      "summary": "Avant de vendre une maison, un escalier usé peut peser sur la première impression des visiteurs. Peinture, ponçage ou habillage des marches : quelles solutions envisager et quel budget prévoir pour présenter un intérieur soigné ? Contenu sponsorisé par renovationescalier.fr",
-      "url": "https://www.mysweetimmo.com/2026/11/13/renovation-escalier-budget-vente/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-13T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Rénovation d’escalier : Quel budget prévoir pour préparer sa maison à la vente ?."
     },
     {
       "id": "c441557ba59a3f44",
@@ -1534,27 +1513,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le Groupe National Immobilier présentera sa licence de marque au prochain salon RENT."
     },
     {
-      "id": "bdd19db7883954a3",
-      "title": "Nouvelle Parole d'expert : Locataire ou bailleur : que faire en cas d’impayés de loyer ?",
-      "summary": "20 octobre 2026 Un impayé de loyer peut rapidement devenir difficile à gérer, pour le locataire comme pour le propriétaire bailleur. Pourtant, des solutions peuvent être recherchées dès les premières difficultés. Quelles démarches entreprendre ? À qui s’adresser ?…",
-      "url": "https://www.anil.org/parole-expert-logement-habiter-vie-pratique/locataire-ou-bailleur-que-faire-en-cas-dimpayes-de-loyer/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "investisseur",
-        "pro",
-        "particulier"
-      ],
-      "published_at": "2026-10-20T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Nouvelle Parole d'expert : Locataire ou bailleur : que faire en cas d’impayés de loyer ?."
-    },
-    {
       "id": "3d7293efa8c364b6",
       "title": "Squarimo rachète Enchères Immo et WinUp pour démocratiser la vente immobilière interactive",
       "summary": "20 octobre 2026 - Squarimo a annoncé l’acquisition d’Enchères Immo et de WinUp. Par cette opération, la plateforme souhaite accélérer la consolidation du marché français de la vente [...]",
@@ -1826,57 +1784,35 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Estimez la valeur de votre bien immobilier."
-    },
-    {
-      "id": "b8310b5b4adf5eeb",
-      "title": "Une nouvelle aide pour installer une pompe à chaleur : comment en bénéficier ?",
-      "summary": "Un dispositif, accessible depuis le 17 novembre, permet aux propriétaires d’une maison individuelle de s’équiper d’une pompe à chaleur, sans que le coût de cette installation ne représente une augmentation de leurs dépenses mensuelles. Pour bénéficier de ce mécanisme, vos ressources ne doivent pas dépasser un certain plafond. Service Public vous présente les différentes modalités du dispositif.",
-      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19085?xtor=RSS-111",
-      "source": "Service-Public.fr",
-      "source_level": "A",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": null,
-      "status": "Information officielle",
-      "importance": 88,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Une nouvelle aide pour installer une pompe à chaleur : comment en bénéficier ?."
     }
   ],
   "source_stats": {
+    "ANIL": 14,
     "MySweetImmo": 16,
     "Journal de l'Agence": 16,
     "Batiactu": 15,
-    "Immobilier 2.0": 16,
-    "ANIL": 14,
-    "Immo Matin": 1,
+    "Immobilier 2.0": 15,
     "Légifrance": 3,
     "SDES / Sitadel": 1,
     "Horiz.io": 2,
     "Insee": 1,
     "EUR-Lex": 1,
-    "Service-Public.fr": 2
+    "Service-Public.fr": 1
   },
   "health": {
     "sources_total": 15,
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 88,
-    "rejected": 1370,
+    "retained": 85,
+    "rejected": 1371,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
-        "retained": 2,
-        "last_success": "2026-11-24T09:59:25+00:00",
+        "retained": 1,
+        "last_success": "2026-11-24T22:30:49+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1884,7 +1820,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-24T09:59:27+00:00",
+        "last_success": "2026-11-24T22:30:53+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1892,7 +1828,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-24T09:59:28+00:00",
+        "last_success": "2026-11-24T22:30:54+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1900,7 +1836,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-24T09:59:29+00:00",
+        "last_success": "2026-11-24T22:30:56+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1908,7 +1844,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-24T09:59:51+00:00",
+        "last_success": "2026-11-24T22:31:18+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1916,7 +1852,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-24T10:00:05+00:00",
+        "last_success": "2026-11-24T22:31:35+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1924,7 +1860,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-24T10:00:05+00:00",
+        "last_success": "2026-11-24T22:31:35+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1932,7 +1868,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-11-24T10:00:05+00:00",
+        "last_success": "2026-11-24T22:31:36+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1940,7 +1876,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-24T10:00:07+00:00",
+        "last_success": "2026-11-24T22:31:38+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1948,15 +1884,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-24T10:00:09+00:00",
+        "last_success": "2026-11-24T22:31:39+00:00",
         "fallback": false
       },
       "Immo Matin": {
         "level": "C",
         "ok": true,
-        "status": "ok",
-        "retained": 1,
-        "last_success": "2026-11-24T10:00:10+00:00",
+        "status": "empty",
+        "retained": 0,
+        "last_success": "2026-11-24T22:31:41+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1964,7 +1900,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-24T10:00:12+00:00",
+        "last_success": "2026-11-24T22:31:42+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1972,7 +1908,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-11-24T10:00:14+00:00",
+        "last_success": "2026-11-24T22:31:44+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1980,7 +1916,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-24T10:00:15+00:00",
+        "last_success": "2026-11-24T22:31:45+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1988,7 +1924,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-24T10:00:17+00:00",
+        "last_success": "2026-11-24T22:31:46+00:00",
         "fallback": false
       }
     }
