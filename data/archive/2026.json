@@ -1,8 +1,70 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-23T23:59:14+00:00",
+  "generated_at": "2026-11-24T10:00:50+00:00",
   "items": [
+    {
+      "id": "7245c2790a9d3fb6",
+      "title": "RENT 2026 – Immobilier 2027 : « Il faut rester positif, penser bien pour que tout aille très bien », Michaël Benchabat (MeilleursBiens)",
+      "summary": "Nouveau Podcasts",
+      "url": "https://www.mysweetimmo.com/2026/11/24/immobilier-2027-presidentielle-meilleursbiens/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – Immobilier 2027 : « Il faut rester positif, penser bien pour que tout aille très bien », Michaël Benchabat (Meilleu…."
+    },
+    {
+      "id": "e6cbdf261755d99f",
+      "title": "« Avec l’IA agentique, nous entrons dans une nouvelle ère pour l’immobilier », Reda Mahfoud (Orisha Real Estate)",
+      "summary": "Le 24/11/2026 à 08H00 Après l’IA générative, place à l’IA agentique. Capable non seulement de fournir des réponses, mais aussi d’exécuter des tâches, cette nouvelle génération d’intelligence artificielle promet de transformer le quotidien des professionnels de l’immobilier. Au salon RENT, Reda Mahfoud, CEO d’Orisha Real Estate, a dévoilé les dernières innovations du groupe et partagé sa vision des métiers immobiliers à l’horiz",
+      "url": "https://www.journaldelagence.com/1414871-avec-lia-agentique-nous-entrons-dans-une-nouvelle-ere-pour-limmobilier-reda-mahfoud-orisha-real-estate",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : « Avec l’IA agentique, nous entrons dans une nouvelle ère pour l’immobilier », Reda Mahfoud (Orisha Real Estate)."
+    },
+    {
+      "id": "96cbe93ab43ff7ee",
+      "title": "Réforme du DPE au 1er janvier 2027 : un logement reclassé pourra-t-il échapper au gel des loyers ?",
+      "summary": "Le 24/11/2026 à 06H55 Les réformes successives du DPE en 2026 et 2027 permettront à de nombreux logements de sortir des classes F et G, sans travaux. Mais leurs propriétaires pourront-ils pour autant échapper au gel des loyers ? Maître Cyril Sabatié, avocat spécialiste en droit immobilier, décrypte les conséquences juridiques de ces reclassements pour les bailleurs. Marché des logements anciens : le grand mystère ? Le 23/11/20",
+      "url": "https://www.journaldelagence.com/1414889-reforme-du-dpe-au-1er-janvier-2027-un-logement-reclasse-pourra-t-il-echapper-au-gel-des-loyers",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Réforme du DPE au 1er janvier 2027 : un logement reclassé pourra-t-il échapper au gel des loyers ?."
+    },
     {
       "id": "8cd57de2c02b183b",
       "title": "RENT 2026 – « Des leads immobiliers nous arrivent par des IA » Delphine Herman (Guy Hoquet)",
@@ -128,6 +190,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Keller Williams France placé en redressement judiciaire."
+    },
+    {
+      "id": "d280ad10804700de",
+      "title": "Zoom Encadrement des loyers : la Métropole laisse Lyon et Villeurbanne décider de la prolongation du dispositif",
+      "summary": "23/11/2026 L'Essentiel L'encadrement des loyers joue les prolongations !",
+      "url": "https://www.batiactu.com/edito/encadrement-loyers-metropole-laisse-lyon-et-villeurbanne-75937.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-23T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Zoom Encadrement des loyers : la Métropole laisse Lyon et Villeurbanne décider de la prolongation du dispositif."
     },
     {
       "id": "de59c809fcdea8d8",
@@ -383,7 +466,7 @@
     {
       "id": "c8276ef5c1d894fc",
       "title": "Immobilier : Le crédit inquiète, la confiance des Français décroche",
-      "summary": "Marché immobilier",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/19/marche-immobilier-pessimisme-francais/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -859,6 +942,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : L’Observatoire de l’immobilier digital dévoile ses premières données."
+    },
+    {
+      "id": "dfd28dfdde303ded",
+      "title": "Les Orangeries SAFTI : une autre façon d’entreprendre dans l’immobilier Réseaux de mandataires Contenu sponsorisé Les Orangeries SAFTI. - © D.R.",
+      "summary": "Passoires thermiques : un vote qui bouleverse le calendrier de la rénovation énergétique Réglementation & conformité L’Assemblée nationale a adopté, le 17 novembre 2026, un amendement supprimant les interdictions de location des logements énergivores. Cette décision est contestée par le gouvernement et plusieurs acteurs du secteur de l’immobilier. Un vote... Cette disposition abroge les principales mesures de l’article 160 de",
+      "url": "https://www.immomatin.com/agences-reseaux/reseaux-mandataires/les-orangeries-safti-une-autre-facon-d-entreprendre-dans-l-immobilier.html",
+      "source": "Immo Matin",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Les Orangeries SAFTI : une autre façon d’entreprendre dans l’immobilier Réseaux de mandataires Contenu sponsorisé Les Orangerie…."
     },
     {
       "id": "9a542e4fdffbd512",
