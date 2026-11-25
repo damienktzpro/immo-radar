@@ -1,12 +1,33 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-25T08:44:54+00:00",
+  "generated_at": "2026-11-25T21:46:53+00:00",
   "items": [
+    {
+      "id": "808fe55fa74457b1",
+      "title": "Deux journées d’échanges pour les directrices et directeurs du réseau ANIL/ADIL",
+      "summary": "25 novembre 2026 Hier, l’ANIL a réuni les directrices et directeurs du réseau pour une première journée consacrée aux actualités du réseau, à ses grands projets et aux enjeux liés aux politiques du logement.",
+      "url": "https://www.anil.org/actualites-evenements/details/deux-journees-dechanges-pour-les-directrices-et-directeurs-du-reseau-anil-adil/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Deux journées d’échanges pour les directrices et directeurs du réseau ANIL/ADIL."
+    },
     {
       "id": "f4df9f84fb6305bb",
       "title": "Immobilier : Les prix baissent en France, mais acheter coûte-t-il vraiment moins cher ?",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/11/25/prix-immobilier-france-baisse-taux-credit-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -23,6 +44,69 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Les prix baissent en France, mais acheter coûte-t-il vraiment moins cher ?."
+    },
+    {
+      "id": "aeae1396c6550814",
+      "title": "Immobilier : Qui sont ces acheteurs qui dépensent plus de 3 millions à Paris ?",
+      "summary": "Luxe",
+      "url": "https://www.mysweetimmo.com/2026/11/25/immobilier-paris-qui-achete-les-biens-a-plus-de-3-millions-deuros/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Qui sont ces acheteurs qui dépensent plus de 3 millions à Paris ?."
+    },
+    {
+      "id": "09e1300a243e66cf",
+      "title": "RENT 2026 : « Il va y avoir du tri dans les agences immobilières » David Dos Reis (DDR)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/25/uberisation-immobilier-agences-david-dos-reis/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 : « Il va y avoir du tri dans les agences immobilières » David Dos Reis (DDR)."
+    },
+    {
+      "id": "d9a8121c042b1f43",
+      "title": "Sortie du gaz : le gouvernement préconise des actions de court et moyen termes",
+      "summary": "L'Essentiel 25/11/2026 Zoom Qu'est-ce que le projet \"Maison électrique\", lancé par le gouvernement ?",
+      "url": "https://www.batiactu.com/edito/sortie-gaz-gouvernement-preconise-actions-court-et-75954.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Sortie du gaz : le gouvernement préconise des actions de court et moyen termes."
     },
     {
       "id": "73e45dc918a1154c",
@@ -70,7 +154,7 @@
     {
       "id": "7245c2790a9d3fb6",
       "title": "RENT 2026 – Immobilier 2027 : « Il faut rester positif, penser bien pour que tout aille très bien », Michaël Benchabat (MeilleursBiens)",
-      "summary": "Podcasts",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/24/immobilier-2027-presidentielle-meilleursbiens/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -237,7 +321,7 @@
     {
       "id": "ced874e6f778e153",
       "title": "Conseillers immobiliers : comment relancer un bien grillé sur le marché ?",
-      "summary": "Le 24/11/2026 à 15H13 Quatre ans sur le marché, plusieurs agences mobilisées, des visites et des offres… mais aucune vente. Comment sortir de l'impasse lorsqu'un bien immobilier semble définitivement « grillé » ? À travers un cas concret, Arnaud Viallaneix revient sur une stratégie commerciale qui conjugue juste prix, transparence, outils innovants et accompagnement sur mesure. Conseillez immobiliers, une bonne expérience pour",
+      "summary": "Le 24/11/2026 à 15H13 Quatre ans sur le marché, plusieurs agences mobilisées, des visites et des offres… mais aucune vente. Comment sortir de l'impasse lorsqu'un bien immobilier semble définitivement « grillé » ? À travers un cas concret, Arnaud Viallaneix revient sur une stratégie commerciale qui conjugue juste prix, transparence, outils innovants et accompagnement sur mesure. Conseillers immobiliers, une bonne expérience pou",
       "url": "https://www.journaldelagence.com/1414908-conseillers-immobiliers-comment-relancer-un-bien-grille-sur-le-marche",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -258,7 +342,7 @@
     {
       "id": "a562658cddac66fc",
       "title": "Agent immobilier : 7 leçons du RENT pour réussir en 2027",
-      "summary": "Nouveau Pros de l’immo",
+      "summary": "Pros de l’immo",
       "url": "https://www.mysweetimmo.com/2026/11/24/immobilier-2027-lecons-rent/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -12558,6 +12642,27 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : L’UNIS veut peser dans les débats présidentiels sur le logement."
+    },
+    {
+      "id": "d1a23bea9eab0a3f",
+      "title": "Projet de loi logement : adopté par les députés, le texte joue désormais son avenir en CMP",
+      "summary": "Le 25/11/2026 à 11H51 Assouplissement du dispositif Jeanbrun, suppression des interdictions de louer les passoires thermiques, renforcement du rôle des maires… Les députés ont largement adopté, mardi 24 novembre, le projet de loi visant la relance et la décentralisation du logement. Si le texte franchit une nouvelle étape, son avenir se jouera désormais en commission mixte paritaire, dont la réunion est envisagée le 2 décembre",
+      "url": "https://www.journaldelagence.com/1414915-projet-de-loi-logement-adopte-par-les-deputes-le-texte-joue-desormais-son-avenir-en-cmp",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-06-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Projet de loi logement : adopté par les députés, le texte joue désormais son avenir en CMP."
     },
     {
       "id": "bbc054ca08d5498f",

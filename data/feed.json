@@ -1,11 +1,53 @@
 {
-  "generated_at": "2026-11-25T08:44:04+00:00",
+  "generated_at": "2026-11-25T21:46:18+00:00",
   "version": "7.1",
   "items": [
     {
+      "id": "808fe55fa74457b1",
+      "title": "Deux journées d’échanges pour les directrices et directeurs du réseau ANIL/ADIL",
+      "summary": "25 novembre 2026 Hier, l’ANIL a réuni les directrices et directeurs du réseau pour une première journée consacrée aux actualités du réseau, à ses grands projets et aux enjeux liés aux politiques du logement.",
+      "url": "https://www.anil.org/actualites-evenements/details/deux-journees-dechanges-pour-les-directrices-et-directeurs-du-reseau-anil-adil/",
+      "source": "ANIL",
+      "source_level": "B",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 82,
+      "relevance": 82,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Deux journées d’échanges pour les directrices et directeurs du réseau ANIL/ADIL."
+    },
+    {
+      "id": "aeae1396c6550814",
+      "title": "Immobilier : Qui sont ces acheteurs qui dépensent plus de 3 millions à Paris ?",
+      "summary": "Luxe",
+      "url": "https://www.mysweetimmo.com/2026/11/25/immobilier-paris-qui-achete-les-biens-a-plus-de-3-millions-deuros/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Qui sont ces acheteurs qui dépensent plus de 3 millions à Paris ?."
+    },
+    {
       "id": "f4df9f84fb6305bb",
       "title": "Immobilier : Les prix baissent en France, mais acheter coûte-t-il vraiment moins cher ?",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/11/25/prix-immobilier-france-baisse-taux-credit-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -22,6 +64,48 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Les prix baissent en France, mais acheter coûte-t-il vraiment moins cher ?."
+    },
+    {
+      "id": "09e1300a243e66cf",
+      "title": "RENT 2026 : « Il va y avoir du tri dans les agences immobilières » David Dos Reis (DDR)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/25/uberisation-immobilier-agences-david-dos-reis/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 : « Il va y avoir du tri dans les agences immobilières » David Dos Reis (DDR)."
+    },
+    {
+      "id": "d9a8121c042b1f43",
+      "title": "Sortie du gaz : le gouvernement préconise des actions de court et moyen termes",
+      "summary": "L'Essentiel 25/11/2026 Zoom Qu'est-ce que le projet \"Maison électrique\", lancé par le gouvernement ?",
+      "url": "https://www.batiactu.com/edito/sortie-gaz-gouvernement-preconise-actions-court-et-75954.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Sortie du gaz : le gouvernement préconise des actions de court et moyen termes."
     },
     {
       "id": "73e45dc918a1154c",
@@ -90,7 +174,7 @@
     {
       "id": "a562658cddac66fc",
       "title": "Agent immobilier : 7 leçons du RENT pour réussir en 2027",
-      "summary": "Nouveau Pros de l’immo",
+      "summary": "Pros de l’immo",
       "url": "https://www.mysweetimmo.com/2026/11/24/immobilier-2027-lecons-rent/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -195,7 +279,7 @@
     {
       "id": "7245c2790a9d3fb6",
       "title": "RENT 2026 – Immobilier 2027 : « Il faut rester positif, penser bien pour que tout aille très bien », Michaël Benchabat (MeilleursBiens)",
-      "summary": "Podcasts",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/24/immobilier-2027-presidentielle-meilleursbiens/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -216,7 +300,7 @@
     {
       "id": "ced874e6f778e153",
       "title": "Conseillers immobiliers : comment relancer un bien grillé sur le marché ?",
-      "summary": "Le 24/11/2026 à 15H13 Quatre ans sur le marché, plusieurs agences mobilisées, des visites et des offres… mais aucune vente. Comment sortir de l'impasse lorsqu'un bien immobilier semble définitivement « grillé » ? À travers un cas concret, Arnaud Viallaneix revient sur une stratégie commerciale qui conjugue juste prix, transparence, outils innovants et accompagnement sur mesure. Conseillez immobiliers, une bonne expérience pour",
+      "summary": "Le 24/11/2026 à 15H13 Quatre ans sur le marché, plusieurs agences mobilisées, des visites et des offres… mais aucune vente. Comment sortir de l'impasse lorsqu'un bien immobilier semble définitivement « grillé » ? À travers un cas concret, Arnaud Viallaneix revient sur une stratégie commerciale qui conjugue juste prix, transparence, outils innovants et accompagnement sur mesure. Conseillers immobiliers, une bonne expérience pou",
       "url": "https://www.journaldelagence.com/1414908-conseillers-immobiliers-comment-relancer-un-bien-grille-sur-le-marche",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -650,48 +734,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Lyon : Une maison-bulle de Pascal Häusermann à vendre 1,2 million d’euros."
-    },
-    {
-      "id": "1c97c2fcfbd6e86e",
-      "title": "Immobilier Saint-Tropez : Au-delà de 10 millions, les acheteurs sont là",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/11/18/immobilier-saint-tropez-au-dela-de-10-millions-les-acheteurs-sont-la/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier Saint-Tropez : Au-delà de 10 millions, les acheteurs sont là."
-    },
-    {
-      "id": "d27a5e703d8c8889",
-      "title": "DPE : L’Assemblée vote la fin des interdictions de louer des passoires thermiques, qu’est-ce qui change ?",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/11/18/passoires-thermiques-interdiction-louer-vote-assemblee/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : DPE : L’Assemblée vote la fin des interdictions de louer des passoires thermiques, qu’est-ce qui change ?."
     },
     {
       "id": "cc54e0ec834af727",
@@ -1156,27 +1198,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Hausse du Smic."
     },
     {
-      "id": "db5874348f952255",
-      "title": "Analyse Immobilier neuf : \"Rien ne va, tous les moteurs sont à l'arrêt en même temps !\" (FPI)",
-      "summary": "12/11/2026 Infographie Promotion immobilière : quatre ans d'une crise historique en cinq graphiques En débat Immobilier neuf : ce que la FPI défendra à Matignon lundi \"avant qu'il ne soit trop tard\"",
-      "url": "https://www.batiactu.com/edito/logement-neuf-rien-ne-ca-tous-moteurs-sont-a-arret-75845.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-12T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Analyse Immobilier neuf : \"Rien ne va, tous les moteurs sont à l'arrêt en même temps !\" (FPI)."
-    },
-    {
       "id": "c5b30d58a6369a53",
       "title": "Portail immo : AVendreALouer est de retour !",
       "summary": "10 novembre 2026 - Leboncoin immo a annoncé la relance de la marque historique A Vendre A Louer, acquise en 2017. Avec un site trilingue consacré uniquement à l’immobilier, A Vendre A [...]",
@@ -1429,27 +1450,6 @@
       "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin septembre 2026 (France entière)."
     },
     {
-      "id": "b344b3c5e19704d7",
-      "title": "Nouvelle étude de l’ANIL : L’essor de la location meublée de longue durée, un facteur de recomposition du parc locatif privé ?",
-      "summary": "28 octobre 2026 Dans sa nouvelle étude, « L’essor de la location meublée de longue durée, un facteur de recomposition du parc locatif privé ? », l’ANIL analyse les dynamiques de ce marché, les facteurs qui expliquent son développement et ses conséquences sur les…",
-      "url": "https://www.anil.org/actualites-evenements/details/nouvelle-etude-de-lanil-lessor-de-la-location-meublee-de-longue-duree-un-facteur-de-recomposition-du-parc-locatif-prive/",
-      "source": "ANIL",
-      "source_level": "B",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-28T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 82,
-      "relevance": 82,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Nouvelle étude de l’ANIL : L’essor de la location meublée de longue durée, un facteur de recomposition du parc locatif privé ?."
-    },
-    {
       "id": "d25d2e2bee230fde",
       "title": "Interview de Florian : Investir en meublé en LMNP Découvrez l’interview de Florian un investisseur en location meublée spécialiste du LMNP. 26 Octobre 2026",
       "summary": "Expert-comptable LMNP : 3 avantages et tarifs 2026 Vous êtes un investisseur immobilier locatif et vous avez adopté une stratégie de location en meublé ? Alors, vous êtes sans doute sous le statut de Loueur en Meublé Non Professionnel (LMNP), tant que vos recettes de location meublée ne dépassent pas 23 000 € par an, ou qu’elles restent inférieures aux autres revenus d’activité de votre foyer. Si les deux seuils sont dépassés,",
@@ -1638,27 +1638,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Présidentielle 2027 : quelles sont les propositions de Gabriel Attal pour le logement ?."
     },
     {
-      "id": "f3b487a2245a2aab",
-      "title": "Annonce immobilière : le vendeur est-il engagé dès qu’un acquéreur accepte le prix affiché ?",
-      "summary": "Le 17/11/2026 à 07H08 Un vendeur peut-il refuser une offre au prix affiché pour privilégier un acquéreur plus offrant ? Dans un arrêt du 8 octobre 2026, la Cour de cassation rappelle qu'une annonce immobilière peut, sous certaines conditions, engager son auteur envers le premier acquéreur qui l'accepte. Une décision commentée par Maître Caroline Dubuis-Taleyrach, qui souligne l'intérêt du mandat d'entremise pour sécuriser les",
-      "url": "https://www.journaldelagence.com/1414758-annonce-immobiliere-le-vendeur-est-il-engage-des-quun-acquereur-accepte-le-prix-affiche",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-08T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Annonce immobilière : le vendeur est-il engagé dès qu’un acquéreur accepte le prix affiché ?."
-    },
-    {
       "id": "a2d36583f3a0994b",
       "title": "SeLoger Neuf propose aux promoteurs d’augmenter leur visibilité avec Top Position",
       "summary": "8 octobre 2026 - Le portail immobilier SeLoger Neuf lance Top Position, une nouvelle option pour les promoteurs désirant accélérer la vente de leurs programmes stratégiques. En effet, non [...]",
@@ -1699,6 +1678,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source expert / blog à confronter aux données officielles. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : 4,3 % en novembre 2023."
+    },
+    {
+      "id": "d1a23bea9eab0a3f",
+      "title": "Projet de loi logement : adopté par les députés, le texte joue désormais son avenir en CMP",
+      "summary": "Le 25/11/2026 à 11H51 Assouplissement du dispositif Jeanbrun, suppression des interdictions de louer les passoires thermiques, renforcement du rôle des maires… Les députés ont largement adopté, mardi 24 novembre, le projet de loi visant la relance et la décentralisation du logement. Si le texte franchit une nouvelle étape, son avenir se jouera désormais en commission mixte paritaire, dont la réunion est envisagée le 2 décembre",
+      "url": "https://www.journaldelagence.com/1414915-projet-de-loi-logement-adopte-par-les-deputes-le-texte-joue-desormais-son-avenir-en-cmp",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-06-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Projet de loi logement : adopté par les députés, le texte joue désormais son avenir en CMP."
     },
     {
       "id": "80f7028d6b0a933f",
@@ -1764,6 +1764,48 @@
       "legal_stage": "jorf"
     },
     {
+      "id": "c41ac2aedb709fc7",
+      "title": "Réductions et crédits d'impôt : vous avez jusqu’au 10 décembre pour modifier votre avance",
+      "summary": "Vous employez une aide à domicile ? Vous faites garder vos enfants à l'extérieur de votre domicile ? Vous versez des dons ou des cotisations syndicales ? Certaines de ces dépenses ouvrent droit à des réductions ou à des crédits d’impôt sur le revenu. Une avance de 60 % du montant vous sera versée en janvier 2027. Elle sera calculée sur vos dépenses de 2025 déclarées en 2026. Vous avez jusqu'au 10 décembre pour modifier cette avance. Service Public vous explique.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17881?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": null,
+      "status": "Information officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source officielle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Réductions et crédits d'impôt : vous avez jusqu’au 10 décembre pour modifier votre avance."
+    },
+    {
+      "id": "aaf2aa3d589fdef7",
+      "title": "Ce qui change en décembre 2026",
+      "summary": "Santé, finances, logement, congés... Service Public fait le point sur les nouveautés de ce mois de décembre.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17882?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": null,
+      "status": "Information officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Ce qui change en décembre 2026."
+    },
+    {
       "id": "36cfb10beb5ad9cf",
       "title": "Estimez la valeur de votre bien immobilier",
       "summary": "Vous voulez vendre votre bien immobilier ? Acheter votre futur appartement ? Acquérir un terrain ? Pour estimer un bien, vous pouvez effectuer une demande de valeurs foncières. Service Public vous explique comment procéder.",
@@ -1786,32 +1828,32 @@
     }
   ],
   "source_stats": {
-    "MySweetImmo": 16,
-    "Légifrance": 3,
     "ANIL": 14,
-    "Journal de l'Agence": 16,
+    "MySweetImmo": 16,
     "Batiactu": 15,
+    "Légifrance": 3,
+    "Journal de l'Agence": 16,
     "Immobilier 2.0": 15,
     "SDES / Sitadel": 1,
     "Horiz.io": 2,
     "Insee": 1,
     "EUR-Lex": 1,
-    "Service-Public.fr": 1
+    "Service-Public.fr": 3
   },
   "health": {
     "sources_total": 15,
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 85,
-    "rejected": 1309,
+    "retained": 87,
+    "rejected": 1312,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
-        "retained": 1,
-        "last_success": "2026-11-25T08:43:25+00:00",
+        "retained": 3,
+        "last_success": "2026-11-25T21:45:28+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1819,7 +1861,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-25T08:43:28+00:00",
+        "last_success": "2026-11-25T21:45:31+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1827,7 +1869,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-25T08:43:28+00:00",
+        "last_success": "2026-11-25T21:45:33+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1835,7 +1877,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-25T08:43:30+00:00",
+        "last_success": "2026-11-25T21:45:34+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1843,7 +1885,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-25T08:43:46+00:00",
+        "last_success": "2026-11-25T21:45:52+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1851,7 +1893,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-25T08:43:55+00:00",
+        "last_success": "2026-11-25T21:46:06+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1859,7 +1901,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-25T08:43:55+00:00",
+        "last_success": "2026-11-25T21:46:06+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1867,7 +1909,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-11-25T08:43:56+00:00",
+        "last_success": "2026-11-25T21:46:07+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1875,7 +1917,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-25T08:43:56+00:00",
+        "last_success": "2026-11-25T21:46:08+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1883,7 +1925,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-25T08:43:58+00:00",
+        "last_success": "2026-11-25T21:46:09+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1891,7 +1933,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-25T08:43:59+00:00",
+        "last_success": "2026-11-25T21:46:10+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1899,7 +1941,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-25T08:44:01+00:00",
+        "last_success": "2026-11-25T21:46:12+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1907,7 +1949,7 @@
         "ok": true,
         "status": "ok",
         "retained": 15,
-        "last_success": "2026-11-25T08:44:02+00:00",
+        "last_success": "2026-11-25T21:46:14+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1915,7 +1957,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-25T08:44:03+00:00",
+        "last_success": "2026-11-25T21:46:14+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1923,7 +1965,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-25T08:44:03+00:00",
+        "last_success": "2026-11-25T21:46:17+00:00",
         "fallback": false
       }
     }
