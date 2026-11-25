@@ -1,8 +1,51 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-24T22:32:32+00:00",
+  "generated_at": "2026-11-25T08:44:54+00:00",
   "items": [
+    {
+      "id": "f4df9f84fb6305bb",
+      "title": "Immobilier : Les prix baissent en France, mais acheter coûte-t-il vraiment moins cher ?",
+      "summary": "Nouveau Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/25/prix-immobilier-france-baisse-taux-credit-2026/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Les prix baissent en France, mais acheter coûte-t-il vraiment moins cher ?."
+    },
+    {
+      "id": "73e45dc918a1154c",
+      "title": "Arrêté du 20 novembre 2026 portant déclaration d'utilité publique des travaux de création d'une ligne électrique aérienne à 400 kV entre les postes de Chaingy (45) et Dambron (28) et emportant mise en compatibilité du plan local d'urbanisme intercommunal de la communauté de communes Cœur de Beauce",
+      "summary": "Texte officiel concernant l’urbanisme, les documents d’urbanisme, le foncier ou l’aménagement du territoire.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055137331",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-25T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Urbanisme / Territoires",
+      "why_it_matters": "Source officielle. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Arrêté du 20 novembre 2026 portant déclaration d'utilité publique des travaux de création d'une ligne électrique aérienne à 400….",
+      "legal_stage": "jorf"
+    },
     {
       "id": "61db83f6421420d3",
       "title": "Nouvelle analyse juridique : Rétablir la confiance dans les rapports locatifs",
@@ -89,7 +132,7 @@
     {
       "id": "7054469b3da29ba7",
       "title": "Immobilier en Île-de-France : Les ventes calent, les prix reculent et les perspectives 2027 s'assombrissent",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/11/24/immobilier-ile-de-france-ventes-prix-perspectives-2027/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -108,9 +151,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier en Île-de-France : Les ventes calent, les prix reculent et les perspectives 2027 s'assombrissent."
     },
     {
-      "id": "f393fca121ba9a36",
-      "title": "Immobilier : Le projet de loi logement adopté, l’interdiction de louer les passoires thermiques reste en vigueur pour l’instant",
-      "summary": "Nouveau Règlementation",
+      "id": "e1b4566b809f63c2",
+      "title": "Immobilier : Le projet de loi logement est adopté, l’interdiction de louer les passoires thermiques reste en vigueur pour l’instant",
+      "summary": "Règlementation",
       "url": "https://www.mysweetimmo.com/2026/11/24/loi-logement-adoptee-assemblee-dpe/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -126,12 +169,12 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Immobilier : Le projet de loi logement adopté, l’interdiction de louer les passoires thermiques reste en vigueur pour l’instant."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Immobilier : Le projet de loi logement est adopté, l’interdiction de louer les passoires thermiques reste en vigueur pour l’ins…."
     },
     {
       "id": "61295187c27db923",
       "title": "Réseau immobilier : Keller Williams France placé en redressement judiciaire",
-      "summary": "Nouveau Pros de l’immo",
+      "summary": "Pros de l’immo",
       "url": "https://www.mysweetimmo.com/2026/11/24/keller-williams-france-redressement-judiciaire/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -173,7 +216,7 @@
     {
       "id": "f9f42c146d3827b9",
       "title": "Immobilier à Paris : Les prix baissent, combien vaut le mètre carré dans votre arrondissement ?",
-      "summary": "Nouveau Marché immobilier",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/11/24/prix-immobilier-paris-arrondissements-t3-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -211,6 +254,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Conseillers immobiliers : comment relancer un bien grillé sur le marché ?."
+    },
+    {
+      "id": "a562658cddac66fc",
+      "title": "Agent immobilier : 7 leçons du RENT pour réussir en 2027",
+      "summary": "Nouveau Pros de l’immo",
+      "url": "https://www.mysweetimmo.com/2026/11/24/immobilier-2027-lecons-rent/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Agent immobilier : 7 leçons du RENT pour réussir en 2027."
     },
     {
       "id": "8cd57de2c02b183b",
@@ -508,7 +572,7 @@
     {
       "id": "b68c75d913793760",
       "title": "Logement : les députés achèvent l’examen du projet de loi",
-      "summary": "Politique",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/20/projet-loi-logement-vote-novembre-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -655,11 +719,11 @@
     {
       "id": "16a1b6fef13b0aee",
       "title": "Immobilier : L’encadrement des loyers prolongé jusqu’en 2028, ce qui change",
-      "summary": "Règlementation",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/19/encadrement-loyers-prolonge-deux-ans/",
       "source": "MySweetImmo",
       "source_level": "C",
-      "category": "lois",
+      "category": "marche",
       "audiences": [
         "particulier",
         "investisseur",
@@ -667,10 +731,10 @@
       ],
       "published_at": "2026-11-19T09:00:00+00:00",
       "status": "Publication",
-      "importance": 76,
+      "importance": 73,
       "relevance": 73,
       "territory": "France",
-      "topic": "Lois",
+      "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Immobilier : L’encadrement des loyers prolongé jusqu’en 2028, ce qui change."
     },
     {
@@ -12474,6 +12538,26 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché."
+    },
+    {
+      "id": "80f7028d6b0a933f",
+      "title": "L’UNIS veut peser dans les débats présidentiels sur le logement",
+      "summary": "Le 25/11/2026 à 07H25 Administrateur de biens au Havre, Édouard Morlot a été élu à l’unanimité à la présidence de l’UNIS le 17 juin 2026, pour un mandat de trois ans. Rencontré au salon RENT, qui s’est déroulé en novembre 2026, il détaille les priorités de son programme « Ensemble, cap sur 2029 » et ses ambitions pour faire grandir le syndicat, qui rassemble 13 700 entreprises affiliées. Conseillers immobiliers : comment relan",
+      "url": "https://www.journaldelagence.com/1414772-lunis-veut-peser-dans-les-debats-presidentiels-sur-le-logement",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "pro",
+      "audiences": [
+        "pro",
+        "investisseur"
+      ],
+      "published_at": "2026-06-17T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Pro",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : L’UNIS veut peser dans les débats présidentiels sur le logement."
     },
     {
       "id": "bbc054ca08d5498f",
