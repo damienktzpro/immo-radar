@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-26T08:29:18+00:00",
+  "generated_at": "2026-11-26T21:40:17+00:00",
   "items": [
     {
       "id": "c52f0d2d1b4c520f",
@@ -27,7 +27,7 @@
     {
       "id": "3c9326802cb47450",
       "title": "Présidentielle 2027 : quelles sont les propositions d’Édouard Philippe pour le logement ?",
-      "summary": "Le 26/11/2026 à 08H00 Moratoire de 5 ans sur les normes du logement, TVA du neuf reversée aux communes, « flat tax » sur les revenus de la location longue durée… Edouard Philippe veut construire 4 millions de logements en 10 ans et relancer l’investissement locatif. Tour d’horizon des principales propositions du candidat Horizons pour la présidentielle de 2027. Conseillers immobiliers : 7 conseils pour rentrer du mandat en déc",
+      "summary": "Le 26/11/2026 à 08H00 Moratoire de 5 ans sur les normes du logement, TVA du neuf reversée aux communes, « flat tax » sur les revenus de la location longue durée… Edouard Philippe veut construire 4 millions de logements en 10 ans et relancer l’investissement locatif. Tour d’horizon des principales propositions du candidat Horizons pour la présidentielle de 2027. Conseillers immobiliers : 7 conseils pour décrocher des mandats en",
       "url": "https://www.journaldelagence.com/1414930-presidentielle-2027-quelles-sont-les-propositions-dedouard-philippe-pour-le-logement",
       "source": "Journal de l'Agence",
       "source_level": "C",
@@ -46,8 +46,8 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Présidentielle 2027 : quelles sont les propositions d’Édouard Philippe pour le logement ?."
     },
     {
-      "id": "0e9cccb5352e4a98",
-      "title": "Conseillers immobiliers : 7 conseils pour rentrer du mandat en décembre",
+      "id": "18801ead5977325b",
+      "title": "Conseillers immobiliers : 7 conseils pour décrocher des mandats en décembre",
       "summary": "Le 26/11/2026 à 07H16 Décembre est souvent considéré comme un mois creux par les professionnels de l’immobilier. Pourtant, les fêtes de fin d’année peuvent être l’occasion de décrocher de nouveaux mandats et de prendre une longueur d’avance sur la concurrence. Encore faut-il savoir où chercher et comment s’y prendre. Jonathan, responsable du développement chez Expertimo, nous livre ses conseils. Projet de loi logement : adopté",
       "url": "https://www.journaldelagence.com/1414935-conseillers-immobiliers-7-conseils-pour-rentrer-du-mandat-en-decembre",
       "source": "Journal de l'Agence",
@@ -64,7 +64,28 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Conseillers immobiliers : 7 conseils pour rentrer du mandat en décembre."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Conseillers immobiliers : 7 conseils pour décrocher des mandats en décembre."
+    },
+    {
+      "id": "1da0404f8c75a236",
+      "title": "Votre prochain Journal de l’Agence arrive bientôt : êtes-vous sûr de le recevoir ?",
+      "summary": "Le 26/11/2026 à 11H04 Le prochain numéro du Journal de l’Agence arrive bientôt dans vos boîtes aux lettres ! Pour être certain de recevoir votre magazine trimestriel, prenez quelques instants pour vérifier et, si nécessaire, actualiser vos coordonnées. Présidentielle 2027 : quelles sont les propositions d’Édouard Philippe pour le logement ? Le 26/11/2026 à 08H00 Moratoire de 5 ans sur les normes du logement, TVA du neuf revers",
+      "url": "https://www.journaldelagence.com/1414922-votre-prochain-journal-de-lagence-arrive-bientot-etes-vous-sur-de-le-recevoir",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Votre prochain Journal de l’Agence arrive bientôt : êtes-vous sûr de le recevoir ?."
     },
     {
       "id": "808fe55fa74457b1",
@@ -212,6 +233,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Zoom Qu'est-ce que le projet \"Maison électrique\", lancé par le gouvernement ?."
+    },
+    {
+      "id": "ee7b83ec96d728e2",
+      "title": "Logement : le projet de loi voté à une large majorité, malgré le point noir du DPE",
+      "summary": "Décryptage 25/11/2026 Réactions Investissement locatif : l'amélioration du dispositif Jeanbrun dans l'ancien donne satisfaction aux professionnels",
+      "url": "https://www.batiactu.com/edito/logement-projet-loi-vote-a-assemblee-a-large-majorite-75951.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Logement : le projet de loi voté à une large majorité, malgré le point noir du DPE."
     },
     {
       "id": "73e45dc918a1154c",
@@ -464,6 +506,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Agent immobilier : 7 leçons du RENT pour réussir en 2027."
+    },
+    {
+      "id": "4ccb140bad2fa77f",
+      "title": "RENT 2026 : « 96 % des requêtes immobilières génèrent un aperçu IA » Jérémy Lacoste (Eskimoz)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/24/referencement-ia-chatgpt-google-agence-immobiliere-jeremy-lacoste/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 : « 96 % des requêtes immobilières génèrent un aperçu IA » Jérémy Lacoste (Eskimoz)."
     },
     {
       "id": "8cd57de2c02b183b",
@@ -1892,6 +1955,48 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 – IA immobilière : « La zone de génie de nos conseillers, c’est l’humain » Samuel Caux (eXp France)."
     },
     {
+      "id": "0d06489923ca0462",
+      "title": "Des chiffres, l'actu : cette semaine, facture salée pour les précaires énergétiques",
+      "summary": "Bois et béton habillent une tour de logements étudiants au sud de Paris 13/11/2026 12/11/2026",
+      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-precaires-75847.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Des chiffres, l'actu : cette semaine, facture salée pour les précaires énergétiques."
+    },
+    {
+      "id": "ac2084be39e74a25",
+      "title": "Bois et béton habillent une tour de logements étudiants au sud de Paris",
+      "summary": "13/11/2026 Des chiffres, l'actu : cette semaine, facture salée pour les précaires énergétiques 12/11/2026",
+      "url": "https://www.batiactu.com/edito/bois-et-beton-habillent-tour-logements-etudiants-au-75851.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Bois et béton habillent une tour de logements étudiants au sud de Paris."
+    },
+    {
       "id": "c441557ba59a3f44",
       "title": "Avis relatif à l'extension d'un avenant à la convention collective nationale de l'habitat et logement accompagnés",
       "summary": "Texte officiel concernant le logement social, l’habitat ou les organismes du secteur.",
@@ -2227,27 +2332,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Avant/Après : À Marseille, une maison 1930 rénovée pour une famille nombreuse."
-    },
-    {
-      "id": "0d06489923ca0462",
-      "title": "Des chiffres, l'actu : cette semaine, facture salée pour les précaires énergétiques",
-      "summary": "12/11/2026 Avant/Après : À Marseille, une maison 1930 rénovée pour une famille nombreuse 06/11/2026",
-      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-precaires-75847.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-12T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Des chiffres, l'actu : cette semaine, facture salée pour les précaires énergétiques."
     },
     {
       "id": "52973b49eb8c894a",
