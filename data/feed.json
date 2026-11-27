@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:43:27+00:00",
+  "generated_at": "2026-11-27T21:24:10+00:00",
   "version": "7.1",
   "items": [
     {
@@ -24,9 +24,30 @@
       "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin octobre 2026 (France entière)."
     },
     {
+      "id": "b7cbfbfa48ec11b4",
+      "title": "Immobilier : Le Sénat vote une réforme des plus-values, faut-il vendre avant 2028 ?",
+      "summary": "Politique",
+      "url": "https://www.mysweetimmo.com/2026/11/27/reforme-plus-values-immobilieres-senat-2028/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Le Sénat vote une réforme des plus-values, faut-il vendre avant 2028 ?."
+    },
+    {
       "id": "d570dac8736b6383",
       "title": "PLF 2027 et location meublée : Qui échapperait au plafonnement ?",
-      "summary": "Nouveau Règlementation",
+      "summary": "Règlementation",
       "url": "https://www.mysweetimmo.com/2026/11/27/plf-2027-et-location-meublee-qui-echapperait-au-plafonnement/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -47,7 +68,7 @@
     {
       "id": "ceac8bddfbbfe290",
       "title": "RENT 2026 : « En immobilier, surtout dans la proptech, il y a eu de la casse et j’en fais partie », Coline Sinquin (Qlower)",
-      "summary": "Nouveau Podcasts",
+      "summary": "Podcasts",
       "url": "https://www.mysweetimmo.com/2026/11/27/coline-sinquin-omedom-liquidation-qlower/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -68,7 +89,7 @@
     {
       "id": "ffd32bf90f62447f",
       "title": "Crise du logement : « J’entends cette colère qui monte », Véronique Bédague (Nexity)",
-      "summary": "Nouveau Politique",
+      "summary": "Politique",
       "url": "https://www.mysweetimmo.com/2026/11/27/crise-logement-colere-veronique-bedague-nexity/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -234,6 +255,111 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Conseillers immobiliers : 7 conseils pour décrocher des mandats en décembre."
     },
     {
+      "id": "014b0ceef84f7b96",
+      "title": "Suppression d'emplois",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les travaux publics C'est l'heure de faire les comptes. Batiactu fait le point en chiffres sur l'actualité du BTP et du cadre de vie. 26/11/2026 Capitale européenne de la culture Énergies renouvelables Travaux publics Projet de loi Relance du Logement",
+      "url": "https://www.batiactu.com/edito/suppression-d-emplois-75969.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Suppression d'emplois."
+    },
+    {
+      "id": "773e131c8c754920",
+      "title": "Capitale européenne de la culture",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les travaux publics C'est l'heure de faire les comptes. Batiactu fait le point en chiffres sur l'actualité du BTP et du cadre de vie. 26/11/2026 Suppression d'emplois Énergies renouvelables Travaux publics Projet de loi Relance du Logement",
+      "url": "https://www.batiactu.com/edito/capitale-europeenne-de-la-culture-75969.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Capitale européenne de la culture."
+    },
+    {
+      "id": "367237e9d2303720",
+      "title": "Énergies renouvelables",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les travaux publics C'est l'heure de faire les comptes. Batiactu fait le point en chiffres sur l'actualité du BTP et du cadre de vie. 26/11/2026 Suppression d'emplois Capitale européenne de la culture Travaux publics Projet de loi Relance du Logement",
+      "url": "https://www.batiactu.com/edito/energies-renouvelables-75969.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Énergies renouvelables."
+    },
+    {
+      "id": "6bf5f48bec215c47",
+      "title": "Travaux publics",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les travaux publics C'est l'heure de faire les comptes. Batiactu fait le point en chiffres sur l'actualité du BTP et du cadre de vie. 26/11/2026 Suppression d'emplois Capitale européenne de la culture Énergies renouvelables Projet de loi Relance du Logement",
+      "url": "https://www.batiactu.com/edito/travaux-publics-75969.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Travaux publics."
+    },
+    {
+      "id": "83cc4bc757d85200",
+      "title": "Projet de loi Relance du Logement",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les travaux publics C'est l'heure de faire les comptes. Batiactu fait le point en chiffres sur l'actualité du BTP et du cadre de vie. 26/11/2026 Suppression d'emplois Capitale européenne de la culture Énergies renouvelables Travaux publics",
+      "url": "https://www.batiactu.com/edito/projet-de-loi-relance-du-logement-75969.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Projet de loi Relance du Logement."
+    },
+    {
       "id": "808fe55fa74457b1",
       "title": "Deux journées d’échanges pour les directrices et directeurs du réseau ANIL/ADIL",
       "summary": "25 novembre 2026 Hier, l’ANIL a réuni les directrices et directeurs du réseau pour une première journée consacrée aux actualités du réseau, à ses grands projets et aux enjeux liés aux politiques du logement.",
@@ -274,27 +400,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : RENT 2026 : « Il va y avoir du tri dans les agences immobilières », David Dos Reis (DDR)."
-    },
-    {
-      "id": "e3f5fbf6d97a67ab",
-      "title": "Immobilier : Acheter ou louer en 2026 ? Le calcul dans 32 villes de France",
-      "summary": "Investir / Financer",
-      "url": "https://www.mysweetimmo.com/2026/11/25/immobilier-acheter-ou-louer-2026-32-villes/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-25T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Acheter ou louer en 2026 ? Le calcul dans 32 villes de France."
     },
     {
       "id": "aeae1396c6550814",
@@ -1091,27 +1196,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Projet de loi \"relance logement\" : vers un recul de la protection du patrimoine ?."
     },
     {
-      "id": "974e215e2e3cd627",
-      "title": "Analyse Crise du logement : le projet de loi du gouvernement entre dans sa dernière ligne droite",
-      "summary": "16/11/2026 En débat Crise du logement : \"Le pire est devant nous\", Véronique Bédague (Nexity) En débat Projet de loi \"relance logement\" : vers un recul de la protection du patrimoine ?",
-      "url": "https://www.batiactu.com/edito/projet-loi-relance-logement-entre-dans-sa-derniere-75864.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-16T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Analyse Crise du logement : le projet de loi du gouvernement entre dans sa dernière ligne droite."
-    },
-    {
       "id": "2c77732d8e77d336",
       "title": "Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat : retour sur deux jours d’échanges",
       "summary": "13 novembre 2026 Les 4 et 5 novembre, le réseau ANIL/ADIL était présent au Salon de la Copropriété et de l’Habitat, à Paris Expo Porte de Versailles.",
@@ -1133,9 +1217,30 @@
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Le réseau ANIL/ADIL au Salon de la Copropriété et de l’Habitat : retour sur deux jours d’échanges."
     },
     {
+      "id": "ed1523af917547ef",
+      "title": "Avant/Après : Un cocon de 25 m² doté de 4 couchages dans le 12e",
+      "summary": "13/11/2026 Bois et béton habillent une tour de logements étudiants au sud de Paris 13/11/2026",
+      "url": "https://www.batiactu.com/edito/avant-apres-un-cocon-25-m-dote-4-couchages-dans-12e-75857.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Avant/Après : Un cocon de 25 m² doté de 4 couchages dans le 12e."
+    },
+    {
       "id": "ac2084be39e74a25",
       "title": "Bois et béton habillent une tour de logements étudiants au sud de Paris",
-      "summary": "13/11/2026 Des chiffres, l'actu : cette semaine, facture salée pour les précaires énergétiques 12/11/2026",
+      "summary": "Avant/Après : Un cocon de 25 m² doté de 4 couchages dans le 12e 13/11/2026 13/11/2026",
       "url": "https://www.batiactu.com/edito/bois-et-beton-habillent-tour-logements-etudiants-au-75851.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -1152,27 +1257,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Bois et béton habillent une tour de logements étudiants au sud de Paris."
-    },
-    {
-      "id": "0d06489923ca0462",
-      "title": "Des chiffres, l'actu : cette semaine, facture salée pour les précaires énergétiques",
-      "summary": "Bois et béton habillent une tour de logements étudiants au sud de Paris 13/11/2026 12/11/2026",
-      "url": "https://www.batiactu.com/edito/chiffres-actu-cette-semaine-facture-salee-precaires-75847.php",
-      "source": "Batiactu",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-13T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Des chiffres, l'actu : cette semaine, facture salée pour les précaires énergétiques."
     },
     {
       "id": "0c1e8093029e8672",
@@ -1552,27 +1636,6 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : SeLoger Neuf propose aux promoteurs d’augmenter leur visibilité avec Top Position."
     },
     {
-      "id": "538b25ded75bbbb5",
-      "title": "4,3 % en novembre 2023",
-      "summary": "Comment accompagner les vendeurs face à la baisse des prix ? La baisse des prix se confirme dans le secteur de l’immobilier. Pourtant, la plupart des vendeurs se montrent toujours réticents à l’idée de revoir leurs prétentions. C’est là que réside tout le défi pour les professionnels de l’immobilier. Pour aider les propriétaires à prendre conscience de cette nouvelle réalité, vous devez impérativement leur faire part des conte",
-      "url": "https://www.empruntis.com/financement/actualites/historique-taux-credit-immobilier.php#graph",
-      "source": "Horiz.io",
-      "source_level": "D",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-09-17T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 66,
-      "relevance": 66,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source expert / blog à confronter aux données officielles. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : 4,3 % en novembre 2023."
-    },
-    {
       "id": "d1a23bea9eab0a3f",
       "title": "Projet de loi logement : adopté par les députés, le texte joue désormais son avenir en CMP",
       "summary": "Le 25/11/2026 à 11H51 Assouplissement du dispositif Jeanbrun, suppression des interdictions de louer les passoires thermiques, renforcement du rôle des maires… Les députés ont largement adopté, mardi 24 novembre, le projet de loi visant la relance et la décentralisation du logement. Si le texte franchit une nouvelle étape, son avenir se jouera désormais en commission mixte paritaire, dont la réunion est envisagée le 2 décembre",
@@ -1657,6 +1720,27 @@
       "legal_stage": "jorf"
     },
     {
+      "id": "ebbbb656a1d0205e",
+      "title": "CAF : le calendrier 2027 des versements de prestations est paru",
+      "summary": "Vous êtes bénéficiaire des allocations familiales ? Vous êtes allocataire du RSA (Revenu de solidarité active), des APL (Aides au logement) ou de la prime d'activité ? Découvrez le calendrier des versements des prestations de la Caisse d'allocations familiales pour l'année 2027.",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19160?xtor=RSS-111",
+      "source": "Service-Public.fr",
+      "source_level": "A",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": null,
+      "status": "Information officielle",
+      "importance": 88,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source officielle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : CAF : le calendrier 2027 des versements de prestations est paru."
+    },
+    {
       "id": "c41ac2aedb709fc7",
       "title": "Réductions et crédits d'impôt : vous avez jusqu’au 10 décembre pour modifier votre avance",
       "summary": "Vous employez une aide à domicile ? Vous faites garder vos enfants à l'extérieur de votre domicile ? Vous versez des dons ou des cotisations syndicales ? Certaines de ces dépenses ouvrent droit à des réductions ou à des crédits d’impôt sur le revenu. Une avance de 60 % du montant vous sera versée en janvier 2027. Elle sera calculée sur vos dépenses de 2025 déclarées en 2026. Vous avez jusqu'au 10 décembre pour modifier cette avance. Service Public vous explique.",
@@ -1676,27 +1760,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source officielle. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Réductions et crédits d'impôt : vous avez jusqu’au 10 décembre pour modifier votre avance."
-    },
-    {
-      "id": "36cfb10beb5ad9cf",
-      "title": "Estimez la valeur de votre bien immobilier",
-      "summary": "Vous voulez vendre votre bien immobilier ? Acheter votre futur appartement ? Acquérir un terrain ? Pour estimer un bien, vous pouvez effectuer une demande de valeurs foncières. Service Public vous explique comment procéder.",
-      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17761?xtor=RSS-111",
-      "source": "Service-Public.fr",
-      "source_level": "A",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": null,
-      "status": "Information officielle",
-      "importance": 88,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source officielle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Estimez la valeur de votre bien immobilier."
     }
   ],
   "source_stats": {
@@ -1704,10 +1767,10 @@
     "MySweetImmo": 16,
     "Journal de l'Agence": 16,
     "ANIL": 14,
-    "Batiactu": 12,
+    "Batiactu": 16,
     "Légifrance": 1,
     "Immobilier 2.0": 15,
-    "Horiz.io": 2,
+    "Horiz.io": 1,
     "Insee": 1,
     "EUR-Lex": 1,
     "Service-Public.fr": 2
@@ -1717,15 +1780,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 81,
-    "rejected": 1430,
+    "retained": 84,
+    "rejected": 1401,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-27T08:42:34+00:00",
+        "last_success": "2026-11-27T21:23:26+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1733,7 +1796,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-27T08:42:36+00:00",
+        "last_success": "2026-11-27T21:23:28+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1741,7 +1804,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-27T08:42:37+00:00",
+        "last_success": "2026-11-27T21:23:29+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1749,7 +1812,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-27T08:42:38+00:00",
+        "last_success": "2026-11-27T21:23:30+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1757,7 +1820,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-27T08:43:04+00:00",
+        "last_success": "2026-11-27T21:23:47+00:00",
         "fallback": false
       },
       "Légifrance": {
@@ -1765,7 +1828,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-27T08:43:17+00:00",
+        "last_success": "2026-11-27T21:24:00+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1773,7 +1836,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-27T08:43:17+00:00",
+        "last_success": "2026-11-27T21:24:00+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1781,7 +1844,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-11-27T08:43:18+00:00",
+        "last_success": "2026-11-27T21:24:00+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1789,7 +1852,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-27T08:43:18+00:00",
+        "last_success": "2026-11-27T21:24:01+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1797,7 +1860,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-27T08:43:20+00:00",
+        "last_success": "2026-11-27T21:24:03+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1805,7 +1868,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-27T08:43:21+00:00",
+        "last_success": "2026-11-27T21:24:04+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1813,15 +1876,15 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-27T08:43:23+00:00",
+        "last_success": "2026-11-27T21:24:05+00:00",
         "fallback": false
       },
       "Batiactu": {
         "level": "C",
         "ok": true,
         "status": "ok",
-        "retained": 12,
-        "last_success": "2026-11-27T08:43:24+00:00",
+        "retained": 16,
+        "last_success": "2026-11-27T21:24:07+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1829,7 +1892,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-27T08:43:25+00:00",
+        "last_success": "2026-11-27T21:24:07+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1837,7 +1900,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-27T08:43:26+00:00",
+        "last_success": "2026-11-27T21:24:09+00:00",
         "fallback": false
       }
     }

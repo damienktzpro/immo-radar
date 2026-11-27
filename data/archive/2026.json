@@ -1,7 +1,7 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-27T08:44:01+00:00",
+  "generated_at": "2026-11-27T21:24:37+00:00",
   "items": [
     {
       "id": "5a2c62f5e3d75aa7",
@@ -27,7 +27,7 @@
     {
       "id": "d570dac8736b6383",
       "title": "PLF 2027 et location meublée : Qui échapperait au plafonnement ?",
-      "summary": "Nouveau Règlementation",
+      "summary": "Règlementation",
       "url": "https://www.mysweetimmo.com/2026/11/27/plf-2027-et-location-meublee-qui-echapperait-au-plafonnement/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -48,7 +48,7 @@
     {
       "id": "ceac8bddfbbfe290",
       "title": "RENT 2026 : « En immobilier, surtout dans la proptech, il y a eu de la casse et j’en fais partie », Coline Sinquin (Qlower)",
-      "summary": "Nouveau Podcasts",
+      "summary": "Podcasts",
       "url": "https://www.mysweetimmo.com/2026/11/27/coline-sinquin-omedom-liquidation-qlower/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -69,7 +69,7 @@
     {
       "id": "ffd32bf90f62447f",
       "title": "Crise du logement : « J’entends cette colère qui monte », Véronique Bédague (Nexity)",
-      "summary": "Nouveau Politique",
+      "summary": "Politique",
       "url": "https://www.mysweetimmo.com/2026/11/27/crise-logement-colere-veronique-bedague-nexity/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -128,6 +128,27 @@
       "territory": "France",
       "topic": "Investir",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Agents immobiliers : bien conseiller vos clients investisseurs en LMNP."
+    },
+    {
+      "id": "b7cbfbfa48ec11b4",
+      "title": "Immobilier : Le Sénat vote une réforme des plus-values, faut-il vendre avant 2028 ?",
+      "summary": "Politique",
+      "url": "https://www.mysweetimmo.com/2026/11/27/reforme-plus-values-immobilieres-senat-2028/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Le Sénat vote une réforme des plus-values, faut-il vendre avant 2028 ?."
     },
     {
       "id": "c52f0d2d1b4c520f",
@@ -233,6 +254,111 @@
       "territory": "France",
       "topic": "Credit",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets. Point suivi : Taux immobiliers : Pas de flambée, mais pas de répit avant 2027."
+    },
+    {
+      "id": "014b0ceef84f7b96",
+      "title": "Suppression d'emplois",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les travaux publics C'est l'heure de faire les comptes. Batiactu fait le point en chiffres sur l'actualité du BTP et du cadre de vie. 26/11/2026 Capitale européenne de la culture Énergies renouvelables Travaux publics Projet de loi Relance du Logement",
+      "url": "https://www.batiactu.com/edito/suppression-d-emplois-75969.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Suppression d'emplois."
+    },
+    {
+      "id": "773e131c8c754920",
+      "title": "Capitale européenne de la culture",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les travaux publics C'est l'heure de faire les comptes. Batiactu fait le point en chiffres sur l'actualité du BTP et du cadre de vie. 26/11/2026 Suppression d'emplois Énergies renouvelables Travaux publics Projet de loi Relance du Logement",
+      "url": "https://www.batiactu.com/edito/capitale-europeenne-de-la-culture-75969.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Capitale européenne de la culture."
+    },
+    {
+      "id": "367237e9d2303720",
+      "title": "Énergies renouvelables",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les travaux publics C'est l'heure de faire les comptes. Batiactu fait le point en chiffres sur l'actualité du BTP et du cadre de vie. 26/11/2026 Suppression d'emplois Capitale européenne de la culture Travaux publics Projet de loi Relance du Logement",
+      "url": "https://www.batiactu.com/edito/energies-renouvelables-75969.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Énergies renouvelables."
+    },
+    {
+      "id": "6bf5f48bec215c47",
+      "title": "Travaux publics",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les travaux publics C'est l'heure de faire les comptes. Batiactu fait le point en chiffres sur l'actualité du BTP et du cadre de vie. 26/11/2026 Suppression d'emplois Capitale européenne de la culture Énergies renouvelables Projet de loi Relance du Logement",
+      "url": "https://www.batiactu.com/edito/travaux-publics-75969.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Travaux publics."
+    },
+    {
+      "id": "83cc4bc757d85200",
+      "title": "Projet de loi Relance du Logement",
+      "summary": "Chronique Des chiffres, l'actu : cette semaine, facture salée pour les travaux publics C'est l'heure de faire les comptes. Batiactu fait le point en chiffres sur l'actualité du BTP et du cadre de vie. 26/11/2026 Suppression d'emplois Capitale européenne de la culture Énergies renouvelables Travaux publics",
+      "url": "https://www.batiactu.com/edito/projet-de-loi-relance-du-logement-75969.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Projet de loi Relance du Logement."
     },
     {
       "id": "808fe55fa74457b1",
@@ -2125,7 +2251,7 @@
     {
       "id": "ac2084be39e74a25",
       "title": "Bois et béton habillent une tour de logements étudiants au sud de Paris",
-      "summary": "13/11/2026 Des chiffres, l'actu : cette semaine, facture salée pour les précaires énergétiques 12/11/2026",
+      "summary": "Avant/Après : Un cocon de 25 m² doté de 4 couchages dans le 12e 13/11/2026 13/11/2026",
       "url": "https://www.batiactu.com/edito/bois-et-beton-habillent-tour-logements-etudiants-au-75851.php",
       "source": "Batiactu",
       "source_level": "C",
@@ -2142,6 +2268,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Bois et béton habillent une tour de logements étudiants au sud de Paris."
+    },
+    {
+      "id": "ed1523af917547ef",
+      "title": "Avant/Après : Un cocon de 25 m² doté de 4 couchages dans le 12e",
+      "summary": "13/11/2026 Bois et béton habillent une tour de logements étudiants au sud de Paris 13/11/2026",
+      "url": "https://www.batiactu.com/edito/avant-apres-un-cocon-25-m-dote-4-couchages-dans-12e-75857.php",
+      "source": "Batiactu",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-13T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Avant/Après : Un cocon de 25 m² doté de 4 couchages dans le 12e."
     },
     {
       "id": "c441557ba59a3f44",
