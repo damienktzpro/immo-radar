@@ -1,7 +1,133 @@
 {
-  "generated_at": "2026-11-26T21:39:42+00:00",
+  "generated_at": "2026-11-27T08:43:27+00:00",
   "version": "7.1",
   "items": [
+    {
+      "id": "5a2c62f5e3d75aa7",
+      "title": "Construction de logements : résultats à fin octobre 2026 (France entière)",
+      "summary": "Les données sont issues de la base Sitadel et proviennent des formulaires de demandes d’autorisations d’urbanisme (DAU) traités par les centres instructeurs. Les mouvements relatifs à la vie du permis (dépôts, autorisations, annulations, modificatifs, mises en chantier, achèvements des travaux) sont exploités à des fins statistiques. Les indicateurs statistiques sur les logements issus des DAU sont produits mensuellement par le service des données et études statistiques (SDES) et comportent : À compter de mars 2026, les données sur…",
+      "url": "https://www.statistiques.developpement-durable.gouv.fr/construction-de-logements-resultats-fin-octobre-2026-france-entiere?rubrique=&dossier=1047",
+      "source": "SDES / Sitadel",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-27T09:00:00+00:00",
+      "status": "Donnée officielle",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Construction",
+      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin octobre 2026 (France entière)."
+    },
+    {
+      "id": "d570dac8736b6383",
+      "title": "PLF 2027 et location meublée : Qui échapperait au plafonnement ?",
+      "summary": "Nouveau Règlementation",
+      "url": "https://www.mysweetimmo.com/2026/11/27/plf-2027-et-location-meublee-qui-echapperait-au-plafonnement/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 76,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Lois",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : PLF 2027 et location meublée : Qui échapperait au plafonnement ?."
+    },
+    {
+      "id": "ceac8bddfbbfe290",
+      "title": "RENT 2026 : « En immobilier, surtout dans la proptech, il y a eu de la casse et j’en fais partie », Coline Sinquin (Qlower)",
+      "summary": "Nouveau Podcasts",
+      "url": "https://www.mysweetimmo.com/2026/11/27/coline-sinquin-omedom-liquidation-qlower/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : RENT 2026 : « En immobilier, surtout dans la proptech, il y a eu de la casse et j’en fais partie », Coline Sinquin (Qlower)."
+    },
+    {
+      "id": "ffd32bf90f62447f",
+      "title": "Crise du logement : « J’entends cette colère qui monte », Véronique Bédague (Nexity)",
+      "summary": "Nouveau Politique",
+      "url": "https://www.mysweetimmo.com/2026/11/27/crise-logement-colere-veronique-bedague-nexity/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Crise du logement : « J’entends cette colère qui monte », Véronique Bédague (Nexity)."
+    },
+    {
+      "id": "b5f65020952f30e7",
+      "title": "Gepetto : le studio photo IA des professionnels de l’immobilier",
+      "summary": "Le 27/11/2026 à 00H00 Le fondateur et le pitchGepetto a été lancé en février 2023 et créé par Simon et David Brami. Le constat de départ est simple : une annonce se joue sur ses photos. Or un salon vide, une chambre encombrée ou un ciel gris desservent le bien. Le home staging physique coûte cher, et refaire les […] Agents immobiliers : bien conseiller vos clients investisseurs en LMNP Le 27/11/2026 à 00H00 En tant qu'agents i",
+      "url": "https://www.journaldelagence.com/1414882-gepetto-le-studio-photo-ia-des-professionnels-de-limmobilier",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "investir",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-11-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Investir",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Gepetto : le studio photo IA des professionnels de l’immobilier."
+    },
+    {
+      "id": "1fbe63cc2202cfa3",
+      "title": "Agents immobiliers : bien conseiller vos clients investisseurs en LMNP",
+      "summary": "Le 27/11/2026 à 00H00 En tant qu'agents immobiliers, conseiller efficacement vos clients investisseurs en LMNP est devenu un atout majeur. La réussite de leur projet dépend souvent d'un accompagnement comptable rigoureux et adapté. Face à la complexité fiscale du Loueur en Meublé Non Professionnel, choisir le bon partenaire est essentiel. Comment convaincre un vendeur du prix de marché ? Le 27/11/2026 à 00H00 Acheteurs plus sé",
+      "url": "https://www.journaldelagence.com/1414842-agents-immobiliers-bien-conseiller-vos-clients-investisseurs-en-lmnp",
+      "source": "Journal de l'Agence",
+      "source_level": "C",
+      "category": "investir",
+      "audiences": [
+        "investisseur",
+        "pro",
+        "particulier"
+      ],
+      "published_at": "2026-11-27T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Investir",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution fiscale peut modifier le coût de détention, d’acquisition ou de cession et doit être intégrée au calcul net. Point suivi : Agents immobiliers : bien conseiller vos clients investisseurs en LMNP."
+    },
     {
       "id": "c52f0d2d1b4c520f",
       "title": "Location meublée : des loyers en moyenne 10 % plus élevés que dans la location nue",
@@ -22,6 +148,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Location meublée : des loyers en moyenne 10 % plus élevés que dans la location nue."
+    },
+    {
+      "id": "e2929f4f003a3fcd",
+      "title": "Taux immobiliers : Pas de flambée, mais pas de répit avant 2027",
+      "summary": "Investir / Financer",
+      "url": "https://www.mysweetimmo.com/2026/11/26/taux-immobiliers-pas-de-flambee-mais-pas-de-repit-avant-2027/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "credit",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-26T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Credit",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le financement détermine directement le pouvoir d’achat immobilier et la faisabilité des projets. Point suivi : Taux immobiliers : Pas de flambée, mais pas de répit avant 2027."
     },
     {
       "id": "1da0404f8c75a236",
@@ -108,27 +255,6 @@
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Deux journées d’échanges pour les directrices et directeurs du réseau ANIL/ADIL."
     },
     {
-      "id": "f4df9f84fb6305bb",
-      "title": "Immobilier : Les prix baissent en France, mais acheter coûte-t-il vraiment moins cher ?",
-      "summary": "Marché immobilier",
-      "url": "https://www.mysweetimmo.com/2026/11/25/prix-immobilier-france-baisse-taux-credit-2026/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-25T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Les prix baissent en France, mais acheter coûte-t-il vraiment moins cher ?."
-    },
-    {
       "id": "696c218ad2e7eabc",
       "title": "RENT 2026 : « Il va y avoir du tri dans les agences immobilières », David Dos Reis (DDR)",
       "summary": "Pros de l’immo",
@@ -190,6 +316,27 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Immobilier : Qui sont ces acheteurs qui dépensent plus de 3 millions à Paris ?."
+    },
+    {
+      "id": "f4df9f84fb6305bb",
+      "title": "Immobilier : Les prix baissent en France, mais acheter coûte-t-il vraiment moins cher ?",
+      "summary": "Consultez la publication source pour les informations détaillées.",
+      "url": "https://www.mysweetimmo.com/2026/11/25/prix-immobilier-france-baisse-taux-credit-2026/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-25T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Les prix baissent en France, mais acheter coûte-t-il vraiment moins cher ?."
     },
     {
       "id": "a79b2826e502bf59",
@@ -298,27 +445,6 @@
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Nouvelle analyse juridique : Rétablir la confiance dans les rapports locatifs."
     },
     {
-      "id": "a562658cddac66fc",
-      "title": "Agent immobilier : 7 leçons du RENT pour réussir en 2027",
-      "summary": "Pros de l’immo",
-      "url": "https://www.mysweetimmo.com/2026/11/24/immobilier-2027-lecons-rent/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-24T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : Agent immobilier : 7 leçons du RENT pour réussir en 2027."
-    },
-    {
       "id": "5f2435661776782a",
       "title": "Webinaire mandat immobilier : 5 erreurs qui coûtent la commission",
       "summary": "Un mandat mal signé peut vous coûter toute une commission. Le 3 décembre à 12 h, Expertimo vous donne rendez-vous avec Maître Cyril Sabatié pour sécuriser vos honoraires. Contenu sponsorisé par expertimo",
@@ -342,7 +468,7 @@
     {
       "id": "e1b4566b809f63c2",
       "title": "Immobilier : Le projet de loi logement est adopté, l’interdiction de louer les passoires thermiques reste en vigueur pour l’instant",
-      "summary": "Règlementation",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/24/loi-logement-adoptee-assemblee-dpe/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -363,7 +489,7 @@
     {
       "id": "f9f42c146d3827b9",
       "title": "Immobilier à Paris : Les prix baissent, combien vaut le mètre carré dans votre arrondissement ?",
-      "summary": "Marché immobilier",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/24/prix-immobilier-paris-arrondissements-t3-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -737,69 +863,6 @@
       "why_it_matters": "Source institutionnelle. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Fiscalité locative : quel avenir pour les régimes de location nue et meublée ?."
     },
     {
-      "id": "16a1b6fef13b0aee",
-      "title": "Immobilier : L’encadrement des loyers prolongé jusqu’en 2028, ce qui change",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/11/19/encadrement-loyers-prolonge-deux-ans/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-19T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : Immobilier : L’encadrement des loyers prolongé jusqu’en 2028, ce qui change."
-    },
-    {
-      "id": "c8276ef5c1d894fc",
-      "title": "Immobilier : Le crédit inquiète, la confiance des Français décroche",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/11/19/marche-immobilier-pessimisme-francais/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-19T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Le coût et l’accès au crédit peuvent modifier immédiatement la mensualité, le budget d’achat et la solvabilité des acquéreurs. Point suivi : Immobilier : Le crédit inquiète, la confiance des Français décroche."
-    },
-    {
-      "id": "72d10bbbd9cc2959",
-      "title": "DPE : Pourra-t-on bientôt relouer un logement classé G ?",
-      "summary": "Consultez la publication source pour les informations détaillées.",
-      "url": "https://www.mysweetimmo.com/2026/11/19/dpe-pourra-t-on-bientot-relouer-un-logement-classe-g/",
-      "source": "MySweetImmo",
-      "source_level": "C",
-      "category": "marche",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-19T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 73,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : DPE : Pourra-t-on bientôt relouer un logement classé G ?."
-    },
-    {
       "id": "82a934d44ed3f155",
       "title": "Location des passoires thermiques : un vote surprise qui pourrait tout changer",
       "summary": "Le 19/11/2026 à 10H22 Coup de théâtre à l’Assemblée nationale ! Le 17 novembre, les députés ont adopté un amendement visant à supprimer les interdictions de location liées au diagnostic de performance énergétique (DPE). Une décision majeure pour le marché locatif et les professionnels de la gestion immobilière, qui reste toutefois à confirmer au cours du processus législatif. « SeLoger enregistre 40 % de demandes de contact en",
@@ -818,27 +881,6 @@
       "territory": "France",
       "topic": "Pro",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Les obligations énergétiques peuvent affecter les travaux, la valeur du bien, sa location et son calendrier de mise en conformité. Point suivi : Location des passoires thermiques : un vote surprise qui pourrait tout changer."
-    },
-    {
-      "id": "3470ca32c62d5628",
-      "title": "« SeLoger enregistre 40 % de demandes de contact en plus sur un an », Baptiste Capron",
-      "summary": "Le 19/11/2026 à 08H00 Dans un marché immobilier toujours fragile, SeLoger tire son épingle du jeu. Contacts en hausse, stratégie de proximité renforcée, investissements dans l’IA… Au salon RENT, Baptiste Capron, directeur général du groupe, est revenu, pour le Journal de l’Agence, sur les leviers de cette dynamique et les nouveautés attendues en 2027. Projet de loi logement : Vincent Jeanbrun défend son « choc de l’offre » dev",
-      "url": "https://www.journaldelagence.com/1414800-seloger-enregistre-40-de-demandes-de-contact-en-plus-sur-un-an-baptiste-capron",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-19T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : « SeLoger enregistre 40 % de demandes de contact en plus sur un an », Baptiste Capron."
     },
     {
       "id": "0f2e802327a43b2c",
@@ -860,27 +902,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source institutionnelle. Cette information aide à lire les prix, la demande, l’offre ou le niveau d’activité du marché. Point suivi : Journée contre la précarité énergétique : les ADIL mobilisées partout en France."
-    },
-    {
-      "id": "cc54e0ec834af727",
-      "title": "Projet de loi logement : Vincent Jeanbrun défend son « choc de l’offre » devant les députés",
-      "summary": "Le 18/11/2026 à 08H00 Après son adoption au Sénat en juillet et son examen en commission à l’Assemblée nationale, le projet de loi visant la relance et la décentralisation du logement est débattu dans l’hémicycle depuis ce lundi 16 novembre. Face à plus de 1 100 amendements, Vincent Jeanbrun défend un texte destiné à relancer la construction, l’investissement et la rénovation, tout en donnant davantage de latitude aux élus loc",
-      "url": "https://www.journaldelagence.com/1414786-projet-de-loi-logement-vincent-jeanbrun-defend-son-choc-de-loffre-devant-les-deputes",
-      "source": "Journal de l'Agence",
-      "source_level": "C",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-18T09:00:00+00:00",
-      "status": "Publication",
-      "importance": 76,
-      "relevance": 73,
-      "territory": "France",
-      "topic": "Lois",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Projet de loi logement : Vincent Jeanbrun défend son « choc de l’offre » devant les députés."
     },
     {
       "id": "d8767a7c45927459",
@@ -1089,28 +1110,6 @@
       "territory": "France",
       "topic": "Lois",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Cette évolution peut modifier les règles applicables aux propriétaires, locataires, investisseurs ou professionnels. Point suivi : Analyse Crise du logement : le projet de loi du gouvernement entre dans sa dernière ligne droite."
-    },
-    {
-      "id": "74c649dcf8c983fa",
-      "title": "Arrêté du 4 novembre 2026 portant approbation des radiateurs numériques à récupération de chaleur fatale issue d'équipements informatiques dans la méthode de calcul prévue à l'article R. 172-6 du code de la construction et de l'habitation",
-      "summary": "Texte officiel concernant la construction, les professionnels du secteur ou le Code de la construction et de l’habitation.",
-      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055088913",
-      "source": "Légifrance",
-      "source_level": "A",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-11-15T00:00:00+00:00",
-      "status": "Publié au JORF",
-      "importance": 91,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Construction / Réglementation",
-      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Arrêté du 4 novembre 2026 portant approbation des radiateurs numériques à récupération de chaleur fatale issue d'équipements in….",
-      "legal_stage": "jorf"
     },
     {
       "id": "2c77732d8e77d336",
@@ -1363,27 +1362,6 @@
       "territory": "France",
       "topic": "Marche",
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Marché US : plusieurs groupes immobiliers s’associent pour lancer Open Real Estate et garantir la transparence des annonces imm…."
-    },
-    {
-      "id": "f057fd123029dc20",
-      "title": "Construction de logements : résultats à fin septembre 2026 (France entière)",
-      "summary": "Les données sont issues de la base Sitadel et proviennent des formulaires de demandes d’autorisations d’urbanisme (DAU) traités par les centres instructeurs. Les mouvements relatifs à la vie du permis (dépôts, autorisations, annulations, modificatifs, mises en chantier, achèvements des travaux) sont exploités à des fins statistiques. Les indicateurs statistiques sur les logements issus des DAU sont produits mensuellement par le service des données et études statistiques (SDES) et comportent : À compter de mars 2026, les données sur…",
-      "url": "https://www.statistiques.developpement-durable.gouv.fr/construction-de-logements-resultats-fin-septembre-2026-france-entiere?rubrique=&dossier=1047",
-      "source": "SDES / Sitadel",
-      "source_level": "A",
-      "category": "lois",
-      "audiences": [
-        "particulier",
-        "investisseur",
-        "pro"
-      ],
-      "published_at": "2026-10-28T09:00:00+00:00",
-      "status": "Donnée officielle",
-      "importance": 91,
-      "relevance": 88,
-      "territory": "France",
-      "topic": "Construction",
-      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Construction de logements : résultats à fin septembre 2026 (France entière)."
     },
     {
       "id": "d25d2e2bee230fde",
@@ -1722,13 +1700,13 @@
     }
   ],
   "source_stats": {
-    "ANIL": 14,
-    "Journal de l'Agence": 16,
-    "MySweetImmo": 16,
-    "Batiactu": 12,
-    "Légifrance": 2,
-    "Immobilier 2.0": 15,
     "SDES / Sitadel": 1,
+    "MySweetImmo": 16,
+    "Journal de l'Agence": 16,
+    "ANIL": 14,
+    "Batiactu": 12,
+    "Légifrance": 1,
+    "Immobilier 2.0": 15,
     "Horiz.io": 2,
     "Insee": 1,
     "EUR-Lex": 1,
@@ -1739,15 +1717,15 @@
     "sources_ok": 15,
     "sources_degraded": 0,
     "errors": 0,
-    "retained": 82,
-    "rejected": 1376,
+    "retained": 81,
+    "rejected": 1430,
     "by_source": {
       "Service-Public.fr": {
         "level": "A",
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-26T21:38:53+00:00",
+        "last_success": "2026-11-27T08:42:34+00:00",
         "fallback": false
       },
       "Banque de France": {
@@ -1755,7 +1733,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-26T21:38:56+00:00",
+        "last_success": "2026-11-27T08:42:36+00:00",
         "fallback": false
       },
       "Insee": {
@@ -1763,7 +1741,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-26T21:38:58+00:00",
+        "last_success": "2026-11-27T08:42:37+00:00",
         "fallback": false
       },
       "SDES / Sitadel": {
@@ -1771,7 +1749,7 @@
         "ok": true,
         "status": "ok",
         "retained": 1,
-        "last_success": "2026-11-26T21:38:59+00:00",
+        "last_success": "2026-11-27T08:42:38+00:00",
         "fallback": false
       },
       "Sénat / DOSLEG": {
@@ -1779,15 +1757,15 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-26T21:39:18+00:00",
+        "last_success": "2026-11-27T08:43:04+00:00",
         "fallback": false
       },
       "Légifrance": {
         "level": "A",
         "ok": true,
         "status": "ok",
-        "retained": 2,
-        "last_success": "2026-11-26T21:39:31+00:00",
+        "retained": 1,
+        "last_success": "2026-11-27T08:43:17+00:00",
         "fallback": false
       },
       "EUR-Lex": {
@@ -1795,7 +1773,7 @@
         "ok": true,
         "status": "ok",
         "retained": 2,
-        "last_success": "2026-11-26T21:39:31+00:00",
+        "last_success": "2026-11-27T08:43:17+00:00",
         "fallback": false
       },
       "ANIL": {
@@ -1803,7 +1781,7 @@
         "ok": true,
         "status": "ok",
         "retained": 14,
-        "last_success": "2026-11-26T21:39:32+00:00",
+        "last_success": "2026-11-27T08:43:18+00:00",
         "fallback": false
       },
       "Notaires de France": {
@@ -1811,7 +1789,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-26T21:39:33+00:00",
+        "last_success": "2026-11-27T08:43:18+00:00",
         "fallback": false
       },
       "MySweetImmo": {
@@ -1819,7 +1797,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-26T21:39:34+00:00",
+        "last_success": "2026-11-27T08:43:20+00:00",
         "fallback": false
       },
       "Immo Matin": {
@@ -1827,7 +1805,7 @@
         "ok": true,
         "status": "empty",
         "retained": 0,
-        "last_success": "2026-11-26T21:39:35+00:00",
+        "last_success": "2026-11-27T08:43:21+00:00",
         "fallback": false
       },
       "Journal de l'Agence": {
@@ -1835,7 +1813,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-26T21:39:36+00:00",
+        "last_success": "2026-11-27T08:43:23+00:00",
         "fallback": false
       },
       "Batiactu": {
@@ -1843,7 +1821,7 @@
         "ok": true,
         "status": "ok",
         "retained": 12,
-        "last_success": "2026-11-26T21:39:38+00:00",
+        "last_success": "2026-11-27T08:43:24+00:00",
         "fallback": false
       },
       "Immobilier 2.0": {
@@ -1851,7 +1829,7 @@
         "ok": true,
         "status": "ok",
         "retained": 16,
-        "last_success": "2026-11-26T21:39:39+00:00",
+        "last_success": "2026-11-27T08:43:25+00:00",
         "fallback": false
       },
       "Horiz.io": {
@@ -1859,7 +1837,7 @@
         "ok": true,
         "status": "ok",
         "retained": 3,
-        "last_success": "2026-11-26T21:39:41+00:00",
+        "last_success": "2026-11-27T08:43:26+00:00",
         "fallback": false
       }
     }
