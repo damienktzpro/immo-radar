@@ -1,8 +1,51 @@
 {
   "version": "7.1",
   "scope": "Archive 2026 constituée progressivement à partir des collectes du Radar. Le backfill manuel est best-effort et n’est pas présenté comme exhaustif.",
-  "generated_at": "2026-11-27T21:24:37+00:00",
+  "generated_at": "2026-11-28T07:57:16+00:00",
   "items": [
+    {
+      "id": "44cefb2cc9fdecd2",
+      "title": "Immobilier : Combien faut-il gagner pour acheter un appartement de 75 m² dans les grandes villes ?",
+      "summary": "Marché immobilier",
+      "url": "https://www.mysweetimmo.com/2026/11/28/immobilier-salaire-acheter-75-m2-grandes-villes/",
+      "source": "MySweetImmo",
+      "source_level": "C",
+      "category": "marche",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-28T09:00:00+00:00",
+      "status": "Publication",
+      "importance": 73,
+      "relevance": 73,
+      "territory": "France",
+      "topic": "Marche",
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce signal aide à situer le rapport de force entre acheteurs et vendeurs et à calibrer une négociation. Point suivi : Immobilier : Combien faut-il gagner pour acheter un appartement de 75 m² dans les grandes villes ?."
+    },
+    {
+      "id": "031bac8773a1d9f0",
+      "title": "Décret n° 2025-872 du 1er septembre 2025 fixant la valeur du seuil mentionné au 2° du IV de l'article R. 302-14 du code de la construction et de l'habitation pour la période triennale 2026-2028 (rectificatif)",
+      "summary": "Texte officiel concernant la construction, les professionnels du secteur ou le Code de la construction et de l’habitation.",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055159292",
+      "source": "Légifrance",
+      "source_level": "A",
+      "category": "lois",
+      "audiences": [
+        "particulier",
+        "investisseur",
+        "pro"
+      ],
+      "published_at": "2026-11-28T00:00:00+00:00",
+      "status": "Publié au JORF",
+      "importance": 91,
+      "relevance": 88,
+      "territory": "France",
+      "topic": "Construction / Réglementation",
+      "why_it_matters": "Source officielle. L’évolution de la construction renseigne sur l’offre future et peut renforcer ou détendre les marchés locaux. Point suivi : Décret n° 2025-872 du 1er septembre 2025 fixant la valeur du seuil mentionné au 2° du IV de l'article R. 302-14 du code de la c….",
+      "legal_stage": "jorf"
+    },
     {
       "id": "5a2c62f5e3d75aa7",
       "title": "Construction de logements : résultats à fin octobre 2026 (France entière)",
@@ -46,9 +89,9 @@
       "why_it_matters": "Source éditoriale immobilière sélectionnée. Le niveau de loyer et les règles bailleur-locataire influencent directement le budget du locataire et la rentabilité du propriétaire. Point suivi : PLF 2027 et location meublée : Qui échapperait au plafonnement ?."
     },
     {
-      "id": "ceac8bddfbbfe290",
-      "title": "RENT 2026 : « En immobilier, surtout dans la proptech, il y a eu de la casse et j’en fais partie », Coline Sinquin (Qlower)",
-      "summary": "Podcasts",
+      "id": "0f9555f5321868cf",
+      "title": "RENT 2026 : « En immobilier, surtout dans la proptech, il y a eu de la casse et j’en fais partie » Coline Sinquin (Qlower)",
+      "summary": "Consultez la publication source pour les informations détaillées.",
       "url": "https://www.mysweetimmo.com/2026/11/27/coline-sinquin-omedom-liquidation-qlower/",
       "source": "MySweetImmo",
       "source_level": "C",
@@ -64,7 +107,7 @@
       "relevance": 73,
       "territory": "France",
       "topic": "Marche",
-      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : RENT 2026 : « En immobilier, surtout dans la proptech, il y a eu de la casse et j’en fais partie », Coline Sinquin (Qlower)."
+      "why_it_matters": "Source éditoriale immobilière sélectionnée. Ce changement peut modifier les outils, les obligations ou l’organisation commerciale des professionnels de l’immobilier. Point suivi : RENT 2026 : « En immobilier, surtout dans la proptech, il y a eu de la casse et j’en fais partie » Coline Sinquin (Qlower)."
     },
     {
       "id": "ffd32bf90f62447f",
@@ -384,7 +427,7 @@
     {
       "id": "f4df9f84fb6305bb",
       "title": "Immobilier : Les prix baissent en France, mais acheter coûte-t-il vraiment moins cher ?",
-      "summary": "Consultez la publication source pour les informations détaillées.",
+      "summary": "Marché immobilier",
       "url": "https://www.mysweetimmo.com/2026/11/25/prix-immobilier-france-baisse-taux-credit-2026/",
       "source": "MySweetImmo",
       "source_level": "C",
